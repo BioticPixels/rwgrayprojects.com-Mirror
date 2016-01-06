@@ -16,13 +16,17 @@
 
 # Robert W. Gray's Buckminster Fuller Notes
 
-![](./images/dymaxion.gif)
+> *Mirrorer Note: The [original images](../original/rbfnotes/maps/images/dymaxion.gif) was a gif.*
+
+![](./images/dymaxion.png)
 
 ## Notes to Fuller's World Maps
 
 Because of the amount of information I have accumulated on Fuller's world maps, particularly the [regular] icosahedron based map, I have divide the information into many different parts. But first, here is an example of Fuller's Icosahedron based world map (sometime referred to as the Dymaxion<sup>TM</sup> map. [([Dymaxion Map](https://en.wikipedia.org/wiki/Dymaxion_map "Dymaxion Map wikipedia.org"))] )
 
-![](./images/fmap1.gif)
+> *Mirrorer Note: The [original images](../original/rbfnotes/maps/images/fmap1.gif) was a gif.*
+
+![](./images/fmap1.png)
 
 *Disclaimer:  
 The word Dymaxion and the Fuller Projection Dymaxion<sup>TM</sup> Map design are trademarks of the Buckminster Fuller Institute [([Buckminster Fuller Institute](https://bfi.org/ "Buckminster Fuller Institute bfi.org"))], Santa Barbara, California, (c) 1938, 1967 & 1992. All rights reserved.  
