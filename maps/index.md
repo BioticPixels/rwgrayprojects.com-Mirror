@@ -4,7 +4,7 @@
 
 <hr>
 
-[Table of Contents](../table_of_contents.html "Table of Contects") | [Home](http://www.rwgrayprojects.com "rwgrayprojects.com") | [README](../README.md "README.md")
+[Table of Contents](../table_of_contents.md "Table of Contents") | [Home](../index.md "Home") | [README](../README.md "README.md")
 
 <hr>
 
@@ -39,7 +39,7 @@ to choose
 
 <hr>
 
-[Table of Contents](../table_of_contents.html "Table of Contents") | [Home](http://www.rwgrayprojects.com) | [README](../README.md "README.md")
+[Table of Contents](../table_of_contents.md "Table of Contents") | [Home](../index.md "Home") | [README](../README.md "README.md")
 
 <hr>
 
