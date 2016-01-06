@@ -4,7 +4,7 @@
 
 <hr>
 
-[Table of Contents](../table_of_contents.md "Table of Contents") | [Home](../index.md "Home") | [README](../README.md "README.md")
+[Home](../index.md "Home") | [README](../README.md "README.md") | [Table of Contents](../table_of_contents.md "Table of Contents")
 
 <hr>
 
@@ -39,7 +39,7 @@ to choose
 
 <hr>
 
-[Table of Contents](../table_of_contents.md "Table of Contents") | [Home](../index.md "Home") | [README](../README.md "README.md")
+[Home](../index.md "Home") | [README](../README.md "README.md") | [Table of Contents](../table_of_contents.md "Table of Contents")
 
 <hr>
 
