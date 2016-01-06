@@ -1,6 +1,6 @@
 <!-- Date: 6 January 2016 16:27:47 -->
 
-> *Mirrorer Note:*
+> *Mirrorer Note:*  
 > *Mirror of [http://www.rwgrayprojects.com/rbfnotes/maps/graymap2.html](http://www.rwgrayprojects.com/rbfnotes/maps/graymap2.html), the website of Robert W. Gray.*
 
 > *Mirrorer Note:*  
