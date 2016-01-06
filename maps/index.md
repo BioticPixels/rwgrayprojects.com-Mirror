@@ -19,7 +19,7 @@ You can contact the BFI at [bfi@aol.com](mailto:bfi@aol.com).
 
 I have published 2 papers on Fuller's maps. The references are:
 
-1. Gray, Robert W., Fuller's Dymaxion^TM Map, *Cartography and Geographic Information Systems*, 21(4): 243-246, 1994.
+1. Gray, Robert W., Fuller's Dymaxion<sup>TM</sup> Map, *Cartography and Geographic Information Systems*, 21(4): 243-246, 1994.
 1. Gray, Robert W., [Exact Transformation Equations For Fuller's World Map](http://www.utpjournals.press/doi/abs/10.3138/1677-3273-Q862-1885 "University of Toronto Press utpjournals.press"), *Cartographica*, 32(3): 17-25, 1995. 
 
 Here is a list of various information on Fuller's map from which
