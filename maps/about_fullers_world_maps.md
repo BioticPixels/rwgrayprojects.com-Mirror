@@ -16,8 +16,9 @@ In almost every book about R. Buckminster (Bucky) Fuller, and several books by B
 
 ![](./images/fmap2.gif)
 
-The word Dymaxion and the Fuller Projection Dymaxion<sup>TM</sup> Map design are trademarks of the Buckminster Fuller Institute, Santa Barbara, California, (c) 1938, 1967 & 1992. All rights reserved. You can contact the BFI at [bfi@aol.com](mailto:bfi@aol.com).
-Phone: (805) 962-0022, Address: 2040 Alameda Padre Serra, Suite 224, Santa Barbara, CA 93103.
+*Disclaimer:  
+The word Dymaxion and the Fuller Projection Dymaxion<sup>TM</sup> Map design are trademarks of the Buckminster Fuller Institute, Santa Barbara, California, (c) 1938, 1967 & 1992. All rights reserved. You can contact the BFI at [bfi@aol.com](mailto:bfi@aol.com).  
+Phone: (805) 962-0022, Address: 2040 Alameda Padre Serra, Suite 224, Santa Barbara, CA 93103.*
 
 Here is the same world map with a longitude latitude grid. (The quality of these images are not as sharp as I would like but I think you'll at least get the general idea).
 
