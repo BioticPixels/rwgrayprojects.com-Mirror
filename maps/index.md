@@ -36,12 +36,12 @@ I have published 2 papers on Fuller's maps. The references are:
 Here is a list of various information on Fuller's map from which
 to choose
 
-- [General info about Fuller's map.](graymap2.html)
-- [Different approaches to the transformation problem.](graymapa.html)
-- [Area distortion of the map.](graymap3.html)
-- [Coordinates for icosahedron the orientation](graymap4.html)
-- [C language source code for Longitude-Latitude to xy-coordinate transformation.](graymap6.html) 
-- [Visual comparison of Fuller's map to the Gnomonic and Snyder's equal area projections.](graymap7.html)
+- [General information about Fuller's map](graymap2.html).
+- [Different approaches to the transformation problem](graymapa.html).
+- [Area distortion of the map](graymap3.html).
+- [Coordinates for icosahedron the orientation](graymap4.html).
+- [C language source code for Longitude-Latitude to xy-coordinate transformation](graymap6.html).
+- [Visual comparison of Fuller's map to the Gnomonic and Snyder's equal area projections](graymap7.html).
 
 <hr>
 
