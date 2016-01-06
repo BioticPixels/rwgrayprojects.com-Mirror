@@ -18,8 +18,9 @@ Because of the amount of information I have accumulated on Fuller's world maps, 
 
 ![](./images/fmap1.gif)
 
-The word Dymaxion and the Fuller Projection Dymaxion<sup>TM</sup> Map design are trademarks of the Buckminster Fuller Institute, Santa Barbara, California, (c) 1938, 1967 & 1992. All rights reserved.
-You can contact the BFI at [bfi@aol.com](mailto:bfi@aol.com).
+*Disclaimer:  
+The word Dymaxion and the Fuller Projection Dymaxion<sup>TM</sup> Map design are trademarks of the Buckminster Fuller Institute, Santa Barbara, California, (c) 1938, 1967 & 1992. All rights reserved.  
+You can contact the BFI at [bfi@aol.com](mailto:bfi@aol.com).*
 
 I have published 2 papers on Fuller's maps. The references are:
 
