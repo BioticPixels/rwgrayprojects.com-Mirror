@@ -42,6 +42,6 @@ Note that no mention has been made as to where the North pole nor the South pole
 
 <hr>
 
-Usage Note: My work is copyrighted. You may use my work but you may *not* include my work, or parts of it, in *any*for-profit project without my consent.
+Usage Note: My work is copyrighted. You may use my work but you may *not* include my work, or parts of it, in *any* for-profit project without my consent.
 
 [rwgray@rwgrayprojects.com](mailto:rwgray@rwgrayprojects.com)
