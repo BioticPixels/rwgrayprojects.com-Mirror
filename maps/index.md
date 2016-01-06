@@ -39,7 +39,7 @@ to choose
 
 <hr>
 
-[Table of Contents](../table_of_contents.html "Table of Contents") | [Home](http://www.rwgrayprojects.com)
+[Table of Contents](../table_of_contents.html "Table of Contents") | [Home](http://www.rwgrayprojects.com) | [README](../README.md "README.md")
 
 <hr>
 
