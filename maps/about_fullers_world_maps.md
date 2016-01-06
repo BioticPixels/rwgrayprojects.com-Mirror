@@ -32,6 +32,15 @@ Here is the same world map with a longitude latitude grid. (The quality of these
 
 A color poster of the map constructed from satellite images is available from the Buckminster Fuller Institute. (Some people will argue that this poster is not a *real* satellite image because a *real* satellite image would include cloud cover. So be it. However, the image was constructed from many different satellite images and, yes, color manipulated/enhanced. In any event, the image is impressive).
 
+http://bfi.goodsie.com/dymaxion-map
+
+> *Mirrorer Note:*  
+>
+> *Here is a Dymaxion map poster from the [Buckminster Fuller Institute online store](http://bfi.goodsie.com/dymaxion-map "Buckminster Fuller Institute Store bfi.org"), not the one Grap was referring to though.
+>
+> *And here is a Dymaxion map constructed from satellite images. Again, not the one Gray was referring to, but still good for illustrative purposes. The source of this images is [http://mappinghacks.com/maps/dymaxion.png](http://mappinghacks.com/maps/dymaxion.png).*
+> ![Satellite Dymaxion map](./images/dymaxion.jpg "Satellite Dymaxion Map")
+
 The great idea Fuller had for his "spherical" to plane map transformation was to project the polyhedron onto the sphere and then 'unfold' the spherical triangle (*and* square in the case of the VE) into a plane polygon. Here is an illustration to help visualize this process.
 
 ![](./images/mapfu1.gif)
