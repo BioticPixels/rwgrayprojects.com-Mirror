@@ -20,7 +20,7 @@
 
 ## Notes to Fuller's World Maps
 
-Because of the amount of information I have accumulated on Fuller's world maps, particularly the [regular] icosahedron based map, I have divide the information into many different parts. But first, here is an example of Fuller's Icosahedron based world map (sometime referred to as the Dymaxion<sup>TM</sup> map.)
+Because of the amount of information I have accumulated on Fuller's world maps, particularly the [regular] icosahedron based map, I have divide the information into many different parts. But first, here is an example of Fuller's Icosahedron based world map (sometime referred to as the Dymaxion<sup>TM</sup> map. [([Dymaxion Map](https://en.wikipedia.org/wiki/Dymaxion_map "Dymaxion Map wikipedia.org"))] )
 
 ![](./images/fmap1.gif)
 
