@@ -2,7 +2,11 @@
 
 *Mirror of [http://www.rwgrayprojects.com/rbfnotes/maps/graymap1.html](http://www.rwgrayprojects.com/rbfnotes/maps/graymap1.html), the website of Robert W. Gray.*
 
+<hr>
+
 [Table of Contents](../table_of_contents.html "Table of Contects") | [Home](http://www.rwgrayprojects.com "rwgrayprojects.com")
+
+<hr>
 
 # Robert W. Gray's Buckminster Fuller Notes
 
