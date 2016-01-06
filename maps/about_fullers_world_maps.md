@@ -1,12 +1,13 @@
 <!-- Date: 6 January 2016 16:27:47 -->
 
-*Mirror of [http://www.rwgrayprojects.com/rbfnotes/maps/graymap2.html](http://www.rwgrayprojects.com/rbfnotes/maps/graymap2.html), the website of Robert W. Gray.*
+> *Mirrorer Note:*
+> *Mirror of [http://www.rwgrayprojects.com/rbfnotes/maps/graymap2.html](http://www.rwgrayprojects.com/rbfnotes/maps/graymap2.html), the website of Robert W. Gray.*
 
 > *Mirrorer Note:*  
 > *Any text with in `[]` has been added by the mirrorer, and was not written by Robert W. Gray.*  
 > *Notes by the mirrorer are presented as 'Mirrorer note:' in a block quote, like what you are reading. These provide additional information, including external links.*  
 > *It should be also be noted that the only layout that has been altered is the navigation, everything else will remain the same.*
-> *Read the [README](../README.md "README.md") for more information.
+> *Read the [README](../README.md "README.md") for more information.*
 
 <hr>
 
