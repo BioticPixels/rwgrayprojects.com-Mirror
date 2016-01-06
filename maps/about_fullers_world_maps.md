@@ -18,12 +18,12 @@
 
 ## About Fuller's World Maps
 
-In almost every book about R. Buckminster (Bucky) Fuller [[Buckminster Fuller wikipedia article](https://en.wikipedia.org/wiki/Buckminster_Fuller "Buckminster Fuller wikipedia.org")], and several books by Bucky Fuller, you can find descriptions and illustrations of Fuller's world maps. His most well known world map is based on the [regular] icosahedron [[Regular icosahedron wikipedia article](https://en.wikipedia.org/wiki/Regular_icosahedron "Regular Icosahedron wikipedia.org")]. Here is an image of Fuller's map in which I have removed the interior icosahedron lines.
+In almost every book about R. Buckminster (Bucky) Fuller [([about Buckminster Fuller](https://en.wikipedia.org/wiki/Buckminster_Fuller "Buckminster Fuller wikipedia.org"))], and several books by Bucky Fuller, you can find descriptions and illustrations of Fuller's world maps. His most well known world map is based on the [regular] icosahedron [([Regular icosahedron](https://en.wikipedia.org/wiki/Regular_icosahedron "Regular Icosahedron wikipedia.org"))]. Here is an image of Fuller's map in which I have removed the interior icosahedron lines.
 
 ![](./images/fmap2.gif)
 
 *Disclaimer:  
-The word Dymaxion and the Fuller Projection Dymaxion<sup>TM</sup> Map design are trademarks of the Buckminster Fuller Institute [[Buckminster Fuller Institute](https://bfi.org/ "Buckminster Fuller Institute bfi.org")], Santa Barbara, California, (c) 1938, 1967 & 1992. All rights reserved. You can contact the BFI at [bfi@aol.com](mailto:bfi@aol.com).  
+The word Dymaxion and the Fuller Projection Dymaxion<sup>TM</sup> Map design are trademarks of the Buckminster Fuller Institute [([Buckminster Fuller Institute](https://bfi.org/ "Buckminster Fuller Institute bfi.org"))], Santa Barbara, California, (c) 1938, 1967 & 1992. All rights reserved. You can contact the BFI at [bfi@aol.com](mailto:bfi@aol.com).  
 Phone: (805) 962-0022, Address: 2040 Alameda Padre Serra, Suite 224, Santa Barbara, CA 93103.*
 
 Here is the same world map with a longitude latitude grid. (The quality of these images are not as sharp as I would like but I think you'll at least get the general idea).
