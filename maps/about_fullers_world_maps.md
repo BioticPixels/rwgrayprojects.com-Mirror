@@ -36,8 +36,6 @@ Here is the same world map with a longitude latitude grid. (The quality of these
 
 A color poster of the map constructed from satellite images is available from the Buckminster Fuller Institute. (Some people will argue that this poster is not a *real* satellite image because a *real* satellite image would include cloud cover. So be it. However, the image was constructed from many different satellite images and, yes, color manipulated/enhanced. In any event, the image is impressive).
 
-http://bfi.goodsie.com/dymaxion-map
-
 > *Mirrorer Note:*  
 >
 > *Here is a Dymaxion map poster from the [Buckminster Fuller Institute online store](http://bfi.goodsie.com/dymaxion-map "Buckminster Fuller Institute Store bfi.org"), not the one Grap was referring to though.*
