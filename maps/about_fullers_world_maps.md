@@ -20,7 +20,7 @@
 
 In almost every book about R. Buckminster (Bucky) Fuller [([about Buckminster Fuller](https://en.wikipedia.org/wiki/Buckminster_Fuller "Buckminster Fuller wikipedia.org"))], and several books by Bucky Fuller, you can find descriptions and illustrations of Fuller's world maps. His most well known world map is based on the [regular] icosahedron [([Regular icosahedron](https://en.wikipedia.org/wiki/Regular_icosahedron "Regular Icosahedron wikipedia.org"))]. Here is an image of Fuller's map in which I have removed the interior icosahedron lines.
 
-> *Mirrorer Note: The [original images](../original/rbfnotes/maps/images/fmap2.gif) was a gif.*
+> *Mirrorer Note: The [original image](../original/rbfnotes/maps/images/fmap2.gif) was a gif.*
 
 ![](./images/fmap2.png)
 
@@ -30,7 +30,7 @@ Phone: (805) 962-0022, Address: 2040 Alameda Padre Serra, Suite 224, Santa Barba
 
 Here is the same world map with a longitude latitude grid. (The quality of these images are not as sharp as I would like but I think you'll at least get the general idea).
 
-> *Mirrorer Note: The [original images](../original/rbfnotes/maps/images/fmap3.gif) was a gif.*
+> *Mirrorer Note: The [original image](../original/rbfnotes/maps/images/fmap3.gif) was a gif.*
 
 ![](./images/fmap3.png)
 
@@ -45,7 +45,7 @@ A color poster of the map constructed from satellite images is available from th
 
 The great idea Fuller had for his 'spherical' to plane map transformation was to project the polyhedron onto the sphere and then 'unfold' the spherical triangle (*and* square in the case of the VE) into a plane polygon. Here is an illustration to help visualize this process.
 
-> *Mirrorer Note: The [original images](../original/rbfnotes/maps/images/mapfu1.gif) was a gif.*
+> *Mirrorer Note: The [original image](../original/rbfnotes/maps/images/mapfu1.gif) was a gif.*
 
 ![](./images/mapfu1.png)
 
