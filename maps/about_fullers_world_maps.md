@@ -2,6 +2,11 @@
 
 *Mirror of [http://www.rwgrayprojects.com/rbfnotes/maps/graymap2.html](http://www.rwgrayprojects.com/rbfnotes/maps/graymap2.html), the website of Robert W. Gray.*
 
+> Mirrorer Note:  
+> *Any text with in '[]' has been added by the mirrorer, and was not written by Robert W. Gray.*  
+> *Notes by the mirrorer are presented as 'Mirror note:' in a block quote, like what you are reading. These provide additional information, including external links.*  
+> *It should be also be noted that the only layout that has been altered is the navigation, everything else will remain the same.*
+
 <hr>
 
 [Home](../index.md "Home") | [README](../README.md "README.md") | [Table of Contents](../table_of_contents.md "Table of Contents")
@@ -12,7 +17,7 @@
 
 ## About Fuller's World Maps
 
-In almost every book about R. Buckminster (Bucky) Fuller, and several books by Bucky Fuller, you can find descriptions and illustrations of Fuller's world maps. His most well known world map is based on the icosahedron. Here is an image of Fuller's map in which I have removed the interior icosahedron lines.
+In almost every book about R. Buckminster (Bucky) Fuller, and several books by Bucky Fuller, you can find descriptions and illustrations of Fuller's world maps. His most well known world map is based on the [regular] icosahedron. Here is an image of Fuller's map in which I have removed the interior icosahedron lines.
 
 ![](./images/fmap2.gif)
 
