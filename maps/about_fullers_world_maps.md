@@ -43,6 +43,7 @@ http://bfi.goodsie.com/dymaxion-map
 > *Here is a Dymaxion map poster from the [Buckminster Fuller Institute online store](http://bfi.goodsie.com/dymaxion-map "Buckminster Fuller Institute Store bfi.org"), not the one Grap was referring to though.*
 >
 > *And here is a Dymaxion map constructed from satellite images. Again, not the one Gray was referring to, but still good for illustrative purposes. The source of this images is [http://mappinghacks.com/maps/dymaxion.png](http://mappinghacks.com/maps/dymaxion.png).*
+>
 > ![Satellite Dymaxion map](./images/dymaxion.jpg "Satellite Dymaxion Map")
 
 The great idea Fuller had for his 'spherical' to plane map transformation was to project the polyhedron onto the sphere and then 'unfold' the spherical triangle (*and* square in the case of the VE) into a plane polygon. Here is an illustration to help visualize this process.
@@ -53,6 +54,7 @@ The great idea Fuller had for his 'spherical' to plane map transformation was to
 
 > *Mirrorer Note:*
 > *Here is a stronger visualisation of the projection. The source for this image is [Chris Rywalt uploaded to wikipedia.org](https://en.wikipedia.org/wiki/Dymaxion_map#/media/File:Dymaxion_2003_animation_small1.gif "Dymaxion Animation wikipeidia.org").*
+>
 > ![Dymaxion animation](./images/Dymaxion_2003_animation_small1.gif "Dymaxion Animation")
 
 Further description of a couple of transformation procedures is given in the section [Different approaches to the transformation problem](graymapa.html).
