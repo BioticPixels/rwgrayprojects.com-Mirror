@@ -1,6 +1,6 @@
 <!-- Date: 6 January 2016 16:27:47 -->
 
-*Mirror of [](http://www.rwgrayprojects.com/rbfnotes/maps/graymap2.html), the website of Robert W. Gray.*
+*Mirror of [http://www.rwgrayprojects.com/rbfnotes/maps/graymap2.html](http://www.rwgrayprojects.com/rbfnotes/maps/graymap2.html), the website of Robert W. Gray.*
 
 [Table of Contents](../table_of_contents.html "Table of Contents") | [Home Page](http://www.rwgrayprojects.com)
 
