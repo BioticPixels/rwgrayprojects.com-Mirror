@@ -8,7 +8,7 @@
 
 # rwgrayprojects.com-Mirror
 
-This repository is a mirro of rwgrayprojects.com, [the website of Robert W. Gray](http://www.rwgrayprojects.com/ "rwgrayprojects.com")., converted to markdown from HTML beginning with /rbfnotes/maps.
+This repository is a mirror of rwgrayprojects.com, [the website of Robert W. Gray](http://www.rwgrayprojects.com/ "rwgrayprojects.com")., converted to markdown from HTML beginning with /rbfnotes/maps.
 
 The conversion includes a few formatting tweaks and proof reading. Any additions or subtractionsfrom the text, other than spelling corrections, or images will be clearly marked and access to the originals will be linked. Additionally:
 
