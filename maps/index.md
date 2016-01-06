@@ -1,6 +1,6 @@
 <!-- Date: 6 January 2016 16:06:38 -->
 
-*Mirror of [](http://www.rwgrayprojects.com/rbfnotes/maps/graymap1.html), the website of Robert W. Gray.*
+*Mirror of [http://www.rwgrayprojects.com/rbfnotes/maps/graymap1.html](http://www.rwgrayprojects.com/rbfnotes/maps/graymap1.html), the website of Robert W. Gray.*
 
 [Table of Contents](../table_of_contents.html "Table of Contects") | [Home](http://www.rwgrayprojects.com "rwgrayprojects.com")
 
@@ -32,10 +32,12 @@ to choose
 - [C language source code for Longitude-Latitude to xy-coordinate transformation.](graymap6.html) 
 - [Visual comparison of Fuller's map to the Gnomonic and Snyder's equal area projections.](graymap7.html)
 
+<hr>
+
 [Table of Contents](../table_of_contents.html "Table of Contents") | [Home Page](http://www.rwgrayprojects.com)
 
 <hr>
 
-Usage Note: My work is copyrighted. You may use my work but you may *not* include my work, or parts of it, in *any*for-profit project without my consent.
+Usage Note: My work is copyrighted. You may use my work but you may *not* include my work, or parts of it, in *any* for-profit project without my consent.
 
 [rwgray@rwgrayprojects.com](mailto:rwgray@rwgrayprojects.com)
