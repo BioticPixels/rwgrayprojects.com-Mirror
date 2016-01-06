@@ -10,20 +10,20 @@
 
 In almost every book about R. Buckminster (Bucky) Fuller, and several books by Bucky Fuller, you can find descriptions and illustrations of Fuller's world maps. His most well known world map is based on the icosahedron. Here is an image of Fuller's map in which I have removed the interior icosahedron lines.
 
-![](/images/fmap2.gif)
+![](./images/fmap2.gif)
 
 The word Dymaxion and the Fuller Projection Dymaxion<sup>TM</sup> Map design are trademarks of the Buckminster Fuller Institute, Santa Barbara, California, (c) 1938, 1967 & 1992. All rights reserved. You can contact the BFI at [bfi@aol.com](mailto:bfi@aol.com).
 Phone: (805) 962-0022, Address: 2040 Alameda Padre Serra, Suite 224, Santa Barbara, CA 93103.
 
 Here is the same world map with a longitude latitude grid. (The quality of these images are not as sharp as I would like but I think you'll at least get the general idea).
 
-![](/images/fmap3.gif)
+![](./images/fmap3.gif)
 
 A color poster of the map constructed from satellite images is available from the Buckminster Fuller Institute. (Some people will argue that this poster is not a *real* satellite image because a *real* satellite image would include cloud cover. So be it. However, the image was constructed from many different satellite images and, yes, color manipulated/enhanced. In any event, the image is impressive).
 
 The great idea Fuller had for his "spherical" to plane map transformation was to project the polyhedron onto the sphere and then 'unfold' the spherical triangle (*and* square in the case of the VE) into a plane polygon. Here is an illustration to help visualize this process.
 
-![](/images/mapfu1.gif)
+![](./images/mapfu1.gif)
 
 Further description of a couple of transformation procedures is given in the section [Different approaches to the transformation problem](graymapa.html).
 
