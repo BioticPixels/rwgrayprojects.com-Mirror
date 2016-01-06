@@ -4,7 +4,7 @@
 
 > *Mirrorer Note:*  
 > *Any text with in `[]` has been added by the mirrorer, and was not written by Robert W. Gray.*  
-> *Notes by the mirrorer are presented as 'Mirror note:' in a block quote, like what you are reading. These provide additional information, including external links.*  
+> *Notes by the mirrorer are presented as 'Mirrorer note:' in a block quote, like what you are reading. These provide additional information, including external links.*  
 > *It should be also be noted that the only layout that has been altered is the navigation, everything else will remain the same.*
 
 <hr>
@@ -18,6 +18,9 @@
 ## About Fuller's World Maps
 
 In almost every book about R. Buckminster (Bucky) Fuller, and several books by Bucky Fuller, you can find descriptions and illustrations of Fuller's world maps. His most well known world map is based on the [regular] icosahedron. Here is an image of Fuller's map in which I have removed the interior icosahedron lines.
+
+> *Mirrorer Note:*  
+> [Regular icosahedron wikipedia article](https://en.wikipedia.org/wiki/Regular_icosahedron "Regular Icosahedron wikipedia.org").
 
 ![](./images/fmap2.gif)
 
