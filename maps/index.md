@@ -14,11 +14,11 @@
 
 ## Notes to Fuller's World Maps
 
-Because of the amount of information I have accumulated on Fuller's world maps, particularly the icosahedron based map, I have divide the information into many different parts.  But first, here is an example of Fuller's Icosahedron based world map (sometime refereed to as the Dymaxion(TM) map.)
+Because of the amount of information I have accumulated on Fuller's world maps, particularly the icosahedron based map, I have divide the information into many different parts.  But first, here is an example of Fuller's Icosahedron based world map (sometime refereed to as the Dymaxion<sup>TM</sup> map.)
 
 ![](./images/fmap1.gif)
 
-The word Dymaxion and the Fuller Projection Dymaxion^TM Map design are trademarks of the Buckminster Fuller Institute, Santa Barbara, California, (c) 1938, 1967 & 1992. All rights reserved.
+The word Dymaxion and the Fuller Projection Dymaxion<sup>TM</sup> Map design are trademarks of the Buckminster Fuller Institute, Santa Barbara, California, (c) 1938, 1967 & 1992. All rights reserved.
 You can contact the BFI at [bfi@aol.com](mailto:bfi@aol.com).
 
 I have published 2 papers on Fuller's maps. The references are:
