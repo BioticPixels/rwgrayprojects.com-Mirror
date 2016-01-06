@@ -4,7 +4,7 @@
 > *Mirror of [http://www.rwgrayprojects.com/rbfnotes/maps/graymap2.html](http://www.rwgrayprojects.com/rbfnotes/maps/graymap2.html) ([mirror of original](./orginal/graymap2.html "About Fuller's World Maps")), from [the website of Robert W. Gray](http://www.rwgrayprojects.com/ "rwgrayprojects.com").*
 >
 > *Any text with in `[]` has been added by the mirrorer, and was not written by Robert W. Gray.*  
-> *Notes by the mirrorer are presented as 'Mirrorer note:' in a block quote, like what you are reading. These provide additional information, including external links.*  
+> *Notes by the mirrorer are presented as 'Mirrorer note:' in a block quote, like what you are reading. These provide comments and  additional information.*  
 > *It should be also be noted that the only layout that has been altered is the navigation, everything else will remain the same.*
 > *Read the [README](../README.md "README.md") for more information.*
 
@@ -18,15 +18,12 @@
 
 ## About Fuller's World Maps
 
-In almost every book about R. Buckminster (Bucky) Fuller, and several books by Bucky Fuller, you can find descriptions and illustrations of Fuller's world maps. His most well known world map is based on the [regular] icosahedron. Here is an image of Fuller's map in which I have removed the interior icosahedron lines.
-
-> *Mirrorer Note:*  
-> *[Regular icosahedron wikipedia article](https://en.wikipedia.org/wiki/Regular_icosahedron "Regular Icosahedron wikipedia.org").*
+In almost every book about R. Buckminster (Bucky) Fuller [[Buckminster Fuller wikipedia article](https://en.wikipedia.org/wiki/Buckminster_Fuller "Buckminster Fuller wikipedia.org")], and several books by Bucky Fuller, you can find descriptions and illustrations of Fuller's world maps. His most well known world map is based on the [regular] icosahedron [[Regular icosahedron wikipedia article](https://en.wikipedia.org/wiki/Regular_icosahedron "Regular Icosahedron wikipedia.org")]. Here is an image of Fuller's map in which I have removed the interior icosahedron lines.
 
 ![](./images/fmap2.gif)
 
 *Disclaimer:  
-The word Dymaxion and the Fuller Projection Dymaxion<sup>TM</sup> Map design are trademarks of the Buckminster Fuller Institute, Santa Barbara, California, (c) 1938, 1967 & 1992. All rights reserved. You can contact the BFI at [bfi@aol.com](mailto:bfi@aol.com).  
+The word Dymaxion and the Fuller Projection Dymaxion<sup>TM</sup> Map design are trademarks of the Buckminster Fuller Institute [[Buckminster Fuller Institute](https://bfi.org/ "Buckminster Fuller Institute bfi.org")], Santa Barbara, California, (c) 1938, 1967 & 1992. All rights reserved. You can contact the BFI at [bfi@aol.com](mailto:bfi@aol.com).  
 Phone: (805) 962-0022, Address: 2040 Alameda Padre Serra, Suite 224, Santa Barbara, CA 93103.*
 
 Here is the same world map with a longitude latitude grid. (The quality of these images are not as sharp as I would like but I think you'll at least get the general idea).
