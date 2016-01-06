@@ -1,7 +1,7 @@
 <!-- Date: 6 January 2016 16:27:47 -->
 
 > *Mirrorer Note:*  
-> *Mirror of [http://www.rwgrayprojects.com/rbfnotes/maps/graymap2.html](http://www.rwgrayprojects.com/rbfnotes/maps/graymap2.html), the website of Robert W. Gray.*
+> *Mirror of [http://www.rwgrayprojects.com/rbfnotes/maps/graymap2.html](http://www.rwgrayprojects.com/rbfnotes/maps/graymap2.html), on [the website of Robert W. Gray](http://www.rwgrayprojects.com/ "rwgrayprojects.com").*
 >
 > *Any text with in `[]` has been added by the mirrorer, and was not written by Robert W. Gray.*  
 > *Notes by the mirrorer are presented as 'Mirrorer note:' in a block quote, like what you are reading. These provide additional information, including external links.*  
