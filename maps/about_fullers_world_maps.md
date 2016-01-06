@@ -4,7 +4,7 @@
 
 <hr>
 
-[Table of Contents](../table_of_contents.html "Table of Contents") | [Home Page](http://www.rwgrayprojects.com)
+[Table of Contents](../table_of_contents.md "Table of Contents") | [Home](../index.md "Home") | [README](../README.md "README.md")
 
 <hr>
 
@@ -43,7 +43,7 @@ Note that no mention has been made as to where the North pole nor the South pole
 
 <hr>
 
-[Table of Contents](../table_of_contents.html "Table of Contents") | [Home](http://www.rwgrayprojects.com "rwgrayprojects.com")
+[Table of Contents](../table_of_contents.md "Table of Contents") | [Home](../index.md "Home") | [README](../README.md "README.md")
 
 <hr>
 
