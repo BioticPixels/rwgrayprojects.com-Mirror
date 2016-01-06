@@ -16,7 +16,7 @@
 
 # Robert W. Gray's Buckminster Fuller Notes
 
-> *Mirrorer Note: The [original images](../original/rbfnotes/maps/images/dymaxion.gif) was a gif.*
+> *Mirrorer Note: The [original image](../original/rbfnotes/maps/images/dymaxion.gif) was a gif.*
 
 ![](./images/dymaxion.png)
 
@@ -24,7 +24,7 @@
 
 Because of the amount of information I have accumulated on Fuller's world maps, particularly the [regular] icosahedron based map, I have divide the information into many different parts. But first, here is an example of Fuller's Icosahedron based world map (sometime referred to as the Dymaxion<sup>TM</sup> map. [([Dymaxion Map](https://en.wikipedia.org/wiki/Dymaxion_map "Dymaxion Map wikipedia.org"))] )
 
-> *Mirrorer Note: The [original images](../original/rbfnotes/maps/images/fmap1.gif) was a gif.*
+> *Mirrorer Note: The [original image](../original/rbfnotes/maps/images/fmap1.gif) was a gif.*
 
 ![](./images/fmap1.png)
 
