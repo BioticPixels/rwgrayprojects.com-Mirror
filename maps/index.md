@@ -1,7 +1,7 @@
 <!-- Date: 6 January 2016 16:06:38 -->
 
 > *Mirrorer Note:*  
-> *Mirror of [http://www.rwgrayprojects.com/rbfnotes/maps/graymap1.html](http://www.rwgrayprojects.com/rbfnotes/maps/graymap1.html), on [the website of Robert W. Gray](http://www.rwgrayprojects.com/ "rwgrayprojects.com").*
+> *Mirror of [http://www.rwgrayprojects.com/rbfnotes/maps/graymap1.html](http://www.rwgrayprojects.com/rbfnotes/maps/graymap1.html) ([mirror of original](./orginal/graymap1.html "Notes to Fuller's World Maps")), on [the website of Robert W. Gray](http://www.rwgrayprojects.com/ "rwgrayprojects.com").*
 >
 > *Any text with in `[]` has been added by the mirrorer, and was not written by Robert W. Gray.*  
 > *Notes by the mirrorer are presented as 'Mirrorer note:' in a block quote, like what you are reading. These provide additional information, including external links.*  
@@ -43,9 +43,13 @@ to choose
 - [C language source code for Longitude-Latitude to xy-coordinate transformation.](graymap6.html) 
 - [Visual comparison of Fuller's map to the Gnomonic and Snyder's equal area projections.](graymap7.html)
 
+<<<<<<< Local Changes
+[Table of Contents](../table_of_contents.html "Table of Contents") | [Home Page](http://www.rwgrayprojects.com "rwgrayprojects.com")
+=======
 <hr>
 
 [Home](../index.md "Home") | [README](../README.md "README.md") | [Table of Contents](../table_of_contents.md "Table of Contents")
+>>>>>>> External Changes
 
 <hr>
 
