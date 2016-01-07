@@ -1,0 +1,27 @@
+------------------------------------------------------------ 
+
+
+   RECORD NO.:  899880 INSPEC Abstract No: A76038967
+       AUTHOR:  Pauling, L.
+  CORP SOURCE:  Linus Pauling Inst. of Sci. & Medicine, Menlo Park, CA, USA
+        TITLE:  Structure of the excited band in /sup 24/Mg
+       SOURCE:  Physical Review Letters, vol.35, no.21, p. 1480-82
+         ISSN:  0031-9007
+        CODEN:  PRLTAO
+PLACE OF PUBL:  USA
+     LANGUAGE:  English
+         YEAR:  24 Nov. 1975
+    TREATMENT:  T Theoretical or Mathematical
+     ABSTRACT:  The author proposes an intrinsic cluster structure, obtained 
+                from the formation of a central bispheroid in the edge 
+                approximation of two /sup 12/C triangles, for the excited 
+                collective band in /sup 24/Mg (7 Refs.)
+  DESCRIPTORS:  nuclear cluster model; nuclear energy levels; nuclei with 
+                20<or=A<or=38
+  IDENTIFIERS:  /sup 24/Mg; intrinsic cluster structure; excited collective 
+                band
+  CLASS CODES:  A2110M (Nuclear level density and structure); A2160G 
+                (Nuclear cluster models); A2730 (Properties of nuclei with 
+                20 <or= A <or= 38)
+ 
+------------------------------------------------------------ 

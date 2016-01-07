@@ -1,0 +1,41 @@
+------------------------------------------------------------ 
+
+
+   RECORD NO.:  4675247 INSPEC Abstract No: A9413-2160G-001
+       AUTHOR:  Rae, W.D.M.; Zhang, J.
+  CORP SOURCE:  Nucl. Phys. Lab., Oxford Univ., UK
+        TITLE:  Triangular alpha cluster geometries and harmonic oscillator 
+                shell structure
+       SOURCE:  Modern Physics Letters A, vol.9, no.7, p. 599-607
+         ISSN:  0217-7323
+        CODEN:  MPLAEQ
+PLACE OF PUBL:  Singapore
+     LANGUAGE:  English
+         YEAR:  7 March 1994
+    TREATMENT:  T Theoretical or Mathematical
+     ABSTRACT:  We demonstrate that there is a link between the underlying 
+                geometrical structure in the Bloch-Brink alpha -cluster 
+                model and shell structure in the axially-symmetric deformed 
+                harmonic oscillator model. Indeed all the axially-symmetric 
+                harmonic oscillator configurations can be related to 
+                structures formed from triangular layers of alpha -clusters 
+                whose centres lie on an FCC lattice. In particular all 
+                harmonic oscillator closed-shell nuclei can be related to 
+                tetrahedral arrangements of alpha -cluster centers, 
+                generalizing the result known for /sup 16/O for many years. 
+                These results suggest that the octupole degree of freedom 
+                which can be associated with triangular and tetrahedral 
+                alpha -cluster structures could be important in such nuclei 
+                (29 Refs.)
+  DESCRIPTORS:  harmonic oscillators; nuclear cluster model; nuclear shape; 
+                nuclear shell model; nuclei with mass number 6 to 19
+  IDENTIFIERS:  triangular alpha cluster geometries; harmonic oscillator 
+                shell structure; geometrical structure; Bloch-Brink alpha -
+                cluster model; axially-symmetric deformed harmonic 
+                oscillator; FCC lattice; closed-shell nuclei; tetrahedral 
+                arrangements; /sup 16/O; octupole degree of freedom
+  CLASS CODES:  A2160G (Cluster models); A2160C (Shell model); A2110F 
+                (Shape, charge, radius, form factors and structure 
+                functions)A2720 (6 <or= A <or= 19)
+ 
+------------------------------------------------------------ 

@@ -1,0 +1,24 @@
+------------------------------------------------------------ 
+
+     ERIC NO: EJ434375
+      AUTHOR: Brooks, Robert; Perl, Barry
+       TITLE: Interactive Technology for Education.
+        YEAR: 1991
+      SOURCE: Principal (v71 n2 p20-21 Nov 1991) 
+    PUB TYPE: Journal article; Evaluative/feasibility report
+    LANGUAGE: English
+    ABSTRACT: By using the kind of two-way television system envisioned by 
+              Buckminster Fuller, school children can learn at their own 
+              rates and select interesting topics, thereby continually 
+              reinforcing the desire to learn. Today's new interactive video 
+              systems, from multimedia encyclopedias to hypermedia 
+              combinations, allow students to explore subject matter in any 
+              order and at any depth desired. (MLH)
+       NOTES: UMI
+  MAJOR DESC: Computer Assisted Instruction; Educational Technology; 
+              Hypermedia; Instructional Innovation; Interactive Video; 
+              Multimedia Instruction
+  MINOR DESC: Elementary Education
+ IDENTIFIERS: Fuller (Buckminster)
+ 
+------------------------------------------------------------ 

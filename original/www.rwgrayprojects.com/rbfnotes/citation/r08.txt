@@ -1,0 +1,33 @@
+------------------------------------------------------------ 
+
+
+   RECORD NO.:  1852436 INSPEC Abstract No: A82049039
+       AUTHOR:  Cook, N.D.
+  CORP SOURCE:  Dept. of Experimental Psychology, Univ. of Oxford, Oxford, 
+                UK
+        TITLE:  Quantization of the FCC nuclear theory
+       SOURCE:  Atomkernenergie Kerntechnik, vol.40, no.1, p. 51-5
+         ISSN:  0171-5747
+        CODEN:  ATKEDU
+PLACE OF PUBL:  West Germany
+     LANGUAGE:  English
+         YEAR:  1982
+    TREATMENT:  T Theoretical or Mathematical
+     ABSTRACT:  A face centered cubic (FCC) lattice of nucleons is shown to 
+                have quantal characteristics identical to those of the 
+                harmonic oscillator plus spin-orbit coupling model. A 
+                nucleon's quantal values in the FCC lattice are determined 
+                solely by the geometrical position of the nucleon. Despite 
+                the contrary assumptions concerning the nuclear force, the 
+                independent-particle model (i.e. shell model) and the FCC 
+                model make identical predictions about the independent-
+                particle nature of nuclei. The two theories can be 
+                distinguished only by means of high energy, high resolution 
+                diffraction experiments (55 Refs.)
+  DESCRIPTORS:  nuclear structure theory; quantisation
+  IDENTIFIERS:  face centred cubic lattice nuclear model; harmonic 
+                oscillator plus spin-orbit coupling model; independent-
+                particle model; shell model
+  CLASS CODES:  A2160 (Nuclear-structure models and methods)
+ 
+------------------------------------------------------------ 

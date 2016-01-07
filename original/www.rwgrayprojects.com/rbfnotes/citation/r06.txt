@@ -1,0 +1,46 @@
+------------------------------------------------------------ 
+
+
+   RECORD NO.:  2995990 INSPEC Abstract No: A87128977
+       AUTHOR:  Dallacasa, V.; Cook, N.D.
+  CORP SOURCE:  Dipartimento di Fisica, Parma Univ., Italy
+        TITLE:  The FCC nuclear model. I. Equivalence between the FCC 
+                lattice and nucleon eigenstates and the correspondence with 
+                the spin-orbit model
+       SOURCE:  Nuovo Cimento A, vol.97A, ser.2, no.1, p. 157-83
+         ISSN:  0369-3546
+        CODEN:  NIFAAM
+PLACE OF PUBL:  Italy
+TRANSLATED IN:  A14
+     LANGUAGE:  English
+         YEAR:  Jan. 1987
+    TREATMENT:  T Theoretical or Mathematical
+     ABSTRACT:  There is an unambiguous geometrical representation of 
+                nuclear 'quantum space' which is analogous to the electron 
+                orbitals of the hydrogen atom. In both the atom and the 
+                nucleus, the position of each fermion relative to the axes 
+                of 'quantum space' is dependent upon the particle's 
+                eigenvalues. In the nuclear realm, the geometry of 
+                eigenstates corresponds precisely with the symmetries of an 
+                antiferromagnetic face-centred cubic (FCC) lattice with 
+                alternating isospin layers. The correspondence between the 
+                eigenstates of the Schrodinger equation and the FCC lattice 
+                is demonstrated and the relationship between the spin-orbit 
+                model and the FCC model is discussed. The random-phase-
+                approximation (RPA) technique is used to examine the ground 
+                and excited states of the FCC lattice (28 Refs.)
+  DESCRIPTORS:  eigenvalues and eigenfunctions; nuclear energy levels; 
+                nuclear isospin; nuclear structure theory; RPA calculations; 
+                Schrodinger equation
+  IDENTIFIERS:  RPA technique; nuclear quantum space; quantum space axes; 
+                FCC lattice; FCC nuclear model; FCC lattice; nucleon 
+                eigenstates; spin-orbit model; electron orbitals; 
+                eigenvalues; symmetries; face-centred cubic; eigenstates; 
+                Schrodinger equation; spin-orbit model; random-phase-
+                approximation; excited states
+  CLASS CODES:  A2110H (Spin, parity, and isobaric spin); A2110M (Level 
+                density and structure); A2160 (Nuclear-structure models and 
+                methods); A2160J (Hartree-Fock and random-phase 
+                approximations)
+ 
+------------------------------------------------------------ 

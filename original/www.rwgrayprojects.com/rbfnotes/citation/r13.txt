@@ -1,0 +1,53 @@
+------------------------------------------------------------ 
+
+
+   RECORD NO.:  1286365 INSPEC Abstract No: A79006459
+       AUTHOR:  Robson, D.
+  CORP SOURCE:  Sektion Phys., Univ. Munchen, Garching, West Germany
+        TITLE:  Many-body interactions from quark exchanges and the 
+                tetrahedral crystal structure of nuclei
+       SOURCE:  Nuclear Physics A, vol.A308, no.3, p. 381-428
+         ISSN:  0375-9474
+        CODEN:  NUPABL
+PLACE OF PUBL:  Netherlands
+     LANGUAGE:  English
+         YEAR:  9 Oct. 1978
+    TREATMENT:  T Theoretical or Mathematical
+     ABSTRACT:  A new approach to nuclear interactions has been investigated 
+                on the basis of a coloured quark exchange model. The model 
+                is consistent with quantum chromodynamics and requires the 
+                existence of three-body and four-body interactions between 
+                nucleons, but only in states with antisymmetric SU(4) 
+                symmetry. This approach provides a method for calculating 
+                many properties of nuclei, gives many qualitative features 
+                of the nucleon-nucleon interaction, automatically yields 
+                saturation, but requires the alpha -particle to have 
+                tetrahedral symmetry. Even-even nuclei up to A=24 have been 
+                considered with particular emphasis on /sup 12/C and /sup 
+                16/O. Remarkable agreement with experiment has been achieved 
+                not only for ground state properties but also for excited 
+                states. A successful synthesis of rotations, vibrations, 
+                cluster states, and single-particle motion appears to have 
+                been attained. Unusually accurate values of the total 
+                binding energies have been predicted for even-even nuclei. 
+                Qualitative discussions of the possible ramifications of the 
+                present theory for heavier nuclei are also included 
+                (49 Refs.)
+  DESCRIPTORS:  colour model; nuclear binding energy; nuclear cluster model; 
+                nuclear collective states and giant resonances; nuclear 
+                forces; nuclei with mass number 6 to 19
+  IDENTIFIERS:  quark exchanges; tetrahedral crystal structure; coloured 
+                quark exchange model; antisymmetric SU(4) symmetry; /sup 
+                12/C; /sup 16/O; ground state properties; excited states; 
+                cluster states; total binding energies; three body 
+                interactions; four body interactions; even even nuclei; 
+                single particle motion
+  CLASS CODES:  A1235C (General properties of quantum chromodynamics 
+                (dynamics, confinement, etc.)); A1235 (Composite models of 
+                particles); A2110D (Nuclear binding energy and masses); 
+                A2110P (Single particle structure in nuclear levels); 
+                A2110R (Collective structure in nuclear levels); A2130 
+                (Nuclear forces); A2160G (Nuclear cluster models); A2720 
+                (Properties of nuclei with 6 <or= A <or= 19)
+ 
+------------------------------------------------------------ 

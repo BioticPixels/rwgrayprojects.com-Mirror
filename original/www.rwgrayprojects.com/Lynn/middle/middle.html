@@ -1,0 +1,243 @@
+<html>
+ 
+<!-- Mirrored from www.rwgrayprojects.com/Lynn/middle/middle.html by HTTrack Website Copier/3.x [XR&CO'2014], Wed, 06 Jan 2016 21:12:30 GMT -->
+<head>
+
+
+  <script language="JavaScript">
+
+   var numImages = 24;
+   var images = new Array(numImages);
+   
+   for (i=0; i< numImages; i++)
+   {
+     images[i] = new Image;
+     images[i].src = "print"+(i+1)+".jpg";
+
+   } // end for statement
+
+   var img = 0;
+   var id = 0;
+   
+   var speed = 100;
+
+   function Mstart()
+   {
+     img = img + 1;
+     img = img % numImages;
+
+     top.document.forms.theForm.fn.value = img+1;
+
+     top.document.images.icon.src = images[img].src;
+
+     id = setTimeout("Mstart();", speed);  
+
+   } // end start;
+
+   function stop()
+   {
+     clearTimeout(id);
+   } // end stop() 
+
+
+   function prev()
+   {
+     stop(); 
+
+     img = img - 1;
+     if (img < 0) img = numImages - 1;
+     img = img % numImages;
+
+     top.document.forms.theForm.fn.value = img+1;
+
+     top.document.images.icon.src = images[img].src;
+
+   } // end prev
+
+
+   function next()
+   {
+     stop(); 
+
+     img = img + 1;
+     img = img % numImages;
+
+     top.document.forms.theForm.fn.value = img+1;
+
+     top.document.images.icon.src = images[img].src;
+
+   } // end next
+
+
+    function setSpeed()
+    {
+     
+      var n = top.document.forms.theForm.sn.value;
+ 
+      if ( (n > 1) && (n < 900) ) speed = n;           
+ 
+    } // end setSpeed  
+
+  </script>
+
+ </head>
+
+ <body>
+
+ <h1 align="center">Middle Position of Rotating Cubes</h1>  
+
+
+<font size="+2">
+
+<p>
+Recall the rotation of 4 cubes plus 1 cube stationary.
+</P>
+ 
+
+  <table border=1 align="center">
+   <tr>
+    <td align="center">
+      <img src="print0.jpg" name="icon">
+      <br>
+      <font size="+1">Rotating Cubes</font>
+    </td>
+   </tr>
+   <tr>
+    <td align="center"> 
+     <form name="theForm">
+      <input type="button" value="Play" onclick="Mstart();">
+      <input type="button" value="Stop" onclick="stop();">
+      <input type="button" value=" < " onclick="prev();">
+      <input type="button" value=" > " onclick="next();">
+       <br>
+      <font size="+1">Frame <input type="text" name="fn" value="1" size="3" maxlength="3"></font> 
+      <font size="+1">Speed <input type="text" name="sn" value="100" size="3" maxlength="3" onchange="setSpeed();"></font> 
+     </form>
+    </td>
+   <tr>
+  </table> 
+
+
+<p>
+If we take a snap shot right in the middle of the cube rotations, we have the following image.
+</p>
+
+
+  <table border=1 align="center">
+   <tr>
+    <td align="center">
+      <img src="print25.jpg">
+    </td>
+   </tr>
+   <tr>
+    <td align="center"> 
+      Middle of Rotations.       
+    </td>
+   <tr>
+  </table> 
+
+<p>
+This actually corresponds to a rhombic Dodecahedron.
+</p>
+
+
+  <table border=1 align="center">
+   <tr>
+    <td align="center">
+      <img src="print26.jpg">
+    </td>
+   </tr>
+   <tr>
+    <td align="center"> 
+     5 Cubes define a Rhombic Dodecahedron
+    </td>
+   <tr>
+  </table> 
+
+
+<p>
+Here are several other images of the 5 cubes defining a rhmobic Dodecahedron.
+</p>
+
+  <table border=1 align="center">
+   <tr>
+    <td align="center">
+      <img src="print27.jpg">
+    </td>
+   </tr>
+   <tr>
+    <td align="center"> 
+     5 Cubes define a Rhombic Dodecahedron     
+    </td>
+   <tr>
+  </table> 
+
+  <table border=1 align="center">
+   <tr>
+    <td align="center">
+      <img src="print28.jpg">
+    </td>
+   </tr>
+   <tr>
+    <td align="center"> 
+     5 Cubes define a Rhombic Dodecahedron     
+    </td>
+   <tr>
+  </table> 
+
+  <table border=1 align="center">
+   <tr>
+    <td align="center">
+      <img src="print29.jpg">
+    </td>
+   </tr>
+   <tr>
+    <td align="center"> 
+     5 Cubes define a Rhombic Dodecahedron     
+    </td>
+   <tr>
+  </table> 
+
+<p>
+So, during the rotation of the 4 cubes, with an additional cube stationary,
+the cubes define a regular Dodecahedron, then, at the half-way point, a rhombic Dodecahedron,
+and finally, another regular Dodecahedron with an opposite face orientation to the first
+regular Dodecahedron.
+</p>
+
+
+
+  <table border=1 align="center">
+   <tr>
+    <td align="center">
+      <img src="print9.jpg">     <img src="print15.jpg">
+    </td>
+   </tr>
+   <tr>
+    <td align="center"> 
+     Two differnet orientations of the regular Dodecahedron.     
+    </td>
+   <tr>
+  </table> 
+
+
+</font>
+<br>
+<hr>
+
+<div align="center">
+Copyright November 2001, Robert W. Gray
+</div> 
+
+<hr>
+<br>
+
+<DIV ALIGN="center">
+<ADDRESS><A HREF="mailto:rwgray@rwgrayprojects.com">rwgray@rwgrayprojects.com</A>
+</ADDRESS>
+</DIV>
+
+</body>
+
+<!-- Mirrored from www.rwgrayprojects.com/Lynn/middle/middle.html by HTTrack Website Copier/3.x [XR&CO'2014], Wed, 06 Jan 2016 21:12:41 GMT -->
+</html>

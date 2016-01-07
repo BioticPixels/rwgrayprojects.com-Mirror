@@ -1,0 +1,29 @@
+------------------------------------------------------------ 
+
+
+   RECORD NO.:  141924 INSPEC Abstract No: A70038837
+       AUTHOR:  Pauling, L.
+  CORP SOURCE:  Stanford Univ., CA, USA
+        TITLE:  Orbiting clusters in atomic nuclei
+       SOURCE:  Proceedings of the National Academy of Sciences of the 
+                United States of America, vol.64, no.3, p. 807-9
+         ISSN:  0027-8424
+        CODEN:  PNASA6
+PLACE OF PUBL:  USA
+     LANGUAGE:  English
+         YEAR:  Nov. 1969
+     ABSTRACT:  As an alternative to their description as vibrational 
+                levels, the low excited states of even-even nuclei can be 
+                described as rotational states of a helion, dineutron, 
+                diproton, or other cluster about the rest of the nucleus, 
+                leading to reasonable values of the average distance between 
+                centers of the clusters. Some states involve rotational 
+                excitation of two or more helions or other clusters. The 
+                nature of the rotating clusters is determined by the 
+                relation of the neutron and proton numbers to the magic 
+                numbers
+  DESCRIPTORS:  nuclear energy levels; nuclear theory
+  CLASS CODES:  A2110 (General and average properties of nuclei; properties 
+                of nuclear energy levels)
+ 
+------------------------------------------------------------ 

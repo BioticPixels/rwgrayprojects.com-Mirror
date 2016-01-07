@@ -1,0 +1,41 @@
+------------------------------------------------------------ 
+
+
+    COPYRIGHT:  Copyright 1995, IEE
+   RECORD NO.:  4850124 INSPEC Abstract No: A9503-2110D-001
+       AUTHOR:  Cook, N.D.
+  CORP SOURCE:  Fac. of Inf., Kansai Univ., Osaka, Japan
+        TITLE:  Nuclear binding energies in lattice models
+       SOURCE:  Journal of Physics G (Nuclear and Particle Physics), vol.20, 
+                no.12, p. 1907-17
+         ISSN:  0954-3899
+        CODEN:  JPGPED
+PLACE OF PUBL:  UK
+     LANGUAGE:  English
+         YEAR:  Dec. 1994
+ COPYRIGHT NO:  0954-3899/94/121907+11$19.50
+    TREATMENT:  T Theoretical or Mathematical
+     ABSTRACT:  A study of the binding energies of 1236 nuclei has been made 
+                in the framework of four lattice models, and compared with 
+                independent-particle and liquid-drop model results, The most 
+                realistic of the lattice models was a face-centred cubic 
+                (FCC) close packing of nucleons using nine adjustable 
+                parameters, each of which has a clear physical 
+                interpretation relating to two-body nucleon interactions. 
+                The numerical performance of the lattice models relative to 
+                the liquid-drop model (25 adjustable parameters) and the 
+                independent-particle model (471 adjustable parameters) is 
+                discussed (29 Refs.)
+  DESCRIPTORS:  lattice theory; nuclear binding energy; nuclear forces; 
+                nuclear liquid drop model; nuclear shell model; numerical 
+                analysis
+  IDENTIFIERS:  nuclear binding energies; lattice models; independent-
+                particle model; liquid-drop model; face-centred cubic close 
+                packing; FCC close packing; adjustable parameters; two-body 
+                nucleon interactions; numerical performance
+  CLASS CODES:  A2110D (Nuclear binding energy and masses); A0550 (Lattice 
+                theory and statistics; Ising problems); A0260 (Numerical 
+                approximation and analysis); A2160C (Nuclear shell model); 
+                A2160E (Nuclear collective models); A2130 (Nuclear forces)
+ 
+------------------------------------------------------------ 

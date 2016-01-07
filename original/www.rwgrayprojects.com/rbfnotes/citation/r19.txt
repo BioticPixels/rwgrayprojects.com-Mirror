@@ -1,0 +1,29 @@
+------------------------------------------------------------ 
+
+
+   RECORD NO.:  872513 INSPEC Abstract No: A76020758
+       AUTHOR:  Pauling, L.
+  CORP SOURCE:  Linus Pauling Inst. of Sci. & Medicine, Menlo Park, CA, USA
+        TITLE:  Structure of the excited rotational band in /sup 40/Ca
+       SOURCE:  Physical Review Letters, vol.36, no.3, p. 162-4
+         ISSN:  0031-9007
+        CODEN:  PRLTAO
+PLACE OF PUBL:  USA
+     LANGUAGE:  English
+         YEAR:  19 Jan. 1976
+    TREATMENT:  T Theoretical or Mathematical
+     ABSTRACT:  In the polyhelion cluster model of light even-even nuclei 
+                the energy of the rotational bands is discussed in terms of 
+                the values of the helion-helion distance. The structure of 
+                the first-excited 0/sup +/ state at 3.35 MeV in /sup 40/Ca 
+                is described by a method involving localised hybrid spd 
+                orbitals for determining M shell helion relative positions 
+                (10 Refs.)
+  DESCRIPTORS:  nuclear cluster model; nuclear energy levels; nuclei with 
+                39<or=A<or=58
+  IDENTIFIERS:  /sup 40/Ca; polyhelion cluster model; rotational bands
+  CLASS CODES:  A2110M (Nuclear level density and structure); A2160G 
+                (Nuclear cluster models); A2740 (Properties of nuclei with 
+                39 <or= A <or= 58)
+ 
+------------------------------------------------------------ 

@@ -1,0 +1,32 @@
+------------------------------------------------------------ 
+
+
+   RECORD NO.:  2972972 INSPEC Abstract No: A87116244
+       AUTHOR:  Cook, N.D.; Dallacasa, V.
+  CORP SOURCE:  Wolfson Coll., Oxford Univ., UK
+        TITLE:  Nuclear RMS radii in the FCC model
+       SOURCE:  Journal of Physics G (Nuclear Physics), vol.13, no.6, 
+                p. L103-7
+         ISSN:  0305-4616
+        CODEN:  JPHGBM
+PLACE OF PUBL:  UK
+TRANSLATED IN:  A03
+     LANGUAGE:  English
+         YEAR:  June 1987
+ COPYRIGHT NO:  0305-4616/87/060103+05$02.50
+    TREATMENT:  T Theoretical or Mathematical
+     ABSTRACT:  FCC model predictions of nuclear RMS charge radial values 
+                are compared with empirical data for 341 isotopes across the 
+                periodic table. Using only one adjustable parameter the mean 
+                error is 1.55%, as compared with 1.42% in the extended 
+                liquid-drop model where three such parameters are required. 
+                The FCC model also implies a diffuse nuclear surface, a 
+                feature that demands ad hoc adjustments in other models, but 
+                is inherent in the FCC build-up procedure (15 Refs.)
+  DESCRIPTORS:  nuclear charge; nuclear models; nuclear size
+  IDENTIFIERS:  tensor force; FCC model; nuclear RMS charge radial values; 
+                extended liquid-drop model; diffuse nuclear surface
+  CLASS CODES:  A2110F (Shape, charge, radius, form factors and structure 
+                functions); A2160 (Nuclear-structure models and methods)
+ 
+------------------------------------------------------------ 

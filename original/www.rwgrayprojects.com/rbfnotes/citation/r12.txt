@@ -1,0 +1,40 @@
+------------------------------------------------------------ 
+
+
+   RECORD NO.:  929060 INSPEC Abstract No: A76060544
+       AUTHOR:  de Llano, M.; Plastino, A.
+  CORP SOURCE:  Inst. de Fisica, Univ. de Mexico, Mexico
+        TITLE:  Hartree-Fock states in the thermodynamic limit
+       SOURCE:  Physical Review A (General Physics), vol.13, no.4, p. 1633-
+                40
+         ISSN:  0556-2791
+        CODEN:  PLRAAN
+PLACE OF PUBL:  USA
+     LANGUAGE:  English
+         YEAR:  April 1976
+    TREATMENT:  T Theoretical or Mathematical
+     ABSTRACT:  The energy is minimized, as a function of particle density 
+                and coupling of a class of two-parameter single particle 
+                orbitals which explicitly satisfy the full Hartree-Fock 
+                equations for occupied states in the thermodynamic limit. A 
+                delta -function internucleon potential yields stabler states 
+                than the plane-wave Hartree-Fock solutions, for sufficiently 
+                strong coupling and/or high density. Minimizing the energy 
+                with respect to the free parameters gives either first- or 
+                second-order transitions, with bifurcation of the new energy 
+                state from the old. The relevance of the model to neutron 
+                star and nuclear star matter, to the possibility of 
+                Pauling's 'close-packed spheron' structure, and to the 
+                electron-gas problem is discussed (10 Refs.)
+  DESCRIPTORS:  Hartree-Fock method; neutron stars; nuclear forces; nuclear 
+                theory
+  IDENTIFIERS:  thermodynamic limit; particle density; strong coupling; high 
+                density; neutron star; nuclear star matter; two parameter 
+                single particle orbitals; Hartree Fock equations; delta 
+                function internucleon potential; electron gas; Paulings 
+                close packed spheron
+  CLASS CODES:  A2130 (Nuclear forces); A2160J (Hartree-Fock and random-
+                phase approximations in nuclei); A9530 (Fundamental aspects 
+                of astrophysics)
+ 
+------------------------------------------------------------ 

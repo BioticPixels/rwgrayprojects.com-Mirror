@@ -1,0 +1,170 @@
+<html>
+ 
+<!-- Mirrored from www.rwgrayprojects.com/Java3D/Transparency/trans02.html by HTTrack Website Copier/3.x [XR&CO'2014], Wed, 06 Jan 2016 22:27:35 GMT -->
+<head>
+  <title>Transparency problems</title>
+ </head> 
+
+ <body>
+  <font size="+1">
+
+  <h1 align="center">Java 3D Transparency (Coding?) Problems?</h1>
+
+  <p>
+    I am trying to program 3 torus-like objects, one within the other, in Java 3D, 
+with a transparency setting such that you can see all 3 objects. 
+  </p>
+
+  <p>
+    Here is an image of what I mean.
+  </p>
+
+ <table border=1 align="center">
+  <tr>
+   <td align="center">
+    <img src="p301.jpg"> 
+   </td>
+   <td align="center">
+    <img src="p302.jpg"> 
+   </td>
+  </tr>
+  <tr>
+   <td align="center" colspan="2">
+    Using 3,168 QuadArrays. 
+   </td>
+  </tr>
+ </table>
+
+
+
+<hr>
+
+<p>
+<a href="code01.html">Here is the current code.</a>  (Not the code that porduced the above
+images, but is the code that produced the bottom images and which clearly shows the 
+problems I am having.)
+</p>
+
+<hr>
+
+<p>
+There are 3 shells: 1) Outer in red, 2) Middle in blue, 3) inner most in green.  Each "shell"
+consists of a top torus and a bottom torus.  
+In what follows, these objects are coded as 3 quadArrays: 1 quadArray for the outer top/bottom
+torii, 1 for the middle top/bottom torii, 1 for the inner most torii.  These objects 
+do not intersect each other; they are completely contained one in the other.  
+</p>
+
+
+<p>
+The problems are clearly seen in these next 2 images.
+</p>
+
+
+ <table border=1 align="center">
+  <tr>
+   <td align="center">
+    <img src="t2tb01.jpg"> 
+   </td>
+  </tr>
+  <tr>
+   <td align="center">
+    Using 3 QuadArrays. Top and Bottom not the same??
+   </td>
+  </tr>
+ </table>
+
+ <table border=1 align="center">
+  <tr>
+   <td align="center">
+    <img src="t2lr01.jpg"> 
+   </td>
+  </tr>
+  <tr>
+   <td align="center">
+    Using 3 QuadArrays. Left and Right not the same??
+   </td>
+  </tr>
+ </table>
+
+
+<p>
+The code includes:
+</P>
+
+<pre>
+    SU.getViewer().getView().setDepthBufferFreezeTransparent(true);
+    SU.getViewer().getView().setTransparencySortingPolicy(View.TRANSPARENCY_SORT_GEOMETRY);
+</pre>
+
+<p>
+and in the appearance, the polygonattributes includes
+</p>
+
+<pre>
+    PolygonAttributes.CULL_BACK
+</pre>
+
+<p>
+I put each of the 3 quadArrays in a single OrderedGroup so that the inner one gets
+rendered 1st, middle 2nd, outer last.
+</p>
+
+<pre>
+
+    OrderedGroup OBG = new OrderedGroup();
+
+    OBG.addChild(Torus3);  // render this one 1st
+    OBG.addChild(Torus2);  // render this one 2nd
+    OBG.addChild(Torus1);  // render this one 3rd
+
+</pre>
+
+<p>
+I thought the top/bottom problem might be because I had the bottom normals pointing in the wrong direction.
+Here is an image with the bottom normals pointing in the opposite direction:
+</p>
+
+
+ <table border=1 align="center">
+  <tr>
+   <td align="center">
+    <img src="t2bnr01.jpg"> 
+   </td>
+  </tr>
+  <tr>
+   <td align="center">
+    Bottom half normals reversed. 
+   </td>
+  </tr>
+ </table>
+
+
+<p>
+so I guess I had the normals pointing in the correct direction after all.
+</p>
+
+<p>
+So what else could the problems be a result of??
+</p>
+
+<p>
+If anyone has alternative coding suggestion, please let me know.
+</p>
+
+<HR>
+
+
+<DIV ALIGN="center">
+<ADDRESS>
+Internet e-mail address:
+<A HREF="mailto:rwgray@rwgrayprojects.com">rwgray@rwgrayprojects.com</A>
+</ADDRESS>
+
+</DIV>
+
+
+ </body>
+
+<!-- Mirrored from www.rwgrayprojects.com/Java3D/Transparency/trans02.html by HTTrack Website Copier/3.x [XR&CO'2014], Wed, 06 Jan 2016 22:27:35 GMT -->
+</html>

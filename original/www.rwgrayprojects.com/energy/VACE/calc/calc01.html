@@ -1,0 +1,209 @@
+<HTML>
+
+<!-- Mirrored from www.rwgrayprojects.com/energy/VACE/calc/calc01.html by HTTrack Website Copier/3.x [XR&CO'2014], Wed, 06 Jan 2016 20:10:04 GMT -->
+<HEAD>
+<TITLE>Torque Calculations
+</TITLE>
+</HEAD>
+<BODY BGCOLOR="white" TEXT="black" LINK="red" VLINK="red" ALINK="red">
+<DIV ALIGN="center">
+<H2>Torque Calculation Details</H2>
+</DIV>
+<HR>
+
+<BR>
+
+<P>
+Let's look at the torque calculations in some detail.
+</P>
+
+<P>
+We start with Ampere's force equation
+</P>
+
+<DIV ALIGN=center>
+<IMG SRC="eq01.gif">
+</DIV>
+
+
+<P>
+NOTE: The symbol "r" in Ampere's equation above is the distance
+between the two current elements.  Unfortunately, I have used the
+symbol "r" in the following diagram and equations as the radius
+of the VACE torus circle.  I hope this will not cause you too
+much confusion.
+</P>
+
+<P>
+Consider the following diagram which defines most of the 
+symbols to be used. 
+</P>
+
+<DIV ALIGN=center>
+<IMG SRC="calc01.gif">
+</DIV>
+
+<P>
+There are 2 Ampere current elements shown.  One at P (I1) and one 
+at R (I2).    
+</P>
+
+<P>
+From this diagram we can see how the following equations 
+have been obtainned.
+</P>
+
+<DIV ALIGN=center>
+<IMG SRC="calc03.gif">
+</DIV>
+
+<P>
+We next want to express the angle alpha in terms of theta and
+the distance "d" (the distance from the circle center "O" to I1 at P.)  
+So, consider the following diagram.
+</P>
+
+<DIV ALIGN=center>
+<IMG SRC="calc02.gif">
+</DIV>
+
+<P>
+Alpha may seem a little harder to get, but looking at the
+diagram we see it is given by
+</P>
+
+
+<DIV ALIGN=center>
+<IMG SRC="calc04.gif">
+</DIV>
+
+<P>
+To rotate I2 to point along the "Force line", I2 is
+turned counter-clockwise, whereas I1 is rotated clockwise.  
+This is way I chose this equation
+for alpha.  Clockwise rotations will be positive, and counter-clockwise 
+rotations will be negative.  So, in the above diagram, alpha is negative and beta is
+positive.
+</P>
+
+<P>
+Epsilon, the angle through which current element #2 has to be
+rotated to point in the same direction as current element #1
+is then given by   
+</P>
+
+<DIV ALIGN=center>
+epsilon = alpha - beta
+</DIV>
+
+<P>
+Note that in Ampere's force law, all the angles are 
+parameters to cosine functions.  So it doesn't matter if
+we use 
+</P>
+
+<DIV ALIGN=center>
+epsilon = alpha - beta
+</DIV>
+
+<P>
+or if we use
+</P>
+
+<DIV ALIGN=center>
+epsilon = beta - alpha
+</DIV>
+
+<P>
+The cosine of epsilon is the same in either case.
+</P>
+
+<P>
+We can now use Ampere's force equation to calculate the magnitude
+of the force on each VACE in the torus.  (Remember the note at the
+top of this page: "r" in Ampere's equation is the distance between the
+two current elements and not the radius of the torus.
+</P>
+
+<P>
+We can use the usual distance equation to obtain the distance between
+the two current elements.
+</P>
+
+
+<DIV ALIGN=center>
+x1 = r cos(theta)
+<BR>
+y1 = r sin(theta)
+<BR>
+<BR>
+x2 = d
+<BR>
+y2 = 0
+<BR><BR>
+distance "r" = sqrt((x1 - x2)^2 + (y1 - y2)^2)
+</DIV>
+
+<P>
+Don't worry about the Idl terms in Ampere's equation.  
+They can be set to any constant value provided you use that same 
+value in all calculations.  We are only after the "relative"
+magnitude of the overall torque.
+</P>
+
+<P>
+O.K., time for the torque...
+</P>
+
+<P>
+Since we now have the magnitude of the force and we know that the
+force will be along the line joining the two current elements
+("Force line" in the above diagram) we see that the magnitude of the
+torque about "O" is given by
+</P>
+
+<DIV ALIGN=center>
+torque = r * force * cos(alpha)
+</DIV>
+
+<P>
+where "r" here is the radius of the circle.
+</P>
+
+Well, that's it.  Now just add up each torque about "O" that each VACE in the
+torus experiences.
+
+<HR>
+
+<DIV ALIGN="center">
+<TABLE BORDER=2>
+<TR><TD><A HREF="../../../index.html"><BIG>Home Page</BIG></A></TD>
+</TABLE>
+</DIV>
+
+
+<HR>
+
+
+<P>Usage Note: My work is copyrighted.  You may use my work but
+you may <I>not</I> include my work, or parts of it, in <I>any</I> 
+for-profit project
+without my consent.</P>
+
+<HR>
+
+<DIV ALIGN="center">
+<ADDRESS><A HREF="mailto:rwgray@rwgrayprojects.com">rwgray@rwgrayprojects.com</A>
+</ADDRESS>
+</DIV>
+
+<BR>
+
+<DIV ALIGN="center">
+<I>Last updated: 06-11-1999</I>
+</DIV>
+
+</BODY>
+
+<!-- Mirrored from www.rwgrayprojects.com/energy/VACE/calc/calc01.html by HTTrack Website Copier/3.x [XR&CO'2014], Wed, 06 Jan 2016 20:10:05 GMT -->
+</HTML>

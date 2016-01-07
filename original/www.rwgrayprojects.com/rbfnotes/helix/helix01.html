@@ -1,0 +1,545 @@
+<HTML>
+
+<!-- Mirrored from www.rwgrayprojects.com/rbfnotes/helix/helix01.html by HTTrack Website Copier/3.x [XR&CO'2014], Wed, 06 Jan 2016 20:06:54 GMT -->
+<HEAD>
+  <TITLE>
+    Tetrahelix Data
+  </TITLE>
+</HEAD>
+
+<BODY BGCOLOR="white">
+ <font size="+1">
+
+<H1 ALIGN="center">
+   TETRAHELIX DATA
+</H1>
+
+<BR>
+
+<div align="center">
+    <OBJECT classid="clsid:D27CDB6E-AE6D-11cf-96B8-444553540000"
+      codebase="http://download.macromedia.com/pub/shockwave/cabs/flash/swflash.cab#version=5,0,0,0"
+      width=317 height=99> <PARAM NAME=movie VALUE="rotate01.swf">
+      <PARAM NAME=quality VALUE=high> <PARAM NAME=bgcolor VALUE=#000000>
+      <EMBED src="rotate01.swf" quality=high
+        bgcolor=#000000 width=317 height=99 type="application/x-shockwave-flash"
+        pluginspace="http://www.macromedia.com/shockwave/download/index.cgi?P1_Prod_Version=ShockwaveFlash">
+      </EMBED>
+    </OBJECT>
+
+</div>
+
+<P>The tetrahelix of 
+
+<a href="../../synergetics/synergetics.html">
+Fuller's Synergetics 
+</a>
+
+consists of face
+bond regular tetrahedra.  The mathematics for this spiraling
+structure is quit interesting.  Dispite the tetrahelix being composed
+of regular tetrahedra (the "simplest" polyhedron), I have not been 
+able to find a simple
+way to calculate the information for the tetrahelix.
+</p>
+
+<p>
+From the Zheng paper (see References below): "The tetrahedral helix is also called the 'Bernal spiral' in association
+with discussions of liquid structures in the physics literature."
+</p>
+
+<P>
+The vertices of the regular tetrahedra of the tetrahelix all lay
+on the surface of a cylinder.  Let us visualize this cylinder 
+to be along the z-axis.  
+</p>
+
+<div align="center">
+ <img src="cylinder01.jpg">
+<br>
+ <img src="cylinder02.jpg">
+</div>
+
+
+<p>
+The radius of the cylinder will be
+</p>
+
+<div align="center">
+ r = (3 sqrt(3) / 10) EL
+</div>
+
+<p>
+where EL is the edge length of the tetrahedra used to build the 
+tetrahelix.
+</P>
+
+
+
+<P>
+Let us put a vertex (call it V0) of one of the tetrahedra on 
+the x-axis.  That is
+</p>
+
+<div align="center">
+ V0 = (r, 0, 0)
+</div>
+<p>
+Then the next vertex of the tetrahelix (V1) will be at the coordinates
+</p>
+
+<div align="center">
+ V1 = (r cos(theta), r sin(theta), h)
+</div>
+
+<p>
+where theta is the angle around the z-axis and is given by
+</p>
+
+<div align="center">
+ theta = arccos(-2/3)  (approximately 131.8103149 degrees)
+</div> 
+
+<p>
+and where h is the distance in the z-axis direction and is given by
+</p>
+
+<div align="center">
+ h = (1/sqrt(10)) EL
+</div>
+
+
+<p>
+</p>
+
+<div align="center">
+ <img src="NextVertex01.jpg">
+<br>
+ <img src="NextVertex02.jpg">
+</div>
+
+
+<p>
+In the above figures, the yellow band connects a vertex to the "next" vertex, while the 
+distance h is the distance between the 2 blue bands around the cylinder.
+</p>
+
+<p>
+In general, the coordinates for the vertices of a <b>Counter Clockwise</b> tetrahelix
+ Vn (n = 0, 1, 2, 3, ...) are given by
+</p>
+
+<div align="center">
+ Vn = (r cos(n*theta), r sin(n*theta), n*h)
+</div>
+
+
+<p>
+The coordinates for the vertices of a <b>Clockwise</b> tetrahelix
+ Vn (n = 0, 1, 2, 3, ...) are given by
+</p>
+
+<div align="center">
+ Vn = (r cos(n*theta), - r sin(n*theta), n*h)
+</div>
+
+
+<P>
+Note that cos(theta) = -2/3  and that sin(theta) = sqrt(5)/3.  You can 
+calculate exact expressions for the vertex coordinates by using these
+relations together with the following trig identities:
+</p>
+
+<div align="center">
+ cos(n*theta) = cos(theta)*cos((n-1)*theta) - sin(theta)*sin((n-1)*theta)
+<BR>
+ sin(n*theta) = sin(theta)*cos((n-1)*theta) + cos(theta)*sin((n-1)*theta) 
+</div>
+
+<P>
+One of the reasons that deriving the above information is
+difficult is that the axis of symmetry of the cylinder (the axis 
+through the center of the cylinder) does not pass through the 
+center of volume of the tetrahedra.  The distance from the
+z-axis to the tetrahedron center of volume is given by the equation
+</p>
+
+<div align="center">
+ dist. = (sqrt(2)/10) EL
+</div>
+
+<p>
+Therefore, all the Tetrahelix cylinder axis of symmetry pass tangentially by a sphere of 
+radius (sqrt(2)/10)EL centered at the Tetrahedron's center of volume.
+</p>
+
+<br><br>
+<hr width="50%">
+<br>
+
+<H2 align="center">
+Comments
+</H2>
+
+<P>
+
+<UL>
+ <li>
+   Tetrahelix come in 2 orientations; a right-handed spiral and
+   a left-handed spiral.
+
+<div align="center">
+ <img src="cwccw.jpg">
+</div>
+
+   <br>
+ </li>
+
+ <LI>
+   The vertices of the tetrahelix never line up.  That is, no two vertices
+   will ever be directly above one another.  This is because the theta angle
+   above is an irrational number.  
+
+   <div align="center">
+    <img src="alignment.jpg">
+   </div>
+
+   <br>
+  </li>
+
+  <li>
+   It looks like you might be able to "nest" 3 additional tetrahelix
+   about the original tetrahelix in a nice tight bundle.  But this is
+   not possible.  The reason is that face binding 5 tetrahedra together
+   about a single edge/axis leaves a gap (which Fuller calls the 
+   unzipping angle.)  The dihedral angle of the regular tetrahedron is
+   <div align="center">
+    D-tetra = arccos(1/3) (approximately 70.528779 degrees)
+   </div>
+   5 times this amount is approx 352.643895 degrees which is 
+   approx 7.356105 degrees (the unzipping angle) short of 360 degrees.  So
+   the tetrahedra of multiple helixes can not pack together without gaps.
+
+   <br><br>
+  </li>
+
+  <li>
+   There are 12 possible Tetrahelix passing through a single Tetrahedron: 
+   6 Clockwise and 6 Counter clockwise.  
+   As the figure shows, the spiral/coil associated with a Tetrahelix going through
+   a Tetrahedron passes through all 4 vertices of the Tetrahedron sequentially.  Since the 
+   spiral has the same symmetry axes as the Tetrahelix, we can count the number of possible
+   different spirals to count the number of Tetrahelix.
+   
+   <div align="center">
+    <img src="count01.jpg">
+   </div>
+
+   We label the Tetrahedron's vertices by numbering them 1, 2, 3, and 4.  Then
+   there are 4x3x2x1 = 24 combinations for the order in which the spiral can pass through
+   the vertices.  However, 1/2 of these are simply reversals: (1,2,3,4) has the same 
+   spiral symmetry axis as the spiral (4,3,2,1).  That leaves 12 spirals/Tetrahelix. 
+  
+   <br><br>
+   For more details on the way 12 Tetrahelix axes pass through a single Tetrahedron, 
+   
+   <a href="helix02.html">
+    see the next web page.
+   </a>
+
+   <br><br>
+  </li>
+
+  <li>
+   I find that there is a Clockwise and a Counterclockwise spiral associated with every 
+   Tetrahelix.
+
+   <br>
+   <div align="center">
+
+    <OBJECT classid="clsid:D27CDB6E-AE6D-11cf-96B8-444553540000"
+      codebase="http://download.macromedia.com/pub/shockwave/cabs/flash/swflash.cab#version=5,0,0,0"
+      width=469 height=168> <PARAM NAME=movie VALUE="rot02.swf">
+      <PARAM NAME=quality VALUE=high> <PARAM NAME=bgcolor VALUE=#000000>
+      <EMBED src="rot02.swf" quality=high
+        bgcolor=#000000 width=469 height=168 type="application/x-shockwave-flash"
+        pluginspace="http://www.macromedia.com/shockwave/download/index.cgi?P1_Prod_Version=ShockwaveFlash">
+      </EMBED>
+    </OBJECT>
+    <br>
+    <OBJECT classid="clsid:D27CDB6E-AE6D-11cf-96B8-444553540000"
+      codebase="http://download.macromedia.com/pub/shockwave/cabs/flash/swflash.cab#version=5,0,0,0"
+      width=469 height=168> <PARAM NAME=movie VALUE="rot03.swf">
+      <PARAM NAME=quality VALUE=high> <PARAM NAME=bgcolor VALUE=#000000>
+      <EMBED src="rot03.swf" quality=high
+        bgcolor=#000000 width=469 height=168 type="application/x-shockwave-flash"
+        pluginspace="http://www.macromedia.com/shockwave/download/index.cgi?P1_Prod_Version=ShockwaveFlash">
+      </EMBED>
+    </OBJECT>
+   </div>
+   <br>
+   Note that the spacing between adjacent loops in the spiral is different for the CCW
+   spiral versus the CW spiral.
+   <br><br>
+   In both cases, the spirals pass through all the vertices in a Tetrahedron sequentially.
+   <br><br>
+    In both cases, the spiral travels a distance along the z-axis by an amonut
+   <br><br>
+    <div align="center">
+      h = (1/sqrt(10)) EL 
+    </div>
+   <br>
+     But in one case, the spiral travels around the Tetrahelix by an angular amount of 
+   <br><br>
+    <div align="center">
+      theta = arccos(-2/3) (approximately 131.8103149 degrees) 
+    <div align="center">
+   <br>
+     and in the other case, the spiral travels around the Tetrahelix by an angular amount of
+   <br><br>
+    <div align="center">
+      alpha = 360 - arccos(-2/3) (approximately 228.1896851 degrees)    
+   <div>
+   <br><br>
+  </li>
+
+  <LI>
+   (My notes on this (dated 1997) suggests that I am not the originator of this.  Unfortunately,
+    they do not indicate who suggested this originally.)
+   <br><br>
+   If the tetrahedra used to build the tetrahelix are 10-frequency (have 11 vertices per 
+   edge) then the axis of the surrounding tetrahelix
+   cylinder will always pass through the tetrahedra faces at an inner
+   triangular face vertex.  The "triangular face coordinate" which
+   the symmetry axis passes through is (7,3).
+
+   <div align="center">
+    <img src="axes.jpg">
+   </div>
+
+   <br>
+   <a href="proof73.html">
+    Click here to see my proof of this.
+   </a>
+   
+
+   <br><br>
+  </li>
+
+  <li>
+   For a finite length Tetrahelix, all of the Tetrahelix's vertices can be given 
+   rational (x, y, z) coordinates.  Then by scaling, the coordinates' x, y, z, components
+   can be made to be integers.
+   <br><br>
+  </li>
+
+  <LI>
+   I have found that if you allow the vertices to be flexible and allow some of the 
+   tetrahedra egdes to expand in length, the 
+   tetrahelix can fold up into another (shorter) tetrahelix.  When it does, it passes 
+   through an Octahedron phase.
+   <p>
+    Here is a sequence of images to help visualize the transformation.
+   </p>
+
+   <p>
+    First, consider the Tetrahelix to be made up of a number of  3-Tetrahedra units.  By folding up 
+each of these units, the Tetrahelix is reduced.
+   </p>
+
+   <p>
+    We can fold up a 3-Tetra unit as shown in the following figures.
+   </p>
+
+   <div align="center">
+    <img src="Step01.jpg">
+   </div> 
+
+   <p>
+    Not that only the C-to-D edge needs to change its length.  All other edges of the 
+    Tetrahedra remain the same.
+   </p>
+
+  
+   <div align="center">
+    <img src="Step02.jpg">
+    <br>
+    <img src="Step03.jpg">
+    <br>
+    <img src="Step04.jpg">
+   </div> 
+
+   <p>
+    At this point, the 3 Tetrahedra are very close to defining an Octahedron.  They actually
+    do form an Octahedron as the vertices "A" and "B" are brought closer togther.
+   </p>
+
+   <p>
+    When vertices "A" and "B" are brought together, a double Tetrahedron is formed.  That is
+    two Tetrahedra face bound togther.  (This figure only shows one of the 2 Tetrahedra.  The
+   other is hidden behind this one.)
+   </P>
+
+
+   <div align="center">
+    <img src="Step05.jpg">
+   </div> 
+
+
+   <p>
+    The transformation from the 3 Tetrahedra to the Octahedron Fuller calls the 
+      "Richter Transformation".  See Color plate 6 in Fuller's book
+     <a href="../../synergetics/synergetics.html">
+     Synergetics.</a>
+      I am not aware that Fuller continued the transformation described
+     here to transform a Tetrahelix.
+   </p> 
+   <br><br>
+  </li>
+
+
+  <li>
+   Joe Matto suggested to me (October, 2004) that 2 Tetrahelix can intersect each other
+   at 90 degrees.  If we define "intersect" to mean that the axis of symmetry of 2 
+   Tetrahelix pass through a common Tetrahedron and 
+   pass through a common point at 90 degrees, then this statement is not
+   true.  The 2 Tetrahelix "intersect" each other at 
+   <div align="center">
+    2 arcsin(1/sqrt(10)) = 36.86989765... degrees.
+   </div>
+ 
+   <p>
+    However, if we define "intersect" to mean that the 2 Tetrahelix pass through a
+    common Tetrahedron and thier symmetry axes pass by each other at 90 degrees, then 
+    this is true.
+   </p>
+
+   <p>
+    See all the detail on the 
+    <a href="helix02.html">
+      next Tetrahelix web page.
+    </a>
+   </p>
+  </li>
+
+
+  <li>
+   There are 2 ways to place the end of a Tetrahelix flat on the top of a table such that
+   the Tetrahelix riases above the table. 
+
+   <a href="12Points/TriangleCoord.html">
+     See the calculations here.
+   </a>
+
+
+   The angles which the symmetry axis makes with 
+   the table top are:  
+
+    <div align="center">
+      90 - arccos(sqrt(1/15)) = 14.96321744... degrees
+    </div>
+
+   and
+ 
+   <div align="center">
+    90 - arccos(sqrt(3/5)) = 50.76847952... degrees
+   </div>
+
+  </li>
+
+</UL>
+</P>
+
+
+
+<br><br>
+<hr width="50%">
+<br>
+
+
+<h2 align="center">
+ References
+</h2>
+
+<p>
+Here is a list of references.  However, I did not use any of these references 
+for my calculations.  
+
+
+<ul>
+ <li>
+  H. S. M. Coxeter, <i>Introduction to Geometry</i>, Wiley: New York, 1969, p. 412.
+  <br><br>
+ </li>
+
+ <li>
+  Chong Zheng, Roald Hoffman, David R. Nelson, "A Helical Face-Sharing Tetrahedron
+  Chain with Irrational Twist, Stella Quadrangula, and Related Matters", 
+  J. Am. Chem. Soc., 112, pp. 3784-3791, 1990.
+  <br><br>
+ </li>
+
+</ul>
+</p>
+
+<p>
+I have not see the following references. These references are given in the Zheng paper.
+
+<br><br>
+
+<ul> 
+ <li>
+  A. H. Boerdjik, Phillips Res. Rep., 7, p. 303, 1952.  
+  <br><br>
+ </li>
+
+ <li>
+  J. D. Bernal, Proc. R. Soc. London Ser. A, 280, p. 299, 1964.
+  <br><br>
+ </li>
+
+
+ <li>
+  P. J. Steinhardt, D. R. Nelson, M. Ronchetti, Phys. Rev. Lett., 47, p. 1297, 1981.
+  <br><br>
+ </li>
+
+
+ <li>
+  P. J. Steinhardt, D. R. Nelson, M. Ronchetti, Phys. Rev. B, 28, p. 784, 1983.
+  <br><br>
+ </li>
+
+
+ <li>
+  D. R. Nelson, Phys. Rev. B, 28, p. 5515, 1983.
+  <br><br>
+ </li>
+
+
+</ul>
+
+</p>
+
+
+
+
+
+<BR>
+
+<HR>
+<DIV ALIGN="center">
+Go To: <a href="../toc.html">Table of Contents </A>
+or <a href="../../index.html">Home Page </A>
+</DIV>
+<HR>
+<P>Usage Note: My work is copyrighted.  You may use my work but
+you may <I>not</I> include my work, or parts of it, in <I>any</I> 
+for-profit project without my consent.</P>
+<DIV ALIGN="center">
+<ADDRESS><A HREF="mailto:rwgray@rwgrayprojects.com">rwgray@rwgrayprojects.com</A>
+</ADDRESS>
+</DIV>
+</BODY>
+<!-- Mirrored from www.rwgrayprojects.com/rbfnotes/helix/helix01.html by HTTrack Website Copier/3.x [XR&CO'2014], Wed, 06 Jan 2016 20:07:39 GMT -->
+</HTML>

@@ -1,0 +1,359 @@
+<HTML>
+
+<!-- Mirrored from www.rwgrayprojects.com/energy/VACE/calc2/ct.html by HTTrack Website Copier/3.x [XR&CO'2014], Wed, 06 Jan 2016 20:10:05 GMT -->
+<HEAD>
+ 
+<TITLE>VACE Motor Torque Calculations</TITLE>
+
+<SCRIPT LANGUAGE="JavaScript">
+
+ function SumIt()
+ {
+    var d2r = (Math.PI * 2.0) / 360.0;
+    var r2d = 1.0 / d2r;
+
+    var radius = 1.0 * document.forms[0].elements["radius"].value;
+
+    var x2 = (1.0 * document.forms[0].elements["dist"].value) + radius;
+    var y2 = 0.0;
+
+    var dt = 1.0 * document.forms[0].elements["dt"].value;
+
+    var mag = 1.0 * document.forms[0].elements["scale"].value;  
+
+    var pwr = 1.0 * document.forms[0].elements["power"].value;
+
+    // start result page
+    var mywin;
+
+    mywin = window.open("", "mywin");
+
+    mywin.document.open();
+    mywin.document.writeln("<HTML><TITLE>VACE Torque Results</TITLE>");
+    mywin.document.writeln("<BODY>");
+    mywin.document.writeln("<H1 ALIGN=center>VACE Motor Torque Calculations</H1>");
+    mywin.document.writeln("<H2 ALIGN=center>Is a VACE Motor Possible?</H2>");
+
+
+    mywin.document.writeln("<DIV ALIGN=center><IMG SRC=../eq01.gif></DIV>");
+
+
+    mywin.document.writeln("<BR><DIV ALIGN=center>");
+
+    mywin.document.writeln("<BR>\"External\" VACE located at (X1, Y1) = ("+x2+", 0.0)<BR><BR>");
+    mywin.document.writeln("<BR>(1/r) is raised to the power "+pwr+". ");
+    mywin.document.writeln("<BR>(WARNING: Using a value other than 2 makes no sense in terms of the units.)<BR><BR>");
+
+    mywin.document.writeln("<TABLE BGCOLOR=cyan BORDER=2>");
+    mywin.document.writeln("<TR>");
+    mywin.document.writeln("<TD ALIGN=center>Theta</TD>"); 
+    mywin.document.writeln("<TD ALIGN=center>X2</TD>"); 
+    mywin.document.writeln("<TD ALIGN=center>Y2</TD>"); 
+    mywin.document.writeln("<TD ALIGN=center>r</TD>"); 
+    mywin.document.writeln("<TD ALIGN=center>Alpha</TD>");
+    mywin.document.writeln("<TD ALIGN=center>Beta</TD>");
+    mywin.document.writeln("<TD ALIGN=center>Epsilon</TD>");
+    mywin.document.writeln("<TD ALIGN=center>Force</TD>");
+    mywin.document.writeln("<TD ALIGN=center>Torque</TD>");
+    mywin.document.writeln("</TR>");
+    mywin.document.writeln("<TR>");
+
+    var theta   = 0.0;
+    var atheta  = 0.0;
+    var alpha   = 0.0;
+    var beta    = 0.0;
+    var epsilon = 0.0;
+    var force   = 0.0;
+    var torque  = 0.0; 
+    var tot     = 0.0;       
+    var d12 = 0.0;
+    var dpwr = 0.0;
+    var x1 = 0.0;
+    var y1 = 0.0;  
+
+    for (theta = 0.0; theta < 180.0; theta += dt)
+    {
+
+      x1 = radius * Math.cos(d2r * theta);
+      y1 = radius * Math.sin(d2r * theta);       
+
+      d12 = Math.sqrt((x2 - x1) * (x2 - x1) + (y2 - y1) * (y2 - y1));
+
+      beta = r2d * Math.acos( (x2 - x1) / d12 );
+
+      alpha = theta + beta - 90.0;
+
+      epsilon = beta - alpha;
+
+      dpwr = Math.pow(d12, pwr);
+ 
+      force = (mag / dpwr) * (2.0 * Math.cos(d2r * epsilon) - 3.0 * Math.cos(d2r * alpha) * Math.cos(d2r * beta)); 
+ 
+      torque = d12 * force * Math.cos(d2r * alpha);
+
+      tot += torque; 
+       
+      // convert the numbers to strings;
+       
+      atheta = theta;
+     
+      if (((atheta > 0.0) && (atheta <  0.000001)) ||
+          ((atheta < 0.0) && (atheta > -0.000001)) )  
+      {
+        atheta = 0.0;
+      } 
+      // round off the number
+      atheta = atheta + 0.0005;
+      stheta = atheta.toString();
+      i = stheta.indexOf(".");
+      i += 4;
+      stheta = stheta.substring(0,i);                 
+        
+
+      if (((alpha > 0.0) && (alpha <  0.000001)) ||
+          ((alpha < 0.0) && (alpha > -0.000001)) )  
+      {
+        alpha = 0.0;
+      } 
+      // round off the number
+      alpha = alpha + 0.0005;
+      salpha = alpha.toString();
+      i = salpha.indexOf(".");
+      i += 4;
+      salpha = salpha.substring(0,i);                 
+
+      if (((beta > 0.0) && (beta <  0.000001)) ||
+          ((beta < 0.0) && (beta > -0.000001)) )  
+      {
+        beta = 0.0;
+      } 
+      // round off the number
+      beta = beta + 0.0005;
+      sbeta = beta.toString();
+      i = sbeta.indexOf(".");
+      i += 4;
+      sbeta = sbeta.substring(0,i);                 
+
+      if (((epsilon > 0.0) && (epsilon <  0.000001)) ||
+          ((epsilon < 0.0) && (epsilon > -0.000001)) )  
+      {
+        epsilon = 0.0;
+      } 
+      // round off the number
+      epsilon = epsilon + 0.0005;
+      sepsilon = epsilon.toString();
+      i = sepsilon.indexOf(".");
+      i += 4;
+      sepsilon = sepsilon.substring(0,i);                 
+
+      if (((force > 0.0) && (force <  0.000001)) ||
+          ((force < 0.0) && (force > -0.000001)) )  
+      {
+        force = 0.0;
+      } 
+      // round off the number
+      force = force + 0.0005;
+      sforce = force.toString();
+      i = sforce.indexOf(".");
+      i += 4;
+      sforce = sforce.substring(0,i);                 
+
+      if (((torque > 0.0) && (torque <  0.000001)) ||
+          ((torque < 0.0) && (torque > -0.000001)) )  
+      {
+        torque = 0.0;
+      } 
+      // round off the number
+      torque = torque + 0.0005;
+      storque = torque.toString();
+      i = storque.indexOf(".");
+      i += 4;
+      storque = storque.substring(0,i);                 
+
+
+      if (((x1 > 0.0) && (x1 <  0.000001)) ||
+          ((x1 < 0.0) && (x1 > -0.000001)) )  
+      {
+        x1 = 0.0;
+      } 
+      // round off the number
+      x1 = x1 + 0.0005;
+      sx1 = x1.toString();
+      i = sx1.indexOf(".");
+      i += 4;
+      sx1 = sx1.substring(0,i);
+
+
+      if (((y1 > 0.0) && (y1 <  0.000001)) ||
+          ((y1 < 0.0) && (y1 > -0.000001)) )  
+      {
+        y1 = 0.0;
+      } 
+      // round off the number
+      y1 = y1 + 0.0005;
+      sy1 = y1.toString();
+      i = sy1.indexOf(".");
+      i += 4;
+      sy1 = sy1.substring(0,i);
+
+
+      if (((d12 > 0.0) && (d12 <  0.000001)) ||
+          ((d12 < 0.0) && (d12 > -0.000001)) )  
+      {
+        d12 = 0.0;
+      } 
+      // round off the number
+      d12 = d12 + 0.0005;
+      sd12 = d12.toString();
+      i = sd12.indexOf(".");
+      i += 4;
+      sd12 = sd12.substring(0,i);
+
+
+      mywin.document.writeln("<TD ALIGN=left>"+stheta+"</TD>");
+      mywin.document.writeln("<TD ALIGN=left>"+sx1+"</TD>");
+      mywin.document.writeln("<TD ALIGN=left>"+sy1+"</TD>");
+      mywin.document.writeln("<TD ALIGN=left>"+sd12+"</TD>");
+      mywin.document.writeln("<TD ALIGN=left>"+salpha+"</TD>");
+      mywin.document.writeln("<TD ALIGN=left>"+sbeta+"</TD>");
+      mywin.document.writeln("<TD ALIGN=left>"+sepsilon+"</TD>");
+      mywin.document.writeln("<TD ALIGN=left>"+sforce+"</TD>");
+      mywin.document.writeln("<TD ALIGN=left>"+storque+"</TD>");
+      mywin.document.writeln("</TR>");
+
+    } // end for statement   
+
+    mywin.document.writeln("</TABLE>");
+
+    mywin.document.writeln("<P>Total Torque = "+(2.0 * tot)+"</P>");
+
+    mywin.document.writeln("</DIV></BODY></DOC>");
+
+    mywin.document.close();
+
+  } // end SumIt
+
+
+</SCRIPT>
+
+</HEAD>
+
+<BODY BGCOLOR=white>
+
+<H1 ALIGN=center>VACE Motor Torque Calculations</H1>
+
+<H2 ALIGN=center>Is a VACE Motor Possible?</H2>
+
+
+<P>
+You can use this web page to calculate the total 
+"relative" torque on a VACE torus due to a single 
+"external" VACE.  
+</P>
+
+<P>
+The general setup is shown below.
+</P>
+
+<DIV ALIGN=center>
+<IMG SRC="fig01.gif">
+</DIV>
+
+<P>
+It is assumed that the force between two VACEs follows 
+Ampere's force law. 
+</P>
+
+<DIV ALIGN=center>
+<IMG SRC="../eq01.gif">
+</DIV>
+
+<P>
+Using this equation, the forces and torques are tabulated.  
+It is assumed that a VACE is positioned in the torus at each theta
+increament.
+</P>
+
+<P>
+Just fill in the following information and click on the 
+"Calculate" button.  Once the table is displayed, click on your
+web browser's "Back" button to return to this page.
+</P>
+
+<HR>
+
+<DIV ALIGN=center>
+
+<FORM>
+
+<P>
+What is the radius of the VACE torus?
+<INPUT TYPE=text NAME=radius VALUE=1.0 SIZE=6 MAXLENGTH=6>
+<BR>
+(For simplicity, the torus VACE is assumed to have no width.) 
+ 
+</P>
+
+<P>
+How far away is the external VACE to the torus VACE?
+<INPUT TYPE=text NAME=dist VALUE=0.5 SIZE=6 MAXLENGTH=6>
+</P>
+
+<P>
+What increament do you wish to use for theta?
+<INPUT TYPE=text NAME=dt VALUE=5.0 SIZE=6 MAXLENGTH=6>
+<BR>
+(180.0 / increament = Number of rows in table.)
+</P>
+
+<P>
+What factor do you wish to use for the magnitude of the current elements?
+<INPUT TYPE=text NAME=scale VALUE=10.0 SIZE=6 MAXLENGTH=6>
+<BR>
+(This is a scale factor used to scale each force calculated.)
+<BR>
+(WARNING: Using a value other than 2 makes no sense in terms of the units.)
+</P>
+
+
+<P>
+What power do you wish for the (1/r) factor ?
+<INPUT TYPE=text NAME=power VALUE=2.0 SIZE=6 MAXLENGTH=6>
+<BR>
+(Ampere's force equation uses 2, but you can specify a different value.)
+</P>
+
+
+<P>
+<INPUT TYPE=reset VALUE="Clear Values">
+<INPUT TYPE=button VALUE="Calculate" ONCLICK="SumIt();">
+</P>
+
+</FORM>
+
+</DIV>
+
+<HR>
+
+<P>Usage Note: My work is copyrighted.  You may use my work but
+you may <I>not</I> include my work, or parts of it, in <I>any</I> 
+for-profit project
+without my consent.</P>
+
+<HR>
+
+<DIV ALIGN="center">
+<ADDRESS><A HREF="mailto:rwgray@rwgrayprojects.com">rwgray@rwgrayprojects.com</A>
+</ADDRESS>
+</DIV>
+
+<BR>
+
+<DIV ALIGN="center">
+<I>Last updated: 06-17-1999</I>
+</DIV>
+
+</BODY>
+
+<!-- Mirrored from www.rwgrayprojects.com/energy/VACE/calc2/ct.html by HTTrack Website Copier/3.x [XR&CO'2014], Wed, 06 Jan 2016 20:10:05 GMT -->
+</HTML>

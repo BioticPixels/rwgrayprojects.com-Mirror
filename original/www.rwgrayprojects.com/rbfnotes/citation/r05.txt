@@ -1,0 +1,43 @@
+------------------------------------------------------------ 
+
+
+   RECORD NO.:  2995991 INSPEC Abstract No: A87128958
+       AUTHOR:  Cook, N.D.; Dallacasa, V.
+  CORP SOURCE:  Wolfson Coll., Oxford Univ., UK
+        TITLE:  The FCC nuclear model. II. Model predictions concerning 
+                nuclear radii, binding energies and excited states
+       SOURCE:  Nuovo Cimento A, vol.97A, ser.2, no.1, p. 184-201
+         ISSN:  0369-3546
+        CODEN:  NIFAAM
+PLACE OF PUBL:  Italy
+TRANSLATED IN:  A15
+     LANGUAGE:  English
+         YEAR:  Jan. 1987
+    TREATMENT:  T Theoretical or Mathematical
+     ABSTRACT:  For part I see ibid., vol.97A, no.1, p.157, (1987). An 
+                isomorphism was shown to exist between the known nucleon 
+                eigenvalues and the symmetries of an antiferromagnetic face-
+                centred cubic (FCC) lattice of protons and neutrons. Based 
+                upon the exact correspondence between nucleon states and 
+                positions in the FCC lattice, the properties of individual 
+                nuclei can be deduced with few additional assumptions or 
+                empirical input. Here, nuclear RMS radial values and binding 
+                energies of isotopes across the periodic chart have been 
+                determined. Nuclear 'skin' parameters and the excited states 
+                of selected nuclei have also been calculated and demonstrate 
+                the realistic nature of FCC model predictions. Attenuation 
+                of the periodic chart at Z<110 is predicted and a brief 
+                comparison with other solid phase nuclear models is made 
+                (20 Refs.)
+  DESCRIPTORS:  nuclear binding energy; nuclear energy levels; nuclear size; 
+                nuclear structure theory
+  IDENTIFIERS:  FCC lattice; RMS radial values; nuclear skin parameters; FCC 
+                nuclear model; nuclear radii; binding energies; excited 
+                states; isomorphism; nucleon eigenvalues; symmetries; 
+                nucleon states; binding energies; solid phase nuclear models
+  CLASS CODES:  A2110D (Binding energy and masses); A2110F (Shape, charge, 
+                radius, form factors and structure functions); A2110M (Level 
+                density and structure); A2160 (Nuclear-structure models and 
+                methods)
+ 
+------------------------------------------------------------ 

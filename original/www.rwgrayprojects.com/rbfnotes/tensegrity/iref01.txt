@@ -1,0 +1,38 @@
+
+
+------------------------------------------------------------ 
+
+      AUTHOR: Wang, Ning.; Butler, James P.; Ingber, Donald E. 
+       TITLE: Mechanotransduction across the cell surface and through the 
+              cytoskeleton.  
+      SOURCE: Science v. 260 (May 21 '93) p. 1124-7 bibl il.
+   ABSTRACTS: Mechanical stresses were applied directly to cell surface 
+              receptors with a magnetic twisting device.  The extracellular 
+              matrix receptor, integrin B1, induced focal adhesion formation 
+              and supported a force-dependent stiffening response, whereas 
+              nonadhesion receptors did not.  The cytoskeletal stiffness 
+              (ratio of stress to strain) increased in direct proportion to 
+              the applied stress and required intact microtubules and 
+              intermediate filaments as well as microfilaments. Tensegrity 
+              models that incorporate mechanically interdependent struts and 
+              strings that reorient globally in response to a localized 
+              stress mimicked this response.  These results suggest that 
+              integrins act as mechanoreceptors and transmit mechanical 
+              signals to the cytoskeleton. Mechanotransduction, in turn, may 
+              be mediated simultaneously at multiple locations inside the 
+              cell through force-induced rearrangements within a tensionally 
+              integrated cytoskeleton. Copyright 1993 by the AAAS.
+ STANDARD NO: 0036-8075
+        DATE: 1993
+       PLACE: United States
+ RECORD TYPE: art
+    CONTENTS: feature article
+     SUBJECT: Signal transduction. 
+              Sensory receptors. 
+              Integrins. 
+              Cytoskeleton.
+
+ 
+------------------------------------------------------------ 
+------------------------------------------------------------
+

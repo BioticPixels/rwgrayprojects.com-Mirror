@@ -1,0 +1,85 @@
+<HTML>
+
+<!-- Mirrored from www.rwgrayprojects.com/rbfnotes/maps/graymapa.html by HTTrack Website Copier/3.x [XR&CO'2014], Wed, 06 Jan 2016 20:08:09 GMT -->
+<HEAD><TITLE>Robert W. Gray's Fuller Notes</TITLE>
+</HEAD>
+<BODY BGCOLOR="white">
+<H1 ALIGN="CENTER">An Algorithm For Fuller's World Map</H1>
+<BR>
+
+<font size="+1">
+
+<P>
+The general overview of the algorithm I use is:
+
+<P>
+First... 
+<ol>
+ <li>Understand layout of Icosahedron on sphere.
+ <li>Understand layout of map in plane.
+ <li>Define a "standard" spherical triangle into which all sphere points 
+     will get mapped to.
+ <li>Define a standard plane equilateral triangle into which all the standard 
+     spherical triangle points will get mapped to.
+</ol>
+</p>
+
+<P>
+Then...
+<ol>
+ <li>Select a point P=(long. lat.) to be mapped to (x, y).
+ <li>Determine which of the 20 Icosahedron spherical triangles the point P1 falls within.
+ <li>Change the point's P1 coordinates to a corresponding point P2 in the 
+     "standard" spherical triangle.
+ <li>Determine the arc *distances* d1, d2, d3 along the three sides of the 
+     "standard" spherical
+     triangle which uniquely identifies the location of the point P2. 
+ <li>Use these same *distances* d1, d2, d3, along the flat edges of the 
+     standard *plane* equilateral triangle to define (at most) a small plane 
+     triangle. This small plane triangle will have (at most) 3 vertices V1, V2, V3.  
+ <li>Calculate the 
+     average of (at most) V1, V2, V3 to get the point P3.
+ <li>Translate and rotate the point P3 onto the plane map.  This depends on which 
+     Icosahedron spherical triangle the original point P1 was in.        
+</ol>
+
+<P>
+We want to map any (longitude, latitude) coordinate of the World sphere to an 
+(x, y) coordinate on the plane map.
+</p>
+<P>
+We must first understand that the sphere is divided into 20 spherical triangles. 
+This is "simply" the Icosahedron projected onto the world sphere.  Fuller 
+positioned the Icosahedron in a special way.  
+<a href=graymap4.html>(See this web page for a
+table of coordinates for the Icosahedron's 12 vertices.)</a>    
+</P>
+
+<P>
+Because each of the 20 spherical triangles are the same shape and size, we only
+need to understnad how to transform an arbitrary point within a single triangle 
+from (longitude, latitude) to (x, y).
+</P>
+
+<P>
+So, the first step of the algorithm is to determine and remember which of the 
+20 spherical triangles the point is within.
+</P>
+
+<p>
+This is accomplished by using the table of the 12 vertex coordinates and
+calculating the distance from the selected point P=(longitude, latitude)
+to each vertex. 
+
+<HR>
+<P>Usage Note: My work is copyrighted.  You may use my work but
+you may <I>not</I> include my work, or parts of it, in <I>any</I> for-profit project
+without my consent.</P>
+<DIV ALIGN="center">
+<ADDRESS><A HREF="mailto:rwgray@rwgrayprojects.com">rwgray@rwgrayprojects.com</A>
+</ADDRESS>
+</DIV>
+</BODY>
+
+<!-- Mirrored from www.rwgrayprojects.com/rbfnotes/maps/graymapa.html by HTTrack Website Copier/3.x [XR&CO'2014], Wed, 06 Jan 2016 20:08:09 GMT -->
+</HTML>

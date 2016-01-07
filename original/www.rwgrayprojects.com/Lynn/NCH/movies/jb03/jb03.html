@@ -1,0 +1,139 @@
+<html>
+ 
+<!-- Mirrored from www.rwgrayprojects.com/Lynn/NCH/movies/jb03/jb03.html by HTTrack Website Copier/3.x [XR&CO'2014], Wed, 06 Jan 2016 21:42:49 GMT -->
+<head>
+
+
+  <script language="JavaScript">
+
+   var numImages = 17;
+   var images = new Array(numImages);
+   
+   for (i=0; i< numImages; i++)
+   {
+     images[i] = new Image;
+     images[i].src = "capture"+(i+1)+".jpg";
+
+   } // end for statement
+
+   var img = 0;
+   var id = 0;
+   
+   var speed = 100;
+
+   function Mstart()
+   {
+     img = img + 1;
+     img = img % numImages;
+
+     top.document.forms.theForm.fn.value = img+1;
+
+     top.document.images.icon.src = images[img].src;
+
+     id = setTimeout("Mstart();", speed);  
+
+   } // end start;
+
+   function stop()
+   {
+     clearTimeout(id);
+//     top.document.images.icon.src = images[0].src;     
+   } // end stop() 
+
+
+   function prev()
+   {
+     stop(); 
+
+     img = img - 1;
+     if (img < 0) img = numImages - 1;
+     img = img % numImages;
+
+     top.document.forms.theForm.fn.value = img+1;
+
+     top.document.images.icon.src = images[img].src;
+
+   } // end prev
+
+
+   function next()
+   {
+     stop(); 
+
+     img = img + 1;
+     img = img % numImages;
+
+     top.document.forms.theForm.fn.value = img+1;
+
+     top.document.images.icon.src = images[img].src;
+
+   } // end next
+
+
+    function setSpeed()
+    {
+     
+      var n = top.document.forms.theForm.sn.value;
+ 
+      if ( (n > 1) && (n < 900) ) speed = n;           
+ 
+    } // end setSpeed  
+
+  </script>
+
+ </head>
+
+ <body>
+
+ <h1 align="center">Animation</h1>  
+
+<P>
+<font size="+1">
+This animation may take a long time to download.  Please wait for
+this page to completely load before clicking on the "Play" button.
+</font>
+</P>
+ 
+
+  <table border=1 align="center">
+   <tr>
+    <td align="center">
+      <img src="capture1.jpg" name="icon">
+      <br>
+      <font size="+1">Jitterbug motion</font>
+    </td>
+   </tr>
+   <tr>
+    <td align="center"> 
+     <form name="theForm">
+      <input type="button" value="Play" onclick="Mstart();">
+      <input type="button" value="Stop" onclick="stop();">
+      <input type="button" value=" < " onclick="prev();">
+      <input type="button" value=" > " onclick="next();">
+       <br>
+      <font size="+1">Frame <input type="text" name="fn" value="1" size="3" maxlength="3"></font> 
+      <font size="+1">Speed <input type="text" name="sn" value="100" size="3" maxlength="3" onchange="setSpeed();"></font> 
+     </form>
+    </td>
+   <tr>
+  </table> 
+
+<br>
+<hr>
+
+<div align="center">
+Copyright November 2000, Robert W. Gray
+</div> 
+
+<hr>
+<br>
+
+<DIV ALIGN="center">
+<ADDRESS><A HREF="mailto:rwgray@rwgrayprojects.com">rwgray@rwgrayprojects.com</A>
+</ADDRESS>
+</DIV>
+
+</body>
+
+<!-- Mirrored from www.rwgrayprojects.com/Lynn/NCH/movies/jb03/jb03.html by HTTrack Website Copier/3.x [XR&CO'2014], Wed, 06 Jan 2016 21:42:49 GMT -->
+</html>

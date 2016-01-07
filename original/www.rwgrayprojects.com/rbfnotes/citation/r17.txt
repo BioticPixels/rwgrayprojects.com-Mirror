@@ -1,0 +1,34 @@
+------------------------------------------------------------ 
+
+
+   RECORD NO.:  1700584 INSPEC Abstract No: A81059124
+       AUTHOR:  Dallacasa, V.
+  CORP SOURCE:  Inst. di Fisica, Univ. GNSM, Parma, Italy
+        TITLE:  FCC (face centered cubic) lattice model for nuclei
+       SOURCE:  Atomkernenergie Kerntechnik, vol.37, no.2, p. 143-4
+         ISSN:  0171-5747
+        CODEN:  ATKEDU
+PLACE OF PUBL:  West Germany
+     LANGUAGE:  English
+         YEAR:  1981
+    TREATMENT:  T Theoretical or Mathematical
+     ABSTRACT:  The FCC crystalline model of nuclear matter has been 
+                developed, based on the random phase approximation. The 
+                simple calculation showed that the model may be justified. 
+                The crystalline arrangement was mainly due to the attractive 
+                part of the nuclear force. The statistical treatment used 
+                was really relevant for heavy nuclei but could be extended 
+                to light nuclei because the important factor is nuclear 
+                density. Exchange was not examined, nor were dynamic 
+                collective modes, but these could be added later (15 Refs.)
+  DESCRIPTORS:  nuclear density; nuclear forces; nuclear matter; RPA 
+                calculations
+  IDENTIFIERS:  lattice model; FCC crystalline model; nuclear matter; random 
+                phase approximation; nuclear force; statistical treatment; 
+                nuclear density
+  CLASS CODES:  A2110F (Nuclear shape, charge, radius, form factors and 
+                structure functions); A2130 (Nuclear forces); A2160J 
+                (Hartree-Fock and random-phase approximations in nuclei); 
+                A2165 (Nuclear matter)
+ 
+------------------------------------------------------------ 

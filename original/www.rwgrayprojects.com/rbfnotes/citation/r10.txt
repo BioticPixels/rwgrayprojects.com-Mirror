@@ -1,0 +1,34 @@
+------------------------------------------------------------ 
+
+
+   RECORD NO.:  1013238 INSPEC Abstract No: A77014042
+       AUTHOR:  Cook, N.D.
+        TITLE:  An FCC lattice model for nuclei
+       SOURCE:  Atomkernenergie, vol.28, no.3, p. 195-9
+         ISSN:  0004-7147
+        CODEN:  ATKEAR
+PLACE OF PUBL:  West Germany
+     LANGUAGE:  English
+         YEAR:  1976
+    TREATMENT:  T Theoretical or Mathematical
+     ABSTRACT:  In light of Lezuo's (see Z. Naturforschung, vol.30a, p.1018 
+                (1975)) successful treatment of the elastic form factors for 
+                /sup 16/O and /sup 40/Ca based upon a model of close packed 
+                spheres, an FCC (face centred cubic) model for all nuclei is 
+                proposed. The questions concerning the nuclear volume and 
+                density and the theoretical values for the solidification of 
+                nuclear matter are discussed. The known quantal features of 
+                nuclei are found to correlate precisely with the FCC lattice 
+                built from a tetrahedron. Shell, alpha particle and liquid 
+                drop-like characteristics are described and finally a 
+                largest possible nucleide at 166 neutrons and 106 protons is 
+                predicted (11 Refs.)
+  DESCRIPTORS:  nuclear density; nuclear size; nuclear structure theory
+  IDENTIFIERS:  FCC lattice model; nuclei; nuclear volume; density; nuclear 
+                matter solidification; shell properties; liquid drop 
+                properties; cluster properties
+  CLASS CODES:  A2110F (Nuclear shape, charge, radius, form factors and 
+                structure functions); A2160 (Nuclear-structure models and 
+                methods)
+ 
+------------------------------------------------------------ 

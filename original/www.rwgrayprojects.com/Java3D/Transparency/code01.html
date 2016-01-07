@@ -1,0 +1,472 @@
+<html>
+ 
+<!-- Mirrored from www.rwgrayprojects.com/Java3D/Transparency/code01.html by HTTrack Website Copier/3.x [XR&CO'2014], Wed, 06 Jan 2016 22:27:34 GMT -->
+<head>
+  <title>Transparency problems</title>
+ </head> 
+
+ <body>
+ <pre>
+
+package transp;
+
+import java.awt.*;
+import java.awt.event.*;
+import java.applet.*;
+
+import javax.swing.*;
+import javax.media.j3d.*;
+import javax.vecmath.*;
+
+import com.sun.j3d.utils.universe.*;
+
+
+public class TestTransp extends JApplet
+{
+  boolean isStandalone = false;
+  static  JFrame frame = null;
+
+  /**Get a parameter value*/
+  public String getParameter(String key, String def)
+  {
+    return isStandalone ? System.getProperty(key, def) :
+      (getParameter(key) != null ? getParameter(key) : def);
+  }
+
+  /**Construct the applet*/
+  public TestTransp()
+  {
+  }
+
+  /**Initialize the applet*/
+  public void init()
+  {
+    try
+    {
+      jbInit();
+    }
+    catch(Exception e)
+    {
+      e.printStackTrace();
+    }
+  } // end init()
+
+  /**Component initialization*/
+  private void jbInit() throws Exception
+  {
+    try
+    {
+      UIManager.setLookAndFeel("com.sun.java.swing.plaf.windows.WindowsLookAndFeel");
+    } // end try part
+    catch(Exception e)
+    {
+      System.out.println("Error setting Windows LAF: " + e);
+    } // end catch part
+
+    if (frame == null) setupFrame();
+
+    // Build the initial scene.
+    Canvas3D the3DCanvas = new Canvas3D(SimpleUniverse.getPreferredConfiguration());
+    SimpleUniverse theSimpleUniverse = new SimpleUniverse(the3DCanvas);
+
+    BranchGroup scene = createInitialSceneGraph(theSimpleUniverse);
+    theSimpleUniverse.addBranchGraph(scene);
+
+    // Put objects into frame window.
+
+    frame.getContentPane().add("Center", the3DCanvas);
+
+    frame.setVisible(true);
+
+  } // end jbInit()
+
+  void setupFrame()
+  {
+    Toolkit theKit = this.getToolkit();
+    Dimension windowSize = theKit.getScreenSize();
+
+    frame = new JFrame()
+    {
+      protected void processWindowEvent(WindowEvent e)
+      {
+        super.processWindowEvent(e);
+        if (e.getID() == WindowEvent.WINDOW_CLOSING)
+        {
+          System.exit(0);
+        }
+      }
+      public synchronized void setTitle(String title)
+      {
+        super.setTitle(title);
+        enableEvents(AWTEvent.WINDOW_EVENT_MASK);
+      }
+    };
+
+    frame.getContentPane().setBackground(Color.black);
+    frame.setSize(new Dimension(windowSize.width / 2, windowSize.height / 2));
+    frame.getContentPane().setLayout(new BorderLayout());
+
+  } // end setupFrame
+
+
+  /**Start the applet*/
+  public void start()
+  {
+  }
+
+  /**Stop the applet*/
+  public void stop()
+  {
+  }
+
+  /**Destroy the applet*/
+  public void destroy()
+  {
+  }
+
+  /**Get Applet information*/
+  public String getAppletInfo()
+  {
+    return "Applet Information";
+  }
+
+  /**Get parameter info*/
+  public String[][] getParameterInfo()
+  {
+    return null;
+  }
+
+  /**Main method*/
+  public static void main(String[] args)
+  {
+    TestTransp applet = new TestTransp();
+    applet.isStandalone = true;
+
+    // I like seperate window for 3D stuff.
+    if (frame == null) applet.setupFrame();
+
+    applet.init();
+    applet.start();
+
+  } // end main
+
+
+  /////////////////////////////////////////
+  // Methods for creating various objects
+  // for testing transparency.
+
+ public BranchGroup createInitialSceneGraph(SimpleUniverse SU)
+ {
+    // Create the root of the branch graph
+    BranchGroup objRoot = new BranchGroup();
+
+    BoundingSphere worldBounds = new BoundingSphere(new Point3d( 0.0, 0.0, 0.0 ), 10000.0 );
+
+    // Create an (ambient) light source
+
+    TransformGroup lightTG = new TransformGroup();
+    Transform3D lightT3D = new Transform3D();
+    lightT3D.set(new Vector3d(20.0, 0.0, 0.0));
+
+    DirectionalLight DL = new DirectionalLight(new Color3f(1.0f, 1.0f, 1.0f),
+                                               new Vector3f(-1.0f, 0.0f, 0.0f));
+    DL.setInfluencingBounds(worldBounds);
+    lightTG.setTransform(lightT3D);
+    lightTG.addChild(DL);
+    objRoot.addChild(lightTG);
+
+    AmbientLight lightA = new AmbientLight();
+    lightA.setInfluencingBounds(worldBounds);
+
+    objRoot.addChild(lightA);
+
+    // Set the initial viewing platform location
+
+    TransformGroup vpTG = null;
+    Transform3D vpT3D = new Transform3D();
+
+    vpTG = SU.getViewingPlatform().getViewPlatformTransform();
+
+    vpT3D.lookAt(new Point3d(20.0, 0.0, 0.0),
+                 new Point3d(0.0, 0.0, 0.0),
+                 new Vector3d(0.0, 0.0, 1.0));
+
+    vpT3D.invert();
+
+    vpTG.setTransform(vpT3D);
+
+    // For transparency, make sure everything is rendered in correct depth order.
+//    SU.getViewer().getView().setDepthBufferFreezeTransparent(false);
+
+    SU.getViewer().getView().setDepthBufferFreezeTransparent(true);
+    SU.getViewer().getView().setTransparencySortingPolicy(View.TRANSPARENCY_SORT_GEOMETRY);
+    SU.getViewer().getView().setBackClipDistance(100.0);
+
+    // Create background.
+    Background BGround = new Background();
+    BGround.setApplicationBounds(worldBounds);
+
+    objRoot.addChild(BGround);
+
+    // Make the objects to be displayed.
+
+    TransformGroup objTG = new TransformGroup();
+    Transform3D objT3D = new Transform3D();
+    objT3D.rotY(d2r(30.0));
+    objTG.setTransform(objT3D);
+    objTG.addChild(makeObjects());
+
+    objRoot.addChild(objTG);
+
+    return(objRoot);
+
+ } // end of createSceneGraph method
+
+ BranchGroup makeObjects()
+ {
+    BranchGroup BG = new BranchGroup();
+
+    // Create the torus
+
+    Shape3D Torus;
+
+
+
+    ////////////////////////////////////////////
+    // Create the torus-like geometry.
+
+    // Outer
+    Shape3D Torus1 = createTorusGeometry2(10.0f, 85.0f, 5.0f, 0.5f);
+    Torus1.setAppearance(createTorusAppearance(Color.red));
+
+    // Middle
+    Shape3D Torus2 = createTorusGeometry2(15.0f, 80.0f, 4.0f, 0.7f);
+    Torus2.setAppearance(createTorusAppearance(Color.blue));
+
+    // Inner most torus
+    Shape3D Torus3 = createTorusGeometry2(20.0f, 70.0f, 3.0f, 0.9f);
+    Torus3.setAppearance(createTorusAppearance(Color.green));
+
+    // Use an ordered group so *we* control the order in which objects
+    // get rendered.
+
+    OrderedGroup OBG = new OrderedGroup();
+
+    OBG.addChild(Torus3);  // render this one 1st
+    OBG.addChild(Torus2);  // render this one 2nd
+    OBG.addChild(Torus1);  // render this one 3rd
+
+    BG.addChild(OBG);
+
+    return BG;
+
+ } // end makeObjects
+
+
+
+
+
+ Shape3D createTorusGeometry2(float startTheta, float endTheta,
+                              float radius,     float funnelRadius)
+ {
+   // This method creates one QuadArray for the entire object.
+   // The QuadArray will have many quad coordinates and normals defined.
+
+   Shape3D theShape3D = new Shape3D();
+
+   float thetaInc =  5.0f;  //  5 degree increaments.
+   float phiInc   =  5.0f;  // 5 degree increaments.
+
+   int numThetaDiv = (int)((endTheta - startTheta) / thetaInc) + 1;
+   int numPhiDiv = (int)(360.0f / phiInc);
+
+   Vector3f[][] thePoints = new Vector3f[numPhiDiv][numThetaDiv+1];
+
+    // populate the first longitude circle.
+
+    float x;
+    float y;
+    float z;
+
+    int i = 0;
+    int j = 0;
+
+    for (float phi=0.0f; phi<360.0f; phi=phi+phiInc)
+    {
+      j = 0;
+
+      for (float theta=startTheta; theta<=endTheta; theta=theta+thetaInc)
+      {
+        // calculate the inside funnel point.
+        if (j == 0)
+        {
+          x = (float)(funnelRadius * Math.cos(d2r(phi)));
+          y = (float)(funnelRadius * Math.sin(d2r(phi)));
+          z = (float)(radius * Math.cos(d2r(endTheta)));
+
+          thePoints[i][j] = new Vector3f(x, y, z);
+
+          j = j + 1;
+        } // end if statement
+
+        x = (float)(radius * Math.sin(d2r(theta)) * Math.cos(d2r(phi)));
+        y = (float)(radius * Math.sin(d2r(theta)) * Math.sin(d2r(phi)));
+        z = (float)(radius * Math.cos(d2r(theta)));
+
+        thePoints[i][j] = new Vector3f(x, y, z);
+
+        j = j + 1;
+      } // end for theta statement
+
+      i = i + 1;
+    } // end for phi statement
+
+
+    // We now have all the points to make the geometry.
+
+    Vector3f hld1 = new Vector3f(0.0f, 0.0f, 0.0f);
+    Vector3f hld2 = new Vector3f(0.0f, 0.0f, 0.0f);
+
+System.out.println("i: "+i+" j: "+j);
+
+    int numPoints = 2 * (4 * i * j );
+    Point3f[] coord  = new Point3f[numPoints];
+    Vector3f[] norms = new Vector3f[numPoints];
+
+    QuadArray qa = new QuadArray(numPoints, QuadArray.COORDINATES | QuadArray.NORMALS);
+
+    int p = 0;
+
+    for (int m=0; m&lt;i; m++)
+    {
+      for (int n=0; n&lt;j; n++)
+      {
+        int a = m+1;
+        if (a == i) a = 0;
+        int b = n+1;
+        if (b == j) b = 0;
+
+        coord[p+0] = new Point3f(thePoints[m][n]);
+        coord[p+1] = new Point3f(thePoints[m][b]);
+        coord[p+2] = new Point3f(thePoints[a][b]);
+        coord[p+3] = new Point3f(thePoints[a][n]);
+
+        hld1 = new Vector3f((coord[p+0].x - coord[p+1].x),
+                            (coord[p+0].y - coord[p+1].y),
+                            (coord[p+0].z - coord[p+1].z));
+
+        hld2 = new Vector3f((coord[p+2].x - coord[p+1].x),
+                            (coord[p+2].y - coord[p+1].y),
+                            (coord[p+2].z - coord[p+1].z));
+
+        norms[p+0] = new Vector3f(0.0f, 0.0f, 0.0f);
+        norms[p+0].cross(hld2, hld1);
+        norms[p+0].normalize();
+        norms[p+1] = new Vector3f(norms[p+0]);
+        norms[p+2] = new Vector3f(norms[p+0]);
+        norms[p+3] = new Vector3f(norms[p+0]);
+
+        p = p + 4;
+
+        // negative z part
+
+        coord[p+0] = new Point3f(thePoints[m][n].x, thePoints[m][n].y, -thePoints[m][n].z);
+        coord[p+1] = new Point3f(thePoints[m][b].x, thePoints[m][b].y, -thePoints[m][b].z);
+        coord[p+2] = new Point3f(thePoints[a][b].x, thePoints[a][b].y, -thePoints[a][b].z);
+        coord[p+3] = new Point3f(thePoints[a][n].x, thePoints[a][n].y, -thePoints[a][n].z);
+
+        hld1 = new Vector3f((coord[p+0].x - coord[p+1].x),
+                            (coord[p+0].y - coord[p+1].y),
+                            (coord[p+0].z - coord[p+1].z));
+
+        hld2 = new Vector3f((coord[p+2].x - coord[p+1].x),
+                            (coord[p+2].y - coord[p+1].y),
+                            (coord[p+2].z - coord[p+1].z));
+
+        norms[p+0] = new Vector3f(0.0f, 0.0f, 0.0f);
+        norms[p+0].cross(hld2, hld1);
+        norms[p+0].normalize();
+        norms[p+1] = new Vector3f(norms[p+0]);
+        norms[p+2] = new Vector3f(norms[p+0]);
+        norms[p+3] = new Vector3f(norms[p+0]);
+
+        p = p + 4;
+
+      } // end for j statement
+
+    } // end for i statement
+
+    qa.setCoordinates(0, coord);
+    qa.setNormals(0, norms);
+
+    theShape3D.addGeometry(qa);
+
+    return(theShape3D);
+
+ } // end createTorusGeometry2()
+
+
+
+  Appearance createTorusAppearance(Color theColor)
+  {
+    // This is the Appearance used to color the object (Shape3D).
+    // It assigns the transparency attributes.
+    // Playing with the various transparency settings tofigure
+    // out if there is a transparency problem or a coding problem.
+
+     float red   = theColor.getRed() / 255.0f;
+     float green = theColor.getGreen() / 255.0f;
+     float blue  = theColor.getBlue() / 255.0f;
+
+     Appearance A = new Appearance();
+
+     RenderingAttributes RA = new RenderingAttributes();
+     RA.setDepthBufferEnable(true);
+     A.setRenderingAttributes(RA);
+
+     // We want the color to be defined by using materials.
+
+     Material theMaterial = new Material();
+     theMaterial.setLightingEnable(true);
+     theMaterial.setShininess(5.0f);
+     theMaterial.setDiffuseColor(red, green, blue);
+     theMaterial.setAmbientColor(0.1f, 0.1f, 0.1f);
+     theMaterial.setEmissiveColor(0.0f, 0.0f, 0.0f);
+     theMaterial.setSpecularColor(0.08f, 0.08f, 0.08f);
+
+     A.setMaterial(theMaterial);
+
+     // Setup polygon attributes
+     PolygonAttributes PA = new PolygonAttributes(PolygonAttributes.POLYGON_FILL,
+                                                   PolygonAttributes.CULL_BACK, 0.01f, true);
+
+     A.setPolygonAttributes(PA);
+
+     // Setup Treansparency
+     TransparencyAttributes TA = new TransparencyAttributes(TransparencyAttributes.NICEST, 0.5f);
+
+     A.setTransparencyAttributes(TA);
+
+     return(A);
+
+  } // end createAppearancePlane
+
+
+  static public double d2r(double angle)
+  {
+    return (angle * 2.0 * Math.PI / 360.0 );
+  } // end d2r
+
+  static public double r2d(double angle)
+  {
+    return (angle * 360.0) / (2.0 * Math.PI);
+  } // end r2d
+
+
+}
+
+ </pre>
+ </body>
+
+<!-- Mirrored from www.rwgrayprojects.com/Java3D/Transparency/code01.html by HTTrack Website Copier/3.x [XR&CO'2014], Wed, 06 Jan 2016 22:27:34 GMT -->
+</html>

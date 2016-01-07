@@ -1,0 +1,30 @@
+------------------------------------------------------------ 
+
+
+   RECORD NO.:  3386065 INSPEC Abstract No: A89068991; C89040124
+       AUTHOR:  Cook, N.D.
+  CORP SOURCE:  Wolfson Coll., Oxford Univ., UK
+        TITLE:  Computing nuclear properties in the FCC model
+       SOURCE:  Computers in Physics, vol.3, no.2, p. 73-7
+         ISSN:  0894-1866
+        CODEN:  CPHYE2
+PLACE OF PUBL:  USA
+     LANGUAGE:  English
+         YEAR:  March-April 1989
+    TREATMENT:  P Practical; T Theoretical or Mathematical
+     ABSTRACT:  A computer program for calculating fundamental properties of 
+                nuclei in the face-centered-cubic (FCC) nuclear model is 
+                presented. The program generates nucleon coordinate values 
+                in agreement with the empirical build-up sequence and then 
+                calculates three nuclear properties for any specified 
+                nucleus: the RMS radial value, the total Coulomb repulsion 
+                and the total binding energy (15 Refs.)
+  DESCRIPTORS:  nuclear models; physics computing
+  IDENTIFIERS:  fundamental nuclear properties; FCC nuclear model; computer 
+                program; face-centered-cubic; nucleon coordinate values; 
+                empirical build-up sequence; nuclear properties; radial 
+                value; Coulomb repulsion; binding energy
+  CLASS CODES:  A2160 (Nuclear-structure models and methods); C7320 (Physics 
+                and Chemistry)
+ 
+------------------------------------------------------------ 

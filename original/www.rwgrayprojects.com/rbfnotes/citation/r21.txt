@@ -1,0 +1,47 @@
+------------------------------------------------------------ 
+
+
+   RECORD NO.:  2004500 INSPEC Abstract No: A83026183
+       AUTHOR:  Pauling, L.
+  CORP SOURCE:  Linus Pauling Inst. of Sci. & Medicine, Palo Alto, CA, USA
+        TITLE:  Rules governing the composition of revolving clusters in 
+                quasiband and prolate-deformation states of atomic nuclei
+       SOURCE:  Proceedings of the National Academy of Sciences of the 
+                United States of America, vol.79, no.22, p. 7073-5
+         ISSN:  0027-8424
+        CODEN:  PNASA6
+PLACE OF PUBL:  USA
+     LANGUAGE:  English
+         YEAR:  Nov. 1982
+    TREATMENT:  T Theoretical or Mathematical
+     ABSTRACT:  A set of rules, involving the magic and semimagic values of 
+                neutron and proton numbers and the proton/neutron ratio, is 
+                formulated for the composition of the revolving clusters 
+                producing the values of the moment of inertia given by the 
+                differences in energy of the adjacent levels in quasibands 
+                and bands of nuclei. The cluster compositions assigned with 
+                use of these rules to isotopes of Kr, Sr, Zr, Mo, and the 
+                actinon nuclei and to successive levels of the ground-state 
+                band of /sup 158/Er lead to reasonable values of the radius 
+                of revolution (the distance from the center of the 
+                nonrevolving sphere to the center of the cluster). These 
+                values correspond to a spheron diameter of about 3.20 fm 
+                (11 Refs.)
+  DESCRIPTORS:  nuclear cluster model; nuclear collective states and giant 
+                resonances; nuclear moment of inertia; nuclear size; nuclei 
+                with mass number 150 to 189; nuclei with mass number 59 to 
+                89; nuclei with mass number 90 to 149
+  IDENTIFIERS:  neutron numbers; magic values; revolving clusters 
+                composition; quasiband states; prolate-deformation states; 
+                atomic nuclei; semimagic values; proton numbers; 
+                proton/neutron ratio; moment of inertia; Kr; Sr; Zr; Mo; 
+                actinon nuclei; ground-state band; /sup 158/Er; radius of 
+                revolution; spheron diameter
+  CLASS CODES:  A2110F (Nuclear shape, charge, radius, form factors and 
+                structure functions); A2110R (Collective structure in 
+                nuclear levels); A2160G (Nuclear cluster models); A2750 
+                (Properties of nuclei with 59 <or= A <or= 89); A2760 
+                (Properties of nuclei with 90 <or= A <or= 149); A2770 
+                (Properties of nuclei with 150 <or= A <or= 189)
+ 
+------------------------------------------------------------ 

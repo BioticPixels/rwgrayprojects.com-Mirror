@@ -1,0 +1,599 @@
+<HTML>
+
+<!-- Mirrored from www.rwgrayprojects.com/rbfnotes/helix/12Points/TriangleCoord.html by HTTrack Website Copier/3.x [XR&CO'2014], Wed, 06 Jan 2016 21:24:25 GMT -->
+<HEAD>
+  <TITLE>
+    12 Tetrahelix-Tetrahedron Intersection Points
+  </TITLE>
+</HEAD>
+
+<BODY BGCOLOR="white">
+ <font size="+1">
+
+<H1 ALIGN="center">
+ 12 Tetrahelix-Tetrahedron Intersection Points
+</H1>
+
+
+<p>
+We calculate the (x, y, z) coordinates for the 3x4=12 points (3 per Tetrahedron 
+triangular face)  for the triangle face coordinates (7, 3).  
+This will allows us to then calculate other properties of the Tetrahelix.
+</p>
+
+<p>
+Recall that the Tetrahelix axis passes through the (7, 3) points of the Tetrahedron's
+triangular face.
+</p>
+
+<div align="center">
+ <img src="73coord.jpg">
+</div>
+
+
+<p>
+We position the Tetrahedron so that its 4 vertices are at
+<br><br>
+V1 = (1, 1, 1)
+<br>
+V2 = (–1, –1, 1)
+<br>
+V3 = (–1, 1, –1)
+<br>
+V4 = (1, –1, –1)
+</p>
+
+
+<div align="center">
+ <img src="Tetra01.jpg">
+</div>
+
+
+<p>
+The Tetrahedron edge length is then
+</p>
+
+<div align="center">
+
+EL = dist(V2 - V1) = sqrt( (-1 - 1)^2 + (-1 - 1)^2 + (1 - 1)^2)
+<br>
+EL = sqrt( 4 + 4 + 0) = 2 sqrt(2) = 2.828427125...
+
+</div>
+
+<p>
+For the V1-V2-V3 triangular face, we let
+<br><br>
+Va = (V2 – V1) = (–2, –2, 0)
+<br>
+Vb = (V3 – V2) = (0 , 2, –2) 
+<br>
+Vc = (V1 – V3) = (2, 0, 2)
+</p>
+
+<p>
+
+Then 
+</p>
+
+<p>
+P1 = V1 + (7/10)Va + (3/10)Vb = (1 – 14/10, 1 – 14/10 + 6/10, 1 – 6/10) 
+<br>
+P1 = (–4/10, 2/10, 4/10) = (–0.4, 0.2, 0.4)
+</p>
+
+<p>
+P2 = V2 + (7/10)Vb + (3/10)Vc = (–1 + 6/10, –1 + 14/10, 1 – 14/10 + 6/10) 
+<br>
+P2 = (–4/10, 4/10, 2/10) = (–0.4, 0.4, 0.2)
+</p>
+
+<p>
+P3 = V3 + (7/10)Vc + (3/10)Va = (–1 + 14/10 – 6/10, 1 – 6/10, –1 + 14/10) 
+<br>
+P3 = (– 2/10, 4/10, 4/10) = (–0.2, 0.4, 0.4)
+</p>
+
+<hr width="25%">
+
+<p>
+For the V1-V2-V4 triangular face, we let
+<br><br>
+Va = (V2 – V1) = (–2, –2, 0)
+<br>
+Vb = (V4 – V2) = (2 , 0, –2) 
+<br>
+Vc = (V1 – V4) = (0, 2, 2)
+</p>
+
+<p>
+Then
+</p>
+
+<p>
+P1 = V1 + (7/10)Va + (3/10)Vb = (1 – 14/10 + 6/10, 1 – 14/10, 1 – 6/10) 
+<br>
+P1 = ( 2/10, –4/10, 4/10) = (0.2, –0.4, 0.4)
+</p>
+
+<p>
+P2 = V2 + (7/10)Vb + (3/10)Vc = (–1 + 14/10, –1 + 6/10, 1 – 14/10 + 6/10) 
+<br>
+P2 = ( 4/10, – 4/10, 2/10) = (0.4, –0.4, 0.2)
+</p>
+
+<p>
+P3 = V4 + (7/10)Vc + (3/10)Va = ( 1 – 6/10, –1 + 14/10 – 6/10, –1 + 14/10) 
+<br>
+P3 = ( 4/10, –2/10, 4/10) = (0.4, –0.2, 0.4)
+</p>
+
+<hr width="25%">
+
+<p>
+For the V1-V3-V4 triangular face, we let
+<br><br>
+Va = (V3 – V1) = (–2, 0, –2)
+<br>
+Vb = (V4 – V3) = (2 , –2, 0) 
+<br>
+Vc = (V1 – V4) = (0, 2, 2)
+</p>
+
+<p>
+P1 = V1 + (7/10)Va + (3/10)Vb = (1 – 14/10 + 6/10, 1 – 6/10, 1 – 14/10) 
+<br>
+P1 = ( 2/10, 4/10, – 4/10) = (0.2, 0.4, –0.4)
+</p>
+
+<p>
+P2 = V3 + (7/10)Vb + (3/10)Vc = (–1 + 14/10, 1 – 14/10 + 6/10, –1 + 6/10) 
+<br>
+P2 = ( 4/10, 2/10, –4/10) = (0.4, 0.2, –0.4)
+</p>
+
+<p>
+P3 = V4 + (7/10)Vc + (3/10)Va = ( 1 – 6/10, –1 + 14/10, –1 + 14/10 – 6/10) 
+<br>
+P3 = ( 4/10, 4/10, –2/10) = (0.4, 0.4, –0.2)
+</p>
+
+<hr width="25%">
+
+<p>
+For the V2-V3-V4 triangular face, we let
+<br><br>
+Va = (V3 – V2) = (0, 2, –2)
+<br>
+Vb = (V4 – V3) = (2 , –2, 0) 
+<br>
+Vc = (V2 – V4) = (–2, 0, 2)
+</p>
+
+<p>
+P1 = V2 + (7/10)Va + (3/10)Vb = (–1 + 6/10, –1 + 14/10 – 6/10, 1 – 14/10) 
+<br>
+P1 = (–4/10, –2/10, – 4/10) = (–0.4, –0.2, –0.4)
+</p>
+
+<p>
+P2 = V3 + (7/10)Vb + (3/10)Vc = (–1 + 14/10 – 6/10, 1 – 14/10, –1 + 6/10) 
+<br>
+P2 = (–2/10, –4/10, –4/10) = (–0.2, –0.4, –0.4)
+</p>
+
+<p>
+P3 = V4 + (7/10)Vc + (3/10)Va = ( 1 – 14/10, –1 + 6/10, –1 + 14/10 – 6/10) 
+<br>
+P3 = (–4/10, –4/10, –2/10) = (–0.4, –0.4, –0.2)
+</p>
+
+<hr width="25%">
+
+<p>
+Now that we know the (7,3) points we can draw the small triangle red triangle
+on each of the 4 Tetrahedron's faces.
+</p>
+
+
+<div align="center">
+ <img src="Tetra02.jpg">
+</div>
+
+<p>
+We know that the Tetrahelix axes make crossing lines through these (7, 3) triangle 
+face points.
+</p>
+
+<p>
+For eaxmple, if we look at just 2 of the red triangles then two of the Tetrahelix
+axes pass through the 4 points as follows.
+</p>
+
+
+<div align="center">
+ <img src="Tetra03.jpg">
+</div>
+
+<p>
+"A" goes to "A" and "B" goes to "B".
+</p>
+
+
+<p>
+The two "A" point coordinates are
+</p>
+
+<div align="center">
+A(123) = (–0.2, 0.4, 0.4), A(134) = (0.2, 0.4, –0.4)
+</div>
+
+<p>
+The length of the line segment A-to-A is given by
+</p>
+
+<div align="center">
+dist = sqrt( (0.2 + 0.2)^2 + (0.4 - 0.4)^2 + (-0.4 - 0.4)^2 )
+<br>
+dist = sqrt(0.16 + 0.0 + 0.64) = sqrt(0.8) 
+<br>
+dist = sqrt(8/10) = 2 / sqrt(5) = 0.894427191...
+</div>
+
+<p>
+We can calculate the crossing angle as follows:
+</p>
+
+<p>
+Since the edge length of the Tetrahedron is EL = 2 sqrt(2) the edge length  of the
+small red triangle is 
+</p>
+
+<div align="center">
+ELs = EL / 10 = sqrt(2) / 5.
+</div>
+
+<p>
+We let alpha = (1/2) crossing angle.
+</p>
+
+<div align="center">
+ <img src="CrossingAngle.jpg">
+</div>
+
+<p>
+Then
+</p>
+
+<div align="center">
+
+sin(alpha) = (ELs/2) / ( (2/sqrt(5)) / 2)
+<br>
+sin(alpha) = ( sqrt(2) / 10 ) / ( 1 / sqrt(5) )
+<br>
+sin(alpha) = sqrt(5) / (5 sqrt(2) )
+<br>
+sin(alpha) = 1 / sqrt(10)
+</div>
+
+<p>
+Then the crossing angle is
+</p>
+
+<div align="center">
+ alpha = 2 arcsin(1/sqrt(10)) = 36.86989765... degrees.
+</div>
+
+<hr width="75%">
+
+
+
+
+
+
+
+<p>
+We now wish to calculate the angle which a Tetrahelix makes with a table top when 
+the a Tetrahedron face is placed flat on the table.
+</p>
+
+<p>
+We first need a vector which is perpendicular to a Tetrahedron face.  This can easily
+be found by summing the vectors to vectices V1, V2, and V3. (The red line in the next 
+figure is perpendicular to the V1,V2,V3 face of the Tetrahedron.)
+</p>
+
+<div align="center">
+ <img src="p0000b.jpg">
+</div>
+
+<p>
+ This is essentually 
+taking the average of the 3 vectors and multiplying by 3.  Recall that the average
+of the vectors is given by
+</p>
+
+
+<div align="center">
+ Avg(123) = (1/3)(V1 + V2 + V3)
+</div>
+
+<p>
+So, multiplying by 3 we get
+</p>
+
+<div align="center">
+ Vn(123) = (V1 + V2 + V3) = (-1, 1, 1)
+</div> 
+
+<p>
+This is a vector pointing out through the Face Center of the V1, V2, V3 face.
+</p>
+
+<p>
+This vector Vn(123) is normal (perpendicular) the the V1, V2, V3 face.
+</p>
+
+<p>
+If we put the Tetrahedron of the table with its V1, V2, V3 face flat on the table,
+this vector will point down through the table.  So, we reverse the direction of this
+vector so that it will point up from the table top.
+</p>
+
+
+<div align="center">
+ Vn(123) = (1, -1, -1)
+</div>
+
+<p>
+For calculation purposes, we make the length of this vector to be 1.  In the Figures, 
+the length is not 1 and is drawn as a red line.
+</p>
+
+<div align="center">
+ Vn(123) = (1/sqrt(3))(1, -1, -1) = (1/sqrt(3), -1/sqrt(3), -1/sqrt(3))
+</div>
+
+
+<p>
+We will use the vector dot product to calculate the angles.
+</p>
+
+<div align="center">
+ A.B = |A| |B| cos(theta)
+<br>
+ theta = arccos(A.B / (|A||B|))
+</div>
+
+<p>
+The vector connecting the 2 "A" points above
+</p>
+
+<div align="center">
+A(123) = (–0.2, 0.4, 0.4)
+<br>
+A(134) = (0.2, 0.4, –0.4)
+</div>
+
+<p>
+is given by
+</p>
+
+<div align="center">
+VAA = A(134) - A(123) = (0.4, 0.0, -0.8) = (2/5, 0, -4/5)
+</div>
+
+<p>
+(see the blue line in the figures.)
+</p>
+
+<p>
+Its magnitude is
+</p>
+
+<div align="center">
+mag(VAA) = sqrt(0.4^2 + (-0.8)^2) = sqrt(0.16 + 0.64)
+<br>
+mag(VAA) = sqrt(0.8) = sqrt(8/10) = 2 / sqrt(5)
+</div>
+
+<p>
+The unit vector in the VAA direction is then
+</p>
+
+<div align="center">
+ UAA = (sqrt(5)/2)(2/5, 0, -4/5)
+<br>
+ UAA = (1/sqrt(5), 0, -2/sqrt(5))
+</div>
+
+
+<p>
+Note that vectors can be moved to any position as long as we don't change their
+direction nor their magnitude.  So I move it (blue line) in the Figure so that 
+it is at the face center.  The red line (perpendicular line to the Tetrahedron face)
+also passes through the face center point.
+</p>
+
+
+
+<div align="center">
+ <img src="p0001b.jpg">
+</div>
+
+
+
+<p>
+The dot product is
+</p>
+
+<div align="center">
+
+(1/sqrt(3), -1/sqrt(3), -1/sqrt(3)).(1/sqrt(5), 0, -2/sqrt(5))
+<br>
+
+(1/sqrt(15) + 2/sqrt(15)) = 3/sqrt(15) = sqrt(3/5)
+</div>
+
+<p>
+So theta is
+</p>
+
+<div align="center">
+ theta = arccos(sqrt(3/5)) = 39.23152048... degrees
+</div>
+
+
+<p>
+Which means the Tetrahelix makes an angle of 
+</p>
+
+<div align="center">
+90 - arccos(sqrt(3/5)) = 50.76847952... degrees
+</div>
+
+<p>
+with the table's surface.
+</p>
+
+<hr width="50%">
+
+<p>
+There is another angle at which a Tetrahelix can make with the table
+when the Tetrahedron is placed flat on the table.  See the green line 
+in the above figure.  This is another axis of symmetry for some Tetrahelix.
+It passes through the table top some distance away from the Tetrahedron as the 
+following Figures show.
+</p>
+
+
+<div align="center">
+ <img src="p0004.jpg">
+</div>
+
+<div align="center">
+ <img src="p0005.jpg">
+</div>
+
+<p>
+There are several line segments we could chose for the calculation.
+The following 2 Figures shows the line segement in green that I will use.
+Yes, its very hard to see the orientation. 
+</p>
+
+
+<div align="center">
+ <img src="gl03.jpg">
+</div>
+
+
+<p>
+The two points selected are:
+<br><br>
+P3 = (0.4, -0.2, 0.4) from face (1.2.4), and
+<br>
+P2 = (0.4, 0.2, -0.4) from face (1.3.4).
+</p>
+
+<p>
+The vector along this line segment is then
+</p>
+
+<div align="center">
+V = (0.4, 0.2, -0.4) – (0.4, –0.2, 0.4)
+<br>
+V = (0.0, 0.4, -0.8) = (0, 2/5, -4/5)
+
+</div>
+
+<p>
+As before, the magnitude of this vector is
+</p>
+
+<div align="center">
+mag(V) = sqrt(0.4^2 + (-0.8)^2) = sqrt(0.16 + 0.64)
+<br>
+mag(V) = sqrt(0.8) = sqrt(8/10) = 2 / sqrt(5)
+</div>
+
+<p>
+The unit vector in the direction of th egreen line segment is then
+</p>
+
+<div align="center">
+ UV = (sqrt(5)/2)(0, 2/5, -4/5)
+<br>
+ UV = (0, 1/sqrt(5), -2/sqrt(5))
+</div>
+
+<p>
+We can place this vector anywhere we want.  So we place it 
+at the center of the 1.2.3 face.
+</p>
+
+<div align="center">
+ <img src="p0002.jpg">
+</div>
+
+<p>
+The dot product with the face unit normal is given by
+</p>
+
+<div align="center">
+D = (1/sqrt(3), -1/sqrt(3), -1/sqrt(3)).(0, 1/sqrt(5), -2/sqrt(5))
+<br>
+D = 0 - 1/sqrt(15) + 2/sqrt(15)  = 1/sqrt(15) 
+</div>
+
+<p>
+So, for this case, theta is
+</p>
+
+<div align="center">
+ theta = arccos(sqrt(1/15)) = 75.0367825... degrees
+</div>
+
+<div align="center">
+ <img src="p0003b.jpg">
+</div>
+
+<p>
+Which means this Tetrahelix makes an angle of
+</p>
+
+<div align="center">
+90 - arccos(sqrt(1/15)) = 14.96321744... degrees
+</div>
+
+<p>
+with the table.
+</p>
+
+
+
+<BR>
+
+
+
+<HR>
+
+<DIV ALIGN="center">
+Go To: <a href="../toc.html">Table of Contents </A>
+or <a href="../../../index.html">Home Page </A>
+</DIV>
+<HR>
+<P>Usage Note: My work is copyrighted.  You may use my work but
+you may <I>not</I> include my work, or parts of it, in <I>any</I> 
+for-profit project without my consent.</P>
+<DIV ALIGN="center">
+<ADDRESS><A HREF="mailto:rwgray@rwgrayprojects.com">rwgray@rwgrayprojects.com</A>
+</ADDRESS>
+</DIV>
+
+</BODY>
+
+<!-- Mirrored from www.rwgrayprojects.com/rbfnotes/helix/12Points/TriangleCoord.html by HTTrack Website Copier/3.x [XR&CO'2014], Wed, 06 Jan 2016 21:25:01 GMT -->
+</HTML>
+
+
+

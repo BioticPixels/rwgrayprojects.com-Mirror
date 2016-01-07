@@ -1,0 +1,320 @@
+<html>
+ 
+<!-- Mirrored from www.rwgrayprojects.com/Java3D/Transparency/trans01.html by HTTrack Website Copier/3.x [XR&CO'2014], Wed, 06 Jan 2016 22:27:35 GMT -->
+<head>
+  <title>Transparency problems</title>
+ </head> 
+
+ <body>
+  <font size="+1">
+
+  <h1 align="center">Java 3D Transparency Problems?</h1>
+
+  <p>
+    I am trying to program 3 torus-like objects, one within the other, in Java 3D, 
+with a transparency setting such that you can see all 3 objects. 
+  </p>
+
+  <p>
+    Here is an image of what I mean.
+  </p>
+
+ <table border=1 align="center">
+  <tr>
+   <td align="center">
+    <img src="p301.jpg"> 
+   </td>
+   <td align="center">
+    <img src="p302.jpg"> 
+   </td>
+  </tr>
+  <tr>
+   <td align="center" colspan="2">
+    Using 3,168 QuadArrays. 
+   </td>
+  </tr>
+ </table>
+
+
+ <table border=1 align="center">
+  <tr>
+   <td align="center">
+    <img src="p303.jpg"> 
+   </td>
+  </tr>
+  <tr>
+   <td align="center" colspan="2">
+    Using 3,168 QuadArrays. 
+   </td>
+  </tr>
+ </table>
+
+<p>
+This was created using 3 Shape3D's and thousands of quadArrays.  
+Each quadArray contains 1 quad polygon (4 points) only.
+</P>
+
+<p>
+I have the following coded for the View:
+</P>
+
+<pre>
+   SU.getViewer().getView().setDepthBufferFreezeTransparent(false);
+   SU.getViewer().getView().setTransparencySortingPolicy(View.TRANSPARENCY_SORT_GEOMETRY);
+</pre> 
+
+<p>
+And the transparency attributes are set to:
+</p>
+
+<pre>
+     // Setup polygon attributes
+     PolygonAttributes PA = new PolygonAttributes(PolygonAttributes.POLYGON_FILL,
+                                                   PolygonAttributes.CULL_NONE, 0.01f, true);
+
+     A.setPolygonAttributes(PA);
+
+     // Setup Treansparency
+
+     TransparencyAttributes TA = new TransparencyAttributes(TransparencyAttributes.NICEST, 0.5f);
+</pre>
+
+<p>
+Now for the problems:
+</p>
+
+<p>
+If I tilt this image a little, I can see a clear patch of green, the color of the inner most
+object.
+</P>
+
+
+ <table border=1 align="center">
+  <tr>
+   <td align="center">
+    <img src="p304.jpg" 
+   </td>
+  </tr>
+  <tr>
+   <td align="center">
+    Clear green patch appears. 
+   </td>
+  </tr>
+ </table>
+
+<p>
+I don't think this should occur.
+</p>
+
+<p>
+I have removed the outer most object and left the two inner objects just as they are.  I
+get the following images.
+</P>
+
+
+ <table border=1 align="center">
+  <tr>
+   <td align="center">
+    <img src="p201.jpg"> 
+   </td>
+   <td align="center">
+    <img src="p202.jpg"> 
+   </td>
+  </tr>
+  <tr>
+   <td align="center" colspan="2">
+    Just inner 2 objects. 
+   </td>
+  </tr>
+ </table>
+
+<p>
+As you can see, there is no clear green patch.  There is some green, but not as clear
+as when I had 3 objects.  I would think that adding the 3rd outer red object would reduce
+the green even further, not enhance it.  So, I think there is a problem here.
+</p>
+
+<hr>
+
+<p>
+Although splitting the objects up into 3,168 quadarrays makes the object
+look pretty good, memory consumption is a big problem.  
+</p>
+
+<p>With no objects in the scene graph, I looked at 
+have much memory is allocated to javaw.  It was approx. 17,500k.
+</p>
+
+<p>
+With the 3 objects as 3,138 quadarrays it was approx.: 28,800k.  Is Java 3D really using
+over 11 meg for this one object? 
+</P>
+
+<p>
+That's O.K. if it is to be the only thing I plan to have in my scene graph, but I am
+planning to have 25 to 30 of these objects!
+</p>
+
+<p>
+So, I can not code this object in this way.
+</P>
+
+<hr>
+
+<p>
+I then coded this object as 3 different quadArrays, one for the outer most object, 
+one for the middle object and one for the inner most object.  The thought was to then
+use an OrderedGroup to control the order of rendering so the transparency 
+would work correctly. None of these 3 objects intersect each other.
+</p>
+
+<p>
+But I get <b><i>horrible</i></b> results!!  Take a look.
+</p>
+
+
+
+ <table border=1 align="center">
+  <tr>
+   <td align="center">
+    <img src="h01.jpg"> 
+   </td>
+  </tr>
+  <tr>
+   <td align="center">
+    Almost O.K., but left/right not the same. 
+   </td>
+  </tr>
+ </table>
+  
+
+
+ <table border=1 align="center">
+  <tr>
+   <td align="center">
+    <img src="h02.jpg"> <img src="h03.jpg">
+   </td>
+  </tr>
+  <tr>
+   <td align="center">
+    Rotated a little looks a lot worst. 
+   </td>
+  </tr>
+ </table>
+
+
+ <table border=1 align="center">
+  <tr>
+   <td align="center">
+    <img src="h04.jpg"> <img src="h05.jpg">
+   </td>
+  </tr>
+  <tr>
+   <td align="center">
+    Where are these light/dark red effects coming from? 
+   </td>
+  </tr>
+ </table>
+
+<p>
+So, I tried BLENDED for TransparencyAttributes.  Still no good.
+</p>
+
+
+
+ <table border=1 align="center">
+  <tr>
+   <td align="center">
+    <img src="blend01.jpg"> 
+   </td>
+  </tr>
+  <tr>
+   <td align="center">
+    TransparencyAttributes.BLENDED 
+   </td>
+  </tr>
+ </table>
+
+<p>
+Note that the only light I have in the scene graph is
+</P>
+
+<pre>
+   BranchGroup ALBG = new BranchGroup();
+   ALBG.setCapability(BranchGroup.ALLOW_CHILDREN_READ);
+   AmbientLight lightA = new AmbientLight();
+   lightA.setInfluencingBounds(worldBounds);
+   ALBG.addChild(lightA);
+   objRoot.addChild(ALBG);
+</pre>
+
+
+<p>
+Although the memory usage is now a little better (26,500k) its still not going to let me 
+have 25 or 30 of these things in my scene graph and still have any kind of interactive
+response.
+</p>
+
+<p>
+I thought I might try specifying CULL_BACK in the 
+appearance, but that just made things much worst.
+</p>
+
+
+ <table border=1 align="center">
+  <tr>
+   <td align="center">
+    <img src="cb01.jpg">
+   </td>
+  </tr>
+  <tr>
+   <td align="center">
+    CULL_BACK used here. 
+   </td>
+  </tr>
+ </table>
+
+<p>
+This made me think the lower half had its quadArray surface normals pointing in the wrong direction.  So, 
+for the lower half of the objects only, I reversed the normal vector directions.
+</p>
+
+ <table border=1 align="center">
+  <tr>
+   <td align="center">
+    <img src="cb02.jpg">
+   </td>
+  </tr>
+  <tr>
+   <td align="center">
+    CULL_BACK used here. <br>Bottom normals reversed.
+   </td>
+  </tr>
+ </table>
+
+<p>
+So, no good.
+</p>
+
+<hr>
+
+<p>
+If anyone has alternative suggestions, please let me know.
+</p>
+
+<HR>
+
+
+<DIV ALIGN="center">
+<ADDRESS>
+Internet e-mail address:
+<A HREF="mailto:rwgray@rwgrayprojects.com">rwgray@rwgrayprojects.com</A>
+</ADDRESS>
+
+</DIV>
+
+
+ </body>
+
+<!-- Mirrored from www.rwgrayprojects.com/Java3D/Transparency/trans01.html by HTTrack Website Copier/3.x [XR&CO'2014], Wed, 06 Jan 2016 22:27:35 GMT -->
+</html>

@@ -1,0 +1,669 @@
+<html>
+
+
+<!-- Mirrored from www.rwgrayprojects.com/OswegoOct2001/Presentation/prsentationWeb2.html by HTTrack Website Copier/3.x [XR&CO'2014], Wed, 06 Jan 2016 19:23:43 GMT -->
+<head>
+ <title>Jitterbug Defines Polyhedra</title>
+
+ <STYLE type="text/css">
+   H2 { text-align: center; font-size: 20pt}
+   H3 { text-align: center; font-size: 18pt}
+
+ </STYLE>
+
+
+  <script language="JavaScript">
+   
+    function loadMovie(a)
+    {
+      window.document.location.href = a; 
+    } // end loadMovie 
+
+  </script>
+
+</head>
+
+<body>
+ <font size="+2">  
+
+
+
+<br><br>
+
+<h3>Basic Equations</h3>
+
+<p>
+
+<ul>
+ <li>Euler's Equation: V + F = E + 2
+</ul>
+
+ <table border=1 align="center">
+  <tr>
+   <td align="center">Name</td>
+   <td align="center">Vertices</td>
+   <td align="center">Faces</td>
+   <td align="center">Edges</td>
+   <td align="center">V + F</td>  
+   <td align="center">E + 2</td>
+  <tr>
+   <td align="center">Tetrahedron</td>
+   <td align="center">4</td>
+   <td align="center">4</td>
+   <td align="center">6</td>
+   <td align="center">8</td>  
+   <td align="center">8</td> 
+  <tr>
+   <td align="center">Cube</td>
+   <td align="center">8</td>
+   <td align="center">6</td>
+   <td align="center">12</td>
+   <td align="center">14</td>  
+   <td align="center">14</td>  
+  <tr>
+   <td align="center">Octahedron</td>
+   <td align="center">6</td>
+   <td align="center">8</td>
+   <td align="center">12</td>
+   <td align="center">14</td>  
+   <td align="center">14</td>   
+  <tr>
+   <td align="center">Rhombic Dodecahedron</td>
+   <td align="center">14</td>
+   <td align="center">12</td>
+   <td align="center">24</td>
+   <td align="center">26</td>  
+   <td align="center">26</td> 
+  <tr>
+   <td align="center">Icosahedron</td>
+   <td align="center">12</td>
+   <td align="center">20</td>
+   <td align="center">30</td>
+   <td align="center">32</td>  
+   <td align="center">32</td>
+  <tr>
+   <td align="center">Dodecahedron</td>
+   <td align="center">20</td>
+   <td align="center">12</td>
+   <td align="center">30</td>
+   <td align="center">32</td>  
+   <td align="center">32</td>
+  <tr>
+   <td align="center">Rhombic Triacontahedron</td>
+   <td align="center">32</td>
+   <td align="center">30</td>
+   <td align="center">60</td>
+   <td align="center">62</td>  
+   <td align="center">62</td>
+ </table>
+
+<ul>
+ <li>Sum of Surface Angles = V * 360&deg; - 720&deg;
+</ul>
+
+ <table border=1 align="center">
+  <tr>
+   <td align="center">Name</td>
+   <td align="center">Sum of Angles<br>1 Face</td>
+   <td align="center">Faces</td>  
+   <td align="center">Total Sum of<br>Surface Angles</td> 
+   <td align="center">Vertices</td>
+   <td align="center">V*360&deg;</td>
+   <td align="center">V*360&deg;-720&deg;</td>
+ 
+  <tr>
+   <td align="center">Tetrahedron</td>
+   <td align="center">60&deg;*3=180&deg;</td>
+   <td align="center">4</td>  
+   <td align="center">720&deg;</td> 
+   <td align="center">4</td>
+   <td align="center">1440&deg;</td>
+   <td align="center">720&deg;</td>
+  <tr>
+   <td align="center">Cube</td>
+   <td align="center">90&deg;*4=360&deg;</td>
+   <td align="center">6</td>  
+   <td align="center">2160&deg;</td> 
+   <td align="center">8</td>
+   <td align="center">2880&deg;</td>
+   <td align="center">2160&deg;</td>
+  <tr>
+   <td align="center">Octahedron</td>
+   <td align="center">60&deg;*3=180&deg;</td>
+   <td align="center">8</td>  
+   <td align="center">1440&deg;</td> 
+   <td align="center">6</td>
+   <td align="center">2160&deg;</td>
+   <td align="center">1440&deg;</td>
+  <tr>
+   <td align="center">Rhombic Dodecahedron</td>
+   <td align="center">360&deg;</td>
+   <td align="center">12</td>  
+   <td align="center">4320&deg;</td> 
+   <td align="center">14</td>
+   <td align="center">5040&deg;</td>
+   <td align="center">4320&deg;</td>
+  <tr>
+   <td align="center">Icosahedron</td>
+   <td align="center">60&deg;*3=180&deg;</td>
+   <td align="center">20</td>  
+   <td align="center">3600&deg;</td> 
+   <td align="center">12</td>
+   <td align="center">4320&deg;</td>
+   <td align="center">3600&deg;</td>
+  <tr>
+   <td align="center">Dodecahedron</td>
+   <td align="center">108&deg;*5=540&deg;</td>
+   <td align="center">12</td>  
+   <td align="center">6480&deg;</td> 
+   <td align="center">20</td>
+   <td align="center">7200&deg;</td>
+   <td align="center">6480&deg;</td>
+  <tr>
+   <td align="center">Rhombic Triacontahedron</td>
+   <td align="center">360&deg;</td>
+   <td align="center">30</td>  
+   <td align="center">10800&deg;</td> 
+   <td align="center">32</td>
+   <td align="center">11520&deg;</td>
+   <td align="center">10800&deg;</td>
+ </table>
+
+<ul>
+ <li>Volume equations
+</ul>
+
+ <table border=1 align="center">
+  <tr>
+   <td align="center">Name</td>
+   <td align="center">Volume Equation</td>
+  <tr>
+   <td align="center">Tetrahedron</td>
+   <td align="center">1 (Edge Length)^3</td>  
+  <tr>
+   <td align="center">Cube</td>
+   <td align="center">3 (Face Diagonal)^3</td>
+  <tr>
+   <td align="center">Octahedron</td>
+   <td align="center">4 (Edge Length)^3</td>
+  <tr>
+   <td align="center">Rhombic Dodecahedron</td>
+   <td align="center">6 (Long Face Diagonal)^3</td>
+  <tr>
+   <td align="center">Icosahedron</td>
+   <td align="center"></td>
+
+  <tr>
+   <td align="center">Dodecahedron</td>
+   <td align="center"></td>
+
+  <tr>
+   <td align="center">Rhombic Triacontahedron</td>
+   <td align="center"></td>
+
+ </table>
+
+</p>
+
+
+<br><br>
+
+
+<hr>
+
+<H2 align="center">How The Polyhedra Are Related One To Another</H2>
+
+<h3>Intersecting Tetrahedra In Cube</h3>
+
+<p>
+We have just seen how two intersection Tetrahedra define a cube.
+</p>
+
+
+ <table border="1" align="center">
+  <tr>
+    <td align="center">
+      <image src="figures/tetraIncube.jpg">
+    </td>
+  <tr>
+    <td align="center"><B>Two Tetrahedra Define a Cube</B>
+    </td>
+  </tr>
+ </table>
+
+
+<h3>Octahedron In Intersecting Tetrahedra</h3>
+
+The intersection of 2 Tetrahedra defines an Octahedron. 
+
+ <table border="1" align="center">
+  <tr>
+    <td align="center">
+
+    <OBJECT classid="clsid:D27CDB6E-AE6D-11cf-96B8-444553540000"
+      codebase="http://download.macromedia.com/pub/shockwave/cabs/flash/swflash.cab#version=5,0,0,0"
+      width=280 height=272> <PARAM NAME=movie VALUE="./Animations/TetraOcta/tetraoctaC.swf"> <PARAM NAME=wmode VALUE=transparent>
+      <PARAM NAME=quality VALUE=high> <PARAM NAME=bgcolor VALUE=#000000>
+      <EMBED src="Animations/TetraOcta/tetraoctaC.swf" quality=high wmode=transparent
+        bgcolor=#000000 width=280 height=272 type="application/x-shockwave-flash"
+        pluginspace="http://www.macromedia.com/shockwave/download/index.cgi?P1_Prod_Version=ShockwaveFlash">
+      </EMBED>
+    </OBJECT>
+
+    </td>
+  <tr>
+    <td align="center"><B>Intersecting Tetrahedra<br>
+                          Define Octahedron</B>
+    </td>
+  </tr>
+ </table>
+
+
+<h3>Intersecting Cube And Octahedron Define VE</h3>
+
+Intersecting Cube and Octahedron define a Cuboctahedron.  Fuller calls the Cuboctahedron the 
+"Vector Equilibrium" because all radial vectors from the center of volume out to a vertex is the 
+same length as the edge vectors.  This polyhedron is also called the "VE" for short.
+
+ <table border="1" align="center">
+  <tr>
+    <td align="center">
+
+    <OBJECT classid="clsid:D27CDB6E-AE6D-11cf-96B8-444553540000"
+      codebase="http://download.macromedia.com/pub/shockwave/cabs/flash/swflash.cab#version=5,0,0,0"
+      width=280 height=272> <PARAM NAME=movie VALUE="./Animations/CubeOctaVE/cubeoctaveC.swf"> <PARAM NAME=wmode VALUE=transparent>
+      <PARAM NAME=quality VALUE=high> <PARAM NAME=bgcolor VALUE=#000000>
+      <EMBED src="Animations/CubeOctaVE/cubeoctaveC.swf" quality=high wmode=transparent
+        bgcolor=#000000 width=280 height=272 type="application/x-shockwave-flash"
+        pluginspace="http://www.macromedia.com/shockwave/download/index.cgi?P1_Prod_Version=ShockwaveFlash">
+      </EMBED>
+    </OBJECT>
+
+    </td>
+  <tr>
+    <td align="center"><B>Intersecting Cube and Octahedron<br>
+                          Define VE</B>
+    </td>
+  </tr>
+ </table>
+
+
+
+<h3>Tetrahedra In Dodecahedron</h3>
+
+It is possible to define 10 Tetrahedra within the Dodecahedron utilizing only the vertices of
+the Dodecahedron. 
+
+ <table border="1" align="center">
+  <tr>
+    <td align="center">
+
+    <OBJECT classid="clsid:D27CDB6E-AE6D-11cf-96B8-444553540000"
+      codebase="http://download.macromedia.com/pub/shockwave/cabs/flash/swflash.cab#version=5,0,0,0"
+      width=292 height=296> <PARAM NAME=movie VALUE="./Animations/TetraInDodeca/TetraInDodecaC.swf"> <PARAM NAME=wmode VALUE=transparent>
+      <PARAM NAME=quality VALUE=high> <PARAM NAME=bgcolor VALUE=#000000>
+      <EMBED src="Animations/TetraInDodeca/TetraInDodecaC.swf" quality=high wmode=transparent
+        bgcolor=#000000 width=292 height=296 type="application/x-shockwave-flash"
+        pluginspace="http://www.macromedia.com/shockwave/download/index.cgi?P1_Prod_Version=ShockwaveFlash">
+      </EMBED>
+    </OBJECT>
+
+    </td>
+  <tr>
+    <td align="center"><B>10 Tetrahedra In The Dodecahedron</B>
+    </td>
+  </tr>
+ </table>
+
+<p>
+Each of the Dodecahedron's vertices is shared with 2 Tetrahedra.  We can eliminate this redundancy
+by removing 5 Tetrahedra.
+</p>
+
+ <table border="1" align="center">
+  <tr>
+    <td align="center">
+      <img src="figures/dodeca05.jpg"> 
+
+    </td>
+  <tr>
+    <td align="center"><B>5 Tetrahedra In The Dodecahedron</B>
+    </td>
+  </tr>
+ </table>
+
+<p>
+This suggests a spiral vortex motion in each of the Dodecahedron's faces.
+</p>
+
+
+ <table border="1" align="center">
+  <tr>
+    <td align="center">
+      <img src="figures/dodeca07.jpg"> 
+
+    </td>
+  <tr>
+    <td align="center"><B>5 Tetrahedra In The Dodecahedron<br>
+                          Suggests Spiral Motion</B>
+    </td>
+  </tr>
+ </table>
+
+<h3>Cubes In Dodecahedron</h3>
+
+<P>
+It is possible to position 5 Cubes within the Dodecahedron.
+</P>
+
+ <table border="1" align="center">
+  <tr>
+    <td align="center">
+
+    <OBJECT classid="clsid:D27CDB6E-AE6D-11cf-96B8-444553540000"
+      codebase="http://download.macromedia.com/pub/shockwave/cabs/flash/swflash.cab#version=5,0,0,0"
+      width=292 height=296> <PARAM NAME=movie VALUE="./Animations/CubeInDodeca/CubeInDodecaC.swf"> <PARAM NAME=wmode VALUE=transparent>
+      <PARAM NAME=quality VALUE=high> <PARAM NAME=bgcolor VALUE=#000000>
+      <EMBED src="Animations/CubeInDodeca/CubeInDodecaC.swf" quality=high wmode=transparent
+        bgcolor=#000000 width=292 height=296 type="application/x-shockwave-flash"
+        pluginspace="http://www.macromedia.com/shockwave/download/index.cgi?P1_Prod_Version=ShockwaveFlash">
+      </EMBED>
+    </OBJECT>
+
+    </td>
+  <tr>
+    <td align="center"><B>5 Cubes In The Dodecahedron</B>
+    </td>
+  </tr>
+ </table>
+
+
+<br><br>
+
+
+<hr>
+
+<H2 align="center">Rotating Cubes</h2>
+
+<p>
+The model of 5 Cubes in the Dodecahedron suggested to me that the cubes might be positioned within the 
+Dodecahedron by rotations from a single cube position.  This is indeed the case.
+</p>
+<p>
+Consider a single cube.  It has 4 Vertex to Vertex rotation axes.
+</P>
+
+ <table border="1" align="center">
+  <tr>
+    <td align="center">
+      <img src="figures/rotaxes.jpg"> 
+
+    </td>
+  <tr>
+    <td align="center"><B>4 Vertex to Vertex Rotation Axes</B>
+    </td>
+  </tr>
+ </table>
+
+<p>
+If we assign a Cube to each of these axes, we have a total of 5 Cubes (original 1 plus 4).  We then 
+rotate the 4 Cubes about these 4 axes.
+</p>
+
+
+
+ <table border="1" align="center">
+  <tr>
+    <td align="center">
+     <img src="Animations/rotCubes/rotmovie1.gif">
+
+    </td>
+    <td>
+     <img src="figures/Dodeca01.jpg">
+    </td>
+  <tr>
+    <td align="center"><B>Four Rotating Cubes, <br>One Stationary</B>
+    </td>
+    <td align="center"><B>5 Cubes in Dodecahedron</B>
+    </td>
+  </tr>
+ </table>
+
+<br><br>
+
+
+<hr>
+
+<H2 align="center">The 120 Polyhedron</h2>
+
+<p>
+We will now put all of the polyhedra together into a single polyhedron.  
+The resulting polyhedron will have 120 triangular faces.  It is called the 120 Polyhedron.
+</p> 
+
+<p>
+This polyhedron was originally described to me by Lynnclaire Dennis.  For more information on Ms Dennis
+and her work, see the Pattern web site at 
+<a href="http://www.pattern.org/">http://www.pattern.org/</a>.
+</p>
+
+<P>
+Start with the Dodecahedron.
+</P>
+
+ <table border="1" align="center">
+  <tr>
+    <td align="center">
+     <img src="figures/everything/capture16.jpg">
+    </td>
+    <td>
+     <img src="figures/everything/capture17.jpg">
+    </td>
+  <tr>
+    <td align="center" colspan=2><B>Dodecahedron</B>
+    </td>
+
+  </tr>
+ </table>
+
+<P>
+Add in all 10 Tetrahedra.
+</P>
+
+
+ <table border="1" align="center">
+  <tr>
+    <td align="center">
+     <img src="figures/everything/capture14.jpg">
+    </td>
+    <td>
+     <img src="figures/everything/capture15.jpg">
+    </td>
+  <tr>
+    <td align="center" colspan=2><B>Dodecahedron, Tetrahedra</B>
+    </td>
+  </tr>
+ </table>
+
+<p>
+Add the 5 Cubes.
+</p>
+
+ <table border="1" align="center">
+  <tr>
+    <td align="center">
+     <img src="figures/everything/capture12.jpg">
+    </td>
+    <td>
+     <img src="figures/everything/capture13.jpg">
+    </td>
+  <tr>
+    <td align="center" colspan=2><B>Dodecahedron, Tetrahedra, Cubes</B>
+    </td>
+  </tr>
+ </table>
+
+
+<p>
+Add the duals to each of the 5 Cubes; 5 Octahedra.
+</p>
+
+ <table border="1" align="center">
+  <tr>
+    <td align="center">
+     <img src="figures/everything/capture10.jpg">
+    </td>
+    <td>
+     <img src="figures/everything/capture11.jpg">
+    </td>
+  <tr>
+    <td align="center" colspan=2><B>Dodecahedron, Tetrahedra, Cubes, Octahedra</B>
+    </td>
+  </tr>
+ </table>
+
+<p>
+Recall that each Cube/Octahedron pair defines a rhombic Dodecahedron.
+</p>
+
+ <table border="1" align="center">
+  <tr>
+    <td align="center">
+     <img src="figures/everything/capture8.jpg">
+    </td>
+    <td>
+     <img src="figures/everything/capture9.jpg">
+    </td>
+  <tr>
+    <td align="center" colspan=2><B>Dodecahedron, Tetrahedra, Cubes, Octahedra, rhombic Dodecahedra</B>
+    </td>
+  </tr>
+ </table>
+
+<p>
+Add the dual to the (regular) Dodecahedron; the Icosahedron.
+</p>
+
+ <table border="1" align="center">
+  <tr>
+    <td align="center">
+     <img src="figures/everything/capture6.jpg">
+    </td>
+    <td>
+     <img src="figures/everything/capture7.jpg">
+    </td>
+  <tr>
+    <td align="center" colspan=2><B>Dodecahedron, Tetrahedra, Cubes, Octahedra, 
+                                 rhombic Dodecahedra, <br>Icosahedron</B>
+    </td>
+  </tr>
+ </table>
+
+<p>
+Recall that the Icosahedron/Dodecahedron pair defines the rhombic Triacontahedron.
+</p>
+
+ <table border="1" align="center">
+  <tr>
+    <td align="center">
+     <img src="figures/everything/capture4.jpg">
+    </td>
+    <td>
+     <img src="figures/everything/capture5.jpg">
+    </td>
+  <tr>
+    <td align="center" colspan=2><B>Dodecahedron, Tetrahedra, Cubes, Octahedra, 
+                                 rhombic Dodecahedra, <br>Icosahedron, rhombic Triacontahedron</B>
+    </td>
+  </tr>
+ </table>
+
+<p>
+Connect all the outer vertices together.  This defines the 120 Polyhedron.
+</p>
+
+ <table border="1" align="center">
+  <tr>
+    <td align="center">
+     <img src="figures/everything/capture2.jpg">
+    </td>
+    <td>
+     <img src="figures/everything/capture3.jpg">
+    </td>
+  <tr>
+    <td align="center" colspan=2><B>Dodecahedron, Tetrahedra, Cubes, Octahedra, 
+                                 rhombic Dodecahedra, <br> Icosahedron, 
+                                 rhombic Triacontahedron, 120 Polyhedron</B>
+    </td>
+  </tr>
+ </table>
+
+
+ <table border="1" align="center">
+  <tr>
+    <td align="center">
+     <img src="figures/everything/capture18.jpg">
+    </td>
+    <td>
+     <img src="figures/everything/capture19.jpg">
+    </td>
+  <tr>
+    <td align="center" colspan=2><B>120 Polyhedron</B>
+    </td>
+  </tr>
+ </table>
+<p>
+(Note that there are other polyhedra with 120 triangular faces. They will not be discussed 
+here.)
+</p>
+
+
+<P>
+
+</P>
+
+<br><br>
+
+
+<br><br>
+
+
+<hr>
+
+<div align="center">
+
+<a href="prsentationWeb.html">[1]</a>
+[2]
+<a href="prsentationWeb3.html">[3]</a>
+<a href="prsentationWeb4.html">[4]</a>
+
+<div>
+
+
+ </font>
+
+<hr>
+
+
+<DIV ALIGN="center">
+Go To:  <a href="../../index.html">Home Page </A>
+</DIV>
+
+<HR> 
+
+<P>Usage Note: My work is copyrighted.  You may use my work but
+you may <I>not</I> include my work, or parts of it, in <I>any</I> for-profit
+project without my consent.
+</P>
+
+<DIV ALIGN="center">
+<ADDRESS><A HREF="mailto:rwgray@rwgrayprojects.com">rwgray@rwgrayprojects.com</A>
+</ADDRESS>
+</DIV>
+
+
+</body> 
+
+
+<!-- Mirrored from www.rwgrayprojects.com/OswegoOct2001/Presentation/prsentationWeb2.html by HTTrack Website Copier/3.x [XR&CO'2014], Wed, 06 Jan 2016 19:27:31 GMT -->
+</html>

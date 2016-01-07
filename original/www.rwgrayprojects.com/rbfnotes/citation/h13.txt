@@ -1,0 +1,17 @@
+------------------------------------------------------------ 
+
+     ERIC NO: EJ191333
+      AUTHOR: Ranucci, Ernest R.
+       TITLE: The World of Buckminster Fuller.
+        YEAR: Oct1978
+      SOURCE: Mathematics Teacher (v71 n7 p568-77 Oct 1978) 
+    ABSTRACT: This discussion of the accomplishments of Buckminster Fuller 
+              describes the geodesic dome, the Dymaxion principle and its 
+              applications, and the Octet-Truss principle. (MP)
+       NOTES: Reprint: UMI
+  MAJOR DESC: Geometry; Inventions; Mathematical Applications; 
+              Mathematicians; Secondary School Mathematics
+  MINOR DESC: College Mathematics; Secondary Education; Solid Geometry
+ IDENTIFIERS: Geodesic Domes; Geometric Constructions
+ 
+------------------------------------------------------------ 

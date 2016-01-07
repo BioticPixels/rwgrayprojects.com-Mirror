@@ -1,0 +1,8253 @@
+#VRML V1.0 ascii
+DEF Title Info {
+	 string "C:\G\WWW\Lynn\P180\p180.wrl"
+}
+DEF SceneInfo Info {
+	 string "by DesignCAD File Translator, 11/10/01, 09:53:40"
+}
+DEF BackgroundColor Info {
+	 string "1.0000 1.0000 1.0000"
+}
+MatrixTransform { 
+ matrix 1.00000 0.00000 0.00000 0.00000
+0.00000 1.00000 0.00000 0.00000
+0.00000 0.00000 -1.00000 0.00000
+0.00000 0.00000 0.00000 1.00000
+}
+DirectionalLight { 
+on 	 TRUE
+color 	 1.0 1.0 1.0
+intensity 	 0.60000
+direction 	 0.00000 0.00000 -1.00000
+}
+ShapeHints {
+ shapeType UNKNOWN_SHAPE_TYPE
+}
+Material  { 
+ diffuseColor 0.0000 0.0000 1.0000
+}
+Coordinate3 { 
+ point [0.00000 0.00000 0.00000,
+0.00000 0.00000 0.00000,
+]
+}
+IndexedLineSet {
+ coordIndex[0,1,]
+}
+Material  { 
+ diffuseColor 0.0000 0.0000 1.0000
+}
+Coordinate3 { 
+ point [0.00000 0.00000 0.00000,
+0.00000 0.00000 0.00000,
+]
+}
+IndexedLineSet {
+ coordIndex[0,1,]
+}
+Material  { 
+ diffuseColor 0.0000 0.0000 1.0000
+}
+Coordinate3 { 
+ point [0.00000 0.00000 0.00000,
+0.00000 0.00000 0.00000,
+]
+}
+IndexedLineSet {
+ coordIndex[0,1,]
+}
+Material  { 
+ diffuseColor 0.0000 0.0000 1.0000
+}
+Coordinate3 { 
+ point [0.00000 0.00000 0.00000,
+0.00000 0.00000 0.00000,
+]
+}
+IndexedLineSet {
+ coordIndex[0,1,]
+}
+Material  { 
+ diffuseColor 0.0000 0.0000 1.0000
+}
+Coordinate3 { 
+ point [0.00000 0.00000 0.00000,
+0.00000 0.00000 0.00000,
+]
+}
+IndexedLineSet {
+ coordIndex[0,1,]
+}
+Material  { 
+ diffuseColor 0.0000 0.0000 1.0000
+}
+Coordinate3 { 
+ point [0.00000 0.00000 0.00000,
+0.00000 0.00000 0.00000,
+]
+}
+IndexedLineSet {
+ coordIndex[0,1,]
+}
+Material  { 
+ diffuseColor 0.0000 0.0000 1.0000
+}
+Coordinate3 { 
+ point [0.00000 0.00000 0.00000,
+0.00000 0.00000 0.00000,
+]
+}
+IndexedLineSet {
+ coordIndex[0,1,]
+}
+Material  { 
+ diffuseColor 0.0000 0.0000 1.0000
+}
+Coordinate3 { 
+ point [0.00000 0.00000 0.00000,
+0.00000 0.00000 0.00000,
+]
+}
+IndexedLineSet {
+ coordIndex[0,1,]
+}
+Material  { 
+ diffuseColor 0.0000 0.0000 1.0000
+}
+Coordinate3 { 
+ point [0.00000 0.00000 0.00000,
+0.00000 0.00000 0.00000,
+]
+}
+IndexedLineSet {
+ coordIndex[0,1,]
+}
+Material  { 
+ diffuseColor 0.0000 0.0000 1.0000
+}
+Coordinate3 { 
+ point [0.00000 0.00000 0.00000,
+0.00000 0.00000 0.00000,
+]
+}
+IndexedLineSet {
+ coordIndex[0,1,]
+}
+Material  { 
+ diffuseColor 0.0000 0.0000 1.0000
+}
+Coordinate3 { 
+ point [0.00000 0.00000 0.00000,
+0.00000 0.00000 0.00000,
+]
+}
+IndexedLineSet {
+ coordIndex[0,1,]
+}
+Material  { 
+ diffuseColor 0.0000 0.0000 1.0000
+}
+Coordinate3 { 
+ point [0.00000 0.00000 0.00000,
+0.00000 0.00000 0.00000,
+]
+}
+IndexedLineSet {
+ coordIndex[0,1,]
+}
+Material  { 
+ diffuseColor 0.0000 0.0000 1.0000
+}
+Coordinate3 { 
+ point [0.00000 0.00000 0.00000,
+0.00000 0.00000 0.00000,
+]
+}
+IndexedLineSet {
+ coordIndex[0,1,]
+}
+Material  { 
+ diffuseColor 0.0000 0.0000 1.0000
+}
+Coordinate3 { 
+ point [0.00000 0.00000 0.00000,
+0.00000 0.00000 0.00000,
+]
+}
+IndexedLineSet {
+ coordIndex[0,1,]
+}
+Material  { 
+ diffuseColor 0.0000 0.0000 1.0000
+}
+Coordinate3 { 
+ point [0.00000 0.00000 0.00000,
+0.00000 0.00000 0.00000,
+]
+}
+IndexedLineSet {
+ coordIndex[0,1,]
+}
+Material  { 
+ diffuseColor 0.0000 0.0000 1.0000
+}
+Coordinate3 { 
+ point [0.00000 0.00000 0.00000,
+0.00000 0.00000 0.00000,
+]
+}
+IndexedLineSet {
+ coordIndex[0,1,]
+}
+Material  { 
+ diffuseColor 0.0000 0.0000 1.0000
+}
+Coordinate3 { 
+ point [0.00000 0.00000 0.00000,
+0.00000 0.00000 0.00000,
+]
+}
+IndexedLineSet {
+ coordIndex[0,1,]
+}
+Material  { 
+ diffuseColor 0.0000 0.0000 1.0000
+}
+Coordinate3 { 
+ point [0.00000 0.00000 0.00000,
+0.00000 0.00000 0.00000,
+]
+}
+IndexedLineSet {
+ coordIndex[0,1,]
+}
+Material  { 
+ diffuseColor 0.0000 0.0000 1.0000
+}
+Coordinate3 { 
+ point [0.00000 0.00000 0.00000,
+0.00000 0.00000 0.00000,
+]
+}
+IndexedLineSet {
+ coordIndex[0,1,]
+}
+Material  { 
+ diffuseColor 0.0000 0.0000 1.0000
+}
+Coordinate3 { 
+ point [0.00000 0.00000 0.00000,
+0.00000 0.00000 0.00000,
+]
+}
+IndexedLineSet {
+ coordIndex[0,1,]
+}
+Material  { 
+ diffuseColor 0.0000 0.0000 1.0000
+}
+Coordinate3 { 
+ point [0.00000 0.00000 0.00000,
+0.00000 0.00000 0.00000,
+]
+}
+IndexedLineSet {
+ coordIndex[0,1,]
+}
+Material  { 
+ diffuseColor 0.0000 0.0000 1.0000
+}
+Coordinate3 { 
+ point [0.00000 0.00000 0.00000,
+0.00000 0.00000 0.00000,
+]
+}
+IndexedLineSet {
+ coordIndex[0,1,]
+}
+Material  { 
+ diffuseColor 0.0000 0.0000 1.0000
+}
+Coordinate3 { 
+ point [0.00000 0.00000 0.00000,
+0.00000 0.00000 0.00000,
+]
+}
+IndexedLineSet {
+ coordIndex[0,1,]
+}
+Material  { 
+ diffuseColor 0.0000 0.0000 1.0000
+}
+Coordinate3 { 
+ point [0.00000 0.00000 0.00000,
+0.00000 0.00000 0.00000,
+]
+}
+IndexedLineSet {
+ coordIndex[0,1,]
+}
+Material  { 
+ diffuseColor 0.0000 0.0000 1.0000
+}
+Coordinate3 { 
+ point [0.00000 0.00000 0.00000,
+0.00000 0.00000 0.00000,
+]
+}
+IndexedLineSet {
+ coordIndex[0,1,]
+}
+Material  { 
+ diffuseColor 0.0000 0.0000 1.0000
+}
+Coordinate3 { 
+ point [0.00000 0.00000 0.00000,
+0.00000 0.00000 0.00000,
+]
+}
+IndexedLineSet {
+ coordIndex[0,1,]
+}
+Material  { 
+ diffuseColor 0.0000 0.0000 1.0000
+}
+Coordinate3 { 
+ point [0.00000 0.00000 0.00000,
+0.00000 0.00000 0.00000,
+]
+}
+IndexedLineSet {
+ coordIndex[0,1,]
+}
+Material  { 
+ diffuseColor 0.0000 0.0000 1.0000
+}
+Coordinate3 { 
+ point [0.00000 0.00000 0.00000,
+0.00000 0.00000 0.00000,
+]
+}
+IndexedLineSet {
+ coordIndex[0,1,]
+}
+Material  { 
+ diffuseColor 0.0000 0.0000 1.0000
+}
+Coordinate3 { 
+ point [0.00000 0.00000 0.00000,
+0.00000 0.00000 0.00000,
+]
+}
+IndexedLineSet {
+ coordIndex[0,1,]
+}
+Material  { 
+ diffuseColor 0.0000 0.0000 1.0000
+}
+Coordinate3 { 
+ point [0.00000 0.00000 0.00000,
+0.00000 0.00000 0.00000,
+]
+}
+IndexedLineSet {
+ coordIndex[0,1,]
+}
+Material  { 
+ diffuseColor 0.0000 0.0000 1.0000
+}
+Coordinate3 { 
+ point [0.00000 1.61803 4.23607,
+0.00000 -1.61803 4.23607,
+]
+}
+IndexedLineSet {
+ coordIndex[0,1,]
+}
+Material  { 
+ diffuseColor 0.0000 0.0000 1.0000
+}
+Coordinate3 { 
+ point [0.00000 1.61803 4.23607,
+2.61803 2.61803 2.61803,
+]
+}
+IndexedLineSet {
+ coordIndex[0,1,]
+}
+Material  { 
+ diffuseColor 0.0000 0.0000 1.0000
+}
+Coordinate3 { 
+ point [0.00000 1.61803 4.23607,
+-2.61803 2.61803 2.61803,
+]
+}
+IndexedLineSet {
+ coordIndex[0,1,]
+}
+Material  { 
+ diffuseColor 0.0000 0.0000 1.0000
+}
+Coordinate3 { 
+ point [0.00000 -1.61803 4.23607,
+-2.61803 -2.61803 2.61803,
+]
+}
+IndexedLineSet {
+ coordIndex[0,1,]
+}
+Material  { 
+ diffuseColor 0.0000 0.0000 1.0000
+}
+Coordinate3 { 
+ point [0.00000 -1.61803 4.23607,
+2.61803 -2.61803 2.61803,
+]
+}
+IndexedLineSet {
+ coordIndex[0,1,]
+}
+Material  { 
+ diffuseColor 0.0000 0.0000 1.0000
+}
+Coordinate3 { 
+ point [2.61803 2.61803 2.61803,
+4.23607 0.00000 1.61803,
+]
+}
+IndexedLineSet {
+ coordIndex[0,1,]
+}
+Material  { 
+ diffuseColor 0.0000 0.0000 1.0000
+}
+Coordinate3 { 
+ point [2.61803 2.61803 2.61803,
+1.61803 4.23607 0.00000,
+]
+}
+IndexedLineSet {
+ coordIndex[0,1,]
+}
+Material  { 
+ diffuseColor 0.0000 0.0000 1.0000
+}
+Coordinate3 { 
+ point [-2.61803 2.61803 2.61803,
+-1.61803 4.23607 0.00000,
+]
+}
+IndexedLineSet {
+ coordIndex[0,1,]
+}
+Material  { 
+ diffuseColor 0.0000 0.0000 1.0000
+}
+Coordinate3 { 
+ point [-2.61803 2.61803 2.61803,
+-4.23607 0.00000 1.61803,
+]
+}
+IndexedLineSet {
+ coordIndex[0,1,]
+}
+Material  { 
+ diffuseColor 0.0000 0.0000 1.0000
+}
+Coordinate3 { 
+ point [-2.61803 -2.61803 2.61803,
+-4.23607 0.00000 1.61803,
+]
+}
+IndexedLineSet {
+ coordIndex[0,1,]
+}
+Material  { 
+ diffuseColor 0.0000 0.0000 1.0000
+}
+Coordinate3 { 
+ point [-2.61803 -2.61803 2.61803,
+-1.61803 -4.23607 0.00000,
+]
+}
+IndexedLineSet {
+ coordIndex[0,1,]
+}
+Material  { 
+ diffuseColor 0.0000 0.0000 1.0000
+}
+Coordinate3 { 
+ point [2.61803 -2.61803 2.61803,
+1.61803 -4.23607 0.00000,
+]
+}
+IndexedLineSet {
+ coordIndex[0,1,]
+}
+Material  { 
+ diffuseColor 0.0000 0.0000 1.0000
+}
+Coordinate3 { 
+ point [2.61803 -2.61803 2.61803,
+4.23607 0.00000 1.61803,
+]
+}
+IndexedLineSet {
+ coordIndex[0,1,]
+}
+Material  { 
+ diffuseColor 0.0000 0.0000 1.0000
+}
+Coordinate3 { 
+ point [4.23607 0.00000 -1.61803,
+4.23607 0.00000 1.61803,
+]
+}
+IndexedLineSet {
+ coordIndex[0,1,]
+}
+Material  { 
+ diffuseColor 0.0000 0.0000 1.0000
+}
+Coordinate3 { 
+ point [-4.23607 0.00000 -1.61803,
+-4.23607 0.00000 1.61803,
+]
+}
+IndexedLineSet {
+ coordIndex[0,1,]
+}
+Material  { 
+ diffuseColor 0.0000 0.0000 1.0000
+}
+Coordinate3 { 
+ point [1.61803 4.23607 0.00000,
+-1.61803 4.23607 0.00000,
+]
+}
+IndexedLineSet {
+ coordIndex[0,1,]
+}
+Material  { 
+ diffuseColor 0.0000 0.0000 1.0000
+}
+Coordinate3 { 
+ point [1.61803 4.23607 0.00000,
+2.61803 2.61803 -2.61803,
+]
+}
+IndexedLineSet {
+ coordIndex[0,1,]
+}
+Material  { 
+ diffuseColor 0.0000 0.0000 1.0000
+}
+Coordinate3 { 
+ point [-1.61803 4.23607 0.00000,
+-2.61803 2.61803 -2.61803,
+]
+}
+IndexedLineSet {
+ coordIndex[0,1,]
+}
+Material  { 
+ diffuseColor 0.0000 0.0000 1.0000
+}
+Coordinate3 { 
+ point [-1.61803 -4.23607 0.00000,
+-2.61803 -2.61803 -2.61803,
+]
+}
+IndexedLineSet {
+ coordIndex[0,1,]
+}
+Material  { 
+ diffuseColor 0.0000 0.0000 1.0000
+}
+Coordinate3 { 
+ point [-1.61803 -4.23607 0.00000,
+1.61803 -4.23607 0.00000,
+]
+}
+IndexedLineSet {
+ coordIndex[0,1,]
+}
+Material  { 
+ diffuseColor 0.0000 0.0000 1.0000
+}
+Coordinate3 { 
+ point [1.61803 -4.23607 0.00000,
+2.61803 -2.61803 -2.61803,
+]
+}
+IndexedLineSet {
+ coordIndex[0,1,]
+}
+Material  { 
+ diffuseColor 0.0000 0.0000 1.0000
+}
+Coordinate3 { 
+ point [4.23607 0.00000 -1.61803,
+2.61803 2.61803 -2.61803,
+]
+}
+IndexedLineSet {
+ coordIndex[0,1,]
+}
+Material  { 
+ diffuseColor 0.0000 0.0000 1.0000
+}
+Coordinate3 { 
+ point [4.23607 0.00000 -1.61803,
+2.61803 -2.61803 -2.61803,
+]
+}
+IndexedLineSet {
+ coordIndex[0,1,]
+}
+Material  { 
+ diffuseColor 0.0000 0.0000 1.0000
+}
+Coordinate3 { 
+ point [-4.23607 0.00000 -1.61803,
+-2.61803 2.61803 -2.61803,
+]
+}
+IndexedLineSet {
+ coordIndex[0,1,]
+}
+Material  { 
+ diffuseColor 0.0000 0.0000 1.0000
+}
+Coordinate3 { 
+ point [-4.23607 0.00000 -1.61803,
+-2.61803 -2.61803 -2.61803,
+]
+}
+IndexedLineSet {
+ coordIndex[0,1,]
+}
+Material  { 
+ diffuseColor 0.0000 0.0000 1.0000
+}
+Coordinate3 { 
+ point [2.61803 2.61803 -2.61803,
+0.00000 1.61803 -4.23607,
+]
+}
+IndexedLineSet {
+ coordIndex[0,1,]
+}
+Material  { 
+ diffuseColor 0.0000 0.0000 1.0000
+}
+Coordinate3 { 
+ point [-2.61803 2.61803 -2.61803,
+0.00000 1.61803 -4.23607,
+]
+}
+IndexedLineSet {
+ coordIndex[0,1,]
+}
+Material  { 
+ diffuseColor 0.0000 0.0000 1.0000
+}
+Coordinate3 { 
+ point [-2.61803 -2.61803 -2.61803,
+0.00000 -1.61803 -4.23607,
+]
+}
+IndexedLineSet {
+ coordIndex[0,1,]
+}
+Material  { 
+ diffuseColor 0.0000 0.0000 1.0000
+}
+Coordinate3 { 
+ point [2.61803 -2.61803 -2.61803,
+0.00000 -1.61803 -4.23607,
+]
+}
+IndexedLineSet {
+ coordIndex[0,1,]
+}
+Material  { 
+ diffuseColor 0.0000 0.0000 1.0000
+}
+Coordinate3 { 
+ point [0.00000 1.61803 -4.23607,
+0.00000 -1.61803 -4.23607,
+]
+}
+IndexedLineSet {
+ coordIndex[0,1,]
+}
+Material  { 
+ diffuseColor 1.0000 0.0000 0.0000
+}
+Coordinate3 { 
+ point [-2.61803 2.61803 2.61803,
+0.00000 1.61803 4.23607,
+-0.00000 3.06525 1.89443,
+]
+}
+IndexedLineSet {
+ coordIndex[0,1,2,]
+}
+Material  { 
+ diffuseColor 1.0000 0.0000 0.0000
+}
+Coordinate3 { 
+ point [0.00000 1.61803 4.23607,
+2.61803 2.61803 2.61803,
+-0.00000 3.06525 1.89443,
+]
+}
+IndexedLineSet {
+ coordIndex[0,1,2,]
+}
+Material  { 
+ diffuseColor 1.0000 0.0000 0.0000
+}
+Coordinate3 { 
+ point [-0.00000 3.06525 1.89443,
+2.61803 2.61803 2.61803,
+1.61803 4.23607 0.00000,
+]
+}
+IndexedLineSet {
+ coordIndex[0,1,2,]
+}
+Material  { 
+ diffuseColor 1.0000 0.0000 0.0000
+}
+Coordinate3 { 
+ point [1.61803 4.23607 0.00000,
+-0.00000 3.06525 1.89443,
+]
+}
+IndexedLineSet {
+ coordIndex[0,1,]
+}
+Material  { 
+ diffuseColor 1.0000 0.0000 0.0000
+}
+Coordinate3 { 
+ point [-0.00000 3.06525 1.89443,
+1.61803 4.23607 0.00000,
+-1.61803 4.23607 0.00000,
+-0.00000 3.06525 1.89443,
+]
+}
+IndexedLineSet {
+ coordIndex[0,1,2,3,]
+}
+Material  { 
+ diffuseColor 1.0000 0.0000 0.0000
+}
+Coordinate3 { 
+ point [-0.00000 3.06525 1.89443,
+-1.61803 4.23607 0.00000,
+-2.61803 2.61803 2.61803,
+-0.00000 3.06525 1.89443,
+]
+}
+IndexedLineSet {
+ coordIndex[0,1,2,3,]
+}
+Material  { 
+ diffuseColor 0.5098 0.0000 1.0000
+ ambientColor 0.0200 0.0200 0.0200
+ specularColor 0.1500 0.1500 0.1500
+
+}
+Coordinate3 { 
+ point [-2.61803 2.61803 2.61803,
+-0.85390 2.90044 3.09469,
+0.00000 1.61803 4.23607,
+-2.61803 2.61803 2.61803,
+]
+}
+IndexedFaceSet {
+ coordIndex[1,2,3,-1,]
+}
+IndexedFaceSet {
+ coordIndex[3,2,1,-1,]
+}
+Material  { 
+ diffuseColor 1.0000 0.0000 0.0000
+ ambientColor 0.0200 0.0200 0.0200
+ specularColor 0.1500 0.1500 0.1500
+
+}
+Coordinate3 { 
+ point [0.00000 1.61803 4.23607,
+-0.85390 2.90044 3.09469,
+-0.00000 3.06525 1.89443,
+0.00000 1.61803 4.23607,
+]
+}
+IndexedFaceSet {
+ coordIndex[1,2,3,-1,]
+}
+IndexedFaceSet {
+ coordIndex[3,2,1,-1,]
+}
+Material  { 
+ diffuseColor 0.7137 0.7137 0.0000
+ ambientColor 0.0200 0.0200 0.0200
+ specularColor 0.1500 0.1500 0.1500
+
+}
+Coordinate3 { 
+ point [-2.61803 2.61803 2.61803,
+-0.85390 2.90044 3.09469,
+-0.00000 3.06525 1.89443,
+-2.61803 2.61803 2.61803,
+]
+}
+IndexedFaceSet {
+ coordIndex[1,2,3,-1,]
+}
+IndexedFaceSet {
+ coordIndex[3,2,1,-1,]
+}
+Material  { 
+ diffuseColor 0.0000 0.0000 1.0000
+}
+Coordinate3 { 
+ point [0.00000 0.00000 -0.00000,
+0.00000 0.00000 -0.00000,
+]
+}
+IndexedLineSet {
+ coordIndex[0,1,]
+}
+Material  { 
+ diffuseColor 0.0000 0.0000 1.0000
+}
+Coordinate3 { 
+ point [0.00000 0.00000 -0.00000,
+0.00000 0.00000 -0.00000,
+]
+}
+IndexedLineSet {
+ coordIndex[0,1,]
+}
+Material  { 
+ diffuseColor 0.0000 0.0000 1.0000
+}
+Coordinate3 { 
+ point [0.00000 0.00000 -0.00000,
+0.00000 0.00000 -0.00000,
+]
+}
+IndexedLineSet {
+ coordIndex[0,1,]
+}
+Material  { 
+ diffuseColor 0.0000 0.0000 1.0000
+}
+Coordinate3 { 
+ point [0.00000 0.00000 -0.00000,
+0.00000 0.00000 -0.00000,
+]
+}
+IndexedLineSet {
+ coordIndex[0,1,]
+}
+Material  { 
+ diffuseColor 0.0000 0.0000 1.0000
+}
+Coordinate3 { 
+ point [0.00000 0.00000 -0.00000,
+0.00000 0.00000 -0.00000,
+]
+}
+IndexedLineSet {
+ coordIndex[0,1,]
+}
+Material  { 
+ diffuseColor 0.0000 0.0000 1.0000
+}
+Coordinate3 { 
+ point [0.00000 0.00000 -0.00000,
+0.00000 0.00000 -0.00000,
+]
+}
+IndexedLineSet {
+ coordIndex[0,1,]
+}
+Material  { 
+ diffuseColor 0.0000 0.0000 1.0000
+}
+Coordinate3 { 
+ point [0.00000 0.00000 -0.00000,
+0.00000 0.00000 -0.00000,
+]
+}
+IndexedLineSet {
+ coordIndex[0,1,]
+}
+Material  { 
+ diffuseColor 0.0000 0.0000 1.0000
+}
+Coordinate3 { 
+ point [0.00000 0.00000 -0.00000,
+0.00000 0.00000 -0.00000,
+]
+}
+IndexedLineSet {
+ coordIndex[0,1,]
+}
+Material  { 
+ diffuseColor 0.0000 0.0000 1.0000
+}
+Coordinate3 { 
+ point [0.00000 0.00000 -0.00000,
+0.00000 0.00000 -0.00000,
+]
+}
+IndexedLineSet {
+ coordIndex[0,1,]
+}
+Material  { 
+ diffuseColor 0.0000 0.0000 1.0000
+}
+Coordinate3 { 
+ point [0.00000 0.00000 -0.00000,
+0.00000 0.00000 -0.00000,
+]
+}
+IndexedLineSet {
+ coordIndex[0,1,]
+}
+Material  { 
+ diffuseColor 0.0000 0.0000 1.0000
+}
+Coordinate3 { 
+ point [0.00000 0.00000 -0.00000,
+0.00000 0.00000 -0.00000,
+]
+}
+IndexedLineSet {
+ coordIndex[0,1,]
+}
+Material  { 
+ diffuseColor 0.0000 0.0000 1.0000
+}
+Coordinate3 { 
+ point [0.00000 0.00000 -0.00000,
+0.00000 0.00000 -0.00000,
+]
+}
+IndexedLineSet {
+ coordIndex[0,1,]
+}
+Material  { 
+ diffuseColor 0.0000 0.0000 1.0000
+}
+Coordinate3 { 
+ point [0.00000 0.00000 -0.00000,
+0.00000 0.00000 -0.00000,
+]
+}
+IndexedLineSet {
+ coordIndex[0,1,]
+}
+Material  { 
+ diffuseColor 0.0000 0.0000 1.0000
+}
+Coordinate3 { 
+ point [0.00000 0.00000 -0.00000,
+0.00000 0.00000 -0.00000,
+]
+}
+IndexedLineSet {
+ coordIndex[0,1,]
+}
+Material  { 
+ diffuseColor 0.0000 0.0000 1.0000
+}
+Coordinate3 { 
+ point [0.00000 0.00000 -0.00000,
+0.00000 0.00000 -0.00000,
+]
+}
+IndexedLineSet {
+ coordIndex[0,1,]
+}
+Material  { 
+ diffuseColor 0.0000 0.0000 1.0000
+}
+Coordinate3 { 
+ point [0.00000 0.00000 -0.00000,
+0.00000 0.00000 -0.00000,
+]
+}
+IndexedLineSet {
+ coordIndex[0,1,]
+}
+Material  { 
+ diffuseColor 0.0000 0.0000 1.0000
+}
+Coordinate3 { 
+ point [0.00000 0.00000 -0.00000,
+0.00000 0.00000 -0.00000,
+]
+}
+IndexedLineSet {
+ coordIndex[0,1,]
+}
+Material  { 
+ diffuseColor 0.0000 0.0000 1.0000
+}
+Coordinate3 { 
+ point [0.00000 0.00000 -0.00000,
+0.00000 0.00000 -0.00000,
+]
+}
+IndexedLineSet {
+ coordIndex[0,1,]
+}
+Material  { 
+ diffuseColor 0.0000 0.0000 1.0000
+}
+Coordinate3 { 
+ point [0.00000 0.00000 -0.00000,
+0.00000 0.00000 -0.00000,
+]
+}
+IndexedLineSet {
+ coordIndex[0,1,]
+}
+Material  { 
+ diffuseColor 0.0000 0.0000 1.0000
+}
+Coordinate3 { 
+ point [0.00000 0.00000 -0.00000,
+0.00000 0.00000 -0.00000,
+]
+}
+IndexedLineSet {
+ coordIndex[0,1,]
+}
+Material  { 
+ diffuseColor 0.0000 0.0000 1.0000
+}
+Coordinate3 { 
+ point [0.00000 0.00000 -0.00000,
+0.00000 0.00000 -0.00000,
+]
+}
+IndexedLineSet {
+ coordIndex[0,1,]
+}
+Material  { 
+ diffuseColor 0.0000 0.0000 1.0000
+}
+Coordinate3 { 
+ point [0.00000 0.00000 -0.00000,
+0.00000 0.00000 -0.00000,
+]
+}
+IndexedLineSet {
+ coordIndex[0,1,]
+}
+Material  { 
+ diffuseColor 0.0000 0.0000 1.0000
+}
+Coordinate3 { 
+ point [0.00000 0.00000 -0.00000,
+0.00000 0.00000 -0.00000,
+]
+}
+IndexedLineSet {
+ coordIndex[0,1,]
+}
+Material  { 
+ diffuseColor 0.0000 0.0000 1.0000
+}
+Coordinate3 { 
+ point [0.00000 0.00000 -0.00000,
+0.00000 0.00000 -0.00000,
+]
+}
+IndexedLineSet {
+ coordIndex[0,1,]
+}
+Material  { 
+ diffuseColor 0.0000 0.0000 1.0000
+}
+Coordinate3 { 
+ point [0.00000 0.00000 -0.00000,
+0.00000 0.00000 -0.00000,
+]
+}
+IndexedLineSet {
+ coordIndex[0,1,]
+}
+Material  { 
+ diffuseColor 0.0000 0.0000 1.0000
+}
+Coordinate3 { 
+ point [0.00000 0.00000 -0.00000,
+0.00000 0.00000 -0.00000,
+]
+}
+IndexedLineSet {
+ coordIndex[0,1,]
+}
+Material  { 
+ diffuseColor 0.0000 0.0000 1.0000
+}
+Coordinate3 { 
+ point [0.00000 0.00000 -0.00000,
+0.00000 0.00000 -0.00000,
+]
+}
+IndexedLineSet {
+ coordIndex[0,1,]
+}
+Material  { 
+ diffuseColor 0.0000 0.0000 1.0000
+}
+Coordinate3 { 
+ point [0.00000 0.00000 -0.00000,
+0.00000 0.00000 -0.00000,
+]
+}
+IndexedLineSet {
+ coordIndex[0,1,]
+}
+Material  { 
+ diffuseColor 0.0000 0.0000 1.0000
+}
+Coordinate3 { 
+ point [0.00000 0.00000 -0.00000,
+0.00000 0.00000 -0.00000,
+]
+}
+IndexedLineSet {
+ coordIndex[0,1,]
+}
+Material  { 
+ diffuseColor 0.0000 0.0000 1.0000
+}
+Coordinate3 { 
+ point [0.00000 0.00000 -0.00000,
+0.00000 0.00000 -0.00000,
+]
+}
+IndexedLineSet {
+ coordIndex[0,1,]
+}
+Material  { 
+ diffuseColor 0.0000 0.0000 1.0000
+}
+Coordinate3 { 
+ point [2.61803 2.61803 2.61803,
+0.00000 1.61803 4.23607,
+]
+}
+IndexedLineSet {
+ coordIndex[0,1,]
+}
+Material  { 
+ diffuseColor 1.0000 0.0000 0.0000
+}
+Coordinate3 { 
+ point [0.00000 1.61803 4.23607,
+2.61803 2.61803 2.61803,
+-0.00000 3.06525 1.89443,
+]
+}
+IndexedLineSet {
+ coordIndex[0,1,2,]
+}
+Material  { 
+ diffuseColor 0.5098 0.0000 1.0000
+ ambientColor 0.0200 0.0200 0.0200
+ specularColor 0.1500 0.1500 0.1500
+
+}
+Coordinate3 { 
+ point [0.00000 1.61803 4.23607,
+0.78956 2.87587 3.13445,
+2.61803 2.61803 2.61803,
+0.00000 1.61803 4.23607,
+]
+}
+IndexedFaceSet {
+ coordIndex[1,2,3,-1,]
+}
+IndexedFaceSet {
+ coordIndex[3,2,1,-1,]
+}
+Material  { 
+ diffuseColor 1.0000 0.0000 0.0000
+ ambientColor 0.0200 0.0200 0.0200
+ specularColor 0.1500 0.1500 0.1500
+
+}
+Coordinate3 { 
+ point [2.61803 2.61803 2.61803,
+0.78956 2.87587 3.13445,
+-0.00000 3.06525 1.89443,
+2.61803 2.61803 2.61803,
+]
+}
+IndexedFaceSet {
+ coordIndex[1,2,3,-1,]
+}
+IndexedFaceSet {
+ coordIndex[3,2,1,-1,]
+}
+Material  { 
+ diffuseColor 0.7137 0.7137 0.0000
+ ambientColor 0.0200 0.0200 0.0200
+ specularColor 0.1500 0.1500 0.1500
+
+}
+Coordinate3 { 
+ point [0.00000 1.61803 4.23607,
+0.78956 2.87587 3.13445,
+-0.00000 3.06525 1.89443,
+0.00000 1.61803 4.23607,
+]
+}
+IndexedFaceSet {
+ coordIndex[1,2,3,-1,]
+}
+IndexedFaceSet {
+ coordIndex[3,2,1,-1,]
+}
+Material  { 
+ diffuseColor 0.0000 0.0000 1.0000
+}
+Coordinate3 { 
+ point [-2.61803 2.61803 2.61803,
+-1.61803 4.23607 -0.00000,
+]
+}
+IndexedLineSet {
+ coordIndex[0,1,]
+}
+Material  { 
+ diffuseColor 1.0000 0.0000 0.0000
+}
+Coordinate3 { 
+ point [-1.61803 4.23607 -0.00000,
+-2.61803 2.61803 2.61803,
+-0.00000 3.06525 1.89443,
+]
+}
+IndexedLineSet {
+ coordIndex[0,1,2,]
+}
+Material  { 
+ diffuseColor 0.5098 0.0000 1.0000
+ ambientColor 0.0200 0.0200 0.0200
+ specularColor 0.1500 0.1500 0.1500
+
+}
+Coordinate3 { 
+ point [-1.61803 4.23607 -0.00000,
+-1.31730 3.72977 1.75281,
+-2.61803 2.61803 2.61803,
+-1.61803 4.23607 -0.00000,
+]
+}
+IndexedFaceSet {
+ coordIndex[1,2,3,-1,]
+}
+IndexedFaceSet {
+ coordIndex[3,2,1,-1,]
+}
+Material  { 
+ diffuseColor 1.0000 0.0000 0.0000
+ ambientColor 0.0200 0.0200 0.0200
+ specularColor 0.1500 0.1500 0.1500
+
+}
+Coordinate3 { 
+ point [-2.61803 2.61803 2.61803,
+-1.31730 3.72977 1.75281,
+-0.00000 3.06525 1.89443,
+-2.61803 2.61803 2.61803,
+]
+}
+IndexedFaceSet {
+ coordIndex[1,2,3,-1,]
+}
+IndexedFaceSet {
+ coordIndex[3,2,1,-1,]
+}
+Material  { 
+ diffuseColor 0.7137 0.7137 0.0000
+ ambientColor 0.0200 0.0200 0.0200
+ specularColor 0.1500 0.1500 0.1500
+
+}
+Coordinate3 { 
+ point [-1.61803 4.23607 -0.00000,
+-1.31730 3.72977 1.75281,
+-0.00000 3.06525 1.89443,
+-1.61803 4.23607 -0.00000,
+]
+}
+IndexedFaceSet {
+ coordIndex[1,2,3,-1,]
+}
+IndexedFaceSet {
+ coordIndex[3,2,1,-1,]
+}
+Material  { 
+ diffuseColor 0.0000 0.0000 1.0000
+}
+Coordinate3 { 
+ point [-1.61803 4.23607 -0.00000,
+1.61803 4.23607 -0.00000,
+]
+}
+IndexedLineSet {
+ coordIndex[0,1,]
+}
+Material  { 
+ diffuseColor 1.0000 0.0000 0.0000
+}
+Coordinate3 { 
+ point [1.61803 4.23607 -0.00000,
+-1.61803 4.23607 -0.00000,
+-0.00000 3.06525 1.89443,
+]
+}
+IndexedLineSet {
+ coordIndex[0,1,2,]
+}
+Material  { 
+ diffuseColor 0.5098 0.0000 1.0000
+ ambientColor 0.0200 0.0200 0.0200
+ specularColor 0.1500 0.1500 0.1500
+
+}
+Coordinate3 { 
+ point [1.61803 4.23607 -0.00000,
+0.03977 4.21775 0.96325,
+-1.61803 4.23607 -0.00000,
+1.61803 4.23607 -0.00000,
+]
+}
+IndexedFaceSet {
+ coordIndex[1,2,3,-1,]
+}
+IndexedFaceSet {
+ coordIndex[3,2,1,-1,]
+}
+Material  { 
+ diffuseColor 1.0000 0.0000 0.0000
+ ambientColor 0.0200 0.0200 0.0200
+ specularColor 0.1500 0.1500 0.1500
+
+}
+Coordinate3 { 
+ point [-1.61803 4.23607 -0.00000,
+0.03977 4.21775 0.96325,
+-0.00000 3.06525 1.89443,
+-1.61803 4.23607 -0.00000,
+]
+}
+IndexedFaceSet {
+ coordIndex[1,2,3,-1,]
+}
+IndexedFaceSet {
+ coordIndex[3,2,1,-1,]
+}
+Material  { 
+ diffuseColor 0.7137 0.7137 0.0000
+ ambientColor 0.0200 0.0200 0.0200
+ specularColor 0.1500 0.1500 0.1500
+
+}
+Coordinate3 { 
+ point [1.61803 4.23607 -0.00000,
+0.03977 4.21775 0.96325,
+-0.00000 3.06525 1.89443,
+1.61803 4.23607 -0.00000,
+]
+}
+IndexedFaceSet {
+ coordIndex[1,2,3,-1,]
+}
+IndexedFaceSet {
+ coordIndex[3,2,1,-1,]
+}
+Material  { 
+ diffuseColor 0.0000 0.0000 1.0000
+}
+Coordinate3 { 
+ point [1.61803 4.23607 -0.00000,
+2.61803 2.61803 2.61803,
+]
+}
+IndexedLineSet {
+ coordIndex[0,1,]
+}
+Material  { 
+ diffuseColor 1.0000 0.0000 0.0000
+}
+Coordinate3 { 
+ point [2.61803 2.61803 2.61803,
+1.61803 4.23607 -0.00000,
+-0.00000 3.06525 1.89443,
+]
+}
+IndexedLineSet {
+ coordIndex[0,1,2,]
+}
+Material  { 
+ diffuseColor 0.5098 0.0000 1.0000
+ ambientColor 0.0200 0.0200 0.0200
+ specularColor 0.1500 0.1500 0.1500
+
+}
+Coordinate3 { 
+ point [2.61803 2.61803 2.61803,
+1.34188 3.69000 1.81715,
+1.61803 4.23607 -0.00000,
+2.61803 2.61803 2.61803,
+]
+}
+IndexedFaceSet {
+ coordIndex[1,2,3,-1,]
+}
+IndexedFaceSet {
+ coordIndex[3,2,1,-1,]
+}
+Material  { 
+ diffuseColor 1.0000 0.0000 0.0000
+ ambientColor 0.0200 0.0200 0.0200
+ specularColor 0.1500 0.1500 0.1500
+
+}
+Coordinate3 { 
+ point [1.61803 4.23607 -0.00000,
+1.34188 3.69000 1.81715,
+-0.00000 3.06525 1.89443,
+1.61803 4.23607 -0.00000,
+]
+}
+IndexedFaceSet {
+ coordIndex[1,2,3,-1,]
+}
+IndexedFaceSet {
+ coordIndex[3,2,1,-1,]
+}
+Material  { 
+ diffuseColor 0.7137 0.7137 0.0000
+ ambientColor 0.0200 0.0200 0.0200
+ specularColor 0.1500 0.1500 0.1500
+
+}
+Coordinate3 { 
+ point [2.61803 2.61803 2.61803,
+1.34188 3.69000 1.81715,
+-0.00000 3.06525 1.89443,
+2.61803 2.61803 2.61803,
+]
+}
+IndexedFaceSet {
+ coordIndex[1,2,3,-1,]
+}
+IndexedFaceSet {
+ coordIndex[3,2,1,-1,]
+}
+Material  { 
+ diffuseColor 0.0000 0.0000 1.0000
+}
+Coordinate3 { 
+ point [2.61803 2.61803 2.61803,
+1.61803 4.23607 0.00000,
+]
+}
+IndexedLineSet {
+ coordIndex[0,1,]
+}
+Material  { 
+ diffuseColor 0.0000 0.0000 1.0000
+}
+Coordinate3 { 
+ point [1.61803 4.23607 -0.00000,
+2.60265 2.60853 -2.61797,
+]
+}
+IndexedLineSet {
+ coordIndex[0,1,]
+}
+Material  { 
+ diffuseColor 0.0000 0.0000 1.0000
+}
+Coordinate3 { 
+ point [1.61803 4.23607 -0.00000,
+2.61803 2.61803 2.61803,
+]
+}
+IndexedLineSet {
+ coordIndex[0,1,]
+}
+Material  { 
+ diffuseColor 0.0000 0.0000 1.0000
+}
+Coordinate3 { 
+ point [1.61803 4.23607 -0.00000,
+2.61803 2.61803 -2.61803,
+]
+}
+IndexedLineSet {
+ coordIndex[0,1,]
+}
+Material  { 
+ diffuseColor 0.0000 0.0000 1.0000
+}
+Coordinate3 { 
+ point [1.61803 4.23607 -0.00000,
+-1.61803 4.23607 -0.00000,
+]
+}
+IndexedLineSet {
+ coordIndex[0,1,]
+}
+Material  { 
+ diffuseColor 0.0000 0.0000 1.0000
+}
+Coordinate3 { 
+ point [2.61803 2.61803 2.61803,
+-0.00000 1.61803 4.23607,
+]
+}
+IndexedLineSet {
+ coordIndex[0,1,]
+}
+Material  { 
+ diffuseColor 0.0000 0.0000 1.0000
+}
+Coordinate3 { 
+ point [2.61803 2.61803 -2.61803,
+-0.00000 1.61803 -4.23607,
+]
+}
+IndexedLineSet {
+ coordIndex[0,1,]
+}
+Material  { 
+ diffuseColor 0.0000 0.0000 1.0000
+}
+Coordinate3 { 
+ point [-1.61803 4.23607 -0.00000,
+-2.61803 2.61803 -2.61803,
+]
+}
+IndexedLineSet {
+ coordIndex[0,1,]
+}
+Material  { 
+ diffuseColor 0.0000 0.0000 1.0000
+}
+Coordinate3 { 
+ point [-0.00000 1.61803 -4.23607,
+-2.61803 2.61803 -2.61803,
+]
+}
+IndexedLineSet {
+ coordIndex[0,1,]
+}
+Material  { 
+ diffuseColor 1.0000 0.0000 0.0000
+}
+Coordinate3 { 
+ point [-1.61803 4.23607 -0.00000,
+1.61803 4.23607 -0.00000,
+-0.00000 3.06525 -1.89443,
+]
+}
+IndexedLineSet {
+ coordIndex[0,1,2,]
+}
+Material  { 
+ diffuseColor 1.0000 0.0000 0.0000
+}
+Coordinate3 { 
+ point [1.61803 4.23607 -0.00000,
+2.61803 2.61803 -2.61803,
+-0.00000 3.06525 -1.89443,
+]
+}
+IndexedLineSet {
+ coordIndex[0,1,2,]
+}
+Material  { 
+ diffuseColor 1.0000 0.0000 0.0000
+}
+Coordinate3 { 
+ point [-0.00000 3.06525 -1.89443,
+2.61803 2.61803 -2.61803,
+-0.00000 1.61803 -4.23607,
+]
+}
+IndexedLineSet {
+ coordIndex[0,1,2,]
+}
+Material  { 
+ diffuseColor 1.0000 0.0000 0.0000
+}
+Coordinate3 { 
+ point [-0.00000 1.61803 -4.23607,
+-0.00000 3.06525 -1.89443,
+]
+}
+IndexedLineSet {
+ coordIndex[0,1,]
+}
+Material  { 
+ diffuseColor 1.0000 0.0000 0.0000
+}
+Coordinate3 { 
+ point [-0.00000 3.06525 -1.89443,
+-0.00000 1.61803 -4.23607,
+-2.61803 2.61803 -2.61803,
+-0.00000 3.06525 -1.89443,
+]
+}
+IndexedLineSet {
+ coordIndex[0,1,2,3,]
+}
+Material  { 
+ diffuseColor 1.0000 0.0000 0.0000
+}
+Coordinate3 { 
+ point [-0.00000 3.06525 -1.89443,
+-2.61803 2.61803 -2.61803,
+-1.61803 4.23607 -0.00000,
+-0.00000 3.06525 -1.89443,
+]
+}
+IndexedLineSet {
+ coordIndex[0,1,2,3,]
+}
+Material  { 
+ diffuseColor 0.5098 0.0000 1.0000
+ ambientColor 0.0200 0.0200 0.0200
+ specularColor 0.1500 0.1500 0.1500
+
+}
+Coordinate3 { 
+ point [-1.61803 4.23607 -0.00000,
+-0.03977 4.21775 -0.96325,
+1.61803 4.23607 -0.00000,
+-1.61803 4.23607 -0.00000,
+]
+}
+IndexedFaceSet {
+ coordIndex[1,2,3,-1,]
+}
+IndexedFaceSet {
+ coordIndex[3,2,1,-1,]
+}
+Material  { 
+ diffuseColor 1.0000 0.0000 0.0000
+ ambientColor 0.0200 0.0200 0.0200
+ specularColor 0.1500 0.1500 0.1500
+
+}
+Coordinate3 { 
+ point [1.61803 4.23607 -0.00000,
+-0.03977 4.21775 -0.96325,
+-0.00000 3.06525 -1.89443,
+1.61803 4.23607 -0.00000,
+]
+}
+IndexedFaceSet {
+ coordIndex[1,2,3,-1,]
+}
+IndexedFaceSet {
+ coordIndex[3,2,1,-1,]
+}
+Material  { 
+ diffuseColor 0.7137 0.7137 0.0000
+ ambientColor 0.0200 0.0200 0.0200
+ specularColor 0.1500 0.1500 0.1500
+
+}
+Coordinate3 { 
+ point [-1.61803 4.23607 -0.00000,
+-0.03977 4.21775 -0.96325,
+-0.00000 3.06525 -1.89443,
+-1.61803 4.23607 -0.00000,
+]
+}
+IndexedFaceSet {
+ coordIndex[1,2,3,-1,]
+}
+IndexedFaceSet {
+ coordIndex[3,2,1,-1,]
+}
+Material  { 
+ diffuseColor 0.0000 0.0000 1.0000
+}
+Coordinate3 { 
+ point [2.61803 2.61803 -2.61803,
+1.61803 4.23607 -0.00000,
+]
+}
+IndexedLineSet {
+ coordIndex[0,1,]
+}
+Material  { 
+ diffuseColor 1.0000 0.0000 0.0000
+}
+Coordinate3 { 
+ point [1.61803 4.23607 -0.00000,
+2.61803 2.61803 -2.61803,
+-0.00000 3.06525 -1.89443,
+]
+}
+IndexedLineSet {
+ coordIndex[0,1,2,]
+}
+Material  { 
+ diffuseColor 0.5098 0.0000 1.0000
+ ambientColor 0.0200 0.0200 0.0200
+ specularColor 0.1500 0.1500 0.1500
+
+}
+Coordinate3 { 
+ point [1.61803 4.23607 -0.00000,
+1.31730 3.72977 -1.75281,
+2.61803 2.61803 -2.61803,
+1.61803 4.23607 -0.00000,
+]
+}
+IndexedFaceSet {
+ coordIndex[1,2,3,-1,]
+}
+IndexedFaceSet {
+ coordIndex[3,2,1,-1,]
+}
+Material  { 
+ diffuseColor 1.0000 0.0000 0.0000
+ ambientColor 0.0200 0.0200 0.0200
+ specularColor 0.1500 0.1500 0.1500
+
+}
+Coordinate3 { 
+ point [2.61803 2.61803 -2.61803,
+1.31730 3.72977 -1.75281,
+-0.00000 3.06525 -1.89443,
+2.61803 2.61803 -2.61803,
+]
+}
+IndexedFaceSet {
+ coordIndex[1,2,3,-1,]
+}
+IndexedFaceSet {
+ coordIndex[3,2,1,-1,]
+}
+Material  { 
+ diffuseColor 0.7137 0.7137 0.0000
+ ambientColor 0.0200 0.0200 0.0200
+ specularColor 0.1500 0.1500 0.1500
+
+}
+Coordinate3 { 
+ point [1.61803 4.23607 -0.00000,
+1.31730 3.72977 -1.75281,
+-0.00000 3.06525 -1.89443,
+1.61803 4.23607 -0.00000,
+]
+}
+IndexedFaceSet {
+ coordIndex[1,2,3,-1,]
+}
+IndexedFaceSet {
+ coordIndex[3,2,1,-1,]
+}
+Material  { 
+ diffuseColor 0.0000 0.0000 1.0000
+}
+Coordinate3 { 
+ point [-1.61803 4.23607 -0.00000,
+-2.61803 2.61803 -2.61803,
+]
+}
+IndexedLineSet {
+ coordIndex[0,1,]
+}
+Material  { 
+ diffuseColor 1.0000 0.0000 0.0000
+}
+Coordinate3 { 
+ point [-2.61803 2.61803 -2.61803,
+-1.61803 4.23607 -0.00000,
+-0.00000 3.06525 -1.89443,
+]
+}
+IndexedLineSet {
+ coordIndex[0,1,2,]
+}
+Material  { 
+ diffuseColor 0.5098 0.0000 1.0000
+ ambientColor 0.0200 0.0200 0.0200
+ specularColor 0.1500 0.1500 0.1500
+
+}
+Coordinate3 { 
+ point [-2.61803 2.61803 -2.61803,
+-1.34188 3.69000 -1.81715,
+-1.61803 4.23607 -0.00000,
+-2.61803 2.61803 -2.61803,
+]
+}
+IndexedFaceSet {
+ coordIndex[1,2,3,-1,]
+}
+IndexedFaceSet {
+ coordIndex[3,2,1,-1,]
+}
+Material  { 
+ diffuseColor 1.0000 0.0000 0.0000
+ ambientColor 0.0200 0.0200 0.0200
+ specularColor 0.1500 0.1500 0.1500
+
+}
+Coordinate3 { 
+ point [-1.61803 4.23607 -0.00000,
+-1.34188 3.69000 -1.81715,
+-0.00000 3.06525 -1.89443,
+-1.61803 4.23607 -0.00000,
+]
+}
+IndexedFaceSet {
+ coordIndex[1,2,3,-1,]
+}
+IndexedFaceSet {
+ coordIndex[3,2,1,-1,]
+}
+Material  { 
+ diffuseColor 0.7137 0.7137 0.0000
+ ambientColor 0.0200 0.0200 0.0200
+ specularColor 0.1500 0.1500 0.1500
+
+}
+Coordinate3 { 
+ point [-2.61803 2.61803 -2.61803,
+-1.34188 3.69000 -1.81715,
+-0.00000 3.06525 -1.89443,
+-2.61803 2.61803 -2.61803,
+]
+}
+IndexedFaceSet {
+ coordIndex[1,2,3,-1,]
+}
+IndexedFaceSet {
+ coordIndex[3,2,1,-1,]
+}
+Material  { 
+ diffuseColor 0.0000 0.0000 1.0000
+}
+Coordinate3 { 
+ point [-2.61803 2.61803 -2.61803,
+-0.00000 1.61803 -4.23607,
+]
+}
+IndexedLineSet {
+ coordIndex[0,1,]
+}
+Material  { 
+ diffuseColor 1.0000 0.0000 0.0000
+}
+Coordinate3 { 
+ point [-0.00000 1.61803 -4.23607,
+-2.61803 2.61803 -2.61803,
+-0.00000 3.06525 -1.89443,
+]
+}
+IndexedLineSet {
+ coordIndex[0,1,2,]
+}
+Material  { 
+ diffuseColor 0.5098 0.0000 1.0000
+ ambientColor 0.0200 0.0200 0.0200
+ specularColor 0.1500 0.1500 0.1500
+
+}
+Coordinate3 { 
+ point [-0.00000 1.61803 -4.23607,
+-0.78956 2.87587 -3.13445,
+-2.61803 2.61803 -2.61803,
+-0.00000 1.61803 -4.23607,
+]
+}
+IndexedFaceSet {
+ coordIndex[1,2,3,-1,]
+}
+IndexedFaceSet {
+ coordIndex[3,2,1,-1,]
+}
+Material  { 
+ diffuseColor 1.0000 0.0000 0.0000
+ ambientColor 0.0200 0.0200 0.0200
+ specularColor 0.1500 0.1500 0.1500
+
+}
+Coordinate3 { 
+ point [-2.61803 2.61803 -2.61803,
+-0.78956 2.87587 -3.13445,
+-0.00000 3.06525 -1.89443,
+-2.61803 2.61803 -2.61803,
+]
+}
+IndexedFaceSet {
+ coordIndex[1,2,3,-1,]
+}
+IndexedFaceSet {
+ coordIndex[3,2,1,-1,]
+}
+Material  { 
+ diffuseColor 0.7137 0.7137 0.0000
+ ambientColor 0.0200 0.0200 0.0200
+ specularColor 0.1500 0.1500 0.1500
+
+}
+Coordinate3 { 
+ point [-0.00000 1.61803 -4.23607,
+-0.78956 2.87587 -3.13445,
+-0.00000 3.06525 -1.89443,
+-0.00000 1.61803 -4.23607,
+]
+}
+IndexedFaceSet {
+ coordIndex[1,2,3,-1,]
+}
+IndexedFaceSet {
+ coordIndex[3,2,1,-1,]
+}
+Material  { 
+ diffuseColor 0.0000 0.0000 1.0000
+}
+Coordinate3 { 
+ point [-0.00000 1.61803 -4.23607,
+2.61803 2.61803 -2.61803,
+]
+}
+IndexedLineSet {
+ coordIndex[0,1,]
+}
+Material  { 
+ diffuseColor 1.0000 0.0000 0.0000
+}
+Coordinate3 { 
+ point [2.61803 2.61803 -2.61803,
+-0.00000 1.61803 -4.23607,
+-0.00000 3.06525 -1.89443,
+]
+}
+IndexedLineSet {
+ coordIndex[0,1,2,]
+}
+Material  { 
+ diffuseColor 0.5098 0.0000 1.0000
+ ambientColor 0.0200 0.0200 0.0200
+ specularColor 0.1500 0.1500 0.1500
+
+}
+Coordinate3 { 
+ point [2.61803 2.61803 -2.61803,
+0.85390 2.90044 -3.09469,
+-0.00000 1.61803 -4.23607,
+2.61803 2.61803 -2.61803,
+]
+}
+IndexedFaceSet {
+ coordIndex[1,2,3,-1,]
+}
+IndexedFaceSet {
+ coordIndex[3,2,1,-1,]
+}
+Material  { 
+ diffuseColor 1.0000 0.0000 0.0000
+ ambientColor 0.0200 0.0200 0.0200
+ specularColor 0.1500 0.1500 0.1500
+
+}
+Coordinate3 { 
+ point [-0.00000 1.61803 -4.23607,
+0.85390 2.90044 -3.09469,
+-0.00000 3.06525 -1.89443,
+-0.00000 1.61803 -4.23607,
+]
+}
+IndexedFaceSet {
+ coordIndex[1,2,3,-1,]
+}
+IndexedFaceSet {
+ coordIndex[3,2,1,-1,]
+}
+Material  { 
+ diffuseColor 0.7137 0.7137 0.0000
+ ambientColor 0.0200 0.0200 0.0200
+ specularColor 0.1500 0.1500 0.1500
+
+}
+Coordinate3 { 
+ point [2.61803 2.61803 -2.61803,
+0.85390 2.90044 -3.09469,
+-0.00000 3.06525 -1.89443,
+2.61803 2.61803 -2.61803,
+]
+}
+IndexedFaceSet {
+ coordIndex[1,2,3,-1,]
+}
+IndexedFaceSet {
+ coordIndex[3,2,1,-1,]
+}
+Material  { 
+ diffuseColor 0.0000 0.0000 1.0000
+}
+Coordinate3 { 
+ point [2.61803 2.61803 -2.61803,
+0.00000 1.61803 -4.23607,
+]
+}
+IndexedLineSet {
+ coordIndex[0,1,]
+}
+Material  { 
+ diffuseColor 0.0000 0.0000 1.0000
+}
+Coordinate3 { 
+ point [-2.61803 2.61803 2.61803,
+0.00000 1.61803 4.23607,
+]
+}
+IndexedLineSet {
+ coordIndex[0,1,]
+}
+Material  { 
+ diffuseColor 0.0000 0.0000 1.0000
+}
+Coordinate3 { 
+ point [-2.61803 2.61803 2.61803,
+-1.61803 4.23607 0.00000,
+]
+}
+IndexedLineSet {
+ coordIndex[0,1,]
+}
+Material  { 
+ diffuseColor 0.0000 0.0000 1.0000
+}
+Coordinate3 { 
+ point [-2.61803 2.61803 2.61803,
+-4.23607 0.00000 1.61803,
+]
+}
+IndexedLineSet {
+ coordIndex[0,1,]
+}
+Material  { 
+ diffuseColor 0.0000 0.0000 1.0000
+}
+Coordinate3 { 
+ point [0.00000 1.61803 4.23607,
+0.00000 -1.61803 4.23607,
+]
+}
+IndexedLineSet {
+ coordIndex[0,1,]
+}
+Material  { 
+ diffuseColor 0.0000 0.0000 1.0000
+}
+Coordinate3 { 
+ point [-1.61803 4.23607 0.00000,
+-2.61803 2.61803 -2.61803,
+]
+}
+IndexedLineSet {
+ coordIndex[0,1,]
+}
+Material  { 
+ diffuseColor 0.0000 0.0000 1.0000
+}
+Coordinate3 { 
+ point [-4.23607 0.00000 1.61803,
+-4.23607 0.00000 -1.61803,
+]
+}
+IndexedLineSet {
+ coordIndex[0,1,]
+}
+Material  { 
+ diffuseColor 0.0000 0.0000 1.0000
+}
+Coordinate3 { 
+ point [-2.61803 2.61803 -2.61803,
+-4.23607 0.00000 -1.61803,
+]
+}
+IndexedLineSet {
+ coordIndex[0,1,]
+}
+Material  { 
+ diffuseColor 1.0000 0.0000 0.0000
+}
+Coordinate3 { 
+ point [-4.23607 0.00000 1.61803,
+-2.61803 2.61803 2.61803,
+-3.06525 1.89443 -0.00000,
+]
+}
+IndexedLineSet {
+ coordIndex[0,1,2,]
+}
+Material  { 
+ diffuseColor 1.0000 0.0000 0.0000
+}
+Coordinate3 { 
+ point [-2.61803 2.61803 2.61803,
+-1.61803 4.23607 0.00000,
+-3.06525 1.89443 -0.00000,
+]
+}
+IndexedLineSet {
+ coordIndex[0,1,2,]
+}
+Material  { 
+ diffuseColor 1.0000 0.0000 0.0000
+}
+Coordinate3 { 
+ point [-3.06525 1.89443 -0.00000,
+-1.61803 4.23607 0.00000,
+-2.61803 2.61803 -2.61803,
+]
+}
+IndexedLineSet {
+ coordIndex[0,1,2,]
+}
+Material  { 
+ diffuseColor 1.0000 0.0000 0.0000
+}
+Coordinate3 { 
+ point [-2.61803 2.61803 -2.61803,
+-3.06525 1.89443 -0.00000,
+]
+}
+IndexedLineSet {
+ coordIndex[0,1,]
+}
+Material  { 
+ diffuseColor 1.0000 0.0000 0.0000
+}
+Coordinate3 { 
+ point [-3.06525 1.89443 -0.00000,
+-2.61803 2.61803 -2.61803,
+-4.23607 0.00000 -1.61803,
+-3.06525 1.89443 -0.00000,
+]
+}
+IndexedLineSet {
+ coordIndex[0,1,2,3,]
+}
+Material  { 
+ diffuseColor 1.0000 0.0000 0.0000
+}
+Coordinate3 { 
+ point [-3.06525 1.89443 -0.00000,
+-4.23607 0.00000 -1.61803,
+-4.23607 0.00000 1.61803,
+-3.06525 1.89443 -0.00000,
+]
+}
+IndexedLineSet {
+ coordIndex[0,1,2,3,]
+}
+Material  { 
+ diffuseColor 0.5098 0.0000 1.0000
+ ambientColor 0.0200 0.0200 0.0200
+ specularColor 0.1500 0.1500 0.1500
+
+}
+Coordinate3 { 
+ point [-4.23607 0.00000 1.61803,
+-3.72977 1.75281 1.31730,
+-2.61803 2.61803 2.61803,
+-4.23607 0.00000 1.61803,
+]
+}
+IndexedFaceSet {
+ coordIndex[1,2,3,-1,]
+}
+IndexedFaceSet {
+ coordIndex[3,2,1,-1,]
+}
+Material  { 
+ diffuseColor 1.0000 0.0000 0.0000
+ ambientColor 0.0200 0.0200 0.0200
+ specularColor 0.1500 0.1500 0.1500
+
+}
+Coordinate3 { 
+ point [-2.61803 2.61803 2.61803,
+-3.72977 1.75281 1.31730,
+-3.06525 1.89443 -0.00000,
+-2.61803 2.61803 2.61803,
+]
+}
+IndexedFaceSet {
+ coordIndex[1,2,3,-1,]
+}
+IndexedFaceSet {
+ coordIndex[3,2,1,-1,]
+}
+Material  { 
+ diffuseColor 0.7137 0.7137 0.0000
+ ambientColor 0.0200 0.0200 0.0200
+ specularColor 0.1500 0.1500 0.1500
+
+}
+Coordinate3 { 
+ point [-4.23607 0.00000 1.61803,
+-3.72977 1.75281 1.31730,
+-3.06525 1.89443 -0.00000,
+-4.23607 0.00000 1.61803,
+]
+}
+IndexedFaceSet {
+ coordIndex[1,2,3,-1,]
+}
+IndexedFaceSet {
+ coordIndex[3,2,1,-1,]
+}
+Material  { 
+ diffuseColor 0.0000 0.0000 1.0000
+}
+Coordinate3 { 
+ point [-1.61803 4.23607 0.00000,
+-2.61803 2.61803 2.61803,
+]
+}
+IndexedLineSet {
+ coordIndex[0,1,]
+}
+Material  { 
+ diffuseColor 1.0000 0.0000 0.0000
+}
+Coordinate3 { 
+ point [-2.61803 2.61803 2.61803,
+-1.61803 4.23607 0.00000,
+-3.06525 1.89443 -0.00000,
+]
+}
+IndexedLineSet {
+ coordIndex[0,1,2,]
+}
+Material  { 
+ diffuseColor 0.5098 0.0000 1.0000
+ ambientColor 0.0200 0.0200 0.0200
+ specularColor 0.1500 0.1500 0.1500
+
+}
+Coordinate3 { 
+ point [-2.61803 2.61803 2.61803,
+-2.90044 3.09469 0.85390,
+-1.61803 4.23607 0.00000,
+-2.61803 2.61803 2.61803,
+]
+}
+IndexedFaceSet {
+ coordIndex[1,2,3,-1,]
+}
+IndexedFaceSet {
+ coordIndex[3,2,1,-1,]
+}
+Material  { 
+ diffuseColor 1.0000 0.0000 0.0000
+ ambientColor 0.0200 0.0200 0.0200
+ specularColor 0.1500 0.1500 0.1500
+
+}
+Coordinate3 { 
+ point [-1.61803 4.23607 0.00000,
+-2.90044 3.09469 0.85390,
+-3.06525 1.89443 -0.00000,
+-1.61803 4.23607 0.00000,
+]
+}
+IndexedFaceSet {
+ coordIndex[1,2,3,-1,]
+}
+IndexedFaceSet {
+ coordIndex[3,2,1,-1,]
+}
+Material  { 
+ diffuseColor 0.7137 0.7137 0.0000
+ ambientColor 0.0200 0.0200 0.0200
+ specularColor 0.1500 0.1500 0.1500
+
+}
+Coordinate3 { 
+ point [-2.61803 2.61803 2.61803,
+-2.90044 3.09469 0.85390,
+-3.06525 1.89443 -0.00000,
+-2.61803 2.61803 2.61803,
+]
+}
+IndexedFaceSet {
+ coordIndex[1,2,3,-1,]
+}
+IndexedFaceSet {
+ coordIndex[3,2,1,-1,]
+}
+Material  { 
+ diffuseColor 0.0000 0.0000 1.0000
+}
+Coordinate3 { 
+ point [-4.23607 -0.00000 1.61803,
+-4.23607 -0.00000 -1.61803,
+]
+}
+IndexedLineSet {
+ coordIndex[0,1,]
+}
+Material  { 
+ diffuseColor 1.0000 0.0000 0.0000
+}
+Coordinate3 { 
+ point [-4.23607 -0.00000 -1.61803,
+-4.23607 -0.00000 1.61803,
+-3.06525 1.89443 -0.00000,
+]
+}
+IndexedLineSet {
+ coordIndex[0,1,2,]
+}
+Material  { 
+ diffuseColor 0.5098 0.0000 1.0000
+ ambientColor 0.0200 0.0200 0.0200
+ specularColor 0.1500 0.1500 0.1500
+
+}
+Coordinate3 { 
+ point [-4.23607 -0.00000 -1.61803,
+-4.21775 0.96325 -0.03977,
+-4.23607 -0.00000 1.61803,
+-4.23607 -0.00000 -1.61803,
+]
+}
+IndexedFaceSet {
+ coordIndex[1,2,3,-1,]
+}
+IndexedFaceSet {
+ coordIndex[3,2,1,-1,]
+}
+Material  { 
+ diffuseColor 1.0000 0.0000 0.0000
+ ambientColor 0.0200 0.0200 0.0200
+ specularColor 0.1500 0.1500 0.1500
+
+}
+Coordinate3 { 
+ point [-4.23607 -0.00000 1.61803,
+-4.21775 0.96325 -0.03977,
+-3.06525 1.89443 -0.00000,
+-4.23607 -0.00000 1.61803,
+]
+}
+IndexedFaceSet {
+ coordIndex[1,2,3,-1,]
+}
+IndexedFaceSet {
+ coordIndex[3,2,1,-1,]
+}
+Material  { 
+ diffuseColor 0.7137 0.7137 0.0000
+ ambientColor 0.0200 0.0200 0.0200
+ specularColor 0.1500 0.1500 0.1500
+
+}
+Coordinate3 { 
+ point [-4.23607 -0.00000 -1.61803,
+-4.21775 0.96325 -0.03977,
+-3.06525 1.89443 -0.00000,
+-4.23607 -0.00000 -1.61803,
+]
+}
+IndexedFaceSet {
+ coordIndex[1,2,3,-1,]
+}
+IndexedFaceSet {
+ coordIndex[3,2,1,-1,]
+}
+Material  { 
+ diffuseColor 0.0000 0.0000 1.0000
+}
+Coordinate3 { 
+ point [-4.23607 -0.00000 -1.61803,
+-2.61803 2.61803 -2.61803,
+]
+}
+IndexedLineSet {
+ coordIndex[0,1,]
+}
+Material  { 
+ diffuseColor 1.0000 0.0000 0.0000
+}
+Coordinate3 { 
+ point [-2.61803 2.61803 -2.61803,
+-4.23607 -0.00000 -1.61803,
+-3.06525 1.89443 -0.00000,
+]
+}
+IndexedLineSet {
+ coordIndex[0,1,2,]
+}
+Material  { 
+ diffuseColor 0.5098 0.0000 1.0000
+ ambientColor 0.0200 0.0200 0.0200
+ specularColor 0.1500 0.1500 0.1500
+
+}
+Coordinate3 { 
+ point [-2.61803 2.61803 -2.61803,
+-3.69000 1.81715 -1.34188,
+-4.23607 -0.00000 -1.61803,
+-2.61803 2.61803 -2.61803,
+]
+}
+IndexedFaceSet {
+ coordIndex[1,2,3,-1,]
+}
+IndexedFaceSet {
+ coordIndex[3,2,1,-1,]
+}
+Material  { 
+ diffuseColor 1.0000 0.0000 0.0000
+ ambientColor 0.0200 0.0200 0.0200
+ specularColor 0.1500 0.1500 0.1500
+
+}
+Coordinate3 { 
+ point [-4.23607 -0.00000 -1.61803,
+-3.69000 1.81715 -1.34188,
+-3.06525 1.89443 -0.00000,
+-4.23607 -0.00000 -1.61803,
+]
+}
+IndexedFaceSet {
+ coordIndex[1,2,3,-1,]
+}
+IndexedFaceSet {
+ coordIndex[3,2,1,-1,]
+}
+Material  { 
+ diffuseColor 0.7137 0.7137 0.0000
+ ambientColor 0.0200 0.0200 0.0200
+ specularColor 0.1500 0.1500 0.1500
+
+}
+Coordinate3 { 
+ point [-2.61803 2.61803 -2.61803,
+-3.69000 1.81715 -1.34188,
+-3.06525 1.89443 -0.00000,
+-2.61803 2.61803 -2.61803,
+]
+}
+IndexedFaceSet {
+ coordIndex[1,2,3,-1,]
+}
+IndexedFaceSet {
+ coordIndex[3,2,1,-1,]
+}
+Material  { 
+ diffuseColor 0.0000 0.0000 1.0000
+}
+Coordinate3 { 
+ point [-2.61803 2.61803 -2.61803,
+-1.61803 4.23607 -0.00000,
+]
+}
+IndexedLineSet {
+ coordIndex[0,1,]
+}
+Material  { 
+ diffuseColor 1.0000 0.0000 0.0000
+}
+Coordinate3 { 
+ point [-1.61803 4.23607 -0.00000,
+-2.61803 2.61803 -2.61803,
+-3.06525 1.89443 -0.00000,
+]
+}
+IndexedLineSet {
+ coordIndex[0,1,2,]
+}
+Material  { 
+ diffuseColor 0.5098 0.0000 1.0000
+ ambientColor 0.0200 0.0200 0.0200
+ specularColor 0.1500 0.1500 0.1500
+
+}
+Coordinate3 { 
+ point [-1.61803 4.23607 -0.00000,
+-2.87587 3.13445 -0.78956,
+-2.61803 2.61803 -2.61803,
+-1.61803 4.23607 -0.00000,
+]
+}
+IndexedFaceSet {
+ coordIndex[1,2,3,-1,]
+}
+IndexedFaceSet {
+ coordIndex[3,2,1,-1,]
+}
+Material  { 
+ diffuseColor 1.0000 0.0000 0.0000
+ ambientColor 0.0200 0.0200 0.0200
+ specularColor 0.1500 0.1500 0.1500
+
+}
+Coordinate3 { 
+ point [-2.61803 2.61803 -2.61803,
+-2.87587 3.13445 -0.78956,
+-3.06525 1.89443 -0.00000,
+-2.61803 2.61803 -2.61803,
+]
+}
+IndexedFaceSet {
+ coordIndex[1,2,3,-1,]
+}
+IndexedFaceSet {
+ coordIndex[3,2,1,-1,]
+}
+Material  { 
+ diffuseColor 0.7137 0.7137 0.0000
+ ambientColor 0.0200 0.0200 0.0200
+ specularColor 0.1500 0.1500 0.1500
+
+}
+Coordinate3 { 
+ point [-1.61803 4.23607 -0.00000,
+-2.87587 3.13445 -0.78956,
+-3.06525 1.89443 -0.00000,
+-1.61803 4.23607 -0.00000,
+]
+}
+IndexedFaceSet {
+ coordIndex[1,2,3,-1,]
+}
+IndexedFaceSet {
+ coordIndex[3,2,1,-1,]
+}
+Material  { 
+ diffuseColor 0.0000 0.0000 1.0000
+}
+Coordinate3 { 
+ point [-1.61803 4.23607 0.00000,
+-2.61803 2.61803 -2.61803,
+]
+}
+IndexedLineSet {
+ coordIndex[0,1,]
+}
+Material  { 
+ diffuseColor 0.0000 0.0000 1.0000
+}
+Coordinate3 { 
+ point [2.61803 2.61803 2.61803,
+0.00005 1.63343 4.24556,
+]
+}
+IndexedLineSet {
+ coordIndex[0,1,]
+}
+Material  { 
+ diffuseColor 0.0000 0.0000 1.0000
+}
+Coordinate3 { 
+ point [2.61803 2.61803 2.61803,
+4.22066 -0.00947 1.61807,
+]
+}
+IndexedLineSet {
+ coordIndex[0,1,]
+}
+Material  { 
+ diffuseColor 0.0000 0.0000 1.0000
+}
+Coordinate3 { 
+ point [2.61803 2.61803 2.61803,
+1.61803 4.23607 0.00000,
+]
+}
+IndexedLineSet {
+ coordIndex[0,1,]
+}
+Material  { 
+ diffuseColor 0.0000 0.0000 1.0000
+}
+Coordinate3 { 
+ point [0.00005 1.63343 4.24556,
+-2.61795 2.64294 2.63340,
+]
+}
+IndexedLineSet {
+ coordIndex[0,1,]
+}
+Material  { 
+ diffuseColor 0.0000 0.0000 1.0000
+}
+Coordinate3 { 
+ point [4.22066 -0.00947 1.61807,
+4.21114 -0.01533 -1.61798,
+]
+}
+IndexedLineSet {
+ coordIndex[0,1,]
+}
+Material  { 
+ diffuseColor 0.0000 0.0000 1.0000
+}
+Coordinate3 { 
+ point [1.61803 4.23607 0.00000,
+2.60263 2.60856 -2.61800,
+]
+}
+IndexedLineSet {
+ coordIndex[0,1,]
+}
+Material  { 
+ diffuseColor 0.0000 0.0000 1.0000
+}
+Coordinate3 { 
+ point [4.21114 -0.01533 -1.61798,
+2.60263 2.60856 -2.61800,
+]
+}
+IndexedLineSet {
+ coordIndex[0,1,]
+}
+Material  { 
+ diffuseColor 1.0000 0.0000 0.0000
+}
+Coordinate3 { 
+ point [1.61803 4.23607 0.00000,
+2.61803 2.61803 2.61803,
+3.05410 1.88757 0.00002,
+]
+}
+IndexedLineSet {
+ coordIndex[0,1,2,]
+}
+Material  { 
+ diffuseColor 1.0000 0.0000 0.0000
+}
+Coordinate3 { 
+ point [2.61803 2.61803 2.61803,
+4.22066 -0.00947 1.61807,
+3.05410 1.88757 0.00002,
+]
+}
+IndexedLineSet {
+ coordIndex[0,1,2,]
+}
+Material  { 
+ diffuseColor 1.0000 0.0000 0.0000
+}
+Coordinate3 { 
+ point [3.05410 1.88757 0.00002,
+4.22066 -0.00947 1.61807,
+4.21114 -0.01533 -1.61798,
+]
+}
+IndexedLineSet {
+ coordIndex[0,1,2,]
+}
+Material  { 
+ diffuseColor 1.0000 0.0000 0.0000
+}
+Coordinate3 { 
+ point [4.21114 -0.01533 -1.61798,
+3.05410 1.88757 0.00002,
+]
+}
+IndexedLineSet {
+ coordIndex[0,1,]
+}
+Material  { 
+ diffuseColor 1.0000 0.0000 0.0000
+}
+Coordinate3 { 
+ point [3.05410 1.88757 0.00002,
+4.21114 -0.01533 -1.61798,
+2.60263 2.60856 -2.61800,
+3.05410 1.88757 0.00002,
+]
+}
+IndexedLineSet {
+ coordIndex[0,1,2,3,]
+}
+Material  { 
+ diffuseColor 1.0000 0.0000 0.0000
+}
+Coordinate3 { 
+ point [3.05410 1.88757 0.00002,
+2.60263 2.60856 -2.61800,
+1.61803 4.23607 0.00000,
+3.05410 1.88757 0.00002,
+]
+}
+IndexedLineSet {
+ coordIndex[0,1,2,3,]
+}
+Material  { 
+ diffuseColor 0.5098 0.0000 1.0000
+ ambientColor 0.0200 0.0200 0.0200
+ specularColor 0.1500 0.1500 0.1500
+
+}
+Coordinate3 { 
+ point [1.61803 4.23607 0.00000,
+2.87294 3.12991 0.78787,
+2.61803 2.61803 2.61803,
+1.61803 4.23607 0.00000,
+]
+}
+IndexedFaceSet {
+ coordIndex[1,2,3,-1,]
+}
+IndexedFaceSet {
+ coordIndex[3,2,1,-1,]
+}
+Material  { 
+ diffuseColor 1.0000 0.0000 0.0000
+ ambientColor 0.0200 0.0200 0.0200
+ specularColor 0.1500 0.1500 0.1500
+
+}
+Coordinate3 { 
+ point [2.61803 2.61803 2.61803,
+2.87294 3.12991 0.78787,
+3.05410 1.88757 0.00002,
+2.61803 2.61803 2.61803,
+]
+}
+IndexedFaceSet {
+ coordIndex[1,2,3,-1,]
+}
+IndexedFaceSet {
+ coordIndex[3,2,1,-1,]
+}
+Material  { 
+ diffuseColor 0.7137 0.7137 0.0000
+ ambientColor 0.0200 0.0200 0.0200
+ specularColor 0.1500 0.1500 0.1500
+
+}
+Coordinate3 { 
+ point [1.61803 4.23607 0.00000,
+2.87294 3.12991 0.78787,
+3.05410 1.88757 0.00002,
+1.61803 4.23607 0.00000,
+]
+}
+IndexedFaceSet {
+ coordIndex[1,2,3,-1,]
+}
+IndexedFaceSet {
+ coordIndex[3,2,1,-1,]
+}
+Material  { 
+ diffuseColor 0.0000 0.0000 1.0000
+}
+Coordinate3 { 
+ point [4.22066 -0.00947 1.61807,
+2.61803 2.61803 2.61803,
+]
+}
+IndexedLineSet {
+ coordIndex[0,1,]
+}
+Material  { 
+ diffuseColor 1.0000 0.0000 0.0000
+}
+Coordinate3 { 
+ point [2.61803 2.61803 2.61803,
+4.22066 -0.00947 1.61807,
+3.05410 1.88757 0.00002,
+]
+}
+IndexedLineSet {
+ coordIndex[0,1,2,]
+}
+Material  { 
+ diffuseColor 0.5098 0.0000 1.0000
+ ambientColor 0.0200 0.0200 0.0200
+ specularColor 0.1500 0.1500 0.1500
+
+}
+Coordinate3 { 
+ point [2.61803 2.61803 2.61803,
+3.68243 1.80975 1.34020,
+4.22066 -0.00947 1.61807,
+2.61803 2.61803 2.61803,
+]
+}
+IndexedFaceSet {
+ coordIndex[1,2,3,-1,]
+}
+IndexedFaceSet {
+ coordIndex[3,2,1,-1,]
+}
+Material  { 
+ diffuseColor 1.0000 0.0000 0.0000
+ ambientColor 0.0200 0.0200 0.0200
+ specularColor 0.1500 0.1500 0.1500
+
+}
+Coordinate3 { 
+ point [4.22066 -0.00947 1.61807,
+3.68243 1.80975 1.34020,
+3.05410 1.88757 0.00002,
+4.22066 -0.00947 1.61807,
+]
+}
+IndexedFaceSet {
+ coordIndex[1,2,3,-1,]
+}
+IndexedFaceSet {
+ coordIndex[3,2,1,-1,]
+}
+Material  { 
+ diffuseColor 0.7137 0.7137 0.0000
+ ambientColor 0.0200 0.0200 0.0200
+ specularColor 0.1500 0.1500 0.1500
+
+}
+Coordinate3 { 
+ point [2.61803 2.61803 2.61803,
+3.68243 1.80975 1.34020,
+3.05410 1.88757 0.00002,
+2.61803 2.61803 2.61803,
+]
+}
+IndexedFaceSet {
+ coordIndex[1,2,3,-1,]
+}
+IndexedFaceSet {
+ coordIndex[3,2,1,-1,]
+}
+Material  { 
+ diffuseColor 0.0000 0.0000 1.0000
+}
+Coordinate3 { 
+ point [1.61803 4.23607 0.00000,
+2.60263 2.60856 -2.61800,
+]
+}
+IndexedLineSet {
+ coordIndex[0,1,]
+}
+Material  { 
+ diffuseColor 1.0000 0.0000 0.0000
+}
+Coordinate3 { 
+ point [2.60263 2.60856 -2.61800,
+1.61803 4.23607 0.00000,
+3.05410 1.88757 0.00002,
+]
+}
+IndexedLineSet {
+ coordIndex[0,1,2,]
+}
+Material  { 
+ diffuseColor 0.5098 0.0000 1.0000
+ ambientColor 0.0200 0.0200 0.0200
+ specularColor 0.1500 0.1500 0.1500
+
+}
+Coordinate3 { 
+ point [2.60263 2.60856 -2.61800,
+2.89249 3.08706 -0.85558,
+1.61803 4.23607 0.00000,
+2.60263 2.60856 -2.61800,
+]
+}
+IndexedFaceSet {
+ coordIndex[1,2,3,-1,]
+}
+IndexedFaceSet {
+ coordIndex[3,2,1,-1,]
+}
+Material  { 
+ diffuseColor 1.0000 0.0000 0.0000
+ ambientColor 0.0200 0.0200 0.0200
+ specularColor 0.1500 0.1500 0.1500
+
+}
+Coordinate3 { 
+ point [1.61803 4.23607 0.00000,
+2.89249 3.08706 -0.85558,
+3.05410 1.88757 0.00002,
+1.61803 4.23607 0.00000,
+]
+}
+IndexedFaceSet {
+ coordIndex[1,2,3,-1,]
+}
+IndexedFaceSet {
+ coordIndex[3,2,1,-1,]
+}
+Material  { 
+ diffuseColor 0.7137 0.7137 0.0000
+ ambientColor 0.0200 0.0200 0.0200
+ specularColor 0.1500 0.1500 0.1500
+
+}
+Coordinate3 { 
+ point [2.60263 2.60856 -2.61800,
+2.89249 3.08706 -0.85558,
+3.05410 1.88757 0.00002,
+2.60263 2.60856 -2.61800,
+]
+}
+IndexedFaceSet {
+ coordIndex[1,2,3,-1,]
+}
+IndexedFaceSet {
+ coordIndex[3,2,1,-1,]
+}
+Material  { 
+ diffuseColor 0.0000 0.0000 1.0000
+}
+Coordinate3 { 
+ point [2.60263 2.60856 -2.61800,
+4.21114 -0.01533 -1.61798,
+]
+}
+IndexedLineSet {
+ coordIndex[0,1,]
+}
+Material  { 
+ diffuseColor 1.0000 0.0000 0.0000
+}
+Coordinate3 { 
+ point [4.21114 -0.01533 -1.61798,
+2.60263 2.60856 -2.61800,
+3.05410 1.88757 0.00002,
+]
+}
+IndexedLineSet {
+ coordIndex[0,1,2,]
+}
+Material  { 
+ diffuseColor 0.5098 0.0000 1.0000
+ ambientColor 0.0200 0.0200 0.0200
+ specularColor 0.1500 0.1500 0.1500
+
+}
+Coordinate3 { 
+ point [4.21114 -0.01533 -1.61798,
+3.71406 1.74041 -1.31896,
+2.60263 2.60856 -2.61800,
+4.21114 -0.01533 -1.61798,
+]
+}
+IndexedFaceSet {
+ coordIndex[1,2,3,-1,]
+}
+IndexedFaceSet {
+ coordIndex[3,2,1,-1,]
+}
+Material  { 
+ diffuseColor 1.0000 0.0000 0.0000
+ ambientColor 0.0200 0.0200 0.0200
+ specularColor 0.1500 0.1500 0.1500
+
+}
+Coordinate3 { 
+ point [2.60263 2.60856 -2.61800,
+3.71406 1.74041 -1.31896,
+3.05410 1.88757 0.00002,
+2.60263 2.60856 -2.61800,
+]
+}
+IndexedFaceSet {
+ coordIndex[1,2,3,-1,]
+}
+IndexedFaceSet {
+ coordIndex[3,2,1,-1,]
+}
+Material  { 
+ diffuseColor 0.7137 0.7137 0.0000
+ ambientColor 0.0200 0.0200 0.0200
+ specularColor 0.1500 0.1500 0.1500
+
+}
+Coordinate3 { 
+ point [4.21114 -0.01533 -1.61798,
+3.71406 1.74041 -1.31896,
+3.05410 1.88757 0.00002,
+4.21114 -0.01533 -1.61798,
+]
+}
+IndexedFaceSet {
+ coordIndex[1,2,3,-1,]
+}
+IndexedFaceSet {
+ coordIndex[3,2,1,-1,]
+}
+Material  { 
+ diffuseColor 0.0000 0.0000 1.0000
+}
+Coordinate3 { 
+ point [4.21114 -0.01533 -1.61798,
+4.22066 -0.00947 1.61807,
+]
+}
+IndexedLineSet {
+ coordIndex[0,1,]
+}
+Material  { 
+ diffuseColor 1.0000 0.0000 0.0000
+}
+Coordinate3 { 
+ point [4.22066 -0.00947 1.61807,
+4.21114 -0.01533 -1.61798,
+3.05410 1.88757 0.00002,
+]
+}
+IndexedLineSet {
+ coordIndex[0,1,2,]
+}
+Material  { 
+ diffuseColor 0.5098 0.0000 1.0000
+ ambientColor 0.0200 0.0200 0.0200
+ specularColor 0.1500 0.1500 0.1500
+
+}
+Coordinate3 { 
+ point [4.22066 -0.00947 1.61807,
+4.20227 0.95099 0.03810,
+4.21114 -0.01533 -1.61798,
+4.22066 -0.00947 1.61807,
+]
+}
+IndexedFaceSet {
+ coordIndex[1,2,3,-1,]
+}
+IndexedFaceSet {
+ coordIndex[3,2,1,-1,]
+}
+Material  { 
+ diffuseColor 1.0000 0.0000 0.0000
+ ambientColor 0.0200 0.0200 0.0200
+ specularColor 0.1500 0.1500 0.1500
+
+}
+Coordinate3 { 
+ point [4.21114 -0.01533 -1.61798,
+4.20227 0.95099 0.03810,
+3.05410 1.88757 0.00002,
+4.21114 -0.01533 -1.61798,
+]
+}
+IndexedFaceSet {
+ coordIndex[1,2,3,-1,]
+}
+IndexedFaceSet {
+ coordIndex[3,2,1,-1,]
+}
+Material  { 
+ diffuseColor 0.7137 0.7137 0.0000
+ ambientColor 0.0200 0.0200 0.0200
+ specularColor 0.1500 0.1500 0.1500
+
+}
+Coordinate3 { 
+ point [4.22066 -0.00947 1.61807,
+4.20227 0.95099 0.03810,
+3.05410 1.88757 0.00002,
+4.22066 -0.00947 1.61807,
+]
+}
+IndexedFaceSet {
+ coordIndex[1,2,3,-1,]
+}
+IndexedFaceSet {
+ coordIndex[3,2,1,-1,]
+}
+Material  { 
+ diffuseColor 0.0000 0.0000 1.0000
+}
+Coordinate3 { 
+ point [4.22066 -0.00947 1.61807,
+4.21114 -0.01533 -1.61798,
+]
+}
+IndexedLineSet {
+ coordIndex[0,1,]
+}
+Material  { 
+ diffuseColor 0.0000 0.0000 1.0000
+}
+Coordinate3 { 
+ point [0.00000 -1.61803 -4.23607,
+2.61803 -2.61803 -2.61803,
+]
+}
+IndexedLineSet {
+ coordIndex[0,1,]
+}
+Material  { 
+ diffuseColor 0.0000 0.0000 1.0000
+}
+Coordinate3 { 
+ point [0.00000 -1.61803 -4.23607,
+-2.61803 -2.61803 -2.61803,
+]
+}
+IndexedLineSet {
+ coordIndex[0,1,]
+}
+Material  { 
+ diffuseColor 0.0000 0.0000 1.0000
+}
+Coordinate3 { 
+ point [0.00000 -1.61803 -4.23607,
+-0.00000 1.61803 -4.23607,
+]
+}
+IndexedLineSet {
+ coordIndex[0,1,]
+}
+Material  { 
+ diffuseColor 0.0000 0.0000 1.0000
+}
+Coordinate3 { 
+ point [2.61803 -2.61803 -2.61803,
+4.23607 0.00000 -1.61803,
+]
+}
+IndexedLineSet {
+ coordIndex[0,1,]
+}
+Material  { 
+ diffuseColor 0.0000 0.0000 1.0000
+}
+Coordinate3 { 
+ point [-2.61803 -2.61803 -2.61803,
+-4.23607 -0.00000 -1.61803,
+]
+}
+IndexedLineSet {
+ coordIndex[0,1,]
+}
+Material  { 
+ diffuseColor 0.0000 0.0000 1.0000
+}
+Coordinate3 { 
+ point [-0.00000 1.61803 -4.23607,
+-2.61803 2.61803 -2.61803,
+]
+}
+IndexedLineSet {
+ coordIndex[0,1,]
+}
+Material  { 
+ diffuseColor 0.0000 0.0000 1.0000
+}
+Coordinate3 { 
+ point [-4.23607 -0.00000 -1.61803,
+-2.61803 2.61803 -2.61803,
+]
+}
+IndexedLineSet {
+ coordIndex[0,1,]
+}
+Material  { 
+ diffuseColor 1.0000 0.0000 0.0000
+}
+Coordinate3 { 
+ point [-0.00000 1.61803 -4.23607,
+0.00000 -1.61803 -4.23607,
+-1.89443 0.00000 -3.06525,
+]
+}
+IndexedLineSet {
+ coordIndex[0,1,2,]
+}
+Material  { 
+ diffuseColor 1.0000 0.0000 0.0000
+}
+Coordinate3 { 
+ point [0.00000 -1.61803 -4.23607,
+-2.61803 -2.61803 -2.61803,
+-1.89443 0.00000 -3.06525,
+]
+}
+IndexedLineSet {
+ coordIndex[0,1,2,]
+}
+Material  { 
+ diffuseColor 1.0000 0.0000 0.0000
+}
+Coordinate3 { 
+ point [-1.89443 0.00000 -3.06525,
+-2.61803 -2.61803 -2.61803,
+-4.23607 -0.00000 -1.61803,
+]
+}
+IndexedLineSet {
+ coordIndex[0,1,2,]
+}
+Material  { 
+ diffuseColor 1.0000 0.0000 0.0000
+}
+Coordinate3 { 
+ point [-4.23607 -0.00000 -1.61803,
+-1.89443 0.00000 -3.06525,
+]
+}
+IndexedLineSet {
+ coordIndex[0,1,]
+}
+Material  { 
+ diffuseColor 1.0000 0.0000 0.0000
+}
+Coordinate3 { 
+ point [-1.89443 0.00000 -3.06525,
+-4.23607 -0.00000 -1.61803,
+-2.61803 2.61803 -2.61803,
+-1.89443 0.00000 -3.06525,
+]
+}
+IndexedLineSet {
+ coordIndex[0,1,2,3,]
+}
+Material  { 
+ diffuseColor 1.0000 0.0000 0.0000
+}
+Coordinate3 { 
+ point [-1.89443 0.00000 -3.06525,
+-2.61803 2.61803 -2.61803,
+-0.00000 1.61803 -4.23607,
+-1.89443 0.00000 -3.06525,
+]
+}
+IndexedLineSet {
+ coordIndex[0,1,2,3,]
+}
+Material  { 
+ diffuseColor 0.5098 0.0000 1.0000
+ ambientColor 0.0200 0.0200 0.0200
+ specularColor 0.1500 0.1500 0.1500
+
+}
+Coordinate3 { 
+ point [-0.00000 1.61803 -4.23607,
+-0.96325 0.03977 -4.21775,
+0.00000 -1.61803 -4.23607,
+-0.00000 1.61803 -4.23607,
+]
+}
+IndexedFaceSet {
+ coordIndex[1,2,3,-1,]
+}
+IndexedFaceSet {
+ coordIndex[3,2,1,-1,]
+}
+Material  { 
+ diffuseColor 1.0000 0.0000 0.0000
+ ambientColor 0.0200 0.0200 0.0200
+ specularColor 0.1500 0.1500 0.1500
+
+}
+Coordinate3 { 
+ point [0.00000 -1.61803 -4.23607,
+-0.96325 0.03977 -4.21775,
+-1.89443 0.00000 -3.06525,
+0.00000 -1.61803 -4.23607,
+]
+}
+IndexedFaceSet {
+ coordIndex[1,2,3,-1,]
+}
+IndexedFaceSet {
+ coordIndex[3,2,1,-1,]
+}
+Material  { 
+ diffuseColor 0.7137 0.7137 0.0000
+ ambientColor 0.0200 0.0200 0.0200
+ specularColor 0.1500 0.1500 0.1500
+
+}
+Coordinate3 { 
+ point [-0.00000 1.61803 -4.23607,
+-0.96325 0.03977 -4.21775,
+-1.89443 0.00000 -3.06525,
+-0.00000 1.61803 -4.23607,
+]
+}
+IndexedFaceSet {
+ coordIndex[1,2,3,-1,]
+}
+IndexedFaceSet {
+ coordIndex[3,2,1,-1,]
+}
+Material  { 
+ diffuseColor 0.0000 0.0000 1.0000
+}
+Coordinate3 { 
+ point [-2.61803 -2.61803 -2.61803,
+-0.00000 -1.61803 -4.23607,
+]
+}
+IndexedLineSet {
+ coordIndex[0,1,]
+}
+Material  { 
+ diffuseColor 1.0000 0.0000 0.0000
+}
+Coordinate3 { 
+ point [-0.00000 -1.61803 -4.23607,
+-2.61803 -2.61803 -2.61803,
+-1.89443 0.00000 -3.06525,
+]
+}
+IndexedLineSet {
+ coordIndex[0,1,2,]
+}
+Material  { 
+ diffuseColor 0.5098 0.0000 1.0000
+ ambientColor 0.0200 0.0200 0.0200
+ specularColor 0.1500 0.1500 0.1500
+
+}
+Coordinate3 { 
+ point [-0.00000 -1.61803 -4.23607,
+-1.75281 -1.31730 -3.72977,
+-2.61803 -2.61803 -2.61803,
+-0.00000 -1.61803 -4.23607,
+]
+}
+IndexedFaceSet {
+ coordIndex[1,2,3,-1,]
+}
+IndexedFaceSet {
+ coordIndex[3,2,1,-1,]
+}
+Material  { 
+ diffuseColor 1.0000 0.0000 0.0000
+ ambientColor 0.0200 0.0200 0.0200
+ specularColor 0.1500 0.1500 0.1500
+
+}
+Coordinate3 { 
+ point [-2.61803 -2.61803 -2.61803,
+-1.75281 -1.31730 -3.72977,
+-1.89443 0.00000 -3.06525,
+-2.61803 -2.61803 -2.61803,
+]
+}
+IndexedFaceSet {
+ coordIndex[1,2,3,-1,]
+}
+IndexedFaceSet {
+ coordIndex[3,2,1,-1,]
+}
+Material  { 
+ diffuseColor 0.7137 0.7137 0.0000
+ ambientColor 0.0200 0.0200 0.0200
+ specularColor 0.1500 0.1500 0.1500
+
+}
+Coordinate3 { 
+ point [-0.00000 -1.61803 -4.23607,
+-1.75281 -1.31730 -3.72977,
+-1.89443 0.00000 -3.06525,
+-0.00000 -1.61803 -4.23607,
+]
+}
+IndexedFaceSet {
+ coordIndex[1,2,3,-1,]
+}
+IndexedFaceSet {
+ coordIndex[3,2,1,-1,]
+}
+Material  { 
+ diffuseColor 0.0000 0.0000 1.0000
+}
+Coordinate3 { 
+ point [0.00000 1.61803 -4.23607,
+-2.61803 2.61803 -2.61803,
+]
+}
+IndexedLineSet {
+ coordIndex[0,1,]
+}
+Material  { 
+ diffuseColor 1.0000 0.0000 0.0000
+}
+Coordinate3 { 
+ point [-2.61803 2.61803 -2.61803,
+0.00000 1.61803 -4.23607,
+-1.89443 0.00000 -3.06525,
+]
+}
+IndexedLineSet {
+ coordIndex[0,1,2,]
+}
+Material  { 
+ diffuseColor 0.5098 0.0000 1.0000
+ ambientColor 0.0200 0.0200 0.0200
+ specularColor 0.1500 0.1500 0.1500
+
+}
+Coordinate3 { 
+ point [-2.61803 2.61803 -2.61803,
+-1.81715 1.34188 -3.69000,
+0.00000 1.61803 -4.23607,
+-2.61803 2.61803 -2.61803,
+]
+}
+IndexedFaceSet {
+ coordIndex[1,2,3,-1,]
+}
+IndexedFaceSet {
+ coordIndex[3,2,1,-1,]
+}
+Material  { 
+ diffuseColor 1.0000 0.0000 0.0000
+ ambientColor 0.0200 0.0200 0.0200
+ specularColor 0.1500 0.1500 0.1500
+
+}
+Coordinate3 { 
+ point [0.00000 1.61803 -4.23607,
+-1.81715 1.34188 -3.69000,
+-1.89443 0.00000 -3.06525,
+0.00000 1.61803 -4.23607,
+]
+}
+IndexedFaceSet {
+ coordIndex[1,2,3,-1,]
+}
+IndexedFaceSet {
+ coordIndex[3,2,1,-1,]
+}
+Material  { 
+ diffuseColor 0.7137 0.7137 0.0000
+ ambientColor 0.0200 0.0200 0.0200
+ specularColor 0.1500 0.1500 0.1500
+
+}
+Coordinate3 { 
+ point [-2.61803 2.61803 -2.61803,
+-1.81715 1.34188 -3.69000,
+-1.89443 0.00000 -3.06525,
+-2.61803 2.61803 -2.61803,
+]
+}
+IndexedFaceSet {
+ coordIndex[1,2,3,-1,]
+}
+IndexedFaceSet {
+ coordIndex[3,2,1,-1,]
+}
+Material  { 
+ diffuseColor 0.0000 0.0000 1.0000
+}
+Coordinate3 { 
+ point [-2.61803 2.61803 -2.61803,
+-4.23607 0.00000 -1.61803,
+]
+}
+IndexedLineSet {
+ coordIndex[0,1,]
+}
+Material  { 
+ diffuseColor 1.0000 0.0000 0.0000
+}
+Coordinate3 { 
+ point [-4.23607 0.00000 -1.61803,
+-2.61803 2.61803 -2.61803,
+-1.89443 0.00000 -3.06525,
+]
+}
+IndexedLineSet {
+ coordIndex[0,1,2,]
+}
+Material  { 
+ diffuseColor 0.5098 0.0000 1.0000
+ ambientColor 0.0200 0.0200 0.0200
+ specularColor 0.1500 0.1500 0.1500
+
+}
+Coordinate3 { 
+ point [-4.23607 0.00000 -1.61803,
+-3.13445 0.78956 -2.87587,
+-2.61803 2.61803 -2.61803,
+-4.23607 0.00000 -1.61803,
+]
+}
+IndexedFaceSet {
+ coordIndex[1,2,3,-1,]
+}
+IndexedFaceSet {
+ coordIndex[3,2,1,-1,]
+}
+Material  { 
+ diffuseColor 1.0000 0.0000 0.0000
+ ambientColor 0.0200 0.0200 0.0200
+ specularColor 0.1500 0.1500 0.1500
+
+}
+Coordinate3 { 
+ point [-2.61803 2.61803 -2.61803,
+-3.13445 0.78956 -2.87587,
+-1.89443 0.00000 -3.06525,
+-2.61803 2.61803 -2.61803,
+]
+}
+IndexedFaceSet {
+ coordIndex[1,2,3,-1,]
+}
+IndexedFaceSet {
+ coordIndex[3,2,1,-1,]
+}
+Material  { 
+ diffuseColor 0.7137 0.7137 0.0000
+ ambientColor 0.0200 0.0200 0.0200
+ specularColor 0.1500 0.1500 0.1500
+
+}
+Coordinate3 { 
+ point [-4.23607 0.00000 -1.61803,
+-3.13445 0.78956 -2.87587,
+-1.89443 0.00000 -3.06525,
+-4.23607 0.00000 -1.61803,
+]
+}
+IndexedFaceSet {
+ coordIndex[1,2,3,-1,]
+}
+IndexedFaceSet {
+ coordIndex[3,2,1,-1,]
+}
+Material  { 
+ diffuseColor 0.0000 0.0000 1.0000
+}
+Coordinate3 { 
+ point [-4.23607 -0.00000 -1.61803,
+-2.61803 -2.61803 -2.61803,
+]
+}
+IndexedLineSet {
+ coordIndex[0,1,]
+}
+Material  { 
+ diffuseColor 1.0000 0.0000 0.0000
+}
+Coordinate3 { 
+ point [-2.61803 -2.61803 -2.61803,
+-4.23607 -0.00000 -1.61803,
+-1.89443 0.00000 -3.06525,
+]
+}
+IndexedLineSet {
+ coordIndex[0,1,2,]
+}
+Material  { 
+ diffuseColor 0.5098 0.0000 1.0000
+ ambientColor 0.0200 0.0200 0.0200
+ specularColor 0.1500 0.1500 0.1500
+
+}
+Coordinate3 { 
+ point [-2.61803 -2.61803 -2.61803,
+-3.09469 -0.85390 -2.90044,
+-4.23607 -0.00000 -1.61803,
+-2.61803 -2.61803 -2.61803,
+]
+}
+IndexedFaceSet {
+ coordIndex[1,2,3,-1,]
+}
+IndexedFaceSet {
+ coordIndex[3,2,1,-1,]
+}
+Material  { 
+ diffuseColor 1.0000 0.0000 0.0000
+ ambientColor 0.0200 0.0200 0.0200
+ specularColor 0.1500 0.1500 0.1500
+
+}
+Coordinate3 { 
+ point [-4.23607 -0.00000 -1.61803,
+-3.09469 -0.85390 -2.90044,
+-1.89443 0.00000 -3.06525,
+-4.23607 -0.00000 -1.61803,
+]
+}
+IndexedFaceSet {
+ coordIndex[1,2,3,-1,]
+}
+IndexedFaceSet {
+ coordIndex[3,2,1,-1,]
+}
+Material  { 
+ diffuseColor 0.7137 0.7137 0.0000
+ ambientColor 0.0200 0.0200 0.0200
+ specularColor 0.1500 0.1500 0.1500
+
+}
+Coordinate3 { 
+ point [-2.61803 -2.61803 -2.61803,
+-3.09469 -0.85390 -2.90044,
+-1.89443 0.00000 -3.06525,
+-2.61803 -2.61803 -2.61803,
+]
+}
+IndexedFaceSet {
+ coordIndex[1,2,3,-1,]
+}
+IndexedFaceSet {
+ coordIndex[3,2,1,-1,]
+}
+Material  { 
+ diffuseColor 0.0000 0.0000 1.0000
+}
+Coordinate3 { 
+ point [-2.61803 -2.61803 -2.61803,
+-4.23607 -0.00000 -1.61803,
+]
+}
+IndexedLineSet {
+ coordIndex[0,1,]
+}
+Material  { 
+ diffuseColor 0.0000 0.0000 1.0000
+}
+Coordinate3 { 
+ point [4.21114 -0.01533 -1.61798,
+2.57523 -2.61791 -2.62916,
+]
+}
+IndexedLineSet {
+ coordIndex[0,1,]
+}
+Material  { 
+ diffuseColor 0.0000 0.0000 1.0000
+}
+Coordinate3 { 
+ point [4.21114 -0.01533 -1.61798,
+2.61807 2.61797 -2.61801,
+]
+}
+IndexedLineSet {
+ coordIndex[0,1,]
+}
+Material  { 
+ diffuseColor 0.0000 0.0000 1.0000
+}
+Coordinate3 { 
+ point [2.57523 -2.61791 -2.62916,
+-0.02888 -1.59311 -4.25413,
+]
+}
+IndexedLineSet {
+ coordIndex[0,1,]
+}
+Material  { 
+ diffuseColor 0.0000 0.0000 1.0000
+}
+Coordinate3 { 
+ point [2.61807 2.61797 -2.61801,
+-0.00240 1.64284 -4.24724,
+]
+}
+IndexedLineSet {
+ coordIndex[0,1,]
+}
+Material  { 
+ diffuseColor 0.0000 0.0000 1.0000
+}
+Coordinate3 { 
+ point [-0.02888 -1.59311 -4.25413,
+-0.00240 1.64284 -4.24724,
+]
+}
+IndexedLineSet {
+ coordIndex[0,1,]
+}
+Material  { 
+ diffuseColor 1.0000 0.0000 0.0000
+}
+Coordinate3 { 
+ point [2.61807 2.61797 -2.61801,
+4.21114 -0.01533 -1.61798,
+1.87463 0.00689 -3.07330,
+]
+}
+IndexedLineSet {
+ coordIndex[0,1,2,]
+}
+Material  { 
+ diffuseColor 1.0000 0.0000 0.0000
+}
+Coordinate3 { 
+ point [4.21114 -0.01533 -1.61798,
+2.57523 -2.61791 -2.62916,
+1.87463 0.00689 -3.07330,
+]
+}
+IndexedLineSet {
+ coordIndex[0,1,2,]
+}
+Material  { 
+ diffuseColor 1.0000 0.0000 0.0000
+}
+Coordinate3 { 
+ point [1.87463 0.00689 -3.07330,
+2.57523 -2.61791 -2.62916,
+-0.02888 -1.59311 -4.25413,
+]
+}
+IndexedLineSet {
+ coordIndex[0,1,2,]
+}
+Material  { 
+ diffuseColor 1.0000 0.0000 0.0000
+}
+Coordinate3 { 
+ point [-0.02888 -1.59311 -4.25413,
+1.87463 0.00689 -3.07330,
+]
+}
+IndexedLineSet {
+ coordIndex[0,1,]
+}
+Material  { 
+ diffuseColor 1.0000 0.0000 0.0000
+}
+Coordinate3 { 
+ point [1.87463 0.00689 -3.07330,
+-0.02888 -1.59311 -4.25413,
+-0.00240 1.64284 -4.24724,
+1.87463 0.00689 -3.07330,
+]
+}
+IndexedLineSet {
+ coordIndex[0,1,2,3,]
+}
+Material  { 
+ diffuseColor 1.0000 0.0000 0.0000
+}
+Coordinate3 { 
+ point [1.87463 0.00689 -3.07330,
+-0.00240 1.64284 -4.24724,
+2.61807 2.61797 -2.61801,
+1.87463 0.00689 -3.07330,
+]
+}
+IndexedLineSet {
+ coordIndex[0,1,2,3,]
+}
+Material  { 
+ diffuseColor 0.5098 0.0000 1.0000
+ ambientColor 0.0200 0.0200 0.0200
+ specularColor 0.1500 0.1500 0.1500
+
+}
+Coordinate3 { 
+ point [2.61807 2.61797 -2.61801,
+3.08126 0.85059 -2.90252,
+4.21114 -0.01533 -1.61798,
+2.61807 2.61797 -2.61801,
+]
+}
+IndexedFaceSet {
+ coordIndex[1,2,3,-1,]
+}
+IndexedFaceSet {
+ coordIndex[3,2,1,-1,]
+}
+Material  { 
+ diffuseColor 1.0000 0.0000 0.0000
+ ambientColor 0.0200 0.0200 0.0200
+ specularColor 0.1500 0.1500 0.1500
+
+}
+Coordinate3 { 
+ point [4.21114 -0.01533 -1.61798,
+3.08126 0.85059 -2.90252,
+1.87463 0.00689 -3.07330,
+4.21114 -0.01533 -1.61798,
+]
+}
+IndexedFaceSet {
+ coordIndex[1,2,3,-1,]
+}
+IndexedFaceSet {
+ coordIndex[3,2,1,-1,]
+}
+Material  { 
+ diffuseColor 0.7137 0.7137 0.0000
+ ambientColor 0.0200 0.0200 0.0200
+ specularColor 0.1500 0.1500 0.1500
+
+}
+Coordinate3 { 
+ point [2.61807 2.61797 -2.61801,
+3.08126 0.85059 -2.90252,
+1.87463 0.00689 -3.07330,
+2.61807 2.61797 -2.61801,
+]
+}
+IndexedFaceSet {
+ coordIndex[1,2,3,-1,]
+}
+IndexedFaceSet {
+ coordIndex[3,2,1,-1,]
+}
+Material  { 
+ diffuseColor 0.0000 0.0000 1.0000
+}
+Coordinate3 { 
+ point [2.57523 -2.61791 -2.62916,
+4.21114 -0.01533 -1.61798,
+]
+}
+IndexedLineSet {
+ coordIndex[0,1,]
+}
+Material  { 
+ diffuseColor 1.0000 0.0000 0.0000
+}
+Coordinate3 { 
+ point [4.21114 -0.01533 -1.61798,
+2.57523 -2.61791 -2.62916,
+1.87463 0.00689 -3.07330,
+]
+}
+IndexedLineSet {
+ coordIndex[0,1,2,]
+}
+Material  { 
+ diffuseColor 0.5098 0.0000 1.0000
+ ambientColor 0.0200 0.0200 0.0200
+ specularColor 0.1500 0.1500 0.1500
+
+}
+Coordinate3 { 
+ point [4.21114 -0.01533 -1.61798,
+3.10749 -0.79319 -2.88131,
+2.57523 -2.61791 -2.62916,
+4.21114 -0.01533 -1.61798,
+]
+}
+IndexedFaceSet {
+ coordIndex[1,2,3,-1,]
+}
+IndexedFaceSet {
+ coordIndex[3,2,1,-1,]
+}
+Material  { 
+ diffuseColor 1.0000 0.0000 0.0000
+ ambientColor 0.0200 0.0200 0.0200
+ specularColor 0.1500 0.1500 0.1500
+
+}
+Coordinate3 { 
+ point [2.57523 -2.61791 -2.62916,
+3.10749 -0.79319 -2.88131,
+1.87463 0.00689 -3.07330,
+2.57523 -2.61791 -2.62916,
+]
+}
+IndexedFaceSet {
+ coordIndex[1,2,3,-1,]
+}
+IndexedFaceSet {
+ coordIndex[3,2,1,-1,]
+}
+Material  { 
+ diffuseColor 0.7137 0.7137 0.0000
+ ambientColor 0.0200 0.0200 0.0200
+ specularColor 0.1500 0.1500 0.1500
+
+}
+Coordinate3 { 
+ point [4.21114 -0.01533 -1.61798,
+3.10749 -0.79319 -2.88131,
+1.87463 0.00689 -3.07330,
+4.21114 -0.01533 -1.61798,
+]
+}
+IndexedFaceSet {
+ coordIndex[1,2,3,-1,]
+}
+IndexedFaceSet {
+ coordIndex[3,2,1,-1,]
+}
+Material  { 
+ diffuseColor 0.0000 0.0000 1.0000
+}
+Coordinate3 { 
+ point [2.61807 2.61797 -2.61801,
+-0.00240 1.64284 -4.24724,
+]
+}
+IndexedLineSet {
+ coordIndex[0,1,]
+}
+Material  { 
+ diffuseColor 1.0000 0.0000 0.0000
+}
+Coordinate3 { 
+ point [-0.00240 1.64284 -4.24724,
+2.61807 2.61797 -2.61801,
+1.87463 0.00689 -3.07330,
+]
+}
+IndexedLineSet {
+ coordIndex[0,1,2,]
+}
+Material  { 
+ diffuseColor 0.5098 0.0000 1.0000
+ ambientColor 0.0200 0.0200 0.0200
+ specularColor 0.1500 0.1500 0.1500
+
+}
+Coordinate3 { 
+ point [-0.00240 1.64284 -4.24724,
+1.74611 1.32670 -3.73551,
+2.61807 2.61797 -2.61801,
+-0.00240 1.64284 -4.24724,
+]
+}
+IndexedFaceSet {
+ coordIndex[1,2,3,-1,]
+}
+IndexedFaceSet {
+ coordIndex[3,2,1,-1,]
+}
+Material  { 
+ diffuseColor 1.0000 0.0000 0.0000
+ ambientColor 0.0200 0.0200 0.0200
+ specularColor 0.1500 0.1500 0.1500
+
+}
+Coordinate3 { 
+ point [2.61807 2.61797 -2.61801,
+1.74611 1.32670 -3.73551,
+1.87463 0.00689 -3.07330,
+2.61807 2.61797 -2.61801,
+]
+}
+IndexedFaceSet {
+ coordIndex[1,2,3,-1,]
+}
+IndexedFaceSet {
+ coordIndex[3,2,1,-1,]
+}
+Material  { 
+ diffuseColor 0.7137 0.7137 0.0000
+ ambientColor 0.0200 0.0200 0.0200
+ specularColor 0.1500 0.1500 0.1500
+
+}
+Coordinate3 { 
+ point [-0.00240 1.64284 -4.24724,
+1.74611 1.32670 -3.73551,
+1.87463 0.00689 -3.07330,
+-0.00240 1.64284 -4.24724,
+]
+}
+IndexedFaceSet {
+ coordIndex[1,2,3,-1,]
+}
+IndexedFaceSet {
+ coordIndex[3,2,1,-1,]
+}
+Material  { 
+ diffuseColor 0.0000 0.0000 1.0000
+}
+Coordinate3 { 
+ point [-0.00240 1.64284 -4.24724,
+-0.02888 -1.59311 -4.25413,
+]
+}
+IndexedLineSet {
+ coordIndex[0,1,]
+}
+Material  { 
+ diffuseColor 1.0000 0.0000 0.0000
+}
+Coordinate3 { 
+ point [-0.02888 -1.59311 -4.25413,
+-0.00240 1.64284 -4.24724,
+1.87463 0.00689 -3.07330,
+]
+}
+IndexedLineSet {
+ coordIndex[0,1,2,]
+}
+Material  { 
+ diffuseColor 0.5098 0.0000 1.0000
+ ambientColor 0.0200 0.0200 0.0200
+ specularColor 0.1500 0.1500 0.1500
+
+}
+Coordinate3 { 
+ point [-0.02888 -1.59311 -4.25413,
+0.94718 -0.02282 -4.22911,
+-0.00240 1.64284 -4.24724,
+-0.02888 -1.59311 -4.25413,
+]
+}
+IndexedFaceSet {
+ coordIndex[1,2,3,-1,]
+}
+IndexedFaceSet {
+ coordIndex[3,2,1,-1,]
+}
+Material  { 
+ diffuseColor 1.0000 0.0000 0.0000
+ ambientColor 0.0200 0.0200 0.0200
+ specularColor 0.1500 0.1500 0.1500
+
+}
+Coordinate3 { 
+ point [-0.00240 1.64284 -4.24724,
+0.94718 -0.02282 -4.22911,
+1.87463 0.00689 -3.07330,
+-0.00240 1.64284 -4.24724,
+]
+}
+IndexedFaceSet {
+ coordIndex[1,2,3,-1,]
+}
+IndexedFaceSet {
+ coordIndex[3,2,1,-1,]
+}
+Material  { 
+ diffuseColor 0.7137 0.7137 0.0000
+ ambientColor 0.0200 0.0200 0.0200
+ specularColor 0.1500 0.1500 0.1500
+
+}
+Coordinate3 { 
+ point [-0.02888 -1.59311 -4.25413,
+0.94718 -0.02282 -4.22911,
+1.87463 0.00689 -3.07330,
+-0.02888 -1.59311 -4.25413,
+]
+}
+IndexedFaceSet {
+ coordIndex[1,2,3,-1,]
+}
+IndexedFaceSet {
+ coordIndex[3,2,1,-1,]
+}
+Material  { 
+ diffuseColor 0.0000 0.0000 1.0000
+}
+Coordinate3 { 
+ point [-0.02888 -1.59311 -4.25413,
+2.57523 -2.61791 -2.62916,
+]
+}
+IndexedLineSet {
+ coordIndex[0,1,]
+}
+Material  { 
+ diffuseColor 1.0000 0.0000 0.0000
+}
+Coordinate3 { 
+ point [2.57523 -2.61791 -2.62916,
+-0.02888 -1.59311 -4.25413,
+1.87463 0.00689 -3.07330,
+]
+}
+IndexedLineSet {
+ coordIndex[0,1,2,]
+}
+Material  { 
+ diffuseColor 0.5098 0.0000 1.0000
+ ambientColor 0.0200 0.0200 0.0200
+ specularColor 0.1500 0.1500 0.1500
+
+}
+Coordinate3 { 
+ point [2.57523 -2.61791 -2.62916,
+1.78856 -1.33299 -3.70118,
+-0.02888 -1.59311 -4.25413,
+2.57523 -2.61791 -2.62916,
+]
+}
+IndexedFaceSet {
+ coordIndex[1,2,3,-1,]
+}
+IndexedFaceSet {
+ coordIndex[3,2,1,-1,]
+}
+Material  { 
+ diffuseColor 1.0000 0.0000 0.0000
+ ambientColor 0.0200 0.0200 0.0200
+ specularColor 0.1500 0.1500 0.1500
+
+}
+Coordinate3 { 
+ point [-0.02888 -1.59311 -4.25413,
+1.78856 -1.33299 -3.70118,
+1.87463 0.00689 -3.07330,
+-0.02888 -1.59311 -4.25413,
+]
+}
+IndexedFaceSet {
+ coordIndex[1,2,3,-1,]
+}
+IndexedFaceSet {
+ coordIndex[3,2,1,-1,]
+}
+Material  { 
+ diffuseColor 0.7137 0.7137 0.0000
+ ambientColor 0.0200 0.0200 0.0200
+ specularColor 0.1500 0.1500 0.1500
+
+}
+Coordinate3 { 
+ point [2.57523 -2.61791 -2.62916,
+1.78856 -1.33299 -3.70118,
+1.87463 0.00689 -3.07330,
+2.57523 -2.61791 -2.62916,
+]
+}
+IndexedFaceSet {
+ coordIndex[1,2,3,-1,]
+}
+IndexedFaceSet {
+ coordIndex[3,2,1,-1,]
+}
+Material  { 
+ diffuseColor 0.0000 0.0000 1.0000
+}
+Coordinate3 { 
+ point [2.57523 -2.61791 -2.62916,
+-0.02888 -1.59311 -4.25413,
+]
+}
+IndexedLineSet {
+ coordIndex[0,1,]
+}
+Material  { 
+ diffuseColor 1.0000 0.0000 0.0000
+}
+Coordinate3 { 
+ point [4.69486 -4.85883 1.61803,
+5.44324 -1.87174 2.61271,
+7.19992 -3.97322 2.33779,
+]
+}
+IndexedLineSet {
+ coordIndex[0,1,2,]
+}
+Material  { 
+ diffuseColor 0.0000 0.0000 1.0000
+}
+Coordinate3 { 
+ point [2.57523 -2.61791 -2.62916,
+4.21114 -0.01533 -1.61798,
+]
+}
+IndexedLineSet {
+ coordIndex[0,1,]
+}
+Material  { 
+ diffuseColor 0.0000 0.0000 1.0000
+}
+Coordinate3 { 
+ point [2.57523 -2.61791 -2.62916,
+1.60085 -4.26318 -0.01845,
+]
+}
+IndexedLineSet {
+ coordIndex[0,1,]
+}
+Material  { 
+ diffuseColor 0.0000 0.0000 1.0000
+}
+Coordinate3 { 
+ point [4.21114 -0.01533 -1.61798,
+4.24780 -0.05210 1.61767,
+]
+}
+IndexedLineSet {
+ coordIndex[0,1,]
+}
+Material  { 
+ diffuseColor 0.0000 0.0000 1.0000
+}
+Coordinate3 { 
+ point [1.60085 -4.26318 -0.01845,
+2.63455 -2.67742 2.60623,
+]
+}
+IndexedLineSet {
+ coordIndex[0,1,]
+}
+Material  { 
+ diffuseColor 0.0000 0.0000 1.0000
+}
+Coordinate3 { 
+ point [4.24780 -0.05210 1.61767,
+2.63455 -2.67742 2.60623,
+]
+}
+IndexedLineSet {
+ coordIndex[0,1,]
+}
+Material  { 
+ diffuseColor 1.0000 0.0000 0.0000
+}
+Coordinate3 { 
+ point [1.60085 -4.26318 -0.01845,
+2.57523 -2.61791 -2.62916,
+3.05391 -1.92519 -0.00834,
+]
+}
+IndexedLineSet {
+ coordIndex[0,1,2,]
+}
+Material  { 
+ diffuseColor 1.0000 0.0000 0.0000
+}
+Coordinate3 { 
+ point [2.57523 -2.61791 -2.62916,
+4.21114 -0.01533 -1.61798,
+3.05391 -1.92519 -0.00834,
+]
+}
+IndexedLineSet {
+ coordIndex[0,1,2,]
+}
+Material  { 
+ diffuseColor 1.0000 0.0000 0.0000
+}
+Coordinate3 { 
+ point [3.05391 -1.92519 -0.00834,
+4.21114 -0.01533 -1.61798,
+4.24780 -0.05210 1.61767,
+]
+}
+IndexedLineSet {
+ coordIndex[0,1,2,]
+}
+Material  { 
+ diffuseColor 1.0000 0.0000 0.0000
+}
+Coordinate3 { 
+ point [4.24780 -0.05210 1.61767,
+3.05391 -1.92519 -0.00834,
+]
+}
+IndexedLineSet {
+ coordIndex[0,1,]
+}
+Material  { 
+ diffuseColor 1.0000 0.0000 0.0000
+}
+Coordinate3 { 
+ point [3.05391 -1.92519 -0.00834,
+4.24780 -0.05210 1.61767,
+2.63455 -2.67742 2.60623,
+3.05391 -1.92519 -0.00834,
+]
+}
+IndexedLineSet {
+ coordIndex[0,1,2,3,]
+}
+Material  { 
+ diffuseColor 1.0000 0.0000 0.0000
+}
+Coordinate3 { 
+ point [3.05391 -1.92519 -0.00834,
+2.63455 -2.67742 2.60623,
+1.60085 -4.26318 -0.01845,
+3.05391 -1.92519 -0.00834,
+]
+}
+IndexedLineSet {
+ coordIndex[0,1,2,3,]
+}
+Material  { 
+ diffuseColor 0.5098 0.0000 1.0000
+ ambientColor 0.0200 0.0200 0.0200
+ specularColor 0.1500 0.1500 0.1500
+
+}
+Coordinate3 { 
+ point [1.60085 -4.26318 -0.01845,
+2.85245 -3.15570 -0.80971,
+2.57523 -2.61791 -2.62916,
+1.60085 -4.26318 -0.01845,
+]
+}
+IndexedFaceSet {
+ coordIndex[1,2,3,-1,]
+}
+IndexedFaceSet {
+ coordIndex[3,2,1,-1,]
+}
+Material  { 
+ diffuseColor 1.0000 0.0000 0.0000
+ ambientColor 0.0200 0.0200 0.0200
+ specularColor 0.1500 0.1500 0.1500
+
+}
+Coordinate3 { 
+ point [2.57523 -2.61791 -2.62916,
+2.85245 -3.15570 -0.80971,
+3.05391 -1.92519 -0.00834,
+2.57523 -2.61791 -2.62916,
+]
+}
+IndexedFaceSet {
+ coordIndex[1,2,3,-1,]
+}
+IndexedFaceSet {
+ coordIndex[3,2,1,-1,]
+}
+Material  { 
+ diffuseColor 0.7137 0.7137 0.0000
+ ambientColor 0.0200 0.0200 0.0200
+ specularColor 0.1500 0.1500 0.1500
+
+}
+Coordinate3 { 
+ point [1.60085 -4.26318 -0.01845,
+2.85245 -3.15570 -0.80971,
+3.05391 -1.92519 -0.00834,
+1.60085 -4.26318 -0.01845,
+]
+}
+IndexedFaceSet {
+ coordIndex[1,2,3,-1,]
+}
+IndexedFaceSet {
+ coordIndex[3,2,1,-1,]
+}
+Material  { 
+ diffuseColor 0.0000 0.0000 1.0000
+}
+Coordinate3 { 
+ point [4.21114 -0.01533 -1.61798,
+2.57523 -2.61791 -2.62916,
+]
+}
+IndexedLineSet {
+ coordIndex[0,1,]
+}
+Material  { 
+ diffuseColor 1.0000 0.0000 0.0000
+}
+Coordinate3 { 
+ point [2.57523 -2.61791 -2.62916,
+4.21114 -0.01533 -1.61798,
+3.05391 -1.92519 -0.00834,
+]
+}
+IndexedLineSet {
+ coordIndex[0,1,2,]
+}
+Material  { 
+ diffuseColor 0.5098 0.0000 1.0000
+ ambientColor 0.0200 0.0200 0.0200
+ specularColor 0.1500 0.1500 0.1500
+
+}
+Coordinate3 { 
+ point [2.57523 -2.61791 -2.62916,
+3.66362 -1.83417 -1.35626,
+4.21114 -0.01533 -1.61798,
+2.57523 -2.61791 -2.62916,
+]
+}
+IndexedFaceSet {
+ coordIndex[1,2,3,-1,]
+}
+IndexedFaceSet {
+ coordIndex[3,2,1,-1,]
+}
+Material  { 
+ diffuseColor 1.0000 0.0000 0.0000
+ ambientColor 0.0200 0.0200 0.0200
+ specularColor 0.1500 0.1500 0.1500
+
+}
+Coordinate3 { 
+ point [4.21114 -0.01533 -1.61798,
+3.66362 -1.83417 -1.35626,
+3.05391 -1.92519 -0.00834,
+4.21114 -0.01533 -1.61798,
+]
+}
+IndexedFaceSet {
+ coordIndex[1,2,3,-1,]
+}
+IndexedFaceSet {
+ coordIndex[3,2,1,-1,]
+}
+Material  { 
+ diffuseColor 0.7137 0.7137 0.0000
+ ambientColor 0.0200 0.0200 0.0200
+ specularColor 0.1500 0.1500 0.1500
+
+}
+Coordinate3 { 
+ point [2.57523 -2.61791 -2.62916,
+3.66362 -1.83417 -1.35626,
+3.05391 -1.92519 -0.00834,
+2.57523 -2.61791 -2.62916,
+]
+}
+IndexedFaceSet {
+ coordIndex[1,2,3,-1,]
+}
+IndexedFaceSet {
+ coordIndex[3,2,1,-1,]
+}
+Material  { 
+ diffuseColor 0.0000 0.0000 1.0000
+}
+Coordinate3 { 
+ point [1.60085 -4.26318 -0.01845,
+2.63455 -2.67742 2.60623,
+]
+}
+IndexedLineSet {
+ coordIndex[0,1,]
+}
+Material  { 
+ diffuseColor 1.0000 0.0000 0.0000
+}
+Coordinate3 { 
+ point [2.63455 -2.67742 2.60623,
+1.60085 -4.26318 -0.01845,
+3.05391 -1.92519 -0.00834,
+]
+}
+IndexedLineSet {
+ coordIndex[0,1,2,]
+}
+Material  { 
+ diffuseColor 0.5098 0.0000 1.0000
+ ambientColor 0.0200 0.0200 0.0200
+ specularColor 0.1500 0.1500 0.1500
+
+}
+Coordinate3 { 
+ point [2.63455 -2.67742 2.60623,
+2.89574 -3.13467 0.83372,
+1.60085 -4.26318 -0.01845,
+2.63455 -2.67742 2.60623,
+]
+}
+IndexedFaceSet {
+ coordIndex[1,2,3,-1,]
+}
+IndexedFaceSet {
+ coordIndex[3,2,1,-1,]
+}
+Material  { 
+ diffuseColor 1.0000 0.0000 0.0000
+ ambientColor 0.0200 0.0200 0.0200
+ specularColor 0.1500 0.1500 0.1500
+
+}
+Coordinate3 { 
+ point [1.60085 -4.26318 -0.01845,
+2.89574 -3.13467 0.83372,
+3.05391 -1.92519 -0.00834,
+1.60085 -4.26318 -0.01845,
+]
+}
+IndexedFaceSet {
+ coordIndex[1,2,3,-1,]
+}
+IndexedFaceSet {
+ coordIndex[3,2,1,-1,]
+}
+Material  { 
+ diffuseColor 0.7137 0.7137 0.0000
+ ambientColor 0.0200 0.0200 0.0200
+ specularColor 0.1500 0.1500 0.1500
+
+}
+Coordinate3 { 
+ point [2.63455 -2.67742 2.60623,
+2.89574 -3.13467 0.83372,
+3.05391 -1.92519 -0.00834,
+2.63455 -2.67742 2.60623,
+]
+}
+IndexedFaceSet {
+ coordIndex[1,2,3,-1,]
+}
+IndexedFaceSet {
+ coordIndex[3,2,1,-1,]
+}
+Material  { 
+ diffuseColor 0.0000 0.0000 1.0000
+}
+Coordinate3 { 
+ point [2.63455 -2.67742 2.60623,
+4.24780 -0.05210 1.61767,
+]
+}
+IndexedLineSet {
+ coordIndex[0,1,]
+}
+Material  { 
+ diffuseColor 1.0000 0.0000 0.0000
+}
+Coordinate3 { 
+ point [4.24780 -0.05210 1.61767,
+2.63455 -2.67742 2.60623,
+3.05391 -1.92519 -0.00834,
+]
+}
+IndexedLineSet {
+ coordIndex[0,1,2,]
+}
+Material  { 
+ diffuseColor 0.5098 0.0000 1.0000
+ ambientColor 0.0200 0.0200 0.0200
+ specularColor 0.1500 0.1500 0.1500
+
+}
+Coordinate3 { 
+ point [4.24780 -0.05210 1.61767,
+3.73367 -1.80015 1.30285,
+2.63455 -2.67742 2.60623,
+4.24780 -0.05210 1.61767,
+]
+}
+IndexedFaceSet {
+ coordIndex[1,2,3,-1,]
+}
+IndexedFaceSet {
+ coordIndex[3,2,1,-1,]
+}
+Material  { 
+ diffuseColor 1.0000 0.0000 0.0000
+ ambientColor 0.0200 0.0200 0.0200
+ specularColor 0.1500 0.1500 0.1500
+
+}
+Coordinate3 { 
+ point [2.63455 -2.67742 2.60623,
+3.73367 -1.80015 1.30285,
+3.05391 -1.92519 -0.00834,
+2.63455 -2.67742 2.60623,
+]
+}
+IndexedFaceSet {
+ coordIndex[1,2,3,-1,]
+}
+IndexedFaceSet {
+ coordIndex[3,2,1,-1,]
+}
+Material  { 
+ diffuseColor 0.7137 0.7137 0.0000
+ ambientColor 0.0200 0.0200 0.0200
+ specularColor 0.1500 0.1500 0.1500
+
+}
+Coordinate3 { 
+ point [4.24780 -0.05210 1.61767,
+3.73367 -1.80015 1.30285,
+3.05391 -1.92519 -0.00834,
+4.24780 -0.05210 1.61767,
+]
+}
+IndexedFaceSet {
+ coordIndex[1,2,3,-1,]
+}
+IndexedFaceSet {
+ coordIndex[3,2,1,-1,]
+}
+Material  { 
+ diffuseColor 0.0000 0.0000 1.0000
+}
+Coordinate3 { 
+ point [4.24780 -0.05210 1.61767,
+4.21114 -0.01533 -1.61798,
+]
+}
+IndexedLineSet {
+ coordIndex[0,1,]
+}
+Material  { 
+ diffuseColor 1.0000 0.0000 0.0000
+}
+Coordinate3 { 
+ point [4.21114 -0.01533 -1.61798,
+4.24780 -0.05210 1.61767,
+3.05391 -1.92519 -0.00834,
+]
+}
+IndexedLineSet {
+ coordIndex[0,1,2,]
+}
+Material  { 
+ diffuseColor 0.5098 0.0000 1.0000
+ ambientColor 0.0200 0.0200 0.0200
+ specularColor 0.1500 0.1500 0.1500
+
+}
+Coordinate3 { 
+ point [4.21114 -0.01533 -1.61798,
+4.20825 -0.99640 -0.05063,
+4.24780 -0.05210 1.61767,
+4.21114 -0.01533 -1.61798,
+]
+}
+IndexedFaceSet {
+ coordIndex[1,2,3,-1,]
+}
+IndexedFaceSet {
+ coordIndex[3,2,1,-1,]
+}
+Material  { 
+ diffuseColor 1.0000 0.0000 0.0000
+ ambientColor 0.0200 0.0200 0.0200
+ specularColor 0.1500 0.1500 0.1500
+
+}
+Coordinate3 { 
+ point [4.24780 -0.05210 1.61767,
+4.20825 -0.99640 -0.05063,
+3.05391 -1.92519 -0.00834,
+4.24780 -0.05210 1.61767,
+]
+}
+IndexedFaceSet {
+ coordIndex[1,2,3,-1,]
+}
+IndexedFaceSet {
+ coordIndex[3,2,1,-1,]
+}
+Material  { 
+ diffuseColor 0.7137 0.7137 0.0000
+ ambientColor 0.0200 0.0200 0.0200
+ specularColor 0.1500 0.1500 0.1500
+
+}
+Coordinate3 { 
+ point [4.21114 -0.01533 -1.61798,
+4.20825 -0.99640 -0.05063,
+3.05391 -1.92519 -0.00834,
+4.21114 -0.01533 -1.61798,
+]
+}
+IndexedFaceSet {
+ coordIndex[1,2,3,-1,]
+}
+IndexedFaceSet {
+ coordIndex[3,2,1,-1,]
+}
+Material  { 
+ diffuseColor 0.0000 0.0000 1.0000
+}
+Coordinate3 { 
+ point [4.21114 -0.01533 -1.61798,
+4.24780 -0.05210 1.61767,
+]
+}
+IndexedLineSet {
+ coordIndex[0,1,]
+}
+Material  { 
+ diffuseColor 0.0000 0.0000 1.0000
+}
+Coordinate3 { 
+ point [-2.61803 -2.61803 -2.61803,
+0.00000 -1.61803 -4.23607,
+]
+}
+IndexedLineSet {
+ coordIndex[0,1,]
+}
+Material  { 
+ diffuseColor 0.0000 0.0000 1.0000
+}
+Coordinate3 { 
+ point [-2.61803 -2.61803 -2.61803,
+-1.61803 -4.23607 -0.00000,
+]
+}
+IndexedLineSet {
+ coordIndex[0,1,]
+}
+Material  { 
+ diffuseColor 0.0000 0.0000 1.0000
+}
+Coordinate3 { 
+ point [0.00000 -1.61803 -4.23607,
+2.61803 -2.61803 -2.61803,
+]
+}
+IndexedLineSet {
+ coordIndex[0,1,]
+}
+Material  { 
+ diffuseColor 0.0000 0.0000 1.0000
+}
+Coordinate3 { 
+ point [-1.61803 -4.23607 -0.00000,
+1.61803 -4.23607 -0.00000,
+]
+}
+IndexedLineSet {
+ coordIndex[0,1,]
+}
+Material  { 
+ diffuseColor 0.0000 0.0000 1.0000
+}
+Coordinate3 { 
+ point [2.61803 -2.61803 -2.61803,
+1.61803 -4.23607 -0.00000,
+]
+}
+IndexedLineSet {
+ coordIndex[0,1,]
+}
+Material  { 
+ diffuseColor 1.0000 0.0000 0.0000
+}
+Coordinate3 { 
+ point [-1.61803 -4.23607 -0.00000,
+-2.61803 -2.61803 -2.61803,
+0.00000 -3.06525 -1.89443,
+]
+}
+IndexedLineSet {
+ coordIndex[0,1,2,]
+}
+Material  { 
+ diffuseColor 1.0000 0.0000 0.0000
+}
+Coordinate3 { 
+ point [-2.61803 -2.61803 -2.61803,
+0.00000 -1.61803 -4.23607,
+0.00000 -3.06525 -1.89443,
+]
+}
+IndexedLineSet {
+ coordIndex[0,1,2,]
+}
+Material  { 
+ diffuseColor 1.0000 0.0000 0.0000
+}
+Coordinate3 { 
+ point [0.00000 -3.06525 -1.89443,
+0.00000 -1.61803 -4.23607,
+2.61803 -2.61803 -2.61803,
+]
+}
+IndexedLineSet {
+ coordIndex[0,1,2,]
+}
+Material  { 
+ diffuseColor 1.0000 0.0000 0.0000
+}
+Coordinate3 { 
+ point [2.61803 -2.61803 -2.61803,
+0.00000 -3.06525 -1.89443,
+]
+}
+IndexedLineSet {
+ coordIndex[0,1,]
+}
+Material  { 
+ diffuseColor 1.0000 0.0000 0.0000
+}
+Coordinate3 { 
+ point [0.00000 -3.06525 -1.89443,
+2.61803 -2.61803 -2.61803,
+1.61803 -4.23607 -0.00000,
+0.00000 -3.06525 -1.89443,
+]
+}
+IndexedLineSet {
+ coordIndex[0,1,2,3,]
+}
+Material  { 
+ diffuseColor 1.0000 0.0000 0.0000
+}
+Coordinate3 { 
+ point [0.00000 -3.06525 -1.89443,
+1.61803 -4.23607 -0.00000,
+-1.61803 -4.23607 -0.00000,
+0.00000 -3.06525 -1.89443,
+]
+}
+IndexedLineSet {
+ coordIndex[0,1,2,3,]
+}
+Material  { 
+ diffuseColor 0.5098 0.0000 1.0000
+ ambientColor 0.0200 0.0200 0.0200
+ specularColor 0.1500 0.1500 0.1500
+
+}
+Coordinate3 { 
+ point [-1.61803 -4.23607 -0.00000,
+-1.31730 -3.72977 -1.75281,
+-2.61803 -2.61803 -2.61803,
+-1.61803 -4.23607 -0.00000,
+]
+}
+IndexedFaceSet {
+ coordIndex[1,2,3,-1,]
+}
+IndexedFaceSet {
+ coordIndex[3,2,1,-1,]
+}
+Material  { 
+ diffuseColor 1.0000 0.0000 0.0000
+ ambientColor 0.0200 0.0200 0.0200
+ specularColor 0.1500 0.1500 0.1500
+
+}
+Coordinate3 { 
+ point [-2.61803 -2.61803 -2.61803,
+-1.31730 -3.72977 -1.75281,
+0.00000 -3.06525 -1.89443,
+-2.61803 -2.61803 -2.61803,
+]
+}
+IndexedFaceSet {
+ coordIndex[1,2,3,-1,]
+}
+IndexedFaceSet {
+ coordIndex[3,2,1,-1,]
+}
+Material  { 
+ diffuseColor 0.7137 0.7137 0.0000
+ ambientColor 0.0200 0.0200 0.0200
+ specularColor 0.1500 0.1500 0.1500
+
+}
+Coordinate3 { 
+ point [-1.61803 -4.23607 -0.00000,
+-1.31730 -3.72977 -1.75281,
+0.00000 -3.06525 -1.89443,
+-1.61803 -4.23607 -0.00000,
+]
+}
+IndexedFaceSet {
+ coordIndex[1,2,3,-1,]
+}
+IndexedFaceSet {
+ coordIndex[3,2,1,-1,]
+}
+Material  { 
+ diffuseColor 0.0000 0.0000 1.0000
+}
+Coordinate3 { 
+ point [0.00000 -1.61803 -4.23607,
+-2.61803 -2.61803 -2.61803,
+]
+}
+IndexedLineSet {
+ coordIndex[0,1,]
+}
+Material  { 
+ diffuseColor 1.0000 0.0000 0.0000
+}
+Coordinate3 { 
+ point [-2.61803 -2.61803 -2.61803,
+0.00000 -1.61803 -4.23607,
+0.00000 -3.06525 -1.89443,
+]
+}
+IndexedLineSet {
+ coordIndex[0,1,2,]
+}
+Material  { 
+ diffuseColor 0.5098 0.0000 1.0000
+ ambientColor 0.0200 0.0200 0.0200
+ specularColor 0.1500 0.1500 0.1500
+
+}
+Coordinate3 { 
+ point [-2.61803 -2.61803 -2.61803,
+-0.85390 -2.90044 -3.09469,
+0.00000 -1.61803 -4.23607,
+-2.61803 -2.61803 -2.61803,
+]
+}
+IndexedFaceSet {
+ coordIndex[1,2,3,-1,]
+}
+IndexedFaceSet {
+ coordIndex[3,2,1,-1,]
+}
+Material  { 
+ diffuseColor 1.0000 0.0000 0.0000
+ ambientColor 0.0200 0.0200 0.0200
+ specularColor 0.1500 0.1500 0.1500
+
+}
+Coordinate3 { 
+ point [0.00000 -1.61803 -4.23607,
+-0.85390 -2.90044 -3.09469,
+0.00000 -3.06525 -1.89443,
+0.00000 -1.61803 -4.23607,
+]
+}
+IndexedFaceSet {
+ coordIndex[1,2,3,-1,]
+}
+IndexedFaceSet {
+ coordIndex[3,2,1,-1,]
+}
+Material  { 
+ diffuseColor 0.7137 0.7137 0.0000
+ ambientColor 0.0200 0.0200 0.0200
+ specularColor 0.1500 0.1500 0.1500
+
+}
+Coordinate3 { 
+ point [-2.61803 -2.61803 -2.61803,
+-0.85390 -2.90044 -3.09469,
+0.00000 -3.06525 -1.89443,
+-2.61803 -2.61803 -2.61803,
+]
+}
+IndexedFaceSet {
+ coordIndex[1,2,3,-1,]
+}
+IndexedFaceSet {
+ coordIndex[3,2,1,-1,]
+}
+Material  { 
+ diffuseColor 0.0000 0.0000 1.0000
+}
+Coordinate3 { 
+ point [-1.61803 -4.23607 -0.00000,
+1.61803 -4.23607 0.00000,
+]
+}
+IndexedLineSet {
+ coordIndex[0,1,]
+}
+Material  { 
+ diffuseColor 1.0000 0.0000 0.0000
+}
+Coordinate3 { 
+ point [1.61803 -4.23607 0.00000,
+-1.61803 -4.23607 -0.00000,
+0.00000 -3.06525 -1.89443,
+]
+}
+IndexedLineSet {
+ coordIndex[0,1,2,]
+}
+Material  { 
+ diffuseColor 0.5098 0.0000 1.0000
+ ambientColor 0.0200 0.0200 0.0200
+ specularColor 0.1500 0.1500 0.1500
+
+}
+Coordinate3 { 
+ point [1.61803 -4.23607 0.00000,
+0.03977 -4.21775 -0.96325,
+-1.61803 -4.23607 -0.00000,
+1.61803 -4.23607 0.00000,
+]
+}
+IndexedFaceSet {
+ coordIndex[1,2,3,-1,]
+}
+IndexedFaceSet {
+ coordIndex[3,2,1,-1,]
+}
+Material  { 
+ diffuseColor 1.0000 0.0000 0.0000
+ ambientColor 0.0200 0.0200 0.0200
+ specularColor 0.1500 0.1500 0.1500
+
+}
+Coordinate3 { 
+ point [-1.61803 -4.23607 -0.00000,
+0.03977 -4.21775 -0.96325,
+0.00000 -3.06525 -1.89443,
+-1.61803 -4.23607 -0.00000,
+]
+}
+IndexedFaceSet {
+ coordIndex[1,2,3,-1,]
+}
+IndexedFaceSet {
+ coordIndex[3,2,1,-1,]
+}
+Material  { 
+ diffuseColor 0.7137 0.7137 0.0000
+ ambientColor 0.0200 0.0200 0.0200
+ specularColor 0.1500 0.1500 0.1500
+
+}
+Coordinate3 { 
+ point [1.61803 -4.23607 0.00000,
+0.03977 -4.21775 -0.96325,
+0.00000 -3.06525 -1.89443,
+1.61803 -4.23607 0.00000,
+]
+}
+IndexedFaceSet {
+ coordIndex[1,2,3,-1,]
+}
+IndexedFaceSet {
+ coordIndex[3,2,1,-1,]
+}
+Material  { 
+ diffuseColor 0.0000 0.0000 1.0000
+}
+Coordinate3 { 
+ point [1.61803 -4.23607 0.00000,
+2.61803 -2.61803 -2.61803,
+]
+}
+IndexedLineSet {
+ coordIndex[0,1,]
+}
+Material  { 
+ diffuseColor 1.0000 0.0000 0.0000
+}
+Coordinate3 { 
+ point [2.61803 -2.61803 -2.61803,
+1.61803 -4.23607 0.00000,
+0.00000 -3.06525 -1.89443,
+]
+}
+IndexedLineSet {
+ coordIndex[0,1,2,]
+}
+Material  { 
+ diffuseColor 0.5098 0.0000 1.0000
+ ambientColor 0.0200 0.0200 0.0200
+ specularColor 0.1500 0.1500 0.1500
+
+}
+Coordinate3 { 
+ point [2.61803 -2.61803 -2.61803,
+1.34188 -3.69000 -1.81715,
+1.61803 -4.23607 0.00000,
+2.61803 -2.61803 -2.61803,
+]
+}
+IndexedFaceSet {
+ coordIndex[1,2,3,-1,]
+}
+IndexedFaceSet {
+ coordIndex[3,2,1,-1,]
+}
+Material  { 
+ diffuseColor 1.0000 0.0000 0.0000
+ ambientColor 0.0200 0.0200 0.0200
+ specularColor 0.1500 0.1500 0.1500
+
+}
+Coordinate3 { 
+ point [1.61803 -4.23607 0.00000,
+1.34188 -3.69000 -1.81715,
+0.00000 -3.06525 -1.89443,
+1.61803 -4.23607 0.00000,
+]
+}
+IndexedFaceSet {
+ coordIndex[1,2,3,-1,]
+}
+IndexedFaceSet {
+ coordIndex[3,2,1,-1,]
+}
+Material  { 
+ diffuseColor 0.7137 0.7137 0.0000
+ ambientColor 0.0200 0.0200 0.0200
+ specularColor 0.1500 0.1500 0.1500
+
+}
+Coordinate3 { 
+ point [2.61803 -2.61803 -2.61803,
+1.34188 -3.69000 -1.81715,
+0.00000 -3.06525 -1.89443,
+2.61803 -2.61803 -2.61803,
+]
+}
+IndexedFaceSet {
+ coordIndex[1,2,3,-1,]
+}
+IndexedFaceSet {
+ coordIndex[3,2,1,-1,]
+}
+Material  { 
+ diffuseColor 0.0000 0.0000 1.0000
+}
+Coordinate3 { 
+ point [2.61803 -2.61803 -2.61803,
+0.00000 -1.61803 -4.23607,
+]
+}
+IndexedLineSet {
+ coordIndex[0,1,]
+}
+Material  { 
+ diffuseColor 1.0000 0.0000 0.0000
+}
+Coordinate3 { 
+ point [0.00000 -1.61803 -4.23607,
+2.61803 -2.61803 -2.61803,
+0.00000 -3.06525 -1.89443,
+]
+}
+IndexedLineSet {
+ coordIndex[0,1,2,]
+}
+Material  { 
+ diffuseColor 0.5098 0.0000 1.0000
+ ambientColor 0.0200 0.0200 0.0200
+ specularColor 0.1500 0.1500 0.1500
+
+}
+Coordinate3 { 
+ point [0.00000 -1.61803 -4.23607,
+0.78956 -2.87587 -3.13445,
+2.61803 -2.61803 -2.61803,
+0.00000 -1.61803 -4.23607,
+]
+}
+IndexedFaceSet {
+ coordIndex[1,2,3,-1,]
+}
+IndexedFaceSet {
+ coordIndex[3,2,1,-1,]
+}
+Material  { 
+ diffuseColor 1.0000 0.0000 0.0000
+ ambientColor 0.0200 0.0200 0.0200
+ specularColor 0.1500 0.1500 0.1500
+
+}
+Coordinate3 { 
+ point [2.61803 -2.61803 -2.61803,
+0.78956 -2.87587 -3.13445,
+0.00000 -3.06525 -1.89443,
+2.61803 -2.61803 -2.61803,
+]
+}
+IndexedFaceSet {
+ coordIndex[1,2,3,-1,]
+}
+IndexedFaceSet {
+ coordIndex[3,2,1,-1,]
+}
+Material  { 
+ diffuseColor 0.7137 0.7137 0.0000
+ ambientColor 0.0200 0.0200 0.0200
+ specularColor 0.1500 0.1500 0.1500
+
+}
+Coordinate3 { 
+ point [0.00000 -1.61803 -4.23607,
+0.78956 -2.87587 -3.13445,
+0.00000 -3.06525 -1.89443,
+0.00000 -1.61803 -4.23607,
+]
+}
+IndexedFaceSet {
+ coordIndex[1,2,3,-1,]
+}
+IndexedFaceSet {
+ coordIndex[3,2,1,-1,]
+}
+Material  { 
+ diffuseColor 0.0000 0.0000 1.0000
+}
+Coordinate3 { 
+ point [0.00000 -1.61803 -4.23607,
+2.61803 -2.61803 -2.61803,
+]
+}
+IndexedLineSet {
+ coordIndex[0,1,]
+}
+Material  { 
+ diffuseColor 0.0000 0.0000 1.0000
+}
+Coordinate3 { 
+ point [-1.63505 -4.23592 0.00010,
+1.60085 -4.26318 -0.01845,
+]
+}
+IndexedLineSet {
+ coordIndex[0,1,]
+}
+Material  { 
+ diffuseColor 0.0000 0.0000 1.0000
+}
+Coordinate3 { 
+ point [-1.63505 -4.23592 0.00010,
+-2.60638 -2.61318 2.62600,
+]
+}
+IndexedLineSet {
+ coordIndex[0,1,]
+}
+Material  { 
+ diffuseColor 0.0000 0.0000 1.0000
+}
+Coordinate3 { 
+ point [1.60085 -4.26318 -0.01845,
+2.62941 -2.65728 2.59599,
+]
+}
+IndexedLineSet {
+ coordIndex[0,1,]
+}
+Material  { 
+ diffuseColor 0.0000 0.0000 1.0000
+}
+Coordinate3 { 
+ point [-2.60638 -2.61318 2.62600,
+0.02920 -1.63753 4.23035,
+]
+}
+IndexedLineSet {
+ coordIndex[0,1,]
+}
+Material  { 
+ diffuseColor 0.0000 0.0000 1.0000
+}
+Coordinate3 { 
+ point [2.62941 -2.65728 2.59599,
+0.02920 -1.63753 4.23035,
+]
+}
+IndexedLineSet {
+ coordIndex[0,1,]
+}
+Material  { 
+ diffuseColor 1.0000 0.0000 0.0000
+}
+Coordinate3 { 
+ point [-2.60638 -2.61318 2.62600,
+-1.63505 -4.23592 0.00010,
+0.00360 -3.08142 1.88680,
+]
+}
+IndexedLineSet {
+ coordIndex[0,1,2,]
+}
+Material  { 
+ diffuseColor 1.0000 0.0000 0.0000
+}
+Coordinate3 { 
+ point [-1.63505 -4.23592 0.00010,
+1.60085 -4.26318 -0.01845,
+0.00360 -3.08142 1.88680,
+]
+}
+IndexedLineSet {
+ coordIndex[0,1,2,]
+}
+Material  { 
+ diffuseColor 1.0000 0.0000 0.0000
+}
+Coordinate3 { 
+ point [0.00360 -3.08142 1.88680,
+1.60085 -4.26318 -0.01845,
+2.62941 -2.65728 2.59599,
+]
+}
+IndexedLineSet {
+ coordIndex[0,1,2,]
+}
+Material  { 
+ diffuseColor 1.0000 0.0000 0.0000
+}
+Coordinate3 { 
+ point [2.62941 -2.65728 2.59599,
+0.00360 -3.08142 1.88680,
+]
+}
+IndexedLineSet {
+ coordIndex[0,1,]
+}
+Material  { 
+ diffuseColor 1.0000 0.0000 0.0000
+}
+Coordinate3 { 
+ point [0.00360 -3.08142 1.88680,
+2.62941 -2.65728 2.59599,
+0.02920 -1.63753 4.23035,
+0.00360 -3.08142 1.88680,
+]
+}
+IndexedLineSet {
+ coordIndex[0,1,2,3,]
+}
+Material  { 
+ diffuseColor 1.0000 0.0000 0.0000
+}
+Coordinate3 { 
+ point [0.00360 -3.08142 1.88680,
+0.02920 -1.63753 4.23035,
+-2.60638 -2.61318 2.62600,
+0.00360 -3.08142 1.88680,
+]
+}
+IndexedLineSet {
+ coordIndex[0,1,2,3,]
+}
+Material  { 
+ diffuseColor 0.5098 0.0000 1.0000
+ ambientColor 0.0200 0.0200 0.0200
+ specularColor 0.1500 0.1500 0.1500
+
+}
+Coordinate3 { 
+ point [-2.60638 -2.61318 2.62600,
+-1.34391 -3.69474 1.81637,
+-1.63505 -4.23592 0.00010,
+-2.60638 -2.61318 2.62600,
+]
+}
+IndexedFaceSet {
+ coordIndex[1,2,3,-1,]
+}
+IndexedFaceSet {
+ coordIndex[3,2,1,-1,]
+}
+Material  { 
+ diffuseColor 1.0000 0.0000 0.0000
+ ambientColor 0.0200 0.0200 0.0200
+ specularColor 0.1500 0.1500 0.1500
+
+}
+Coordinate3 { 
+ point [-1.63505 -4.23592 0.00010,
+-1.34391 -3.69474 1.81637,
+0.00360 -3.08142 1.88680,
+-1.63505 -4.23592 0.00010,
+]
+}
+IndexedFaceSet {
+ coordIndex[1,2,3,-1,]
+}
+IndexedFaceSet {
+ coordIndex[3,2,1,-1,]
+}
+Material  { 
+ diffuseColor 0.7137 0.7137 0.0000
+ ambientColor 0.0200 0.0200 0.0200
+ specularColor 0.1500 0.1500 0.1500
+
+}
+Coordinate3 { 
+ point [-2.60638 -2.61318 2.62600,
+-1.34391 -3.69474 1.81637,
+0.00360 -3.08142 1.88680,
+-2.60638 -2.61318 2.62600,
+]
+}
+IndexedFaceSet {
+ coordIndex[1,2,3,-1,]
+}
+IndexedFaceSet {
+ coordIndex[3,2,1,-1,]
+}
+Material  { 
+ diffuseColor 0.0000 0.0000 1.0000
+}
+Coordinate3 { 
+ point [1.60085 -4.26318 -0.01845,
+-1.63505 -4.23592 0.00010,
+]
+}
+IndexedLineSet {
+ coordIndex[0,1,]
+}
+Material  { 
+ diffuseColor 1.0000 0.0000 0.0000
+}
+Coordinate3 { 
+ point [-1.63505 -4.23592 0.00010,
+1.60085 -4.26318 -0.01845,
+0.00360 -3.08142 1.88680,
+]
+}
+IndexedLineSet {
+ coordIndex[0,1,2,]
+}
+Material  { 
+ diffuseColor 0.5098 0.0000 1.0000
+ ambientColor 0.0200 0.0200 0.0200
+ specularColor 0.1500 0.1500 0.1500
+
+}
+Coordinate3 { 
+ point [-1.63505 -4.23592 0.00010,
+-0.05120 -4.23224 0.95430,
+1.60085 -4.26318 -0.01845,
+-1.63505 -4.23592 0.00010,
+]
+}
+IndexedFaceSet {
+ coordIndex[1,2,3,-1,]
+}
+IndexedFaceSet {
+ coordIndex[3,2,1,-1,]
+}
+Material  { 
+ diffuseColor 1.0000 0.0000 0.0000
+ ambientColor 0.0200 0.0200 0.0200
+ specularColor 0.1500 0.1500 0.1500
+
+}
+Coordinate3 { 
+ point [1.60085 -4.26318 -0.01845,
+-0.05120 -4.23224 0.95430,
+0.00360 -3.08142 1.88680,
+1.60085 -4.26318 -0.01845,
+]
+}
+IndexedFaceSet {
+ coordIndex[1,2,3,-1,]
+}
+IndexedFaceSet {
+ coordIndex[3,2,1,-1,]
+}
+Material  { 
+ diffuseColor 0.7137 0.7137 0.0000
+ ambientColor 0.0200 0.0200 0.0200
+ specularColor 0.1500 0.1500 0.1500
+
+}
+Coordinate3 { 
+ point [-1.63505 -4.23592 0.00010,
+-0.05120 -4.23224 0.95430,
+0.00360 -3.08142 1.88680,
+-1.63505 -4.23592 0.00010,
+]
+}
+IndexedFaceSet {
+ coordIndex[1,2,3,-1,]
+}
+IndexedFaceSet {
+ coordIndex[3,2,1,-1,]
+}
+Material  { 
+ diffuseColor 0.0000 0.0000 1.0000
+}
+Coordinate3 { 
+ point [-2.60638 -2.61318 2.62600,
+0.02920 -1.63753 4.23035,
+]
+}
+IndexedLineSet {
+ coordIndex[0,1,]
+}
+Material  { 
+ diffuseColor 1.0000 0.0000 0.0000
+}
+Coordinate3 { 
+ point [0.02920 -1.63753 4.23035,
+-2.60638 -2.61318 2.62600,
+0.00360 -3.08142 1.88680,
+]
+}
+IndexedLineSet {
+ coordIndex[0,1,2,]
+}
+Material  { 
+ diffuseColor 0.5098 0.0000 1.0000
+ ambientColor 0.0200 0.0200 0.0200
+ specularColor 0.1500 0.1500 0.1500
+
+}
+Coordinate3 { 
+ point [0.02920 -1.63753 4.23035,
+-0.77723 -2.88713 3.13158,
+-2.60638 -2.61318 2.62600,
+0.02920 -1.63753 4.23035,
+]
+}
+IndexedFaceSet {
+ coordIndex[1,2,3,-1,]
+}
+IndexedFaceSet {
+ coordIndex[3,2,1,-1,]
+}
+Material  { 
+ diffuseColor 1.0000 0.0000 0.0000
+ ambientColor 0.0200 0.0200 0.0200
+ specularColor 0.1500 0.1500 0.1500
+
+}
+Coordinate3 { 
+ point [-2.60638 -2.61318 2.62600,
+-0.77723 -2.88713 3.13158,
+0.00360 -3.08142 1.88680,
+-2.60638 -2.61318 2.62600,
+]
+}
+IndexedFaceSet {
+ coordIndex[1,2,3,-1,]
+}
+IndexedFaceSet {
+ coordIndex[3,2,1,-1,]
+}
+Material  { 
+ diffuseColor 0.7137 0.7137 0.0000
+ ambientColor 0.0200 0.0200 0.0200
+ specularColor 0.1500 0.1500 0.1500
+
+}
+Coordinate3 { 
+ point [0.02920 -1.63753 4.23035,
+-0.77723 -2.88713 3.13158,
+0.00360 -3.08142 1.88680,
+0.02920 -1.63753 4.23035,
+]
+}
+IndexedFaceSet {
+ coordIndex[1,2,3,-1,]
+}
+IndexedFaceSet {
+ coordIndex[3,2,1,-1,]
+}
+Material  { 
+ diffuseColor 0.0000 0.0000 1.0000
+}
+Coordinate3 { 
+ point [0.02920 -1.63753 4.23035,
+2.62941 -2.65728 2.59599,
+]
+}
+IndexedLineSet {
+ coordIndex[0,1,]
+}
+Material  { 
+ diffuseColor 1.0000 0.0000 0.0000
+}
+Coordinate3 { 
+ point [2.62941 -2.65728 2.59599,
+0.02920 -1.63753 4.23035,
+0.00360 -3.08142 1.88680,
+]
+}
+IndexedLineSet {
+ coordIndex[0,1,2,]
+}
+Material  { 
+ diffuseColor 0.5098 0.0000 1.0000
+ ambientColor 0.0200 0.0200 0.0200
+ specularColor 0.1500 0.1500 0.1500
+
+}
+Coordinate3 { 
+ point [2.62941 -2.65728 2.59599,
+0.86572 -2.92549 3.08236,
+0.02920 -1.63753 4.23035,
+2.62941 -2.65728 2.59599,
+]
+}
+IndexedFaceSet {
+ coordIndex[1,2,3,-1,]
+}
+IndexedFaceSet {
+ coordIndex[3,2,1,-1,]
+}
+Material  { 
+ diffuseColor 1.0000 0.0000 0.0000
+ ambientColor 0.0200 0.0200 0.0200
+ specularColor 0.1500 0.1500 0.1500
+
+}
+Coordinate3 { 
+ point [0.02920 -1.63753 4.23035,
+0.86572 -2.92549 3.08236,
+0.00360 -3.08142 1.88680,
+0.02920 -1.63753 4.23035,
+]
+}
+IndexedFaceSet {
+ coordIndex[1,2,3,-1,]
+}
+IndexedFaceSet {
+ coordIndex[3,2,1,-1,]
+}
+Material  { 
+ diffuseColor 0.7137 0.7137 0.0000
+ ambientColor 0.0200 0.0200 0.0200
+ specularColor 0.1500 0.1500 0.1500
+
+}
+Coordinate3 { 
+ point [2.62941 -2.65728 2.59599,
+0.86572 -2.92549 3.08236,
+0.00360 -3.08142 1.88680,
+2.62941 -2.65728 2.59599,
+]
+}
+IndexedFaceSet {
+ coordIndex[1,2,3,-1,]
+}
+IndexedFaceSet {
+ coordIndex[3,2,1,-1,]
+}
+Material  { 
+ diffuseColor 0.0000 0.0000 1.0000
+}
+Coordinate3 { 
+ point [2.62941 -2.65728 2.59599,
+1.60085 -4.26318 -0.01845,
+]
+}
+IndexedLineSet {
+ coordIndex[0,1,]
+}
+Material  { 
+ diffuseColor 1.0000 0.0000 0.0000
+}
+Coordinate3 { 
+ point [1.60085 -4.26318 -0.01845,
+2.62941 -2.65728 2.59599,
+0.00360 -3.08142 1.88680,
+]
+}
+IndexedLineSet {
+ coordIndex[0,1,2,]
+}
+Material  { 
+ diffuseColor 0.5098 0.0000 1.0000
+ ambientColor 0.0200 0.0200 0.0200
+ specularColor 0.1500 0.1500 0.1500
+
+}
+Coordinate3 { 
+ point [1.60085 -4.26318 -0.01845,
+1.31443 -3.75682 1.73673,
+2.62941 -2.65728 2.59599,
+1.60085 -4.26318 -0.01845,
+]
+}
+IndexedFaceSet {
+ coordIndex[1,2,3,-1,]
+}
+IndexedFaceSet {
+ coordIndex[3,2,1,-1,]
+}
+Material  { 
+ diffuseColor 1.0000 0.0000 0.0000
+ ambientColor 0.0200 0.0200 0.0200
+ specularColor 0.1500 0.1500 0.1500
+
+}
+Coordinate3 { 
+ point [2.62941 -2.65728 2.59599,
+1.31443 -3.75682 1.73673,
+0.00360 -3.08142 1.88680,
+2.62941 -2.65728 2.59599,
+]
+}
+IndexedFaceSet {
+ coordIndex[1,2,3,-1,]
+}
+IndexedFaceSet {
+ coordIndex[3,2,1,-1,]
+}
+Material  { 
+ diffuseColor 0.7137 0.7137 0.0000
+ ambientColor 0.0200 0.0200 0.0200
+ specularColor 0.1500 0.1500 0.1500
+
+}
+Coordinate3 { 
+ point [1.60085 -4.26318 -0.01845,
+1.31443 -3.75682 1.73673,
+0.00360 -3.08142 1.88680,
+1.60085 -4.26318 -0.01845,
+]
+}
+IndexedFaceSet {
+ coordIndex[1,2,3,-1,]
+}
+IndexedFaceSet {
+ coordIndex[3,2,1,-1,]
+}
+Material  { 
+ diffuseColor 0.0000 0.0000 1.0000
+}
+Coordinate3 { 
+ point [1.60085 -4.26318 -0.01845,
+2.62941 -2.65728 2.59599,
+]
+}
+IndexedLineSet {
+ coordIndex[0,1,]
+}
+Material  { 
+ diffuseColor 0.0000 0.0000 1.0000
+}
+Coordinate3 { 
+ point [2.06460 -2.61803 5.41774,
+2.06460 -2.61803 5.41774,
+]
+}
+IndexedLineSet {
+ coordIndex[0,1,]
+}
+Material  { 
+ diffuseColor 0.0000 0.0000 1.0000
+}
+Coordinate3 { 
+ point [2.06460 -2.61803 5.41774,
+2.06460 -2.61803 5.41774,
+]
+}
+IndexedLineSet {
+ coordIndex[0,1,]
+}
+Material  { 
+ diffuseColor 0.0000 0.0000 1.0000
+}
+Coordinate3 { 
+ point [2.06460 -2.61803 5.41774,
+2.06460 -2.61803 5.41774,
+]
+}
+IndexedLineSet {
+ coordIndex[0,1,]
+}
+Material  { 
+ diffuseColor 0.0000 0.0000 1.0000
+}
+Coordinate3 { 
+ point [2.06460 -2.61803 5.41774,
+2.06460 -2.61803 5.41774,
+]
+}
+IndexedLineSet {
+ coordIndex[0,1,]
+}
+Material  { 
+ diffuseColor 0.0000 0.0000 1.0000
+}
+Coordinate3 { 
+ point [2.06460 -2.61803 5.41774,
+2.06460 -2.61803 5.41774,
+]
+}
+IndexedLineSet {
+ coordIndex[0,1,]
+}
+Material  { 
+ diffuseColor 0.0000 0.0000 1.0000
+}
+Coordinate3 { 
+ point [2.06460 -2.61803 5.41774,
+2.06460 -2.61803 5.41774,
+]
+}
+IndexedLineSet {
+ coordIndex[0,1,]
+}
+Material  { 
+ diffuseColor 0.0000 0.0000 1.0000
+}
+Coordinate3 { 
+ point [2.06460 -2.61803 5.41774,
+2.06460 -2.61803 5.41774,
+]
+}
+IndexedLineSet {
+ coordIndex[0,1,]
+}
+Material  { 
+ diffuseColor 0.0000 0.0000 1.0000
+}
+Coordinate3 { 
+ point [2.06460 -2.61803 5.41774,
+2.06460 -2.61803 5.41774,
+]
+}
+IndexedLineSet {
+ coordIndex[0,1,]
+}
+Material  { 
+ diffuseColor 0.0000 0.0000 1.0000
+}
+Coordinate3 { 
+ point [2.06460 -2.61803 5.41774,
+2.06460 -2.61803 5.41774,
+]
+}
+IndexedLineSet {
+ coordIndex[0,1,]
+}
+Material  { 
+ diffuseColor 0.0000 0.0000 1.0000
+}
+Coordinate3 { 
+ point [2.06460 -2.61803 5.41774,
+2.06460 -2.61803 5.41774,
+]
+}
+IndexedLineSet {
+ coordIndex[0,1,]
+}
+Material  { 
+ diffuseColor 0.0000 0.0000 1.0000
+}
+Coordinate3 { 
+ point [2.06460 -2.61803 5.41774,
+2.06460 -2.61803 5.41774,
+]
+}
+IndexedLineSet {
+ coordIndex[0,1,]
+}
+Material  { 
+ diffuseColor 0.0000 0.0000 1.0000
+}
+Coordinate3 { 
+ point [2.06460 -2.61803 5.41774,
+2.06460 -2.61803 5.41774,
+]
+}
+IndexedLineSet {
+ coordIndex[0,1,]
+}
+Material  { 
+ diffuseColor 0.0000 0.0000 1.0000
+}
+Coordinate3 { 
+ point [2.06460 -2.61803 5.41774,
+2.06460 -2.61803 5.41774,
+]
+}
+IndexedLineSet {
+ coordIndex[0,1,]
+}
+Material  { 
+ diffuseColor 0.0000 0.0000 1.0000
+}
+Coordinate3 { 
+ point [2.06460 -2.61803 5.41774,
+2.06460 -2.61803 5.41774,
+]
+}
+IndexedLineSet {
+ coordIndex[0,1,]
+}
+Material  { 
+ diffuseColor 0.0000 0.0000 1.0000
+}
+Coordinate3 { 
+ point [2.06460 -2.61803 5.41774,
+2.06460 -2.61803 5.41774,
+]
+}
+IndexedLineSet {
+ coordIndex[0,1,]
+}
+Material  { 
+ diffuseColor 0.0000 0.0000 1.0000
+}
+Coordinate3 { 
+ point [2.06460 -2.61803 5.41774,
+2.06460 -2.61803 5.41774,
+]
+}
+IndexedLineSet {
+ coordIndex[0,1,]
+}
+Material  { 
+ diffuseColor 0.0000 0.0000 1.0000
+}
+Coordinate3 { 
+ point [2.06460 -2.61803 5.41774,
+2.06460 -2.61803 5.41774,
+]
+}
+IndexedLineSet {
+ coordIndex[0,1,]
+}
+Material  { 
+ diffuseColor 0.0000 0.0000 1.0000
+}
+Coordinate3 { 
+ point [2.06460 -2.61803 5.41774,
+2.06460 -2.61803 5.41774,
+]
+}
+IndexedLineSet {
+ coordIndex[0,1,]
+}
+Material  { 
+ diffuseColor 0.0000 0.0000 1.0000
+}
+Coordinate3 { 
+ point [2.06460 -2.61803 5.41774,
+2.06460 -2.61803 5.41774,
+]
+}
+IndexedLineSet {
+ coordIndex[0,1,]
+}
+Material  { 
+ diffuseColor 0.0000 0.0000 1.0000
+}
+Coordinate3 { 
+ point [2.06460 -2.61803 5.41774,
+2.06460 -2.61803 5.41774,
+]
+}
+IndexedLineSet {
+ coordIndex[0,1,]
+}
+Material  { 
+ diffuseColor 0.0000 0.0000 1.0000
+}
+Coordinate3 { 
+ point [2.06460 -2.61803 5.41774,
+2.06460 -2.61803 5.41774,
+]
+}
+IndexedLineSet {
+ coordIndex[0,1,]
+}
+Material  { 
+ diffuseColor 0.0000 0.0000 1.0000
+}
+Coordinate3 { 
+ point [2.06460 -2.61803 5.41774,
+2.06460 -2.61803 5.41774,
+]
+}
+IndexedLineSet {
+ coordIndex[0,1,]
+}
+Material  { 
+ diffuseColor 0.0000 0.0000 1.0000
+}
+Coordinate3 { 
+ point [2.06460 -2.61803 5.41774,
+2.06460 -2.61803 5.41774,
+]
+}
+IndexedLineSet {
+ coordIndex[0,1,]
+}
+Material  { 
+ diffuseColor 0.0000 0.0000 1.0000
+}
+Coordinate3 { 
+ point [2.06460 -2.61803 5.41774,
+2.06460 -2.61803 5.41774,
+]
+}
+IndexedLineSet {
+ coordIndex[0,1,]
+}
+Material  { 
+ diffuseColor 0.0000 0.0000 1.0000
+}
+Coordinate3 { 
+ point [2.06460 -2.61803 5.41774,
+2.06460 -2.61803 5.41774,
+]
+}
+IndexedLineSet {
+ coordIndex[0,1,]
+}
+Material  { 
+ diffuseColor 0.0000 0.0000 1.0000
+}
+Coordinate3 { 
+ point [2.06460 -2.61803 5.41774,
+2.06460 -2.61803 5.41774,
+]
+}
+IndexedLineSet {
+ coordIndex[0,1,]
+}
+Material  { 
+ diffuseColor 0.0000 0.0000 1.0000
+}
+Coordinate3 { 
+ point [2.06460 -2.61803 5.41774,
+2.06460 -2.61803 5.41774,
+]
+}
+IndexedLineSet {
+ coordIndex[0,1,]
+}
+Material  { 
+ diffuseColor 0.0000 0.0000 1.0000
+}
+Coordinate3 { 
+ point [2.06460 -2.61803 5.41774,
+2.06460 -2.61803 5.41774,
+]
+}
+IndexedLineSet {
+ coordIndex[0,1,]
+}
+Material  { 
+ diffuseColor 0.0000 0.0000 1.0000
+}
+Coordinate3 { 
+ point [2.06460 -2.61803 5.41774,
+2.06460 -2.61803 5.41774,
+]
+}
+IndexedLineSet {
+ coordIndex[0,1,]
+}
+Material  { 
+ diffuseColor 0.0000 0.0000 1.0000
+}
+Coordinate3 { 
+ point [2.06460 -2.61803 5.41774,
+2.06460 -2.61803 5.41774,
+]
+}
+IndexedLineSet {
+ coordIndex[0,1,]
+}
+Material  { 
+ diffuseColor 0.0000 0.0000 1.0000
+}
+Coordinate3 { 
+ point [-4.20595 -3.70436 -2.94764,
+-4.20595 -3.70436 -2.94764,
+]
+}
+IndexedLineSet {
+ coordIndex[0,1,]
+}
+Material  { 
+ diffuseColor 0.0000 0.0000 1.0000
+}
+Coordinate3 { 
+ point [-4.20595 -3.70436 -2.94764,
+-4.20595 -3.70436 -2.94764,
+]
+}
+IndexedLineSet {
+ coordIndex[0,1,]
+}
+Material  { 
+ diffuseColor 0.0000 0.0000 1.0000
+}
+Coordinate3 { 
+ point [-4.20595 -3.70436 -2.94764,
+-4.20595 -3.70436 -2.94764,
+]
+}
+IndexedLineSet {
+ coordIndex[0,1,]
+}
+Material  { 
+ diffuseColor 0.0000 0.0000 1.0000
+}
+Coordinate3 { 
+ point [-4.20595 -3.70436 -2.94764,
+-4.20595 -3.70436 -2.94764,
+]
+}
+IndexedLineSet {
+ coordIndex[0,1,]
+}
+Material  { 
+ diffuseColor 0.0000 0.0000 1.0000
+}
+Coordinate3 { 
+ point [-4.20595 -3.70436 -2.94764,
+-4.20595 -3.70436 -2.94764,
+]
+}
+IndexedLineSet {
+ coordIndex[0,1,]
+}
+Material  { 
+ diffuseColor 0.0000 0.0000 1.0000
+}
+Coordinate3 { 
+ point [-4.20595 -3.70436 -2.94764,
+-4.20595 -3.70436 -2.94764,
+]
+}
+IndexedLineSet {
+ coordIndex[0,1,]
+}
+Material  { 
+ diffuseColor 0.0000 0.0000 1.0000
+}
+Coordinate3 { 
+ point [-4.20595 -3.70436 -2.94764,
+-4.20595 -3.70436 -2.94764,
+]
+}
+IndexedLineSet {
+ coordIndex[0,1,]
+}
+Material  { 
+ diffuseColor 0.0000 0.0000 1.0000
+}
+Coordinate3 { 
+ point [-4.20595 -3.70436 -2.94764,
+-4.20595 -3.70436 -2.94764,
+]
+}
+IndexedLineSet {
+ coordIndex[0,1,]
+}
+Material  { 
+ diffuseColor 0.0000 0.0000 1.0000
+}
+Coordinate3 { 
+ point [-4.20595 -3.70436 -2.94764,
+-4.20595 -3.70436 -2.94764,
+]
+}
+IndexedLineSet {
+ coordIndex[0,1,]
+}
+Material  { 
+ diffuseColor 0.0000 0.0000 1.0000
+}
+Coordinate3 { 
+ point [-4.20595 -3.70436 -2.94764,
+-4.20595 -3.70436 -2.94764,
+]
+}
+IndexedLineSet {
+ coordIndex[0,1,]
+}
+Material  { 
+ diffuseColor 0.0000 0.0000 1.0000
+}
+Coordinate3 { 
+ point [-4.20595 -3.70436 -2.94764,
+-4.20595 -3.70436 -2.94764,
+]
+}
+IndexedLineSet {
+ coordIndex[0,1,]
+}
+Material  { 
+ diffuseColor 0.0000 0.0000 1.0000
+}
+Coordinate3 { 
+ point [-4.20595 -3.70436 -2.94764,
+-4.20595 -3.70436 -2.94764,
+]
+}
+IndexedLineSet {
+ coordIndex[0,1,]
+}
+Material  { 
+ diffuseColor 0.0000 0.0000 1.0000
+}
+Coordinate3 { 
+ point [-4.20595 -3.70436 -2.94764,
+-4.20595 -3.70436 -2.94764,
+]
+}
+IndexedLineSet {
+ coordIndex[0,1,]
+}
+Material  { 
+ diffuseColor 0.0000 0.0000 1.0000
+}
+Coordinate3 { 
+ point [-4.20595 -3.70436 -2.94764,
+-4.20595 -3.70436 -2.94764,
+]
+}
+IndexedLineSet {
+ coordIndex[0,1,]
+}
+Material  { 
+ diffuseColor 0.0000 0.0000 1.0000
+}
+Coordinate3 { 
+ point [-4.20595 -3.70436 -2.94764,
+-4.20595 -3.70436 -2.94764,
+]
+}
+IndexedLineSet {
+ coordIndex[0,1,]
+}
+Material  { 
+ diffuseColor 0.0000 0.0000 1.0000
+}
+Coordinate3 { 
+ point [-4.20595 -3.70436 -2.94764,
+-4.20595 -3.70436 -2.94764,
+]
+}
+IndexedLineSet {
+ coordIndex[0,1,]
+}
+Material  { 
+ diffuseColor 0.0000 0.0000 1.0000
+}
+Coordinate3 { 
+ point [-4.20595 -3.70436 -2.94764,
+-4.20595 -3.70436 -2.94764,
+]
+}
+IndexedLineSet {
+ coordIndex[0,1,]
+}
+Material  { 
+ diffuseColor 0.0000 0.0000 1.0000
+}
+Coordinate3 { 
+ point [-4.20595 -3.70436 -2.94764,
+-4.20595 -3.70436 -2.94764,
+]
+}
+IndexedLineSet {
+ coordIndex[0,1,]
+}
+Material  { 
+ diffuseColor 0.0000 0.0000 1.0000
+}
+Coordinate3 { 
+ point [-4.20595 -3.70436 -2.94764,
+-4.20595 -3.70436 -2.94764,
+]
+}
+IndexedLineSet {
+ coordIndex[0,1,]
+}
+Material  { 
+ diffuseColor 0.0000 0.0000 1.0000
+}
+Coordinate3 { 
+ point [-4.20595 -3.70436 -2.94764,
+-4.20595 -3.70436 -2.94764,
+]
+}
+IndexedLineSet {
+ coordIndex[0,1,]
+}
+Material  { 
+ diffuseColor 0.0000 0.0000 1.0000
+}
+Coordinate3 { 
+ point [-4.20595 -3.70436 -2.94764,
+-4.20595 -3.70436 -2.94764,
+]
+}
+IndexedLineSet {
+ coordIndex[0,1,]
+}
+Material  { 
+ diffuseColor 0.0000 0.0000 1.0000
+}
+Coordinate3 { 
+ point [-4.20595 -3.70436 -2.94764,
+-4.20595 -3.70436 -2.94764,
+]
+}
+IndexedLineSet {
+ coordIndex[0,1,]
+}
+Material  { 
+ diffuseColor 0.0000 0.0000 1.0000
+}
+Coordinate3 { 
+ point [-4.20595 -3.70436 -2.94764,
+-4.20595 -3.70436 -2.94764,
+]
+}
+IndexedLineSet {
+ coordIndex[0,1,]
+}
+Material  { 
+ diffuseColor 0.0000 0.0000 1.0000
+}
+Coordinate3 { 
+ point [-4.20595 -3.70436 -2.94764,
+-4.20595 -3.70436 -2.94764,
+]
+}
+IndexedLineSet {
+ coordIndex[0,1,]
+}
+Material  { 
+ diffuseColor 0.0000 0.0000 1.0000
+}
+Coordinate3 { 
+ point [-4.20595 -3.70436 -2.94764,
+-4.20595 -3.70436 -2.94764,
+]
+}
+IndexedLineSet {
+ coordIndex[0,1,]
+}
+Material  { 
+ diffuseColor 0.0000 0.0000 1.0000
+}
+Coordinate3 { 
+ point [-4.20595 -3.70436 -2.94764,
+-4.20595 -3.70436 -2.94764,
+]
+}
+IndexedLineSet {
+ coordIndex[0,1,]
+}
+Material  { 
+ diffuseColor 0.0000 0.0000 1.0000
+}
+Coordinate3 { 
+ point [-4.20595 -3.70436 -2.94764,
+-4.20595 -3.70436 -2.94764,
+]
+}
+IndexedLineSet {
+ coordIndex[0,1,]
+}
+Material  { 
+ diffuseColor 0.0000 0.0000 1.0000
+}
+Coordinate3 { 
+ point [-4.20595 -3.70436 -2.94764,
+-4.20595 -3.70436 -2.94764,
+]
+}
+IndexedLineSet {
+ coordIndex[0,1,]
+}
+Material  { 
+ diffuseColor 0.0000 0.0000 1.0000
+}
+Coordinate3 { 
+ point [-4.20595 -3.70436 -2.94764,
+-4.20595 -3.70436 -2.94764,
+]
+}
+IndexedLineSet {
+ coordIndex[0,1,]
+}
+Material  { 
+ diffuseColor 0.0000 0.0000 1.0000
+}
+Coordinate3 { 
+ point [-4.20595 -3.70436 -2.94764,
+-4.20595 -3.70436 -2.94764,
+]
+}
+IndexedLineSet {
+ coordIndex[0,1,]
+}
+Material  { 
+ diffuseColor 0.0000 0.0000 1.0000
+}
+Coordinate3 { 
+ point [-2.61962 -2.61542 -2.62226,
+-1.63505 -4.23592 0.00010,
+]
+}
+IndexedLineSet {
+ coordIndex[0,1,]
+}
+Material  { 
+ diffuseColor 0.0000 0.0000 1.0000
+}
+Coordinate3 { 
+ point [-2.61962 -2.61542 -2.62226,
+-4.23882 0.00457 -1.62931,
+]
+}
+IndexedLineSet {
+ coordIndex[0,1,]
+}
+Material  { 
+ diffuseColor 0.0000 0.0000 1.0000
+}
+Coordinate3 { 
+ point [-1.63505 -4.23592 0.00010,
+-2.64576 -2.61745 2.61375,
+]
+}
+IndexedLineSet {
+ coordIndex[0,1,]
+}
+Material  { 
+ diffuseColor 0.0000 0.0000 1.0000
+}
+Coordinate3 { 
+ point [-4.23882 0.00457 -1.62931,
+-4.25498 0.00332 1.60671,
+]
+}
+IndexedLineSet {
+ coordIndex[0,1,]
+}
+Material  { 
+ diffuseColor 0.0000 0.0000 1.0000
+}
+Coordinate3 { 
+ point [-2.64576 -2.61745 2.61375,
+-4.25498 0.00332 1.60671,
+]
+}
+IndexedLineSet {
+ coordIndex[0,1,]
+}
+Material  { 
+ diffuseColor 1.0000 0.0000 0.0000
+}
+Coordinate3 { 
+ point [-4.23882 0.00457 -1.62931,
+-2.61962 -2.61542 -2.62226,
+-3.07885 -1.89218 -0.00620,
+]
+}
+IndexedLineSet {
+ coordIndex[0,1,2,]
+}
+Material  { 
+ diffuseColor 1.0000 0.0000 0.0000
+}
+Coordinate3 { 
+ point [-2.61962 -2.61542 -2.62226,
+-1.63505 -4.23592 0.00010,
+-3.07885 -1.89218 -0.00620,
+]
+}
+IndexedLineSet {
+ coordIndex[0,1,2,]
+}
+Material  { 
+ diffuseColor 1.0000 0.0000 0.0000
+}
+Coordinate3 { 
+ point [-3.07885 -1.89218 -0.00620,
+-1.63505 -4.23592 0.00010,
+-2.64576 -2.61745 2.61375,
+]
+}
+IndexedLineSet {
+ coordIndex[0,1,2,]
+}
+Material  { 
+ diffuseColor 1.0000 0.0000 0.0000
+}
+Coordinate3 { 
+ point [-2.64576 -2.61745 2.61375,
+-3.07885 -1.89218 -0.00620,
+]
+}
+IndexedLineSet {
+ coordIndex[0,1,]
+}
+Material  { 
+ diffuseColor 1.0000 0.0000 0.0000
+}
+Coordinate3 { 
+ point [-3.07885 -1.89218 -0.00620,
+-2.64576 -2.61745 2.61375,
+-4.25498 0.00332 1.60671,
+-3.07885 -1.89218 -0.00620,
+]
+}
+IndexedLineSet {
+ coordIndex[0,1,2,3,]
+}
+Material  { 
+ diffuseColor 1.0000 0.0000 0.0000
+}
+Coordinate3 { 
+ point [-3.07885 -1.89218 -0.00620,
+-4.25498 0.00332 1.60671,
+-4.23882 0.00457 -1.62931,
+-3.07885 -1.89218 -0.00620,
+]
+}
+IndexedLineSet {
+ coordIndex[0,1,2,3,]
+}
+Material  { 
+ diffuseColor 0.5098 0.0000 1.0000
+ ambientColor 0.0200 0.0200 0.0200
+ specularColor 0.1500 0.1500 0.1500
+
+}
+Coordinate3 { 
+ point [-4.23882 0.00457 -1.62931,
+-3.73658 -1.74909 -1.32675,
+-2.61962 -2.61542 -2.62226,
+-4.23882 0.00457 -1.62931,
+]
+}
+IndexedFaceSet {
+ coordIndex[1,2,3,-1,]
+}
+IndexedFaceSet {
+ coordIndex[3,2,1,-1,]
+}
+Material  { 
+ diffuseColor 1.0000 0.0000 0.0000
+ ambientColor 0.0200 0.0200 0.0200
+ specularColor 0.1500 0.1500 0.1500
+
+}
+Coordinate3 { 
+ point [-2.61962 -2.61542 -2.62226,
+-3.73658 -1.74909 -1.32675,
+-3.07885 -1.89218 -0.00620,
+-2.61962 -2.61542 -2.62226,
+]
+}
+IndexedFaceSet {
+ coordIndex[1,2,3,-1,]
+}
+IndexedFaceSet {
+ coordIndex[3,2,1,-1,]
+}
+Material  { 
+ diffuseColor 0.7137 0.7137 0.0000
+ ambientColor 0.0200 0.0200 0.0200
+ specularColor 0.1500 0.1500 0.1500
+
+}
+Coordinate3 { 
+ point [-4.23882 0.00457 -1.62931,
+-3.73658 -1.74909 -1.32675,
+-3.07885 -1.89218 -0.00620,
+-4.23882 0.00457 -1.62931,
+]
+}
+IndexedFaceSet {
+ coordIndex[1,2,3,-1,]
+}
+IndexedFaceSet {
+ coordIndex[3,2,1,-1,]
+}
+Material  { 
+ diffuseColor 0.0000 0.0000 1.0000
+}
+Coordinate3 { 
+ point [-1.63505 -4.23592 0.00010,
+-2.61962 -2.61542 -2.62226,
+]
+}
+IndexedLineSet {
+ coordIndex[0,1,]
+}
+Material  { 
+ diffuseColor 1.0000 0.0000 0.0000
+}
+Coordinate3 { 
+ point [-2.61962 -2.61542 -2.62226,
+-1.63505 -4.23592 0.00010,
+-3.07885 -1.89218 -0.00620,
+]
+}
+IndexedLineSet {
+ coordIndex[0,1,2,]
+}
+Material  { 
+ diffuseColor 0.5098 0.0000 1.0000
+ ambientColor 0.0200 0.0200 0.0200
+ specularColor 0.1500 0.1500 0.1500
+
+}
+Coordinate3 { 
+ point [-2.61962 -2.61542 -2.62226,
+-2.91153 -3.09235 -0.85975,
+-1.63505 -4.23592 0.00010,
+-2.61962 -2.61542 -2.62226,
+]
+}
+IndexedFaceSet {
+ coordIndex[1,2,3,-1,]
+}
+IndexedFaceSet {
+ coordIndex[3,2,1,-1,]
+}
+Material  { 
+ diffuseColor 1.0000 0.0000 0.0000
+ ambientColor 0.0200 0.0200 0.0200
+ specularColor 0.1500 0.1500 0.1500
+
+}
+Coordinate3 { 
+ point [-1.63505 -4.23592 0.00010,
+-2.91153 -3.09235 -0.85975,
+-3.07885 -1.89218 -0.00620,
+-1.63505 -4.23592 0.00010,
+]
+}
+IndexedFaceSet {
+ coordIndex[1,2,3,-1,]
+}
+IndexedFaceSet {
+ coordIndex[3,2,1,-1,]
+}
+Material  { 
+ diffuseColor 0.7137 0.7137 0.0000
+ ambientColor 0.0200 0.0200 0.0200
+ specularColor 0.1500 0.1500 0.1500
+
+}
+Coordinate3 { 
+ point [-2.61962 -2.61542 -2.62226,
+-2.91153 -3.09235 -0.85975,
+-3.07885 -1.89218 -0.00620,
+-2.61962 -2.61542 -2.62226,
+]
+}
+IndexedFaceSet {
+ coordIndex[1,2,3,-1,]
+}
+IndexedFaceSet {
+ coordIndex[3,2,1,-1,]
+}
+Material  { 
+ diffuseColor 0.0000 0.0000 1.0000
+}
+Coordinate3 { 
+ point [-4.23882 0.00457 -1.62931,
+-4.25498 0.00332 1.60671,
+]
+}
+IndexedLineSet {
+ coordIndex[0,1,]
+}
+Material  { 
+ diffuseColor 1.0000 0.0000 0.0000
+}
+Coordinate3 { 
+ point [-4.25498 0.00332 1.60671,
+-4.23882 0.00457 -1.62931,
+-3.07885 -1.89218 -0.00620,
+]
+}
+IndexedLineSet {
+ coordIndex[0,1,2,]
+}
+Material  { 
+ diffuseColor 0.5098 0.0000 1.0000
+ ambientColor 0.0200 0.0200 0.0200
+ specularColor 0.1500 0.1500 0.1500
+
+}
+Coordinate3 { 
+ point [-4.25498 0.00332 1.60671,
+-4.23018 -0.95934 0.02818,
+-4.23882 0.00457 -1.62931,
+-4.25498 0.00332 1.60671,
+]
+}
+IndexedFaceSet {
+ coordIndex[1,2,3,-1,]
+}
+IndexedFaceSet {
+ coordIndex[3,2,1,-1,]
+}
+Material  { 
+ diffuseColor 1.0000 0.0000 0.0000
+ ambientColor 0.0200 0.0200 0.0200
+ specularColor 0.1500 0.1500 0.1500
+
+}
+Coordinate3 { 
+ point [-4.23882 0.00457 -1.62931,
+-4.23018 -0.95934 0.02818,
+-3.07885 -1.89218 -0.00620,
+-4.23882 0.00457 -1.62931,
+]
+}
+IndexedFaceSet {
+ coordIndex[1,2,3,-1,]
+}
+IndexedFaceSet {
+ coordIndex[3,2,1,-1,]
+}
+Material  { 
+ diffuseColor 0.7137 0.7137 0.0000
+ ambientColor 0.0200 0.0200 0.0200
+ specularColor 0.1500 0.1500 0.1500
+
+}
+Coordinate3 { 
+ point [-4.25498 0.00332 1.60671,
+-4.23018 -0.95934 0.02818,
+-3.07885 -1.89218 -0.00620,
+-4.25498 0.00332 1.60671,
+]
+}
+IndexedFaceSet {
+ coordIndex[1,2,3,-1,]
+}
+IndexedFaceSet {
+ coordIndex[3,2,1,-1,]
+}
+Material  { 
+ diffuseColor 0.0000 0.0000 1.0000
+}
+Coordinate3 { 
+ point [-4.25498 0.00332 1.60671,
+-2.64576 -2.61745 2.61375,
+]
+}
+IndexedLineSet {
+ coordIndex[0,1,]
+}
+Material  { 
+ diffuseColor 1.0000 0.0000 0.0000
+}
+Coordinate3 { 
+ point [-2.64576 -2.61745 2.61375,
+-4.25498 0.00332 1.60671,
+-3.07885 -1.89218 -0.00620,
+]
+}
+IndexedLineSet {
+ coordIndex[0,1,2,]
+}
+Material  { 
+ diffuseColor 0.5098 0.0000 1.0000
+ ambientColor 0.0200 0.0200 0.0200
+ specularColor 0.1500 0.1500 0.1500
+
+}
+Coordinate3 { 
+ point [-2.64576 -2.61745 2.61375,
+-3.71019 -1.81452 1.33257,
+-4.25498 0.00332 1.60671,
+-2.64576 -2.61745 2.61375,
+]
+}
+IndexedFaceSet {
+ coordIndex[1,2,3,-1,]
+}
+IndexedFaceSet {
+ coordIndex[3,2,1,-1,]
+}
+Material  { 
+ diffuseColor 1.0000 0.0000 0.0000
+ ambientColor 0.0200 0.0200 0.0200
+ specularColor 0.1500 0.1500 0.1500
+
+}
+Coordinate3 { 
+ point [-4.25498 0.00332 1.60671,
+-3.71019 -1.81452 1.33257,
+-3.07885 -1.89218 -0.00620,
+-4.25498 0.00332 1.60671,
+]
+}
+IndexedFaceSet {
+ coordIndex[1,2,3,-1,]
+}
+IndexedFaceSet {
+ coordIndex[3,2,1,-1,]
+}
+Material  { 
+ diffuseColor 0.7137 0.7137 0.0000
+ ambientColor 0.0200 0.0200 0.0200
+ specularColor 0.1500 0.1500 0.1500
+
+}
+Coordinate3 { 
+ point [-2.64576 -2.61745 2.61375,
+-3.71019 -1.81452 1.33257,
+-3.07885 -1.89218 -0.00620,
+-2.64576 -2.61745 2.61375,
+]
+}
+IndexedFaceSet {
+ coordIndex[1,2,3,-1,]
+}
+IndexedFaceSet {
+ coordIndex[3,2,1,-1,]
+}
+Material  { 
+ diffuseColor 0.0000 0.0000 1.0000
+}
+Coordinate3 { 
+ point [-2.64576 -2.61745 2.61375,
+-1.63505 -4.23592 0.00010,
+]
+}
+IndexedLineSet {
+ coordIndex[0,1,]
+}
+Material  { 
+ diffuseColor 1.0000 0.0000 0.0000
+}
+Coordinate3 { 
+ point [-1.63505 -4.23592 0.00010,
+-2.64576 -2.61745 2.61375,
+-3.07885 -1.89218 -0.00620,
+]
+}
+IndexedLineSet {
+ coordIndex[0,1,2,]
+}
+Material  { 
+ diffuseColor 0.5098 0.0000 1.0000
+ ambientColor 0.0200 0.0200 0.0200
+ specularColor 0.1500 0.1500 0.1500
+
+}
+Coordinate3 { 
+ point [-1.63505 -4.23592 0.00010,
+-2.89521 -3.13279 0.78380,
+-2.64576 -2.61745 2.61375,
+-1.63505 -4.23592 0.00010,
+]
+}
+IndexedFaceSet {
+ coordIndex[1,2,3,-1,]
+}
+IndexedFaceSet {
+ coordIndex[3,2,1,-1,]
+}
+Material  { 
+ diffuseColor 1.0000 0.0000 0.0000
+ ambientColor 0.0200 0.0200 0.0200
+ specularColor 0.1500 0.1500 0.1500
+
+}
+Coordinate3 { 
+ point [-2.64576 -2.61745 2.61375,
+-2.89521 -3.13279 0.78380,
+-3.07885 -1.89218 -0.00620,
+-2.64576 -2.61745 2.61375,
+]
+}
+IndexedFaceSet {
+ coordIndex[1,2,3,-1,]
+}
+IndexedFaceSet {
+ coordIndex[3,2,1,-1,]
+}
+Material  { 
+ diffuseColor 0.7137 0.7137 0.0000
+ ambientColor 0.0200 0.0200 0.0200
+ specularColor 0.1500 0.1500 0.1500
+
+}
+Coordinate3 { 
+ point [-1.63505 -4.23592 0.00010,
+-2.89521 -3.13279 0.78380,
+-3.07885 -1.89218 -0.00620,
+-1.63505 -4.23592 0.00010,
+]
+}
+IndexedFaceSet {
+ coordIndex[1,2,3,-1,]
+}
+IndexedFaceSet {
+ coordIndex[3,2,1,-1,]
+}
+Material  { 
+ diffuseColor 0.0000 0.0000 1.0000
+}
+Coordinate3 { 
+ point [-1.63505 -4.23592 0.00010,
+-2.64576 -2.61745 2.61375,
+]
+}
+IndexedLineSet {
+ coordIndex[0,1,]
+}
+Material  { 
+ diffuseColor 0.0000 0.0000 1.0000
+}
+Coordinate3 { 
+ point [-3.72274 -2.91442 4.19540,
+-3.72274 -2.91442 4.19540,
+]
+}
+IndexedLineSet {
+ coordIndex[0,1,]
+}
+Material  { 
+ diffuseColor 0.0000 0.0000 1.0000
+}
+Coordinate3 { 
+ point [-3.72274 -2.91442 4.19540,
+-3.72274 -2.91442 4.19540,
+]
+}
+IndexedLineSet {
+ coordIndex[0,1,]
+}
+Material  { 
+ diffuseColor 0.0000 0.0000 1.0000
+}
+Coordinate3 { 
+ point [-3.72274 -2.91442 4.19540,
+-3.72274 -2.91442 4.19540,
+]
+}
+IndexedLineSet {
+ coordIndex[0,1,]
+}
+Material  { 
+ diffuseColor 0.0000 0.0000 1.0000
+}
+Coordinate3 { 
+ point [-3.72274 -2.91442 4.19540,
+-3.72274 -2.91442 4.19540,
+]
+}
+IndexedLineSet {
+ coordIndex[0,1,]
+}
+Material  { 
+ diffuseColor 0.0000 0.0000 1.0000
+}
+Coordinate3 { 
+ point [-3.72274 -2.91442 4.19540,
+-3.72274 -2.91442 4.19540,
+]
+}
+IndexedLineSet {
+ coordIndex[0,1,]
+}
+Material  { 
+ diffuseColor 0.0000 0.0000 1.0000
+}
+Coordinate3 { 
+ point [-3.72274 -2.91442 4.19540,
+-3.72274 -2.91442 4.19540,
+]
+}
+IndexedLineSet {
+ coordIndex[0,1,]
+}
+Material  { 
+ diffuseColor 0.0000 0.0000 1.0000
+}
+Coordinate3 { 
+ point [-3.72274 -2.91442 4.19540,
+-3.72274 -2.91442 4.19540,
+]
+}
+IndexedLineSet {
+ coordIndex[0,1,]
+}
+Material  { 
+ diffuseColor 0.0000 0.0000 1.0000
+}
+Coordinate3 { 
+ point [-3.72274 -2.91442 4.19540,
+-3.72274 -2.91442 4.19540,
+]
+}
+IndexedLineSet {
+ coordIndex[0,1,]
+}
+Material  { 
+ diffuseColor 0.0000 0.0000 1.0000
+}
+Coordinate3 { 
+ point [-3.72274 -2.91442 4.19540,
+-3.72274 -2.91442 4.19540,
+]
+}
+IndexedLineSet {
+ coordIndex[0,1,]
+}
+Material  { 
+ diffuseColor 0.0000 0.0000 1.0000
+}
+Coordinate3 { 
+ point [-3.72274 -2.91442 4.19540,
+-3.72274 -2.91442 4.19540,
+]
+}
+IndexedLineSet {
+ coordIndex[0,1,]
+}
+Material  { 
+ diffuseColor 0.0000 0.0000 1.0000
+}
+Coordinate3 { 
+ point [-3.72274 -2.91442 4.19540,
+-3.72274 -2.91442 4.19540,
+]
+}
+IndexedLineSet {
+ coordIndex[0,1,]
+}
+Material  { 
+ diffuseColor 0.0000 0.0000 1.0000
+}
+Coordinate3 { 
+ point [-3.72274 -2.91442 4.19540,
+-3.72274 -2.91442 4.19540,
+]
+}
+IndexedLineSet {
+ coordIndex[0,1,]
+}
+Material  { 
+ diffuseColor 0.0000 0.0000 1.0000
+}
+Coordinate3 { 
+ point [-3.72274 -2.91442 4.19540,
+-3.72274 -2.91442 4.19540,
+]
+}
+IndexedLineSet {
+ coordIndex[0,1,]
+}
+Material  { 
+ diffuseColor 0.0000 0.0000 1.0000
+}
+Coordinate3 { 
+ point [-3.72274 -2.91442 4.19540,
+-3.72274 -2.91442 4.19540,
+]
+}
+IndexedLineSet {
+ coordIndex[0,1,]
+}
+Material  { 
+ diffuseColor 0.0000 0.0000 1.0000
+}
+Coordinate3 { 
+ point [-3.72274 -2.91442 4.19540,
+-3.72274 -2.91442 4.19540,
+]
+}
+IndexedLineSet {
+ coordIndex[0,1,]
+}
+Material  { 
+ diffuseColor 0.0000 0.0000 1.0000
+}
+Coordinate3 { 
+ point [-3.72274 -2.91442 4.19540,
+-3.72274 -2.91442 4.19540,
+]
+}
+IndexedLineSet {
+ coordIndex[0,1,]
+}
+Material  { 
+ diffuseColor 0.0000 0.0000 1.0000
+}
+Coordinate3 { 
+ point [-3.72274 -2.91442 4.19540,
+-3.72274 -2.91442 4.19540,
+]
+}
+IndexedLineSet {
+ coordIndex[0,1,]
+}
+Material  { 
+ diffuseColor 0.0000 0.0000 1.0000
+}
+Coordinate3 { 
+ point [-3.72274 -2.91442 4.19540,
+-3.72274 -2.91442 4.19540,
+]
+}
+IndexedLineSet {
+ coordIndex[0,1,]
+}
+Material  { 
+ diffuseColor 0.0000 0.0000 1.0000
+}
+Coordinate3 { 
+ point [-3.72274 -2.91442 4.19540,
+-3.72274 -2.91442 4.19540,
+]
+}
+IndexedLineSet {
+ coordIndex[0,1,]
+}
+Material  { 
+ diffuseColor 0.0000 0.0000 1.0000
+}
+Coordinate3 { 
+ point [-3.72274 -2.91442 4.19540,
+-3.72274 -2.91442 4.19540,
+]
+}
+IndexedLineSet {
+ coordIndex[0,1,]
+}
+Material  { 
+ diffuseColor 0.0000 0.0000 1.0000
+}
+Coordinate3 { 
+ point [-3.72274 -2.91442 4.19540,
+-3.72274 -2.91442 4.19540,
+]
+}
+IndexedLineSet {
+ coordIndex[0,1,]
+}
+Material  { 
+ diffuseColor 0.0000 0.0000 1.0000
+}
+Coordinate3 { 
+ point [-3.72274 -2.91442 4.19540,
+-3.72274 -2.91442 4.19540,
+]
+}
+IndexedLineSet {
+ coordIndex[0,1,]
+}
+Material  { 
+ diffuseColor 0.0000 0.0000 1.0000
+}
+Coordinate3 { 
+ point [-3.72274 -2.91442 4.19540,
+-3.72274 -2.91442 4.19540,
+]
+}
+IndexedLineSet {
+ coordIndex[0,1,]
+}
+Material  { 
+ diffuseColor 0.0000 0.0000 1.0000
+}
+Coordinate3 { 
+ point [-3.72274 -2.91442 4.19540,
+-3.72274 -2.91442 4.19540,
+]
+}
+IndexedLineSet {
+ coordIndex[0,1,]
+}
+Material  { 
+ diffuseColor 0.0000 0.0000 1.0000
+}
+Coordinate3 { 
+ point [-3.72274 -2.91442 4.19540,
+-3.72274 -2.91442 4.19540,
+]
+}
+IndexedLineSet {
+ coordIndex[0,1,]
+}
+Material  { 
+ diffuseColor 0.0000 0.0000 1.0000
+}
+Coordinate3 { 
+ point [-3.72274 -2.91442 4.19540,
+-3.72274 -2.91442 4.19540,
+]
+}
+IndexedLineSet {
+ coordIndex[0,1,]
+}
+Material  { 
+ diffuseColor 0.0000 0.0000 1.0000
+}
+Coordinate3 { 
+ point [-3.72274 -2.91442 4.19540,
+-3.72274 -2.91442 4.19540,
+]
+}
+IndexedLineSet {
+ coordIndex[0,1,]
+}
+Material  { 
+ diffuseColor 0.0000 0.0000 1.0000
+}
+Coordinate3 { 
+ point [-3.72274 -2.91442 4.19540,
+-3.72274 -2.91442 4.19540,
+]
+}
+IndexedLineSet {
+ coordIndex[0,1,]
+}
+Material  { 
+ diffuseColor 0.0000 0.0000 1.0000
+}
+Coordinate3 { 
+ point [-3.72274 -2.91442 4.19540,
+-3.72274 -2.91442 4.19540,
+]
+}
+IndexedLineSet {
+ coordIndex[0,1,]
+}
+Material  { 
+ diffuseColor 0.0000 0.0000 1.0000
+}
+Coordinate3 { 
+ point [-3.72274 -2.91442 4.19540,
+-3.72274 -2.91442 4.19540,
+]
+}
+IndexedLineSet {
+ coordIndex[0,1,]
+}
+Material  { 
+ diffuseColor 0.0000 0.0000 1.0000
+}
+Coordinate3 { 
+ point [-2.61935 -2.59786 2.61728,
+0.00000 -1.60263 4.23611,
+]
+}
+IndexedLineSet {
+ coordIndex[0,1,]
+}
+Material  { 
+ diffuseColor 0.0000 0.0000 1.0000
+}
+Coordinate3 { 
+ point [-2.61935 -2.59786 2.61728,
+-4.23815 0.02310 1.62623,
+]
+}
+IndexedLineSet {
+ coordIndex[0,1,]
+}
+Material  { 
+ diffuseColor 0.0000 0.0000 1.0000
+}
+Coordinate3 { 
+ point [0.00000 -1.60263 4.23611,
+0.00005 1.63343 4.24556,
+]
+}
+IndexedLineSet {
+ coordIndex[0,1,]
+}
+Material  { 
+ diffuseColor 0.0000 0.0000 1.0000
+}
+Coordinate3 { 
+ point [-4.23815 0.02310 1.62623,
+-2.61927 2.63818 2.63257,
+]
+}
+IndexedLineSet {
+ coordIndex[0,1,]
+}
+Material  { 
+ diffuseColor 0.0000 0.0000 1.0000
+}
+Coordinate3 { 
+ point [0.00005 1.63343 4.24556,
+-2.61927 2.63818 2.63257,
+]
+}
+IndexedLineSet {
+ coordIndex[0,1,]
+}
+Material  { 
+ diffuseColor 1.0000 0.0000 0.0000
+}
+Coordinate3 { 
+ point [-4.23815 0.02310 1.62623,
+-2.61935 -2.59786 2.61728,
+-1.89535 0.01884 3.07155,
+]
+}
+IndexedLineSet {
+ coordIndex[0,1,2,]
+}
+Material  { 
+ diffuseColor 1.0000 0.0000 0.0000
+}
+Coordinate3 { 
+ point [-2.61935 -2.59786 2.61728,
+0.00000 -1.60263 4.23611,
+-1.89535 0.01884 3.07155,
+]
+}
+IndexedLineSet {
+ coordIndex[0,1,2,]
+}
+Material  { 
+ diffuseColor 1.0000 0.0000 0.0000
+}
+Coordinate3 { 
+ point [-1.89535 0.01884 3.07155,
+0.00000 -1.60263 4.23611,
+0.00005 1.63343 4.24556,
+]
+}
+IndexedLineSet {
+ coordIndex[0,1,2,]
+}
+Material  { 
+ diffuseColor 1.0000 0.0000 0.0000
+}
+Coordinate3 { 
+ point [0.00005 1.63343 4.24556,
+-1.89535 0.01884 3.07155,
+]
+}
+IndexedLineSet {
+ coordIndex[0,1,]
+}
+Material  { 
+ diffuseColor 1.0000 0.0000 0.0000
+}
+Coordinate3 { 
+ point [-1.89535 0.01884 3.07155,
+0.00005 1.63343 4.24556,
+-2.61927 2.63818 2.63257,
+-1.89535 0.01884 3.07155,
+]
+}
+IndexedLineSet {
+ coordIndex[0,1,2,3,]
+}
+Material  { 
+ diffuseColor 1.0000 0.0000 0.0000
+}
+Coordinate3 { 
+ point [-1.89535 0.01884 3.07155,
+-2.61927 2.63818 2.63257,
+-4.23815 0.02310 1.62623,
+-1.89535 0.01884 3.07155,
+]
+}
+IndexedLineSet {
+ coordIndex[0,1,2,3,]
+}
+Material  { 
+ diffuseColor 0.5098 0.0000 1.0000
+ ambientColor 0.0200 0.0200 0.0200
+ specularColor 0.1500 0.1500 0.1500
+
+}
+Coordinate3 { 
+ point [-4.23815 0.02310 1.62623,
+-3.13553 -0.77015 2.88087,
+-2.61935 -2.59786 2.61728,
+-4.23815 0.02310 1.62623,
+]
+}
+IndexedFaceSet {
+ coordIndex[1,2,3,-1,]
+}
+IndexedFaceSet {
+ coordIndex[3,2,1,-1,]
+}
+Material  { 
+ diffuseColor 1.0000 0.0000 0.0000
+ ambientColor 0.0200 0.0200 0.0200
+ specularColor 0.1500 0.1500 0.1500
+
+}
+Coordinate3 { 
+ point [-2.61935 -2.59786 2.61728,
+-3.13553 -0.77015 2.88087,
+-1.89535 0.01884 3.07155,
+-2.61935 -2.59786 2.61728,
+]
+}
+IndexedFaceSet {
+ coordIndex[1,2,3,-1,]
+}
+IndexedFaceSet {
+ coordIndex[3,2,1,-1,]
+}
+Material  { 
+ diffuseColor 0.7137 0.7137 0.0000
+ ambientColor 0.0200 0.0200 0.0200
+ specularColor 0.1500 0.1500 0.1500
+
+}
+Coordinate3 { 
+ point [-4.23815 0.02310 1.62623,
+-3.13553 -0.77015 2.88087,
+-1.89535 0.01884 3.07155,
+-4.23815 0.02310 1.62623,
+]
+}
+IndexedFaceSet {
+ coordIndex[1,2,3,-1,]
+}
+IndexedFaceSet {
+ coordIndex[3,2,1,-1,]
+}
+Material  { 
+ diffuseColor 0.0000 0.0000 1.0000
+}
+Coordinate3 { 
+ point [0.00000 -1.60263 4.23611,
+-2.61935 -2.59786 2.61728,
+]
+}
+IndexedLineSet {
+ coordIndex[0,1,]
+}
+Material  { 
+ diffuseColor 1.0000 0.0000 0.0000
+}
+Coordinate3 { 
+ point [-2.61935 -2.59786 2.61728,
+0.00000 -1.60263 4.23611,
+-1.89535 0.01884 3.07155,
+]
+}
+IndexedLineSet {
+ coordIndex[0,1,2,]
+}
+Material  { 
+ diffuseColor 0.5098 0.0000 1.0000
+ ambientColor 0.0200 0.0200 0.0200
+ specularColor 0.1500 0.1500 0.1500
+
+}
+Coordinate3 { 
+ point [-2.61935 -2.59786 2.61728,
+-1.81758 -1.32486 3.69232,
+0.00000 -1.60263 4.23611,
+-2.61935 -2.59786 2.61728,
+]
+}
+IndexedFaceSet {
+ coordIndex[1,2,3,-1,]
+}
+IndexedFaceSet {
+ coordIndex[3,2,1,-1,]
+}
+Material  { 
+ diffuseColor 1.0000 0.0000 0.0000
+ ambientColor 0.0200 0.0200 0.0200
+ specularColor 0.1500 0.1500 0.1500
+
+}
+Coordinate3 { 
+ point [0.00000 -1.60263 4.23611,
+-1.81758 -1.32486 3.69232,
+-1.89535 0.01884 3.07155,
+0.00000 -1.60263 4.23611,
+]
+}
+IndexedFaceSet {
+ coordIndex[1,2,3,-1,]
+}
+IndexedFaceSet {
+ coordIndex[3,2,1,-1,]
+}
+Material  { 
+ diffuseColor 0.7137 0.7137 0.0000
+ ambientColor 0.0200 0.0200 0.0200
+ specularColor 0.1500 0.1500 0.1500
+
+}
+Coordinate3 { 
+ point [-2.61935 -2.59786 2.61728,
+-1.81758 -1.32486 3.69232,
+-1.89535 0.01884 3.07155,
+-2.61935 -2.59786 2.61728,
+]
+}
+IndexedFaceSet {
+ coordIndex[1,2,3,-1,]
+}
+IndexedFaceSet {
+ coordIndex[3,2,1,-1,]
+}
+Material  { 
+ diffuseColor 0.0000 0.0000 1.0000
+}
+Coordinate3 { 
+ point [-4.23815 0.02310 1.62623,
+-2.61927 2.63818 2.63257,
+]
+}
+IndexedLineSet {
+ coordIndex[0,1,]
+}
+Material  { 
+ diffuseColor 1.0000 0.0000 0.0000
+}
+Coordinate3 { 
+ point [-2.61927 2.63818 2.63257,
+-4.23815 0.02310 1.62623,
+-1.89535 0.01884 3.07155,
+]
+}
+IndexedLineSet {
+ coordIndex[0,1,2,]
+}
+Material  { 
+ diffuseColor 0.5098 0.0000 1.0000
+ ambientColor 0.0200 0.0200 0.0200
+ specularColor 0.1500 0.1500 0.1500
+
+}
+Coordinate3 { 
+ point [-2.61927 2.63818 2.63257,
+-3.09572 0.87324 2.91021,
+-4.23815 0.02310 1.62623,
+-2.61927 2.63818 2.63257,
+]
+}
+IndexedFaceSet {
+ coordIndex[1,2,3,-1,]
+}
+IndexedFaceSet {
+ coordIndex[3,2,1,-1,]
+}
+Material  { 
+ diffuseColor 1.0000 0.0000 0.0000
+ ambientColor 0.0200 0.0200 0.0200
+ specularColor 0.1500 0.1500 0.1500
+
+}
+Coordinate3 { 
+ point [-4.23815 0.02310 1.62623,
+-3.09572 0.87324 2.91021,
+-1.89535 0.01884 3.07155,
+-4.23815 0.02310 1.62623,
+]
+}
+IndexedFaceSet {
+ coordIndex[1,2,3,-1,]
+}
+IndexedFaceSet {
+ coordIndex[3,2,1,-1,]
+}
+Material  { 
+ diffuseColor 0.7137 0.7137 0.0000
+ ambientColor 0.0200 0.0200 0.0200
+ specularColor 0.1500 0.1500 0.1500
+
+}
+Coordinate3 { 
+ point [-2.61927 2.63818 2.63257,
+-3.09572 0.87324 2.91021,
+-1.89535 0.01884 3.07155,
+-2.61927 2.63818 2.63257,
+]
+}
+IndexedFaceSet {
+ coordIndex[1,2,3,-1,]
+}
+IndexedFaceSet {
+ coordIndex[3,2,1,-1,]
+}
+Material  { 
+ diffuseColor 0.0000 0.0000 1.0000
+}
+Coordinate3 { 
+ point [-2.61927 2.63818 2.63257,
+0.00005 1.63343 4.24556,
+]
+}
+IndexedLineSet {
+ coordIndex[0,1,]
+}
+Material  { 
+ diffuseColor 1.0000 0.0000 0.0000
+}
+Coordinate3 { 
+ point [0.00005 1.63343 4.24556,
+-2.61927 2.63818 2.63257,
+-1.89535 0.01884 3.07155,
+]
+}
+IndexedLineSet {
+ coordIndex[0,1,2,]
+}
+Material  { 
+ diffuseColor 0.5098 0.0000 1.0000
+ ambientColor 0.0200 0.0200 0.0200
+ specularColor 0.1500 0.1500 0.1500
+
+}
+Coordinate3 { 
+ point [0.00005 1.63343 4.24556,
+-1.75317 1.33420 3.73980,
+-2.61927 2.63818 2.63257,
+0.00005 1.63343 4.24556,
+]
+}
+IndexedFaceSet {
+ coordIndex[1,2,3,-1,]
+}
+IndexedFaceSet {
+ coordIndex[3,2,1,-1,]
+}
+Material  { 
+ diffuseColor 1.0000 0.0000 0.0000
+ ambientColor 0.0200 0.0200 0.0200
+ specularColor 0.1500 0.1500 0.1500
+
+}
+Coordinate3 { 
+ point [-2.61927 2.63818 2.63257,
+-1.75317 1.33420 3.73980,
+-1.89535 0.01884 3.07155,
+-2.61927 2.63818 2.63257,
+]
+}
+IndexedFaceSet {
+ coordIndex[1,2,3,-1,]
+}
+IndexedFaceSet {
+ coordIndex[3,2,1,-1,]
+}
+Material  { 
+ diffuseColor 0.7137 0.7137 0.0000
+ ambientColor 0.0200 0.0200 0.0200
+ specularColor 0.1500 0.1500 0.1500
+
+}
+Coordinate3 { 
+ point [0.00005 1.63343 4.24556,
+-1.75317 1.33420 3.73980,
+-1.89535 0.01884 3.07155,
+0.00005 1.63343 4.24556,
+]
+}
+IndexedFaceSet {
+ coordIndex[1,2,3,-1,]
+}
+IndexedFaceSet {
+ coordIndex[3,2,1,-1,]
+}
+Material  { 
+ diffuseColor 0.0000 0.0000 1.0000
+}
+Coordinate3 { 
+ point [0.00005 1.63343 4.24556,
+0.00000 -1.60263 4.23611,
+]
+}
+IndexedLineSet {
+ coordIndex[0,1,]
+}
+Material  { 
+ diffuseColor 1.0000 0.0000 0.0000
+}
+Coordinate3 { 
+ point [0.00000 -1.60263 4.23611,
+0.00005 1.63343 4.24556,
+-1.89535 0.01884 3.07155,
+]
+}
+IndexedLineSet {
+ coordIndex[0,1,2,]
+}
+Material  { 
+ diffuseColor 0.5098 0.0000 1.0000
+ ambientColor 0.0200 0.0200 0.0200
+ specularColor 0.1500 0.1500 0.1500
+
+}
+Coordinate3 { 
+ point [0.00000 -1.60263 4.23611,
+-0.96323 -0.02430 4.22318,
+0.00005 1.63343 4.24556,
+0.00000 -1.60263 4.23611,
+]
+}
+IndexedFaceSet {
+ coordIndex[1,2,3,-1,]
+}
+IndexedFaceSet {
+ coordIndex[3,2,1,-1,]
+}
+Material  { 
+ diffuseColor 1.0000 0.0000 0.0000
+ ambientColor 0.0200 0.0200 0.0200
+ specularColor 0.1500 0.1500 0.1500
+
+}
+Coordinate3 { 
+ point [0.00005 1.63343 4.24556,
+-0.96323 -0.02430 4.22318,
+-1.89535 0.01884 3.07155,
+0.00005 1.63343 4.24556,
+]
+}
+IndexedFaceSet {
+ coordIndex[1,2,3,-1,]
+}
+IndexedFaceSet {
+ coordIndex[3,2,1,-1,]
+}
+Material  { 
+ diffuseColor 0.7137 0.7137 0.0000
+ ambientColor 0.0200 0.0200 0.0200
+ specularColor 0.1500 0.1500 0.1500
+
+}
+Coordinate3 { 
+ point [0.00000 -1.60263 4.23611,
+-0.96323 -0.02430 4.22318,
+-1.89535 0.01884 3.07155,
+0.00000 -1.60263 4.23611,
+]
+}
+IndexedFaceSet {
+ coordIndex[1,2,3,-1,]
+}
+IndexedFaceSet {
+ coordIndex[3,2,1,-1,]
+}
+Material  { 
+ diffuseColor 0.0000 0.0000 1.0000
+}
+Coordinate3 { 
+ point [0.00000 -1.60263 4.23611,
+0.00005 1.63343 4.24556,
+]
+}
+IndexedLineSet {
+ coordIndex[0,1,]
+}
+Material  { 
+ diffuseColor 0.0000 0.0000 1.0000
+}
+Coordinate3 { 
+ point [2.61803 2.61803 2.61803,
+-0.00000 1.61803 4.23607,
+]
+}
+IndexedLineSet {
+ coordIndex[0,1,]
+}
+Material  { 
+ diffuseColor 0.0000 0.0000 1.0000
+}
+Coordinate3 { 
+ point [2.61803 2.61803 2.61803,
+4.24153 0.00002 1.62688,
+]
+}
+IndexedLineSet {
+ coordIndex[0,1,]
+}
+Material  { 
+ diffuseColor 0.0000 0.0000 1.0000
+}
+Coordinate3 { 
+ point [-0.00000 1.61803 4.23607,
+0.00546 -1.61802 4.24491,
+]
+}
+IndexedLineSet {
+ coordIndex[0,1,]
+}
+Material  { 
+ diffuseColor 0.0000 0.0000 1.0000
+}
+Coordinate3 { 
+ point [4.24153 0.00002 1.62688,
+2.62687 -2.61801 2.63234,
+]
+}
+IndexedLineSet {
+ coordIndex[0,1,]
+}
+Material  { 
+ diffuseColor 0.0000 0.0000 1.0000
+}
+Coordinate3 { 
+ point [0.00546 -1.61802 4.24491,
+2.62687 -2.61801 2.63234,
+]
+}
+IndexedLineSet {
+ coordIndex[0,1,]
+}
+Material  { 
+ diffuseColor 1.0000 0.0000 0.0000
+}
+Coordinate3 { 
+ point [4.24153 0.00002 1.62688,
+2.61803 2.61803 2.61803,
+1.89838 0.00001 3.07165,
+]
+}
+IndexedLineSet {
+ coordIndex[0,1,2,]
+}
+Material  { 
+ diffuseColor 1.0000 0.0000 0.0000
+}
+Coordinate3 { 
+ point [2.61803 2.61803 2.61803,
+-0.00000 1.61803 4.23607,
+1.89838 0.00001 3.07165,
+]
+}
+IndexedLineSet {
+ coordIndex[0,1,2,]
+}
+Material  { 
+ diffuseColor 1.0000 0.0000 0.0000
+}
+Coordinate3 { 
+ point [1.89838 0.00001 3.07165,
+-0.00000 1.61803 4.23607,
+0.00546 -1.61802 4.24491,
+]
+}
+IndexedLineSet {
+ coordIndex[0,1,2,]
+}
+Material  { 
+ diffuseColor 1.0000 0.0000 0.0000
+}
+Coordinate3 { 
+ point [0.00546 -1.61802 4.24491,
+1.89838 0.00001 3.07165,
+]
+}
+IndexedLineSet {
+ coordIndex[0,1,]
+}
+Material  { 
+ diffuseColor 1.0000 0.0000 0.0000
+}
+Coordinate3 { 
+ point [1.89838 0.00001 3.07165,
+0.00546 -1.61802 4.24491,
+2.62687 -2.61801 2.63234,
+1.89838 0.00001 3.07165,
+]
+}
+IndexedLineSet {
+ coordIndex[0,1,2,3,]
+}
+Material  { 
+ diffuseColor 1.0000 0.0000 0.0000
+}
+Coordinate3 { 
+ point [1.89838 0.00001 3.07165,
+2.62687 -2.61801 2.63234,
+4.24153 0.00002 1.62688,
+1.89838 0.00001 3.07165,
+]
+}
+IndexedLineSet {
+ coordIndex[0,1,2,3,]
+}
+Material  { 
+ diffuseColor 0.5098 0.0000 1.0000
+ ambientColor 0.0200 0.0200 0.0200
+ specularColor 0.1500 0.1500 0.1500
+
+}
+Coordinate3 { 
+ point [4.24153 0.00002 1.62688,
+3.13727 0.79115 2.88140,
+2.61803 2.61803 2.61803,
+4.24153 0.00002 1.62688,
+]
+}
+IndexedFaceSet {
+ coordIndex[1,2,3,-1,]
+}
+IndexedFaceSet {
+ coordIndex[3,2,1,-1,]
+}
+Material  { 
+ diffuseColor 1.0000 0.0000 0.0000
+ ambientColor 0.0200 0.0200 0.0200
+ specularColor 0.1500 0.1500 0.1500
+
+}
+Coordinate3 { 
+ point [2.61803 2.61803 2.61803,
+3.13727 0.79115 2.88140,
+1.89838 0.00001 3.07165,
+2.61803 2.61803 2.61803,
+]
+}
+IndexedFaceSet {
+ coordIndex[1,2,3,-1,]
+}
+IndexedFaceSet {
+ coordIndex[3,2,1,-1,]
+}
+Material  { 
+ diffuseColor 0.7137 0.7137 0.0000
+ ambientColor 0.0200 0.0200 0.0200
+ specularColor 0.1500 0.1500 0.1500
+
+}
+Coordinate3 { 
+ point [4.24153 0.00002 1.62688,
+3.13727 0.79115 2.88140,
+1.89838 0.00001 3.07165,
+4.24153 0.00002 1.62688,
+]
+}
+IndexedFaceSet {
+ coordIndex[1,2,3,-1,]
+}
+IndexedFaceSet {
+ coordIndex[3,2,1,-1,]
+}
+Material  { 
+ diffuseColor 0.0000 0.0000 1.0000
+}
+Coordinate3 { 
+ point [-0.00000 1.61803 4.23607,
+2.61803 2.61803 2.61803,
+]
+}
+IndexedLineSet {
+ coordIndex[0,1,]
+}
+Material  { 
+ diffuseColor 1.0000 0.0000 0.0000
+}
+Coordinate3 { 
+ point [2.61803 2.61803 2.61803,
+-0.00000 1.61803 4.23607,
+1.89838 0.00001 3.07165,
+]
+}
+IndexedLineSet {
+ coordIndex[0,1,2,]
+}
+Material  { 
+ diffuseColor 0.5098 0.0000 1.0000
+ ambientColor 0.0200 0.0200 0.0200
+ specularColor 0.1500 0.1500 0.1500
+
+}
+Coordinate3 { 
+ point [2.61803 2.61803 2.61803,
+1.81818 1.34346 3.69265,
+-0.00000 1.61803 4.23607,
+2.61803 2.61803 2.61803,
+]
+}
+IndexedFaceSet {
+ coordIndex[1,2,3,-1,]
+}
+IndexedFaceSet {
+ coordIndex[3,2,1,-1,]
+}
+Material  { 
+ diffuseColor 1.0000 0.0000 0.0000
+ ambientColor 0.0200 0.0200 0.0200
+ specularColor 0.1500 0.1500 0.1500
+
+}
+Coordinate3 { 
+ point [-0.00000 1.61803 4.23607,
+1.81818 1.34346 3.69265,
+1.89838 0.00001 3.07165,
+-0.00000 1.61803 4.23607,
+]
+}
+IndexedFaceSet {
+ coordIndex[1,2,3,-1,]
+}
+IndexedFaceSet {
+ coordIndex[3,2,1,-1,]
+}
+Material  { 
+ diffuseColor 0.7137 0.7137 0.0000
+ ambientColor 0.0200 0.0200 0.0200
+ specularColor 0.1500 0.1500 0.1500
+
+}
+Coordinate3 { 
+ point [2.61803 2.61803 2.61803,
+1.81818 1.34346 3.69265,
+1.89838 0.00001 3.07165,
+2.61803 2.61803 2.61803,
+]
+}
+IndexedFaceSet {
+ coordIndex[1,2,3,-1,]
+}
+IndexedFaceSet {
+ coordIndex[3,2,1,-1,]
+}
+Material  { 
+ diffuseColor 0.0000 0.0000 1.0000
+}
+Coordinate3 { 
+ point [4.24153 0.00002 1.62688,
+2.62687 -2.61801 2.63234,
+]
+}
+IndexedLineSet {
+ coordIndex[0,1,]
+}
+Material  { 
+ diffuseColor 1.0000 0.0000 0.0000
+}
+Coordinate3 { 
+ point [2.62687 -2.61801 2.63234,
+4.24153 0.00002 1.62688,
+1.89838 0.00001 3.07165,
+]
+}
+IndexedLineSet {
+ coordIndex[0,1,2,]
+}
+Material  { 
+ diffuseColor 0.5098 0.0000 1.0000
+ ambientColor 0.0200 0.0200 0.0200
+ specularColor 0.1500 0.1500 0.1500
+
+}
+Coordinate3 { 
+ point [2.62687 -2.61801 2.63234,
+3.10025 -0.85231 2.91043,
+4.24153 0.00002 1.62688,
+2.62687 -2.61801 2.63234,
+]
+}
+IndexedFaceSet {
+ coordIndex[1,2,3,-1,]
+}
+IndexedFaceSet {
+ coordIndex[3,2,1,-1,]
+}
+Material  { 
+ diffuseColor 1.0000 0.0000 0.0000
+ ambientColor 0.0200 0.0200 0.0200
+ specularColor 0.1500 0.1500 0.1500
+
+}
+Coordinate3 { 
+ point [4.24153 0.00002 1.62688,
+3.10025 -0.85231 2.91043,
+1.89838 0.00001 3.07165,
+4.24153 0.00002 1.62688,
+]
+}
+IndexedFaceSet {
+ coordIndex[1,2,3,-1,]
+}
+IndexedFaceSet {
+ coordIndex[3,2,1,-1,]
+}
+Material  { 
+ diffuseColor 0.7137 0.7137 0.0000
+ ambientColor 0.0200 0.0200 0.0200
+ specularColor 0.1500 0.1500 0.1500
+
+}
+Coordinate3 { 
+ point [2.62687 -2.61801 2.63234,
+3.10025 -0.85231 2.91043,
+1.89838 0.00001 3.07165,
+2.62687 -2.61801 2.63234,
+]
+}
+IndexedFaceSet {
+ coordIndex[1,2,3,-1,]
+}
+IndexedFaceSet {
+ coordIndex[3,2,1,-1,]
+}
+Material  { 
+ diffuseColor 0.0000 0.0000 1.0000
+}
+Coordinate3 { 
+ point [2.62687 -2.61801 2.63234,
+0.00546 -1.61802 4.24491,
+]
+}
+IndexedLineSet {
+ coordIndex[0,1,]
+}
+Material  { 
+ diffuseColor 1.0000 0.0000 0.0000
+}
+Coordinate3 { 
+ point [0.00546 -1.61802 4.24491,
+2.62687 -2.61801 2.63234,
+1.89838 0.00001 3.07165,
+]
+}
+IndexedLineSet {
+ coordIndex[0,1,2,]
+}
+Material  { 
+ diffuseColor 0.5098 0.0000 1.0000
+ ambientColor 0.0200 0.0200 0.0200
+ specularColor 0.1500 0.1500 0.1500
+
+}
+Coordinate3 { 
+ point [0.00546 -1.61802 4.24491,
+1.75828 -1.31571 3.73962,
+2.62687 -2.61801 2.63234,
+0.00546 -1.61802 4.24491,
+]
+}
+IndexedFaceSet {
+ coordIndex[1,2,3,-1,]
+}
+IndexedFaceSet {
+ coordIndex[3,2,1,-1,]
+}
+Material  { 
+ diffuseColor 1.0000 0.0000 0.0000
+ ambientColor 0.0200 0.0200 0.0200
+ specularColor 0.1500 0.1500 0.1500
+
+}
+Coordinate3 { 
+ point [2.62687 -2.61801 2.63234,
+1.75828 -1.31571 3.73962,
+1.89838 0.00001 3.07165,
+2.62687 -2.61801 2.63234,
+]
+}
+IndexedFaceSet {
+ coordIndex[1,2,3,-1,]
+}
+IndexedFaceSet {
+ coordIndex[3,2,1,-1,]
+}
+Material  { 
+ diffuseColor 0.7137 0.7137 0.0000
+ ambientColor 0.0200 0.0200 0.0200
+ specularColor 0.1500 0.1500 0.1500
+
+}
+Coordinate3 { 
+ point [0.00546 -1.61802 4.24491,
+1.75828 -1.31571 3.73962,
+1.89838 0.00001 3.07165,
+0.00546 -1.61802 4.24491,
+]
+}
+IndexedFaceSet {
+ coordIndex[1,2,3,-1,]
+}
+IndexedFaceSet {
+ coordIndex[3,2,1,-1,]
+}
+Material  { 
+ diffuseColor 0.0000 0.0000 1.0000
+}
+Coordinate3 { 
+ point [0.00546 -1.61802 4.24491,
+-0.00000 1.61803 4.23607,
+]
+}
+IndexedLineSet {
+ coordIndex[0,1,]
+}
+Material  { 
+ diffuseColor 1.0000 0.0000 0.0000
+}
+Coordinate3 { 
+ point [-0.00000 1.61803 4.23607,
+0.00546 -1.61802 4.24491,
+1.89838 0.00001 3.07165,
+]
+}
+IndexedLineSet {
+ coordIndex[0,1,2,]
+}
+Material  { 
+ diffuseColor 0.5098 0.0000 1.0000
+ ambientColor 0.0200 0.0200 0.0200
+ specularColor 0.1500 0.1500 0.1500
+
+}
+Coordinate3 { 
+ point [-0.00000 1.61803 4.23607,
+0.96593 0.04135 4.22306,
+0.00546 -1.61802 4.24491,
+-0.00000 1.61803 4.23607,
+]
+}
+IndexedFaceSet {
+ coordIndex[1,2,3,-1,]
+}
+IndexedFaceSet {
+ coordIndex[3,2,1,-1,]
+}
+Material  { 
+ diffuseColor 1.0000 0.0000 0.0000
+ ambientColor 0.0200 0.0200 0.0200
+ specularColor 0.1500 0.1500 0.1500
+
+}
+Coordinate3 { 
+ point [0.00546 -1.61802 4.24491,
+0.96593 0.04135 4.22306,
+1.89838 0.00001 3.07165,
+0.00546 -1.61802 4.24491,
+]
+}
+IndexedFaceSet {
+ coordIndex[1,2,3,-1,]
+}
+IndexedFaceSet {
+ coordIndex[3,2,1,-1,]
+}
+Material  { 
+ diffuseColor 0.7137 0.7137 0.0000
+ ambientColor 0.0200 0.0200 0.0200
+ specularColor 0.1500 0.1500 0.1500
+
+}
+Coordinate3 { 
+ point [-0.00000 1.61803 4.23607,
+0.96593 0.04135 4.22306,
+1.89838 0.00001 3.07165,
+-0.00000 1.61803 4.23607,
+]
+}
+IndexedFaceSet {
+ coordIndex[1,2,3,-1,]
+}
+IndexedFaceSet {
+ coordIndex[3,2,1,-1,]
+}
+Material  { 
+ diffuseColor 0.0000 0.0000 1.0000
+}
+Coordinate3 { 
+ point [-0.00000 1.61803 4.23607,
+0.00546 -1.61802 4.24491,
+]
+}
+IndexedLineSet {
+ coordIndex[0,1,]
+}

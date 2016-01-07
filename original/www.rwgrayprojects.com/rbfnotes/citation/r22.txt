@@ -1,0 +1,37 @@
+------------------------------------------------------------ 
+
+
+   RECORD NO.:  872537 INSPEC Abstract No: A76020782
+       AUTHOR:  Pauling, L.; Robinson, A.B.
+  CORP SOURCE:  Linus Pauling Inst. of Sci. & Medicine, Menlo Park, CA, USA
+        TITLE:  Rotating clusters in nuclei
+       SOURCE:  Canadian Journal of Physics, vol.53, no.19, p. 1953-64
+         ISSN:  0008-4204
+        CODEN:  CJPHAD
+PLACE OF PUBL:  Canada
+     LANGUAGE:  English
+         YEAR:  1 Oct. 1975
+    TREATMENT:  T Theoretical or Mathematical
+     ABSTRACT:  Values of R, the radius of rotation of the rotating cluster, 
+                are calculated from the energy of the lowest 2/sup +/ level 
+                of even-even nuclei with the assumption that the cluster 
+                consists of p/sup 2/ or n/sup 2/ respectively, for N or P 
+                magic, and of a helion ( alpha ) for N or P differing from a 
+                magic number by +or-2. The values as a function of A show a 
+                zigzag course, which is correlated with the polyspheron 
+                structure of the nuclei. If the mantle is not overcrowded 
+                the rotating cluster moves within the mantle. When the 
+                mantle becomes overcrowded the cluster glides over the 
+                surface of the mantle and the value of R increases by one 
+                spheron diameter, about 3.2 fm. At certain values of N a 
+                change in structure of the nucleus occurs, with increase in 
+                radius of the core by half a spheron diameter, permitting 
+                the cluster to drop back into the mantle, with decrease in R 
+                by half a spheron diameter (10 Refs.)
+  DESCRIPTORS:  nuclear cluster model; nuclear structure
+  IDENTIFIERS:  nuclei; radius of rotation; rotating cluster; lowest 2/sup 
+                +/ level; P magic; helion; magic number; polyspheron 
+                structure; mantle; even even nuclei; N magic
+  CLASS CODES:  A2160G (Nuclear cluster models)
+ 
+------------------------------------------------------------ 

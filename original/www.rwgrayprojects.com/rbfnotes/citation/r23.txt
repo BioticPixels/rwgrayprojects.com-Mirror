@@ -1,0 +1,50 @@
+------------------------------------------------------------ 
+
+
+   RECORD NO.:  1852441 INSPEC Abstract No: A82049044
+       AUTHOR:  Pauling, L.
+  CORP SOURCE:  Linus Pauling Inst. of Sci. & Medicine, Palo Alto, CA, USA
+        TITLE:  Changes in the structure of nuclei between the magic neutron 
+                numbers 50 and 82 as indicated by a rotating-cluster 
+                analysis of the energy values of the first 2/sup +/ excited 
+                states of isotopes of cadmium, tin, and tellurium
+       SOURCE:  Proceedings of the National Academy of Sciences of the 
+                United States of America, vol.78, no.9, p. 5296-8
+         ISSN:  0027-8424
+        CODEN:  PNASA6
+PLACE OF PUBL:  USA
+     LANGUAGE:  English
+         YEAR:  Sept. 1981
+    TREATMENT:  T Theoretical or Mathematical
+     ABSTRACT:  Values of R, the radius of rotation of the rotating cluster, 
+                are calculated from the observed values of the energy of the 
+                lowest 2/sup +/ states of the even isotopes of Cd, Sn, and 
+                Te with the assumption that the cluster is alpha , p/sup 2/, 
+                and alpha , respectively. R shows a maximum at 
+                approximately=N=58, a minimum at approximately=N=62, and a 
+                second maximum at approximately=N=70. The increase to the 
+                first maximum is interpreted as resulting from the 
+                overcrowding of spherons (alphas and tritons) in the mantle 
+                (outer layer) of the nuclei, causing the cluster to change 
+                from rotating in the mantle to skimming over its surface; 
+                the decrease to the minimum results from the addition of 
+                three dineutrons to the core, expanding the mantle and 
+                permitting the rotating cluster to begin to drop back into 
+                it; and the increase to the second maximum results from the 
+                overcrowding of the larger mantle surrounding the core 
+                containing the semi-magic number 14 of neutrons rather than 
+                the magic number 8 for N=50. The decrease after the second 
+                maximum results from the further increase in the number of 
+                core neutrons to 20 (20 Refs.)
+  DESCRIPTORS:  nuclear cluster model; nuclear collective states and giant 
+                resonances; nuclear size; nuclear structure; nuclei with 
+                mass number 90 to 149
+  IDENTIFIERS:  Cd; Sn; Te; rotational energy states; nuclear mantle; 
+                nuclear core; nuclear structure; magic neutron numbers; 
+                rotating-cluster analysis; spherons
+  CLASS CODES:  A2110F (Nuclear shape, charge, radius, form factors and 
+                structure functions); A2110R (Collective structure in 
+                nuclear levels); A2160G (Nuclear cluster models); A2760 
+                (Properties of nuclei with 90 <or= A <or= 149)
+ 
+------------------------------------------------------------ 

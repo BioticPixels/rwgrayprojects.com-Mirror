@@ -1,0 +1,42 @@
+------------------------------------------------------------ 
+
+
+   RECORD NO.:  1294375 INSPEC Abstract No: A79009180
+       AUTHOR:  Cook, N.D.
+  CORP SOURCE:  Sendai Akamon School, Miyagi, Japan
+        TITLE:  Nuclear and atomic models
+       SOURCE:  International Journal of Theoretical Physics, vol.17, no.1, 
+                p. 21-32
+         ISSN:  0020-7748
+        CODEN:  IJTPBM
+PLACE OF PUBL:  UK
+     LANGUAGE:  English
+         YEAR:  Jan. 1978
+    TREATMENT:  T Theoretical or Mathematical
+     ABSTRACT:  A theorem concerning fermion interaction is postulated and 
+                applied to the problems of atomic (electronic) and nuclear 
+                physics. Model building based solely upon the postulate that 
+                adjacent like fermions must be singlet paired accounts for 
+                the closed shells of both nuclear and atomic structure. The 
+                implied antiferromagnetic FCC lattice of protons and 
+                neutrons in alternating layers has been found previously to 
+                be the lowest-energy solid configuration of nuclear matter 
+                (N=P) (Canuto and Chitre, 1974). The buildup of the FCC 
+                lattice from a central tetrahedron reproduces all of the 
+                shells and subshells of the isotropic harmonic oscillator, 
+                which of course is the basis for the shell model. In atomic 
+                structure, the singlet pairing of adjacent electrons implies 
+                closed-shell structures uniquely at the six noble gases and 
+                the three noble metals, Ni, Pd, and Pt. The basis for the 
+                postulate concerning fermions is found in terms of classical 
+                electrodynamics; it is a microscopic corollary of Biot-
+                Savart's law that parallel currents attract whereas 
+                antiparallel currents repel (34 Refs.)
+  DESCRIPTORS:  atomic structure; fermion systems; nuclear models
+  IDENTIFIERS:  fermion interaction; singlet paired fermions
+  CLASS CODES:  A0530F (Fermion systems and electron gas (quantum 
+                statistical mechanics)); A2160 (Nuclear-structure models and 
+                methods); A3110 (General theory of structure, transitions 
+                and chemical binding in atoms and molecules)
+ 
+------------------------------------------------------------ 

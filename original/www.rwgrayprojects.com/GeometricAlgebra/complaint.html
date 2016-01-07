@@ -1,0 +1,175 @@
+
+<html>
+
+ 
+<!-- Mirrored from www.rwgrayprojects.com/GeometricAlgebra/complaint.html by HTTrack Website Copier/3.x [XR&CO'2014], Wed, 06 Jan 2016 19:23:11 GMT -->
+<head>
+  <title>Geometric Algebra</title>
+ </head>
+
+<body>
+<font size="+1">
+
+
+<h1 align="center">
+ Complaint & Warning
+</h1>
+
+<p>
+So far, the books I've seen do <b>not</b> provide explicit <b>numerical</b> examples.
+</p>
+
+<p>
+One of the advantages, we are told, of learning to use GA is that it is a coordinate free system for 
+handling many of the mathematical problems in physics.
+</p>
+
+<p>
+However, without showing a single example of how to calculate a numerical answer to any problem, 
+it has not been shown how to <b>use</b> this algebraic system in calculating an answer.
+</p>
+
+<p>
+My own experience is one of frustration.  For example, I needed to rotate a vector about the (x,y,z) = (1,1,1) axis 
+the other day. Certainly <b>not</b> a coordinate free calculation!  So I thought I'd use the GA way 
+of doing it using "rotors".  
+</p>
+
+<p>
+Given a vector <i>a</i> you can rotate it using a rotor R by the equation  <i>c</i> = R<i>a</i>R<sup>&#8224;</sup>
+</p>
+<p>
+O.K., so what is R?
+</p>
+
+<p>
+The rotor R is given by R = nm where n and m are vectors in the plane in which the vector <i>a</i>
+is to be rotated and such that the angle between n and m is twice the angle of the desired rotation.
+</p>
+
+<p>
+So then I was left with trying to calculate 2 vectors (n and m) in the plane of rotation such that.... 
+</p>  
+
+<p>
+Well, I thought, maybe I can find an example like this in one of the books on GA that I have.   
+Nope.  No explicit example at all!  That's when I realized that the GA books are all missing a <b>big</b>
+component: Explicit examples of numerical calculation!   
+</p>
+
+<p>
+I gave up trying to rotate my vector using GA.
+</p>
+
+<p>
+I actually used, as I usually do, the quaternion method to do the rotation.
+</p>
+
+<p>
+Yes, quaternions are embedded in GA, so you might argue that I ended up calculating the rotor after all.
+But this isn't exactly correct because the quaternion approach uses a vector perpendicular to the plane
+of rotation while the GA approach uses two vectors in the plane of rotation.  But there is a relation between 
+the two.  (I don't know how to translate quaternion vector rotation into GA rotor rotations, yet.)
+</p>
+
+<p>
+So, be warned!  If you want to learn how to do explicit numerical calculations, there isn't a book out 
+there that will show you.
+</p>
+
+<p>
+And there might not be one for some time as this seems to be counter to the (one of the) big selling points
+of GA: That it is a coordinate free algebraic system for "doing" physics calculations.  So, selecting a
+particular coordinate system and carrying out an explicit numerical calculation seems to go against the grain.
+</p>
+
+<p>
+But this is exactly what is going to be needed if GA is to be used in intro physics and engineering and 
+computer science (vision, robotics, graphics) classes!!  I suspect this is why GA has not been used in 
+such intro classes.
+</p>
+
+<p>
+Another annoying point (actually, the same point) is the way that the geometric product of vectors is introduced.
+</p>
+
+<p>
+Consider two vectors <i>a</i> and <i>b</i>.  The geometric product can be written as
+</p>
+
+<p>
+(See p. 30 of Hestenes' book "New Foundations for Classical Mechanics", 2nd ed.)
+</p>
+
+<p>
+(equ. 6.1)&nbsp;&nbsp;   <i>ab</i> = <i>a</i>.<i>b</i> + <i>a</i>^<i>b</i>
+</p>
+
+<p>
+(equ. 6.2)&nbsp;&nbsp;   <i>ba</i> = <i>b</i>.<i>a</i> + <i>b</i>^<i>a</i> = <i>a</i>.<i>b</i> &ndash; <i>a</i>^<i>b</i>
+</p>
+
+<p>
+I had never seen the wedge product "^" of vectors before getting into GA, 
+so I didn't understand what this "really" meant (how to numerically calculate with it). 
+I had hoped that there would be an 
+explicit numerical example in the book shortly after equ. 6.1 that would give me a clue.  
+Nope.  No numerical example.
+</p>
+
+<p> 
+Instead, a couple of pages later, we get
+</p>
+
+<p>
+"Now observe that by taking the sum and the differences of equation (6.1) and (6.2), one gets
+<br>
+<i>a</i>.<i>b</i> = (1/2)(<i>ab</i> + <i>ba</i>),
+<br>
+and
+<br>
+<i>a</i>^<i>b</i> = (1/2)(<i>ab</i> &ndash; <i>ba</i>)."
+</p>
+
+<p>
+That's not very helpful!  It is a circular definition. The geometric product of 2 vectors is defined by
+the inner (scalar) product and the wedge (outer) product of the 2 vectors.  But the inner and wedge products
+are defined as combinations of the geometric product.     
+</p>
+
+<p>
+This occurs in all the GA books and papers that I've seen and not just in Hestenes' book.
+</p>
+
+
+<p>
+The "problem" here is not with these books and papers but with my expectations.  I expected a new
+(better?  easier?) way of <i>calculating</i> geometric and physical numerical answers to my geometry, physics,
+computer graphics problems.  What I've seen (so far) is an algebraic system for setting up and
+ manipulating the equations for the problems and with a very nice geometric interpretation 
+of the algebraic elements.  But, within that context, there is not yet sufficient (any) explicit numerical 
+assistance by way of numerical calculations.  
+</p>
+
+<p>
+Someone needs to write an Introduction to College Level Physics Using Calculus and Geometric Algebra!
+Only then might it start to become familar to students.
+</p>
+
+<hr>
+
+<p align=center>
+Copyright 2007 by R.W. Gray
+</p>
+
+<p align="center">
+ Home Page: 
+  <a href="../index.html">
+     www.rwgrayprojects.com
+  </a>
+</p>
+
+</body>
+
+<!-- Mirrored from www.rwgrayprojects.com/GeometricAlgebra/complaint.html by HTTrack Website Copier/3.x [XR&CO'2014], Wed, 06 Jan 2016 19:23:11 GMT -->
+</html>

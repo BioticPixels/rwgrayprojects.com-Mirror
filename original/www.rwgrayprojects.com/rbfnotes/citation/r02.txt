@@ -1,0 +1,29 @@
+------------------------------------------------------------ 
+
+
+   RECORD NO.:  3714253 INSPEC Abstract No: A90122954
+       AUTHOR:  Cook, N.D.
+  CORP SOURCE:  Neurology Clinic, Zurich Univ. Hospital, Switzerland
+        TITLE:  The attenuation of the periodic table
+       SOURCE:  Modern Physics Letters A, vol.5, no.17, p. 1321-8
+         ISSN:  0217-7323
+        CODEN:  MPLAEQ
+PLACE OF PUBL:  Singapore
+     LANGUAGE:  English
+         YEAR:  20 July 1990
+    TREATMENT:  T Theoretical or Mathematical
+     ABSTRACT:  Unique among models of nuclear structure, the face-centered-
+                cubic (FCC) lattice model predicts the attenuation of the 
+                periodic table at Z<110 and the impossibility of superheavy 
+                nuclei. The total binding energies of superheavy nuclei in 
+                the FCC model (109<Z<127) were calculated on the basis of 
+                parameters obtained from a least-squares best-fit for 914 
+                nuclei (Z<99). No indication of increased stability was 
+                found for any of the transuranic elements (13 Refs.)
+  DESCRIPTORS:  nuclear binding energy; superheavy nuclei
+  IDENTIFIERS:  attenuation; periodic table; face-centered-cubic; lattice 
+                model; superheavy nuclei; binding energies; FCC model; 
+                transuranic elements
+  CLASS CODES:  A2110D (Binding energy and masses); A2790 (220 <or= A)
+ 
+------------------------------------------------------------ 

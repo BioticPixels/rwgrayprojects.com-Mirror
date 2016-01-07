@@ -1,0 +1,35 @@
+------------------------------------------------------------ 
+
+
+   RECORD NO.:  3017530 INSPEC Abstract No: A87140997
+       AUTHOR:  Cook, N.D.; Dallacasa, V.
+  CORP SOURCE:  Wolfson Coll., Oxford Univ., UK
+        TITLE:  Face-centered-cubic solid-phase theory of the nucleus
+       SOURCE:  Physical Review C (Nuclear Physics), vol.35, no.5, p. 1883-
+                90
+         ISSN:  0556-2813
+        CODEN:  PRVCAN
+PLACE OF PUBL:  USA
+TRANSLATED IN:  B04
+     LANGUAGE:  English
+         YEAR:  May 1987
+    TREATMENT:  T Theoretical or Mathematical
+     ABSTRACT:  The symmetries of an antiferromagnetic face-centered-cubic 
+                lattice with alternating isospin layers reproduces 
+                simultaneously several one- and two-dimensional spin- and 
+                isospin-ordered states which have previously been shown to 
+                be low energy configurations for a condensed nuclear phase. 
+                The face-centered-cubic lattice also shows a precise 
+                correspondence with the j-j model and, consequently, the 
+                entire nucleon buildup procedure of the independent-particle 
+                model. It is concluded that the study of nuclear condensates 
+                at normal nuclear densities should begin with the face-
+                centered-cubic configuration (30 Refs.)
+  DESCRIPTORS:  nuclear matter; nuclear structure theory
+  IDENTIFIERS:  face-centred-cubic solid-phase theory; nucleus; 
+                antiferromagnetic face-centered-cubic lattice; alternating 
+                isospin layers; face-centered-cubic lattice; j- j model; 
+                nuclear condensates
+  CLASS CODES:  A2160 (Nuclear-structure models and methods); A2165 (Nuclear 
+                matter)
+ 

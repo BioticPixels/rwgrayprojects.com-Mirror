@@ -1,0 +1,1030 @@
+<html>
+
+
+<!-- Mirrored from www.rwgrayprojects.com/OswegoOct2001/Presentation/prsentationWeb4.html by HTTrack Website Copier/3.x [XR&CO'2014], Wed, 06 Jan 2016 19:30:15 GMT -->
+<head>
+ <title>Jitterbug Defines Polyhedra</title>
+
+ <STYLE type="text/css">
+   H2 { text-align: center; font-size: 20pt}
+   H3 { text-align: center; font-size: 18pt}
+
+ </STYLE>
+
+
+  <script language="JavaScript">
+   
+    function loadMovie(a)
+    {
+      window.document.location.href = a; 
+    } // end loadMovie 
+
+  </script>
+
+</head>
+
+<body>
+ <font size="+2">  
+
+
+<br>
+
+<H2 ALIGN="CENTER">Appendix I: Vertex Coordinates</H2>
+
+
+<P>In order to calculate the properties of the 120 Polyhedron, it is 
+helpful to first calculate the coordinates to its vertices.  But what orientation and 
+scale of the 120 Polyhedron should be used? Is there a preferred orientation 
+and scale which will make calculations easier or which will highlight 
+some important features of the 120 Polyhedron? 
+</P>
+
+<P>In a note published on "synergetics-l@teleport.com", Gerald 
+de Jong showed that the regular Dodecahedron could be assigned simple 
+coordinates expressed in terms of the Golden ratio. The Golden ratio 
+is often represented by the Greek letter phi. However, I will use the 
+letter "p" in this text. The Golden ratio is 
+</P>
+
+<P>
+ <DIV align="center">
+   p = (1 + sqrt(5)) / 2 
+ </div>
+</P>
+
+<P>which is approximately p = 1.618033989. 
+</P>
+
+<P>Gerald showed that the Dodecahedron's 20 vertices could all
+ be assign numbers from the set 
+</p>
+<div align="center">
+{0, -p, p, -p^2, p^2, -p^3, p^3}. 
+</div>
+<p>
+This is a remarkable set of numbers. For example, it can easily be 
+shown that 
+</P>
+
+<P>
+ <div align="center">
+  p + p^2 = p^3 
+ </div>
+</P>
+
+<P>In general, it can be shown that (for n an integer) 
+</P>
+
+<P>
+ <div align="center">
+  p^n + p^(n+1) = p^(n+2) 
+ </div>
+</P>
+
+<P>Additionally, using these numbers for the coordinates of the 
+regular Dodecahedron highlights the Golden ratio aspects of the 
+polyhedron. 
+</P>
+
+<P>Since the regular Dodecahedron's vertices are the same as 20 of 
+the 120 Polyhedron's vertices, I will use Gerald's 20 coordinates 
+to fix the orientation and scale of the 120 Polyhedron. I will
+then calculate and fill in the remaining 62-20=42 coordinates. 
+</P>
+
+
+<DIV ALIGN="CENTER">
+ <table border=0>
+  <tr>
+  <td valign="top">
+ <TABLE BORDER CELLSPACING=1>
+  <TR ALIGN="CENTER">
+   <TD VALIGN="MIDDLE"><B>Vertex</B></TD>
+   <TD VALIGN="MIDDLE"><B>Type</B></TD>
+   <TD VALIGN="MIDDLE"><B>X</B></TD>
+   <TD VALIGN="MIDDLE"><B>Y</B></TD>
+   <TD VALIGN="MIDDLE"><B>Z</B></TD>
+  </TR>
+  <TR ALIGN="CENTER">
+   <TD VALIGN="MIDDLE">1</TD>
+   <TD VALIGN="MIDDLE">A</TD>
+   <TD VALIGN="MIDDLE">0</TD>
+   <TD VALIGN="MIDDLE">0</TD>
+   <TD VALIGN="MIDDLE">2p^2</TD>
+  </TR>
+
+  <TR ALIGN="CENTER">
+   <TD VALIGN="MIDDLE">2</TD>
+   <TD VALIGN="MIDDLE">B</TD>
+   <TD VALIGN="MIDDLE">p^2</TD>
+   <TD VALIGN="MIDDLE">0</TD>
+   <TD VALIGN="MIDDLE">p^3</TD>
+  </TR>
+  <TR ALIGN="CENTER">
+   <TD VALIGN="MIDDLE">3</TD>
+   <TD VALIGN="MIDDLE">A</TD>
+   <TD VALIGN="MIDDLE">p</TD>
+   <TD VALIGN="MIDDLE">p^2</TD>
+   <TD VALIGN="MIDDLE">p^3</TD>
+  </TR>
+  <TR ALIGN="CENTER">
+   <TD VALIGN="MIDDLE">4</TD>
+   <TD VALIGN="MIDDLE">C</TD>
+   <TD VALIGN="MIDDLE">0</TD>
+   <TD VALIGN="MIDDLE">p</TD>
+   <TD VALIGN="MIDDLE">p^3</TD>
+  </TR>
+  <TR ALIGN="CENTER">
+   <TD VALIGN="MIDDLE">5</TD>
+   <TD VALIGN="MIDDLE">A</TD>
+   <TD VALIGN="MIDDLE">-p</TD>
+   <TD VALIGN="MIDDLE">p^2</TD>
+   <TD VALIGN="MIDDLE">p^3</TD>
+  </TR>
+  <TR ALIGN="CENTER">
+   <TD VALIGN="MIDDLE">6</TD>
+   <TD VALIGN="MIDDLE">B</TD>
+   <TD VALIGN="MIDDLE">-p^2</TD>
+   <TD VALIGN="MIDDLE">0</TD>
+   <TD VALIGN="MIDDLE">p^3</TD>
+  </TR>
+  <TR ALIGN="CENTER">
+   <TD VALIGN="MIDDLE">7</TD>
+   <TD VALIGN="MIDDLE">A</TD>
+   <TD VALIGN="MIDDLE">-p</TD>
+   <TD VALIGN="MIDDLE">-p^2</TD>
+   <TD VALIGN="MIDDLE">p^3</TD>
+  </TR>
+  <TR ALIGN="CENTER">
+   <TD VALIGN="MIDDLE">8</TD>
+   <TD VALIGN="MIDDLE">C</TD>
+   <TD VALIGN="MIDDLE">0</TD>
+   <TD VALIGN="MIDDLE">-p</TD>
+   <TD VALIGN="MIDDLE">p^3</TD>
+  </TR>
+  <TR ALIGN="CENTER">
+   <TD VALIGN="MIDDLE">9</TD>
+   <TD VALIGN="MIDDLE">A</TD>
+   <TD VALIGN="MIDDLE">p</TD>
+   <TD VALIGN="MIDDLE">-p^2</TD>
+   <TD VALIGN="MIDDLE">p^3</TD>
+  </TR>
+  <TR ALIGN="CENTER">
+   <TD VALIGN="MIDDLE">10</TD>
+   <TD VALIGN="MIDDLE">A</TD>
+   <TD VALIGN="MIDDLE">p^3</TD>
+   <TD VALIGN="MIDDLE">p</TD>
+   <TD VALIGN="MIDDLE">p^2</TD>
+  </TR>
+  <TR ALIGN="CENTER">
+   <TD VALIGN="MIDDLE">11</TD>
+   <TD VALIGN="MIDDLE">C</TD>
+   <TD VALIGN="MIDDLE">p^2</TD>
+   <TD VALIGN="MIDDLE">p^2</TD>
+   <TD VALIGN="MIDDLE">p^2</TD>
+  </TR>
+  <TR ALIGN="CENTER">
+   <TD VALIGN="MIDDLE">12</TD>
+   <TD VALIGN="MIDDLE">B</TD>
+   <TD VALIGN="MIDDLE">0</TD>
+   <TD VALIGN="MIDDLE">p^3</TD>
+   <TD VALIGN="MIDDLE">p^2</TD>
+  </TR>
+  <TR ALIGN="CENTER">
+   <TD VALIGN="MIDDLE">13</TD>
+   <TD VALIGN="MIDDLE">C</TD>
+   <TD VALIGN="MIDDLE">-p^2</TD>
+   <TD VALIGN="MIDDLE">p^2</TD>
+   <TD VALIGN="MIDDLE">p^2</TD>
+  </TR>
+  <TR ALIGN="CENTER">
+   <TD VALIGN="MIDDLE">14</TD>
+   <TD VALIGN="MIDDLE">A</TD>
+   <TD VALIGN="MIDDLE">-p^3</TD>
+   <TD VALIGN="MIDDLE">p</TD>
+   <TD VALIGN="MIDDLE">p^2</TD>
+  </TR>
+  <TR ALIGN="CENTER">
+   <TD VALIGN="MIDDLE">15</TD>
+   <TD VALIGN="MIDDLE">A</TD>
+   <TD VALIGN="MIDDLE">-p^3</TD>
+   <TD VALIGN="MIDDLE">-p</TD>
+   <TD VALIGN="MIDDLE">p^2</TD>
+  </TR>
+  <TR ALIGN="CENTER">
+   <TD VALIGN="MIDDLE">16</TD>
+   <TD VALIGN="MIDDLE">C</TD>
+   <TD VALIGN="MIDDLE">-p^2</TD>
+   <TD VALIGN="MIDDLE">-p^2</TD>
+   <TD VALIGN="MIDDLE">p^2</TD>
+  </TR>
+  <TR ALIGN="CENTER">
+   <TD VALIGN="MIDDLE">17</TD>
+   <TD VALIGN="MIDDLE">B</TD>
+   <TD VALIGN="MIDDLE">0</TD>
+   <TD VALIGN="MIDDLE">-p^3</TD>
+   <TD VALIGN="MIDDLE">p^2</TD>
+  </TR>
+  <TR ALIGN="CENTER">
+   <TD VALIGN="MIDDLE">18</TD>
+   <TD VALIGN="MIDDLE">C</TD>
+   <TD VALIGN="MIDDLE">p^2</TD>
+   <TD VALIGN="MIDDLE">-p^2</TD>
+   <TD VALIGN="MIDDLE">p^2</TD>
+  </TR>
+  <TR ALIGN="CENTER">
+   <TD VALIGN="MIDDLE">19</TD>
+   <TD VALIGN="MIDDLE">A</TD>
+   <TD VALIGN="MIDDLE">p^3</TD>
+   <TD VALIGN="MIDDLE">-p</TD>
+   <TD VALIGN="MIDDLE">p^2</TD>
+  </TR>
+  <TR ALIGN="CENTER">
+   <TD VALIGN="MIDDLE">20</TD>
+   <TD VALIGN="MIDDLE">C</TD>
+   <TD VALIGN="MIDDLE">p^3</TD>
+   <TD VALIGN="MIDDLE">0</TD>
+   <TD VALIGN="MIDDLE">p</TD>
+  </TR>
+  <TR ALIGN="CENTER">
+   <TD VALIGN="MIDDLE">21</TD>
+   <TD VALIGN="MIDDLE">A</TD>
+   <TD VALIGN="MIDDLE">p^2</TD>
+   <TD VALIGN="MIDDLE">p^3</TD>
+   <TD VALIGN="MIDDLE">p</TD>
+  </TR>
+  <TR ALIGN="CENTER">
+   <TD VALIGN="MIDDLE">22</TD>
+   <TD VALIGN="MIDDLE">A</TD>
+   <TD VALIGN="MIDDLE">-p^2</TD>
+   <TD VALIGN="MIDDLE">p^3</TD>
+   <TD VALIGN="MIDDLE">p</TD>
+  </TR>
+  <TR ALIGN="CENTER">
+   <TD VALIGN="MIDDLE">23</TD>
+   <TD VALIGN="MIDDLE">C</TD>
+   <TD VALIGN="MIDDLE">-p^3</TD>
+   <TD VALIGN="MIDDLE">0</TD>
+   <TD VALIGN="MIDDLE">p</TD>
+  </TR>
+  <TR ALIGN="CENTER">
+   <TD VALIGN="MIDDLE">24</TD>
+   <TD VALIGN="MIDDLE">A</TD>
+   <TD VALIGN="MIDDLE">-p^2</TD>
+   <TD VALIGN="MIDDLE">-p^3</TD>
+   <TD VALIGN="MIDDLE">p</TD>
+   </TR>
+   <TR ALIGN="CENTER">
+    <TD VALIGN="MIDDLE">25</TD>
+    <TD VALIGN="MIDDLE">A</TD>
+    <TD VALIGN="MIDDLE">p^2</TD>
+    <TD VALIGN="MIDDLE">-p^3</TD>
+    <TD VALIGN="MIDDLE">p</TD>
+   </TR>
+ 
+  </table>
+
+   <td valign="top">
+
+   <table border=1>
+  <TR ALIGN="CENTER">
+   <TD VALIGN="MIDDLE"><B>Vertex</B></TD>
+   <TD VALIGN="MIDDLE"><B>Type</B></TD>
+   <TD VALIGN="MIDDLE"><B>X</B></TD>
+   <TD VALIGN="MIDDLE"><B>Y</B></TD>
+   <TD VALIGN="MIDDLE"><B>Z</B></TD>
+  </TR>
+
+   <TR ALIGN="CENTER">
+    <TD VALIGN="MIDDLE">26</TD>
+    <TD VALIGN="MIDDLE">A</TD>
+    <TD VALIGN="MIDDLE">2p^2</TD>
+    <TD VALIGN="MIDDLE">0</TD>
+    <TD VALIGN="MIDDLE">0</TD>
+   </TR>
+   <TR ALIGN="CENTER">
+    <TD VALIGN="MIDDLE">27</TD>
+    <TD VALIGN="MIDDLE">B</TD>
+    <TD VALIGN="MIDDLE">p^3</TD>
+    <TD VALIGN="MIDDLE">p^2</TD>
+    <TD VALIGN="MIDDLE">0</TD>
+   </TR>
+   <TR ALIGN="CENTER">
+    <TD VALIGN="MIDDLE">28</TD>
+    <TD VALIGN="MIDDLE">C</TD>
+    <TD VALIGN="MIDDLE">p</TD>
+    <TD VALIGN="MIDDLE">p^3</TD>
+    <TD VALIGN="MIDDLE">0</TD>
+   </TR>
+   <TR ALIGN="CENTER">
+    <TD VALIGN="MIDDLE">29</TD>
+    <TD VALIGN="MIDDLE">A</TD>
+    <TD VALIGN="MIDDLE">0</TD>
+    <TD VALIGN="MIDDLE">2p^2</TD>
+    <TD VALIGN="MIDDLE">0</TD>
+   </TR>
+   <TR ALIGN="CENTER">
+    <TD VALIGN="MIDDLE">30</TD>
+    <TD VALIGN="MIDDLE">C</TD>
+    <TD VALIGN="MIDDLE">-p</TD>
+    <TD VALIGN="MIDDLE">p^3</TD>
+    <TD VALIGN="MIDDLE">0</TD>
+   </TR>
+   <TR ALIGN="CENTER">
+    <TD VALIGN="MIDDLE">31</TD>
+    <TD VALIGN="MIDDLE">B</TD>
+    <TD VALIGN="MIDDLE">-p^3</TD>
+    <TD VALIGN="MIDDLE">p^2</TD>
+    <TD VALIGN="MIDDLE">0</TD>
+   </TR>
+   <TR ALIGN="CENTER">
+    <TD VALIGN="MIDDLE">32</TD>
+    <TD VALIGN="MIDDLE">A</TD>
+    <TD VALIGN="MIDDLE">-2p^2</TD>
+    <TD VALIGN="MIDDLE">0</TD>
+    <TD VALIGN="MIDDLE">0</TD>
+   </TR>
+   <TR ALIGN="CENTER">
+    <TD VALIGN="MIDDLE">33</TD>
+    <TD VALIGN="MIDDLE">B</TD>
+    <TD VALIGN="MIDDLE">-p^3</TD>
+    <TD VALIGN="MIDDLE">-p^2</TD>
+    <TD VALIGN="MIDDLE">0</TD>
+   </TR>
+   <TR ALIGN="CENTER">
+    <TD VALIGN="MIDDLE">34</TD>
+    <TD VALIGN="MIDDLE">C</TD>
+    <TD VALIGN="MIDDLE">-p</TD>
+    <TD VALIGN="MIDDLE">-p^3</TD>
+    <TD VALIGN="MIDDLE">0</TD>
+   </TR>
+   <TR ALIGN="CENTER">
+    <TD VALIGN="MIDDLE">35</TD>
+    <TD VALIGN="MIDDLE">A</TD>
+    <TD VALIGN="MIDDLE">0</TD>
+    <TD VALIGN="MIDDLE">-2p^2</TD>
+    <TD VALIGN="MIDDLE">0</TD>
+   </TR>
+   <TR ALIGN="CENTER">
+    <TD VALIGN="MIDDLE">36</TD>
+    <TD VALIGN="MIDDLE">C</TD>
+    <TD VALIGN="MIDDLE">p</TD>
+    <TD VALIGN="MIDDLE">-p^3</TD>
+    <TD VALIGN="MIDDLE">0</TD>
+   </TR>
+   <TR ALIGN="CENTER">
+    <TD VALIGN="MIDDLE">37</TD>
+    <TD VALIGN="MIDDLE">B</TD>
+    <TD VALIGN="MIDDLE">p^3</TD>
+    <TD VALIGN="MIDDLE">-p^2</TD>
+    <TD VALIGN="MIDDLE">0</TD>
+   </TR>
+
+  </table>
+  </td>
+
+  <td  valign="top">
+   <table border=1>
+  <TR ALIGN="CENTER">
+   <TD VALIGN="MIDDLE"><B>Vertex</B></TD>
+   <TD VALIGN="MIDDLE"><B>Type</B></TD>
+   <TD VALIGN="MIDDLE"><B>X</B></TD>
+   <TD VALIGN="MIDDLE"><B>Y</B></TD>
+   <TD VALIGN="MIDDLE"><B>Z</B></TD>
+  </TR>
+   <TR ALIGN="CENTER"> 
+     <TD VALIGN="MIDDLE">38</TD>
+    <TD VALIGN="MIDDLE">C</TD>
+     <TD VALIGN="MIDDLE">p^3</TD>
+     <TD VALIGN="MIDDLE">0</TD>
+     <TD VALIGN="MIDDLE">-p</TD>
+   </TR>
+   <TR ALIGN="CENTER">
+     <TD VALIGN="MIDDLE">39</TD>
+     <TD VALIGN="MIDDLE">A</TD>
+     <TD VALIGN="MIDDLE">p^2</TD>
+     <TD VALIGN="MIDDLE">p^3</TD>
+     <TD VALIGN="MIDDLE">-p</TD>
+   </TR>
+   <TR ALIGN="CENTER">
+    <TD VALIGN="MIDDLE">40</TD>
+    <TD VALIGN="MIDDLE">A</TD>
+    <TD VALIGN="MIDDLE">-p^2</TD>
+    <TD VALIGN="MIDDLE">p^3</TD>
+    <TD VALIGN="MIDDLE">-p</TD>
+   </TR>
+   <TR ALIGN="CENTER">
+    <TD VALIGN="MIDDLE">41</TD>
+    <TD VALIGN="MIDDLE">C</TD>
+    <TD VALIGN="MIDDLE">-p^3</TD>
+    <TD VALIGN="MIDDLE">0</TD>
+    <TD VALIGN="MIDDLE">-p</TD>
+   </TR>
+   <TR ALIGN="CENTER">
+    <TD VALIGN="MIDDLE">42</TD>
+    <TD VALIGN="MIDDLE">A</TD>
+    <TD VALIGN="MIDDLE">-p^2</TD>
+    <TD VALIGN="MIDDLE">-p^3</TD>
+    <TD VALIGN="MIDDLE">-p</TD>
+   </TR>
+   <TR ALIGN="CENTER">
+     <TD VALIGN="MIDDLE">43</TD>
+    <TD VALIGN="MIDDLE">A</TD>
+     <TD VALIGN="MIDDLE">p^2</TD>
+     <TD VALIGN="MIDDLE">-p^3</TD>
+     <TD VALIGN="MIDDLE">-p</TD>
+   </TR>
+
+
+   <TR ALIGN="CENTER">
+    <TD VALIGN="MIDDLE">44</TD>
+    <TD VALIGN="MIDDLE">A</TD>
+    <TD VALIGN="MIDDLE">p^3</TD>
+    <TD VALIGN="MIDDLE">p</TD>
+    <TD VALIGN="MIDDLE">-p^2</TD>
+   </TR>
+   <TR ALIGN="CENTER">
+    <TD VALIGN="MIDDLE">45</TD>
+    <TD VALIGN="MIDDLE">C</TD>
+    <TD VALIGN="MIDDLE">p^2</TD>
+    <TD VALIGN="MIDDLE">p^2</TD>
+    <TD VALIGN="MIDDLE">-p^2</TD>
+   </TR>
+   <TR ALIGN="CENTER">
+    <TD VALIGN="MIDDLE">46</TD>
+    <TD VALIGN="MIDDLE">B</TD>
+    <TD VALIGN="MIDDLE">0</TD>
+    <TD VALIGN="MIDDLE">p^3</TD>
+    <TD VALIGN="MIDDLE">-p^2</TD>
+   </TR>
+   <TR ALIGN="CENTER">
+    <TD VALIGN="MIDDLE">47</TD>
+    <TD VALIGN="MIDDLE">C</TD>
+    <TD VALIGN="MIDDLE">-p^2</TD>
+    <TD VALIGN="MIDDLE">p^2</TD>
+    <TD VALIGN="MIDDLE">-p^2</TD>
+   </TR>
+   <TR ALIGN="CENTER">
+    <TD VALIGN="MIDDLE">48</TD>
+    <TD VALIGN="MIDDLE">A</TD>
+    <TD VALIGN="MIDDLE">-p^3</TD>
+    <TD VALIGN="MIDDLE">p</TD>
+    <TD VALIGN="MIDDLE">-p^2</TD>
+   </TR>
+   <TR ALIGN="CENTER">
+    <TD VALIGN="MIDDLE">49</TD>
+    <TD VALIGN="MIDDLE">A</TD>
+    <TD VALIGN="MIDDLE">-p^3</TD>
+    <TD VALIGN="MIDDLE">-p</TD>
+    <TD VALIGN="MIDDLE">-p^2</TD>
+   </TR>
+   <TR ALIGN="CENTER">
+    <TD VALIGN="MIDDLE">50</TD>
+    <TD VALIGN="MIDDLE">C</TD>
+    <TD VALIGN="MIDDLE">-p^2</TD>
+    <TD VALIGN="MIDDLE">-p^2</TD>
+    <TD VALIGN="MIDDLE">-p^2</TD>
+   </TR>
+   <TR ALIGN="CENTER">
+    <TD VALIGN="MIDDLE">51</TD>
+    <TD VALIGN="MIDDLE">B</TD>
+    <TD VALIGN="MIDDLE">0</TD>
+    <TD VALIGN="MIDDLE">-p^3</TD>
+    <TD VALIGN="MIDDLE">-p^2</TD>
+   </TR>
+   <TR ALIGN="CENTER">
+    <TD VALIGN="MIDDLE">52</TD>
+    <TD VALIGN="MIDDLE">C</TD>
+    <TD VALIGN="MIDDLE">p^2</TD>
+    <TD VALIGN="MIDDLE">-p^2</TD>
+    <TD VALIGN="MIDDLE">-p^2</TD>
+   </TR>
+   <TR ALIGN="CENTER">
+     <TD VALIGN="MIDDLE">53</TD>
+    <TD VALIGN="MIDDLE">A</TD>
+     <TD VALIGN="MIDDLE">p^3</TD>
+     <TD VALIGN="MIDDLE">-p</TD>
+     <TD VALIGN="MIDDLE">-p^2</TD>
+   </TR>
+
+
+   <TR ALIGN="CENTER">
+     <TD VALIGN="MIDDLE">54</TD>
+    <TD VALIGN="MIDDLE">B</TD>
+     <TD VALIGN="MIDDLE">p^2</TD>
+     <TD VALIGN="MIDDLE">0</TD>
+     <TD VALIGN="MIDDLE">-p^3</TD>
+   </TR>
+   <TR ALIGN="CENTER">
+    <TD VALIGN="MIDDLE">55</TD>
+    <TD VALIGN="MIDDLE">A</TD>
+    <TD VALIGN="MIDDLE">p</TD>
+    <TD VALIGN="MIDDLE">p^2</TD>
+    <TD VALIGN="MIDDLE">-p^3</TD>
+   </TR>
+   <TR ALIGN="CENTER">
+    <TD VALIGN="MIDDLE">56</TD>
+    <TD VALIGN="MIDDLE">C</TD>
+    <TD VALIGN="MIDDLE">0</TD>
+    <TD VALIGN="MIDDLE">p</TD>
+    <TD VALIGN="MIDDLE">-p^3</TD>
+   </TR>
+   <TR ALIGN="CENTER">
+    <TD VALIGN="MIDDLE">57</TD>
+    <TD VALIGN="MIDDLE">A</TD>
+    <TD VALIGN="MIDDLE">-p</TD>
+    <TD VALIGN="MIDDLE">p^2</TD>
+    <TD VALIGN="MIDDLE">-p^3</TD>
+   </TR>
+   <TR ALIGN="CENTER"> 
+    <TD VALIGN="MIDDLE">58</TD>
+    <TD VALIGN="MIDDLE">B</TD>
+    <TD VALIGN="MIDDLE">-p^2</TD>
+    <TD VALIGN="MIDDLE">0</TD>
+    <TD VALIGN="MIDDLE">-p^3</TD>
+   </TR>
+   <TR ALIGN="CENTER">
+    <TD VALIGN="MIDDLE">59</TD>
+    <TD VALIGN="MIDDLE">A</TD>
+    <TD VALIGN="MIDDLE">-p</TD>
+    <TD VALIGN="MIDDLE">-p^2</TD>
+    <TD VALIGN="MIDDLE">-p^3</TD>
+   </TR> 
+   <TR ALIGN="CENTER">
+    <TD VALIGN="MIDDLE">60</TD>
+    <TD VALIGN="MIDDLE">C</TD>
+    <TD VALIGN="MIDDLE">0</TD>
+    <TD VALIGN="MIDDLE">-p</TD>
+    <TD VALIGN="MIDDLE">-p^3</TD>
+   </TR>
+   <TR ALIGN="CENTER">
+    <TD VALIGN="MIDDLE">61</TD>
+    <TD VALIGN="MIDDLE">A</TD>
+    <TD VALIGN="MIDDLE">p</TD>
+    <TD VALIGN="MIDDLE">-p^2</TD>
+    <TD VALIGN="MIDDLE">-p^3</TD>
+   </TR>
+
+   <TR ALIGN="CENTER">
+     <TD VALIGN="MIDDLE">62</TD>
+     <TD VALIGN="MIDDLE">A</TD>
+     <TD VALIGN="MIDDLE">0</TD>
+     <TD VALIGN="MIDDLE">0</TD>
+     <TD VALIGN="MIDDLE">-2p^2</TD>
+   </TR>
+  </table>
+
+  </td>
+  </tr>
+
+</TABLE>
+
+</DIV>
+
+<P>
+Remember that the 10 Tetrahedra, 5 Cubes, 5 Octahedra, 
+5 rhombic Dodecahedra, the regular Dodecahedron, Icosahedron and 
+the rhombic Triacontahedron all share their vertices with the 120 
+Polyhedron. This means that <B><I>all their vertex coordinates are a 
+subset of the coordinates given above.</B></I> 
+</P>
+
+<P>
+The combinations of 0, p, p^2, p^3 is very interesting.
+</P> 
+
+<hr>
+<br><br>
+
+<H2 ALIGN="CENTER">Appendix II: Basic Data For The 120 Polyhedron</H2>
+
+
+<P>Using the above coordinates, the basic data for the 120 Polyhedron 
+can easily be calculated. 
+</P>
+
+
+
+<P>
+The 120 Polyhedron has 3 types of vertices.  Each type of vertex is 
+defined by the other polyhedra that share the vertex.  
+</P>
+
+
+<DIV ALIGN="CENTER">
+ <TABLE BORDER CELLSPACING=1>
+  <TR ALIGN="CENTER">
+   <TD VALIGN="MIDDLE">
+    <IMG SRC="images/tlabel1.jpg">
+     <BR>
+     <B>Vertex types</B> 
+   </TD>
+  </TR>
+ </TABLE>
+</DIV>
+
+<br><br>
+
+<div  align="center">
+<table border="1">
+ <tr>
+  <td align="center">Vertex<br>Type</TD>
+  <td align="center">Shared With The Vertices Of</TD>
+ </tr>
+ <tr>
+  <td align="center">A</td>
+  <td>Octahedra, Rhombic Dodecahedra</td>
+ </tr>
+ <tr>
+  <td align="center">B</td>
+  <td>Icosahedron, Rhombic Triacontahedron</td>
+ </tr>  
+ <tr>
+  <td align="center">C</td>
+  <td>Regular Dodecahedron, Rhombic Dodecahedra, Cubes,
+    <br> Tetrahedra, Rhombic Triacontahedron</td>
+ </tr>
+</table>
+
+</div> 
+
+
+<P>The 3 different vertex types of the 120 Polyhedron are 
+at different distances from the Polyhedron's center of volume. 
+</P>
+
+
+<DIV ALIGN="CENTER">
+ <TABLE BORDER CELLSPACING=1>
+  <TR ALIGN="CENTER">
+   <TD VALIGN="MIDDLE">Vertex<BR>Label</TD>
+   <TD VALIGN="MIDDLE">Radius</TD>
+   <TD VALIGN="MIDDLE">Approx.</TD>
+  </TR>
+  <TR>
+   <TD VALIGN="MIDDLE" ALIGN="CENTER">A</TD>
+   <TD VALIGN="MIDDLE" ALIGN="CENTER">2p^2</TD>
+   <TD VALIGN="MIDDLE" ALIGN="CENTER">5.236067977</TD>
+  </TR>
+  <TR>
+   <TD VALIGN="MIDDLE" ALIGN="CENTER">B</TD>
+   <TD VALIGN="MIDDLE" ALIGN="CENTER">sqrt(2+p)p^2</TD>
+   <TD VALIGN="MIDDLE" ALIGN="CENTER">4.97979657</TD>
+  </TR>
+  <TR>
+   <TD VALIGN="MIDDLE" ALIGN="CENTER">C</TD>
+   <TD VALIGN="MIDDLE" ALIGN="CENTER">sqrt(3)p^2</TD>
+   <TD VALIGN="MIDDLE" ALIGN="CENTER">4.534567884</TD>
+  </TR>
+</TABLE>
+</DIV>
+
+
+<P>The edge lengths of the triangular face ABC are 
+</P>
+
+
+<DIV ALIGN="CENTER">
+ <TABLE BORDER CELLSPACING=1>
+  <TR>
+   <TD VALIGN="MIDDLE" ALIGN="CENTER">Edge</TD>
+   <TD VALIGN="MIDDLE" ALIGN="CENTER">Length</TD>
+   <TD VALIGN="MIDDLE" ALIGN="CENTER">Approx.</TD>
+  </TR>
+  <TR>
+   <TD VALIGN="MIDDLE" ALIGN="CENTER">AB</TD>
+   <TD VALIGN="MIDDLE">sqrt(3)p</TD>
+   <TD VALIGN="MIDDLE">2.802517077</TD>
+  </TR>
+  <TR>
+   <TD VALIGN="MIDDLE" ALIGN="CENTER">AC</TD>
+   <TD VALIGN="MIDDLE">sqrt(2+p)</TD>
+   <TD VALIGN="MIDDLE">1.902113033</TD>
+  </TR>
+  <TR>
+   <TD VALIGN="MIDDLE" ALIGN="CENTER">BC</TD>
+   <TD VALIGN="MIDDLE">sqrt(2+p)p</TD>
+   <TD VALIGN="MIDDLE">3.077683537</TD>
+  </TR>
+ </TABLE>
+</DIV>
+
+
+<P>The face angles are calculated to be 
+</P>
+
+
+<DIV ALIGN="CENTER">
+ <TABLE BORDER CELLSPACING=1>
+  <TR>
+   <TD VALIGN="MIDDLE" ALIGN="CENTER">Angle<BR>Label</TD>
+   <TD VALIGN="MIDDLE" ALIGN="CENTER">Angle</TD>
+   <TD VALIGN="MIDDLE" ALIGN="CENTER">Approx.</TD>
+  </TR>
+  <TR>
+   <TD VALIGN="MIDDLE" ALIGN="CENTER">BAC</TD>
+   <TD VALIGN="MIDDLE">arccos(1/(sqrt(6+3p)p))</TD>
+   <TD VALIGN="MIDDLE" ALIGN="CENTER">79.18768304&deg;</TD>
+  </TR>
+  <TR>
+   <TD VALIGN="MIDDLE" ALIGN="CENTER">ABC</TD>
+   <TD VALIGN="MIDDLE" ALIGN="CENTER">arccos((p^2)/sqrt(6+3p))</TD>
+   <TD VALIGN="MIDDLE">37.37736814&deg;</TD>
+  </TR>
+  <TR>
+   <TD VALIGN="MIDDLE" ALIGN="CENTER">ACB</TD>
+   <TD VALIGN="MIDDLE" ALIGN="CENTER">arccos(p/(2+p))</TD>
+   <TD VALIGN="MIDDLE">63.43494882&deg;</TD>
+  </TR>
+ </TABLE>
+</DIV>
+
+<P>
+The triangular face data is summarized in the following diagram. 
+</P>
+
+<DIV ALIGN="CENTER">
+ <TABLE BORDER CELLSPACING=1>
+  <TR ALIGN="CENTER">
+   <TD VALIGN="MIDDLE">
+    <IMG SRC="images/angles1.jpg" WIDTH=278 HEIGHT=291>
+     <BR>
+       <b>Triangle Data</b>
+   </TD>
+  </TR>
+ </TABLE>
+</DIV>
+
+<P>In calculating the volumes of the polyhedra in the 120 Polyhedron, 
+I will use, as Fuller does, the Tetrahedron as unit volume. 
+</P>
+
+
+<DIV ALIGN="CENTER">
+ <TABLE BORDER CELLSPACING=1>
+  <TR ALIGN="CENTER">
+   <TD VALIGN="MIDDLE">Polyhedron</TD>
+   <TD VALIGN="MIDDLE">Coordinate<BR>Distance</TD>
+   <TD VALIGN="MIDDLE">Normalized<BR>Length</TD>
+   <TD VALIGN="MIDDLE">Volume</TD>
+   <TD VALIGN="MIDDLE">Approx.</TD>
+  </TR>
+  <TR ALIGN="CENTER">
+   <TD VALIGN="MIDDLE">Tetrahedron</TD>
+   <TD VALIGN="MIDDLE">Edge<BR>2sqrt(2)p^2</TD>
+   <TD VALIGN="MIDDLE">1</TD>
+   <TD VALIGN="MIDDLE">1</TD>
+   <TD VALIGN="MIDDLE">1.0</TD>
+  </TR>
+  <TR ALIGN="CENTER">
+   <TD VALIGN="MIDDLE">Cube</TD>
+   <TD VALIGN="MIDDLE">Face Diagonal<BR>2sqrt(2)p^2</TD>
+   <TD VALIGN="MIDDLE">1</TD>
+   <TD VALIGN="MIDDLE">3</TD>
+   <TD VALIGN="MIDDLE">3.0</TD>
+  </TR>
+  <TR ALIGN="CENTER">
+   <TD VALIGN="MIDDLE">Octahedron</TD>
+   <TD VALIGN="MIDDLE">Edge<BR>2sqrt(2)p^2</TD>
+   <TD VALIGN="MIDDLE">1</TD>
+   <TD VALIGN="MIDDLE">4</TD>
+   <TD VALIGN="MIDDLE">4.0</TD>
+  </TR>
+  <TR ALIGN="CENTER">
+   <TD VALIGN="MIDDLE">Rhombic<BR>Dodecahedron</TD>
+   <TD VALIGN="MIDDLE">Long Face Diagonal<BR>2sqrt(2)p^2</TD>
+   <TD VALIGN="MIDDLE">1</TD>
+   <TD VALIGN="MIDDLE">6</TD>
+   <TD VALIGN="MIDDLE">6.0</TD>
+  </TR>
+  <TR ALIGN="CENTER">
+    <TD VALIGN="MIDDLE">Regular<BR>Dodecahedron</TD>
+    <TD VALIGN="MIDDLE">Edge<BR>2p</TD>
+    <TD VALIGN="MIDDLE">1/(sqrt(2)p)</TD>
+    <TD VALIGN="MIDDLE">(3/2)(2+p)</TD>
+    <TD VALIGN="MIDDLE">5.427050983</TD>
+  </TR>
+  <TR ALIGN="CENTER">
+   <TD VALIGN="MIDDLE">Icosahedron</TD>
+   <TD VALIGN="MIDDLE">Edge<BR>2p^2</TD>
+   <TD VALIGN="MIDDLE">1/sqrt(2)</TD>
+   <TD VALIGN="MIDDLE">(5/2)p^2</TD>
+   <TD VALIGN="MIDDLE">6.545084972</TD>
+  </TR>
+  <TR ALIGN="CENTER">
+    <TD VALIGN="MIDDLE">Rhombic<BR>Triacontahedron</TD>
+    <TD VALIGN="MIDDLE">Long Face Diagonal<BR>2p^2</TD>
+    <TD VALIGN="MIDDLE">1/sqrt(2)</TD>
+    <TD VALIGN="MIDDLE">15/2</TD>
+    <TD VALIGN="MIDDLE">7.5</TD>
+  </TR>
+  <TR ALIGN="CENTER">
+   <TD VALIGN="MIDDLE">120 Polyhedron</TD>
+   <TD VALIGN="MIDDLE">Long Face Diagonal<BR>of R. Triaconta. 2p^2<BR></TD>
+   <TD VALIGN="MIDDLE">1/sqrt(2)</TD>
+   <TD VALIGN="MIDDLE">15/p</TD>
+   <TD VALIGN="MIDDLE">9.270509831</TD>
+  </TR>
+ </TABLE>
+
+</DIV>
+
+
+<P>It is interesting to note that in the 120 Polyhedron, the Icosahedron 
+edge length is equal to the Cube edge length. The Icosahedron edge 
+length is also equal to the distance from the center of volume to an 
+Octahedron vertex. 
+</P>
+
+<hr>
+<BR>
+<BR>
+
+
+<H2 ALIGN="CENTER">Appendix III: A Comment on the Golden Ratio</H2>
+
+
+
+<P>
+The Golden Ratio occurs quite frequently in biology.  Many growth patterns exhibit 
+the Fibonacci numbers (1, 1, 2, 3, 5, 8, 13, 21, etc.) in which the next number
+is the sum of the previous 2 numbers.  The Fibonacci sequence is known to be 
+connected with the Golden Ratio.  
+</P>
+
+<P>
+Although it is often pointed out that the Golden Ratio is the limit of 
+successive Fibonacci numbers
+</P>
+
+<DIV align="center">
+Lim(n->infinity) (f(n+1)/f(n)) = p
+</DIV>
+
+<P>
+this is also true for <B><I>any</I></B> sequence f(n) defined by
+</P>
+
+<DIV align="center">
+f(n+1) = f(n) + f(n-1)
+</DIV>
+
+<P>
+where f(n) is an integer for all n.  The Fibonacci sequence (1, 1, 2, 3, 5, 8, 13, etc.)
+is just one such sequence.  Any sequence as defined above will work.
+</P>
+
+<P>
+The important point is that the Golden Ratio is <B><I>not</I></B> 
+exclusively associated with the Fibonacci sequence, as many writings
+might lead you to believe.
+</P>
+
+<P>
+For example, try f(1)=-23, f(2)=15, then f(3)=-8, f(4)=7, f(5)=-1, f(6)=6, f(7)=5,
+f(8)=11, f(9)=16, f(10)=27, etc.   Then the limit as n approaches 
+infinity of f(n+1)/f(n) will equal the 
+Golden Ratio.  (f(10)/f(9)=27/16=1.6875 which already starts to 
+show the 1.6... of the Golden Ratio.) 
+</P>
+
+<P>
+So the Golden Ratio is connected with how the series is constructed
+and not a particular example of that construction (i.e. the Fibonacci sequence.) 
+The Fibonacci sequence happens to be the most well known example 
+of the construction rule
+</P>
+<DIV align=center>
+f(n+1) = f(n) + f(n-1)
+</DIV>
+
+
+<hr>
+
+<BR><br>
+
+
+<H2 ALIGN="CENTER">Appendix IV: Planes and Common Angles Defined by the 120 Polyhedron</H2>
+
+
+<P>Returning to consider the coordinates of the 120 Polyhedron's vertices 
+as listed above, it is obvious, from the z-coordinate, that the 62 vertices 
+divide themselves into 9 groups. 
+Each group defines a plane passing through 
+the polyhedron. The spacing between the planes is shown in the next illustration.
+</P>
+
+<DIV ALIGN="CENTER">
+ <TABLE BORDER CELLSPACING=1>
+  <TR ALIGN="CENTER">
+   <TD VALIGN="MIDDLE">
+     <IMG SRC="images/layers1.jpg">
+      <BR>
+       <B>Vertex layers in the 120 Polyhedron</B>
+   </TD>
+  </TR>
+ </TABLE>
+</DIV>
+
+<P>
+The central angles of the intersection of these planes with a circumsphere
+are given in the next table  The results illustrate interesting relations 
+between the angles and the Golden Ratio p.  The radius of the sphere
+is 2p^2 = 2 + 2p.
+</P>
+
+
+<DIV align="center">
+<TABLE border=1>
+ <TR align="center">
+  <TD>cos(18&deg;)</TD><TD>sqrt(2+p)/2</TD><td>sin(72&deg;)</td>
+ <TR align="center">
+  <TD>cos(30&deg;)</TD><TD>sqrt(3)/2</TD><td>sin(60&deg;)</td>
+ <TR align="center">
+  <TD>cos(36&deg;)</TD><TD>p/2</TD><td>sin(54&deg;)</td>
+ <TR align="center">
+  <TD>cos(45&deg;)</TD><TD>1/sqrt(2)</TD><td>sin(45&deg;)</td>
+ <TR align="center">
+  <TD>cos(54&deg;)</TD><TD>sqrt(3-p)/2</TD><td>sin(36&deg;)</td>
+ <TR align="center">
+  <TD>cos(60&deg;)</TD><TD>1/2</TD><td>sin(30&deg;)</td>
+ <TR align="center">
+  <TD>cos(72&deg;)</TD><TD>1/(2p)</TD><td>sin(18&deg;)</td>
+</TABLE>
+</DIV>
+<BR><BR>
+
+<DIV ALIGN="CENTER">
+ <TABLE BORDER CELLSPACING=1>
+  <TR ALIGN="CENTER">
+   <TD VALIGN="MIDDLE">
+     <IMG SRC="images/angles2.jpg">
+      <BR>
+       <B>Central Angles of Planes</B>
+   </TD>
+  </TR>
+ </TABLE>
+</DIV>
+
+<BR><BR>
+
+<DIV ALIGN="CENTER">
+ <TABLE BORDER CELLSPACING=1>
+  <TR ALIGN="CENTER">
+   <TD VALIGN="MIDDLE">
+     <IMG SRC="images/angles3.jpg">
+      <BR>
+       <b>Additional Angles</b> 
+   </TD>
+  </TR>
+ </TABLE>
+</DIV>
+
+<P>
+However, as pointed out above, not all of the 120 Polyhedron's vertices are at the
+same radial distance from the center of volume.  This means that not all of the
+vertices lie on the circumsphere. I am only illustrating the planes defined by
+these vertices and not the vertices themselves. 
+</P>
+
+
+<BR><BR>
+
+<hr>
+
+<div align="center">
+
+<a href="prsentationWeb.html">[1]</a>
+<a href="prsentationWeb2.html">[2]</a>
+<a href="prsentationWeb3.html">[3]</a>
+[4]
+
+<div>
+
+ </font>
+
+<hr>
+
+
+<DIV ALIGN="center">
+Go To:  <a href="../../index.html">Home Page </A>
+</DIV>
+
+<HR> 
+
+<P>Usage Note: My work is copyrighted.  You may use my work but
+you may <I>not</I> include my work, or parts of it, in <I>any</I> for-profit
+project without my consent.
+</P>
+
+<DIV ALIGN="center">
+<ADDRESS><A HREF="mailto:rwgray@rwgrayprojects.com">rwgray@rwgrayprojects.com</A>
+</ADDRESS>
+</DIV>
+
+
+</body> 
+
+
+<!-- Mirrored from www.rwgrayprojects.com/OswegoOct2001/Presentation/prsentationWeb4.html by HTTrack Website Copier/3.x [XR&CO'2014], Wed, 06 Jan 2016 19:30:42 GMT -->
+</html>

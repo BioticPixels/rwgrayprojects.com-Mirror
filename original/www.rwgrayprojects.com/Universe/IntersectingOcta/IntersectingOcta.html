@@ -1,0 +1,639 @@
+<html>
+
+
+<!-- Mirrored from www.rwgrayprojects.com/Universe/IntersectingOcta/IntersectingOcta.html by HTTrack Website Copier/3.x [XR&CO'2014], Wed, 06 Jan 2016 19:35:24 GMT -->
+<head>
+ <title>
+  5 Intersecting Octahedra Model
+ </title>
+</head>
+
+
+
+<body>
+<font size="+1">
+
+ <h1 align="center">
+  5 Intersecting Octahedra Model
+ </h1>
+
+<br><br>
+
+<p>
+Here I give the details for building a model of the 5 intersecting Octahedra. 
+</p>
+
+
+
+<table align="center">
+ <tr>
+  <td align="center">
+    <OBJECT classid="clsid:D27CDB6E-AE6D-11cf-96B8-444553540000"
+      codebase="http://download.macromedia.com/pub/shockwave/cabs/flash/swflash.cab#version=5,0,0,0"
+      width=244 height=229> <PARAM NAME=movie VALUE="a1.swf">
+      <PARAM NAME=quality VALUE=high> <PARAM NAME=bgcolor VALUE=#000000>
+      <EMBED src="a1.swf" quality=high
+        bgcolor=#000000 width=244 height=229 type="application/x-shockwave-flash"
+        pluginspace="http://www.macromedia.com/shockwave/download/index.cgi?P1_Prod_Version=ShockwaveFlash">
+      </EMBED>
+    </OBJECT>
+ 
+  </td>
+ </tr>
+ <tr>
+  <td align="center">
+   Figure 1 <i>5 Intersecting Octahedra.</i>
+  </td>
+ </tr>
+</table> 
+
+<p>
+One of the reasons that this is an interesting model is because the edges of the 
+5 intersecting Octahedra intersect each other to define additional vertices.  These
+additional vertices define an Icosahedron and a Dodecahedron.
+</p>
+
+
+
+<table align="center">
+ <tr>
+  <td align="center">
+    <OBJECT classid="clsid:D27CDB6E-AE6D-11cf-96B8-444553540000"
+      codebase="http://download.macromedia.com/pub/shockwave/cabs/flash/swflash.cab#version=5,0,0,0"
+      width=244 height=229> <PARAM NAME=movie VALUE="a2.swf">
+      <PARAM NAME=quality VALUE=high> <PARAM NAME=bgcolor VALUE=#000000>
+      <EMBED src="a2.swf" quality=high
+        bgcolor=#000000 width=244 height=229 type="application/x-shockwave-flash"
+        pluginspace="http://www.macromedia.com/shockwave/download/index.cgi?P1_Prod_Version=ShockwaveFlash">
+      </EMBED>
+    </OBJECT>
+ 
+  </td>
+ </tr>
+ <tr>
+  <td align="center">
+   Figure 2 <i>Icosahedron in the 5 Intersecting Octahedra matrix.</i>
+  </td>
+ </tr>
+</table> 
+
+<p>
+</p>
+
+<table align="center">
+ <tr>
+  <td align="center">
+    <OBJECT classid="clsid:D27CDB6E-AE6D-11cf-96B8-444553540000"
+      codebase="http://download.macromedia.com/pub/shockwave/cabs/flash/swflash.cab#version=5,0,0,0"
+      width=244 height=229> <PARAM NAME=movie VALUE="a3.swf">
+      <PARAM NAME=quality VALUE=high> <PARAM NAME=bgcolor VALUE=#000000>
+      <EMBED src="a3.swf" quality=high
+        bgcolor=#000000 width=244 height=229 type="application/x-shockwave-flash"
+        pluginspace="http://www.macromedia.com/shockwave/download/index.cgi?P1_Prod_Version=ShockwaveFlash">
+      </EMBED>
+    </OBJECT>
+
+  </td>
+ </tr>
+ <tr>
+  <td align="center">
+   Figure 3 <i>Dodecahedron in the 5 Intersecting Octahedra matrix.</i>
+  </td>
+ </tr>
+</table> 
+
+
+<p>
+It is known that the Dodecahedron vertices also define 5 Cubes and 10 Tetrahedra.
+</p> 
+
+<P>
+In order to build this model, we need to divide the Octahedrons' edges into 3 segments.
+That is, we need to introduce 2 additional hubs along the Octahedrons' edges.
+</p>
+
+<p>
+We therefore need to calculate the location of these new huds along the Octahedrons' 
+edge length.
+</p>
+
+<p>
+Consider just 1 of the Octahedra and the Icosahedron.
+</p>
+
+<table align="center">
+ <tr>
+  <td align="center">
+    <img src="p0000.jpg">
+
+  </td>
+ </tr>
+ <tr>
+  <td align="center">
+   Figure 4 <i>Octahedron and Icosahedron.</i>
+  </td>
+ </tr>
+</table> 
+
+<p>
+The triangular face of the Icosahedron is in the same plane as one of the Octahedron's 
+faces.  Therefore, the distance from the center of volume to the face center of both
+the OCtahedron and the Icosahedron are the same.  From the
+<a href="../../rbfnotes/polyhed/pindex.html">
+Polyhedra Encyclopedia
+</a>
+we have
+</p>
+
+<p align="center">
+ <img src="eq01.jpg">
+</p>
+
+<p align="center">
+ <img src="eq02.jpg">
+</p>
+
+<p>
+where
+</p>
+
+<p align="center">
+ <img src="eq03.jpg">
+</p>
+
+<p>
+Setting these equation equal to one another gives
+</p>
+
+<p align="center">
+ <img src="eq04.jpg">
+</p>
+<p align="center">
+ <img src="eq05.jpg">
+</p>
+<p align="center">
+ <img src="eq06.jpg">
+</p>
+
+
+<table align="center">
+ <tr>
+  <td align="center">
+    <img src="GM2.jpg">
+
+  </td>
+ </tr>
+ <tr>
+  <td align="center">
+   Figure 5 <i>Octahedron and Icosahedron <br> triangle layout.</i>
+  </td>
+ </tr>
+</table> 
+
+<p>
+Consider the triangle ACD.  We want to know the edge length AC.  We know that the 
+edge length AD is (EL - AC) (because the Icosahedron and Octahedron triangles
+are both centered on the same point)
+ and that the edge length CD is the Icosahedron edge length.  We also know
+that the angle C.A.D is 60 degress.
+</p>
+
+
+<p>
+We can use the Law of Cosines for the triangle ACD to calculate the length AC. 
+</p>
+
+
+
+<p align="center">
+ <img src="eq07.jpg">
+</p>
+
+
+
+<p align="center">
+ <img src="eq08.jpg">
+</p>
+
+<p>
+We set the edge length of the OCtahedron to be 1.  Then AC will be a length factor.  We get
+</p>
+
+<p align="center">
+ <img src="eq09.jpg">
+</p>
+
+
+<p align="center">
+ <img src="eq10.jpg">
+</p>
+
+<p>
+Using
+</p>
+
+<p align="center">
+ <img src="eq11.jpg">
+</p>
+
+<p>
+we can write
+</p>
+
+
+<p align="center">
+ <img src="eq12.jpg">
+</p>
+
+<p>
+To evaluate the left hand side, we first calculate
+</p>
+
+<p align="center">
+ <img src="eq13.jpg">
+</p>
+
+<p align="center">
+ <img src="eq14.jpg">
+</p>
+
+<p>
+We then get
+</p>
+
+<p align="center">
+ <img src="eq15.jpg">
+</p>
+
+<P>
+Next we <B>GUESS</B> that 
+</p>
+
+<p align="center">
+ <img src="eq16a.jpg">
+</p>
+
+<p>
+We put this into the 
+right hand side of the above equation and see if it equals the left hand side.
+</p>
+
+<p>
+We get
+</p>
+
+<p align="center">
+ <img src="eq16.jpg">
+</p>
+
+<p align="center">
+ <img src="eq17.jpg">
+</p>
+
+<p align="center">
+ <img src="eq18.jpg">
+</p>
+
+
+<p>
+which does equal the left hand side of the above equation.
+</p>
+
+<P>
+Thus we have shown that the length AC is 
+</p>
+
+<p align="center">
+ <img src="eq19.jpg">
+</p>
+
+<hr width="50%">
+
+<p>
+Next we need to calculate the location of the Dodecahedron vertex 
+along the Octahedrons' edges.  
+</p>
+
+
+
+<table align="center">
+ <tr>
+  <td align="center">
+    <img src="p0001.jpg">
+
+  </td>
+ </tr>
+ <tr>
+  <td align="center">
+   Figure 6 <i>Dodecahedron vertices <br> along Octahedron edge.</i>
+  </td>
+ </tr>
+</table> 
+
+<p>
+Note that the vertices of the Dodecahedron form another triangle in the plane of
+the Octahedron's face.
+</p>
+
+<table align="center">
+ <tr>
+  <td align="center">
+    <img src="p0002.jpg">
+
+  </td>
+ </tr>
+ <tr>
+  <td align="center">
+   Figure 7 <i>Another triangle.</i>
+  </td>
+ </tr>
+</table> 
+
+<p>
+If we put back the Icosahedron for a minute, we see that the relation 
+between the Icosahedron triangle and the Dodecahedron formed triangle.
+</p>
+
+<table align="center">
+ <tr>
+  <td align="center">
+    <img src="p0003.jpg"><img src="p0004.jpg">
+
+  </td>
+ </tr>
+
+ <tr>
+  <td align="center">
+   Figure 8 <i>Dodecahedron and Icosahedron triangle <br> in the Octahedron triangle.</i>
+  </td>
+ </tr>
+</table> 
+
+<p>
+It turns out that the Dodecahedron triangle is rotated by 60&deg; to the Icosahedron
+triangle.  
+<a href="../OctaIcosaDodeca/octaicosadodeca.html">
+See the details here. 
+</a>
+</p>
+
+<table align="center">
+ <tr>
+  <td align="center">
+    <img src="p0005.jpg"><img src="p0006.jpg">
+
+  </td>
+ </tr>
+ <tr>
+  <td align="center">
+   Figure 9 <i>60 Degree difference.</i>
+  </td>
+ </tr>
+</table> 
+
+<p>
+I haven't found a quick way to calculate the location of the Dodecahedron vertex along
+the Octahedron edge using this information, so I will use a vector coordinate method
+instead.
+</p>
+
+<p>
+Consider 2 Octahedra intersecting each other.
+</p>
+
+
+<table align="center">
+ <tr>
+  <td align="center">
+    <img src="p0007.jpg">
+
+  </td>
+ </tr>
+ <tr>
+  <td align="center">
+   Figure 10 <i>Octahedra and Dodecahedron <br>with vertex labels.</i>
+  </td>
+ </tr>
+</table> 
+
+
+<p>
+The vertex coordinates are given 
+<a href="../../Lynn/NCH/whatpoly4.html">
+here
+</a>
+.
+</p>
+
+<p>
+We have (with P = Golden Ratio, and P^n = to the nth power)
+</p>
+
+
+<table align="center" border="1">
+ <tr>
+  <td></td><td align="center">X</td><td align="center">Y</td><td align="center">Z</td>
+ </tr> 
+
+ <tr>
+  <td>V1</td><td align="center">0</td><td align="center">0</td><td align="center">2P^2</td>
+ </tr> 
+ <tr>
+  <td>V35</td><td align="center">0</td><td align="center">-2P^2</td><td align="center">0</td>
+ </tr> 
+
+</table>
+
+<p>
+and
+</p>
+
+
+<table align="center" border="1">
+ <tr>
+  <td></td><td align="center">X</td><td align="center">Y</td><td align="center">Z</td>
+ </tr> 
+
+ <tr>
+  <td>V7</td><td align="center">-P</td><td align="center">-P^2</td><td align="center">P^3</td>
+ </tr> 
+ <tr>
+  <td>V10</td><td align="center">P^3</td><td align="center">P</td><td align="center">P^2</td>
+ </tr> 
+
+</table>
+
+<p>
+
+
+<table align="center">
+ <tr>
+  <td align="center">
+    <img src="GM3.jpg">
+
+  </td>
+ </tr>
+ <tr>
+  <td align="center">
+   Figure 11 <i>Vector and Vertex labels <br> for intersecting point "S".</i>
+  </td>
+ </tr>
+</table> 
+
+
+
+<p>
+Vector A is then V35 - V1.  We get
+</p>
+
+<div align="center">
+A = (0, -2(P+1), -2(p+1)) = (0, -2P - 2, -2P - 2)
+</div>
+
+<p>
+Vector B is given by V10 - V7 which is
+</p>
+
+<div align="center">
+ B = (P^3 + P, P + P^2, P^2 - P^3) = (3P + 1, 2P + 1, -P)
+</div>
+
+
+<p>
+We want to reduce the length of the vectors A and B by some factor "k" such that
+they end at the intersection point.  This is given by the equations
+</p>
+
+<div align="center">
+V1 + kA = V7 + kB = S = intersection point
+</div>
+
+<p>
+Looking at just the x-coordinate, we have the equation 
+</p>
+
+<div align="center">
+ V1<sub>X</sub> + k(A<sub>X</sub>) =  V7<sub>X</sub> + k(B<sub>X</sub>)
+</div>
+
+<div align="center">
+ 0 + k (0) = -P + k (3P + 1)
+</div>
+
+<div align="center">
+ k = P / (3P + 1)
+</div>
+
+<p>
+This is the length factor by which the Octahedron's edge length is reduced to give
+the location of the Dodecahedron's vertex.
+</p>
+
+
+
+<table align="center">
+ <tr>
+  <td align="center">
+    <img src="p0008b.jpg">
+
+  </td>
+ </tr>
+ <tr>
+  <td align="center">
+   Figure 12 <i>Length factors for intersection points</i>
+  </td>
+ </tr>
+</table> 
+
+
+<p>
+We end up with
+</p>
+
+<p>
+Length along edge to Icosahedron = (1/P)EL<sub>OCTA</sub> = 0.618033988 EL<sub>OCTA</sub> 
+</p>
+
+<p>
+Length along edge to Dodecahedron = P/(3P+1)EL<sub>OCTA</sub> = 0.276393202 EL<sub>OCTA</sub> 
+</p>
+
+<p>
+With this information, we can cut the struts of the Octahedron and insert sphere hubs.
+</p>
+
+<p>
+The edge segment factors are then
+</p>
+
+<table align="center" border="1">
+ <tr>
+  <td>
+    A
+  </td>
+  <td align="center">
+    2 - P 
+  </td>
+  <td>
+    0.381966011
+  </td>
+ </tr>
+ <tr>
+  <td>
+    B
+  </td>
+  <td>
+    2/(3P+1) 
+  </td>
+  <td>
+    0.341640786
+  </td>
+ </tr>
+ <tr>
+  <td>
+    C
+  </td>
+  <td>
+    P/(3P+1) 
+  </td>
+  <td>
+    0.276393202
+  </td>
+ </tr>
+</table>
+<p>
+Don't forget to adjust for the radius of the hubs.
+</p>
+
+
+<HR> 
+
+<P>
+Usage Note: My work is copyrighted.  You may reference and use my work in non-profit projects 
+but you may <I>not</I> include my work, or parts of it, in <I>any</I> for-profit
+project without my consent.
+</P> 
+
+
+<HR>
+
+
+<DIV ALIGN="center">
+<ADDRESS><A HREF="mailto:rwgray@rwgrayprojects.com">rwgray@rwgrayprojects.com</A>
+</ADDRESS>
+</DIV>
+
+<HR>
+
+<DIV ALIGN="center">
+<I>Last updated: 03-13-2004</I>
+</DIV>
+
+
+</font>
+</body>
+
+
+
+<!-- Mirrored from www.rwgrayprojects.com/Universe/IntersectingOcta/IntersectingOcta.html by HTTrack Website Copier/3.x [XR&CO'2014], Wed, 06 Jan 2016 19:38:23 GMT -->
+</html>

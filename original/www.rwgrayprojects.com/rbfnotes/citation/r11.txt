@@ -1,0 +1,36 @@
+------------------------------------------------------------ 
+
+
+   RECORD NO.:  522599 INSPEC Abstract No: A73038124
+       AUTHOR:  Anagnostatos, G.S.
+  CORP SOURCE:  North Carolina State Univ., Raleigh, NC, USA
+        TITLE:  The geometry of the isomorphic model of the closed-shell 
+                nuclei
+       SOURCE:  Canadian Journal of Physics, vol.51, no.9, p. 998-1011
+         ISSN:  0008-4204
+        CODEN:  CJPHAD
+PLACE OF PUBL:  Canada
+     LANGUAGE:  English
+         YEAR:  1 May 1973
+    TREATMENT:  T Theoretical or Mathematical
+     ABSTRACT:  The classical part of a new microscopic model of nuclear 
+                structure based on high spatial symmetry is proposed. The 
+                isomorphic model, as it is called, is a model of the closed-
+                shell nuclei up to /sup 208/Pb at the ground state. In 
+                brief, it assumes stable dynamic equilibrium of nucleons on 
+                spherical shells, which results in shells having average 
+                shapes represented by high symmetry polyhedra derived from 
+                one another, whose vertices represent average nucleon 
+                positions. Properties successfully examined by application 
+                of this classical part alone are nuclear shells and magic 
+                numbers, nuclear radii, nuclear density, and ground-state 
+                moments of inertia of rotating nuclei based on a closed-
+                shell approximation (13 Refs.)
+  DESCRIPTORS:  nuclear shell model
+  IDENTIFIERS:  high symmetry polyhedra; magic numbers; nuclear shells; 
+                nuclear density; moments of inertia; isomorphic model; 
+                closed shell nuclei; nuclear structure microscopic model; 
+                closed shell approximation; nuclear radii
+  CLASS CODES:  A2160C (Nuclear shell model)
+ 
+------------------------------------------------------------ 

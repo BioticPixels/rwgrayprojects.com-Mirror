@@ -1,0 +1,43 @@
+------------------------------------------------------------ 
+
+
+   RECORD NO.:  3235868 INSPEC Abstract No: A88127441
+       AUTHOR:  Cook, N.; Dallacasa, V.
+  CORP SOURCE:  Wolfson Coll., Oxford, UK
+        TITLE:  A crystal clear view of the nucleus
+       SOURCE:  New Scientist, vol.117, no.1606, p. 44-6
+         ISSN:  0028-6664
+        CODEN:  NWSCAL
+PLACE OF PUBL:  UK
+TRANSLATED IN:  A02
+     LANGUAGE:  English
+         YEAR:  31 March 1988
+    TREATMENT:  T Theoretical or Mathematical
+     ABSTRACT:  The authors present a model of the nucleus suggesting that 
+                nucleons may 'condense' into a particular kind of 
+                crystalline array, namely a face-centred cubic (FCC) 
+                lattice. This is a standard crystal structure in which the 
+                basic unit consists of a cube with atoms at each corner and 
+                at the centre of each face. This model can reproduce all the 
+                symmetries implied by the shell model. In addition, as in 
+                any solid model, the interaction between particles must be 
+                predominantly between nearest neighbours. The FCC model, 
+                therefore, maintains this fundamental property of the liquid-
+                drop model. Moreover, in the FCC model, one can regard any 
+                nucleus either as a small lattice of nucleons or as an 
+                aggregate of 'sublattices' corresponding to alpha particles. 
+                This produces an 'alpha-particle texture' throughout the 
+                interior of the nucleus and on its surface. The crystalline 
+                model thus reproduces simultaneously the main features of 
+                the gaseous, liquid and semi-solid models (0 Refs.)
+  DESCRIPTORS:  nuclear models
+  IDENTIFIERS:  antiferromagnetic configuration; FCC lattice; nucleus; 
+                cluster model; nearest neighbour interactions; shell model; 
+                liquid-drop model
+  CLASS CODES:  A2160 (Nuclear-structure models and methods)
+ 
+------------------------------------------------------------ 
+Thanks for using FirstSearch. 
+This e-mail account is only for distribution of FirstSearch documents. 
+Please contact your librarian with comments or concerns. 
+------------------------------------------------------------
