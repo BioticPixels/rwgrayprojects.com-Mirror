@@ -9,11 +9,11 @@
 > *It should be also be noted that the only layout that has been altered is the navigation, everything else will remain the same.*
 > *Read the [README](../../README.md "README.md") for more information.*
 
-<hr>
+- - -
 
 Home | [README](../../README.md "README.md") | Table of Contents
 
-<hr>
+- - -
 
 # Robert W. Gray's HomePage
 
@@ -23,7 +23,7 @@ Home | [README](../../README.md "README.md") | Table of Contents
 
 I have been and continue to be involved in a diverse collection of projects. I hope that you will find something of interest here. Below I list several general topics.  There is much more detail behind these selections.
 
-<hr>
+- - -
 
 "According to Karl Popper, the true scientist is someone who tries to contradict his own assumptions." - Quoted from <i>The Memory of Water: Homoeopathy and the Battle of Ideas in the New Science</i> by Michel Schiff, Thorsons, 1994, p. 110.
 
@@ -68,7 +68,7 @@ I would add: And encourages others to do the same, both for his, as well as for 
 ![](./hp_images/java_3d.jpg)
 [Java 3D](../orginal/www.rwgrayprojects.com/Java3D/Intro.html) - I am in the process of learning how to code in Java 3D. These projects are aimed at developing programs for displaying and manipulating polyhedra and other geometric objects. Here are some examples.
 
-<hr>
+- - -
 
 ### Useful and Interesting Links
 
@@ -81,11 +81,11 @@ I would add: And encourages others to do the same, both for his, as well as for 
 ![](./hp_images/wsw.gif)
 [HowStuffWorks](http://www.howstuffworks.com/) - A pretty good website which explains how stuff works.
 
-<hr>
+- - -
 
 Home | [README](../../README.md "README.md") | Table of Contents
 
-<hr>
+- - -
 
 Usage Note: My work is copyrighted. You may use my work but you may *not* include my work, or parts of it, in *any* for-profit project without my consent.
 
