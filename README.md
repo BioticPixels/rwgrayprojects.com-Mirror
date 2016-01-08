@@ -26,7 +26,7 @@ The conversion includes a few formatting tweaks and proof reading. Any additions
 - Notes by the mirrorer are presented as 'Mirrorer note:' in a block quote.
 - The only layout that has been altered is the navigation, everything else will remain the same.
 
-For now only pages or particular interest will be converted to markdown, starting with `original/www.rwgrayprojects.com/rbfnotes/maps`, into folder [`markdown/rbf_notes/maps`](./markdown/rbf_notes/maps).
+For now only pages of particular interest will be converted to markdown, starting with `original/www.rwgrayprojects.com/rbfnotes/maps`, into folder [`markdown/rbf_notes/maps`](./markdown/rbf_notes/maps).
 
 At some point the original website, and the markdown mirror may be converted to a GitHub pages website.
 
