@@ -21,7 +21,7 @@ Above this heading is the header and should appear on every page. Between the he
 
 Below is how the markdown should be formatted. Better to read in its raw form.
 
-![Image title](./images/ "Image Title)
+![Image title](./images/ "Image Title")
 
 A paragraph of text. [[A link to somewhere that wasn't in the original](link "Link Title")]
 
@@ -46,7 +46,7 @@ That was a horizontal rule.
 >
 > A mirrorer note on more than one line. Below is an image that did not appear in the original.
 >
-> ![Image title](./images/ "Image Title)
+> ![Image title](./images/ "Image Title")
 
 A paragraph `with some code in it`.
 
