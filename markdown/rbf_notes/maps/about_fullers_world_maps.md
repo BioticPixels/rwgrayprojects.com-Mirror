@@ -49,7 +49,7 @@ The great idea Fuller had for his 'spherical' to plane map transformation was to
 
 ![](./images/mapfu1.png)
 
-> *Mirrorer Note: Here is another visualisation of the projection. The creator for this image is Chris Rywalt, and [uploaded to wikipedia.org](https://en.wikipedia.org/wiki/Dymaxion_map#/media/File:Dymaxion_2003_animation_small1.gif "Dymaxion Animation wikipeidia.org").*
+> *Mirrorer Note: Here is another visualisation of the projection. The creator for this image is Chris Rywalt, [uploaded to wikipedia.org](https://en.wikipedia.org/wiki/Dymaxion_map#/media/File:Dymaxion_2003_animation_small1.gif "Dymaxion Animation wikipeidia.org").*
 >
 > ![Dymaxion animation](./images/Dymaxion_2003_animation_small1.gif "Dymaxion Animation")
 
