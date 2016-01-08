@@ -45,7 +45,7 @@ I would add: And encourages others to do the same, both for his, as well as for 
 
 [Geometric Algebra](../orginal/www.rwgrayprojects.com/GeometricAlgebra/ga01.html) - I have begun to study Geometric Algebra: The mathematical system which Physics, Engineering, Computer Science, and other scientific disciplines are moving toward. This will replace vector calculus, complex analysis, quaternions, spinors, and a whole lot more. (Not so much "replace" as unify).
 
-![](./coffee_tables/imagestable_1/table_thumb.jpg)
+![](./coffee_tables/images/table_1/table_thumb.jpg)
 
 [Geometric Coffee Tables](../orginal/www.rwgrayprojects.com/coffetables/ct01.html) - I am in the process of designing and building several coffee tables and other furnature using various polyhedra relationships. 
 
