@@ -19,7 +19,7 @@
 
 Above this heading is the header and should appear on every page. Between the header and the footer is the content which changes on every page. The relative links in the footer and the header should be updated to work.
 
-Below is how the markdown should be formatted.
+Below is how the markdown should be formatted. Better to read in its raw form.
 
 ![Image title](./images/ "Image Title)
 
