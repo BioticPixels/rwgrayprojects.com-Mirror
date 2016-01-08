@@ -2,7 +2,7 @@
 <!-- Mirrored from  -->
 
 > *Mirrorer Note:*  
-> *Mirror of [http://www.rwgrayprojects.com/rbfnotes/toc.html](http://www.rwgrayprojects.com/rbfnotes/toc.html) ([mirror of original](../../orginal/rbfnotes/toc.html "Notes to Fuller's World Maps")), from [the website of Robert W. Gray](http://www.rwgrayprojects.com/ "rwgrayprojects.com").*
+> *Mirror of [http://www.rwgrayprojects.com/some/page.html](http://www.rwgrayprojects.com/some/page.html) ([mirror of original](../../orginal/www.rwgrayprojects.com/some/page.html "Notes to Fuller's World Maps")), from [the website of Robert W. Gray](http://www.rwgrayprojects.com/ "rwgrayprojects.com").*
 >
 > *Any text with in `[]` has been added by the mirrorer, and was not written by Robert W. Gray.*  
 > *Notes by the mirrorer are presented as 'Mirrorer note:' in a block quote, like what you are reading. These provide comments and  additional information.*  
