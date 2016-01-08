@@ -23,9 +23,9 @@ Below is how the markdown should be formatted. Better to read in its raw form.
 
 ![Image title](./images/ "Image Title)
 
-A paragraph of text. [[A link to somewhere that wasn't in the original]](link "Link Title")]
+A paragraph of text. [[A link to somewhere that wasn't in the original](link "Link Title")]
 
-> Mirrorer Note: A single line mirrorer note, Gray did not say this.
+> Mirrorer Note: A single line mirrorer note, Gray did not say this. [A link to somewhere that wasn't in the original](link "Link Title")
 
 Another paragraph of text.  
 Some text that is in the same paragraph. And some [Gray did not say this] more text.
