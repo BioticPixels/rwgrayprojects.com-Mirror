@@ -11,7 +11,7 @@
 
 - - -
 
-[Home](../../index.md "Home") | [README](../../README.md "README.md") | Table of Contents
+[Home](../REDME.md "Home") | [README](../../README.md "README.md") | Table of Contents
 
 - - -
 
@@ -21,7 +21,7 @@
 
 ## Notes to R. Buckminster Fuller's Work
 
-R. Buckminster Fuller once wrote "Don't try to make me consistent. I am learning all the time."Admittedly, I <I>am</I> trying to make Fuller consistent. I have been studying Fuller's work for several years and I am now in the process of making my notes available through these web pages. I hope that by working together we can go through  Fuller's work and pull together a consistent presentation of his ideas. Being a physics and mathematics oriented person, I have concentrated on Fuller's science and mathematics related work. Even if you're not science oriented I hope you'll find these pages interesting. 
+R. Buckminster Fuller once wrote "Don't try to make me consistent. I am learning all the time."Admittedly, I *am* trying to make Fuller consistent. I have been studying Fuller's work for several years and I am now in the process of making my notes available through these web pages. I hope that by working together we can go through  Fuller's work and pull together a consistent presentation of his ideas. Being a physics and mathematics oriented person, I have concentrated on Fuller's science and mathematics related work. Even if you're not science oriented I hope you'll find these pages interesting. 
 
 ### List of subjects…
 
@@ -101,7 +101,7 @@ Here is a Table of Contents style list of the main subjects which I am exploring
 
 - - -
 
-[Home](../../index.md "Home") | [README](../../README.md "README.md") | Table of Contents
+[Home](../README.md "Home") | [README](../../README.md "README.md") | Table of Contents
 
 - - -
 

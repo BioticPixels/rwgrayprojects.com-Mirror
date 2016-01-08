@@ -10,7 +10,7 @@
 
 - - -
 
-[Home](../../../index.md "Home") | [README](../../../README.md "README.md") | [Table of Contents](../../README.md "Table of Contents")
+[Home](../../README.md "Home") | [README](../../../README.md "README.md") | [Table of Contents](../README.md "Table of Contents")
 
 - - -
 
@@ -49,7 +49,7 @@ to choose
 
 - - -
 
-[Home](../../../index.md "Home") | [README](../../../README.md "README.md") | [Table of Contents](../../README.md "Table of Contents")
+[Home](../../README.md "Home") | [README](../../../README.md "README.md") | [Table of Contents](../README.md "Table of Contents")
 
 - - -
 

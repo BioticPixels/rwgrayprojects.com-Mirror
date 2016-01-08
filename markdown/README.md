@@ -63,7 +63,7 @@ I would add: And encourages others to do the same, both for his, as well as for 
 
 ![](./images/buckminster_1.jpg)
 
-[My R. Buckminster Fuller Notes](./rbf_notes/table_of_contents.md) - A large collection of my notes with respect to R. Buckminster Fuller's work, as well as links to Fuller's work on the web.
+[My R. Buckminster Fuller Notes](./rbf_notes/README.md) - A large collection of my notes with respect to R. Buckminster Fuller's work, as well as links to Fuller's work on the web.
 
 ![](./images/dome_project_1.jpg)
 

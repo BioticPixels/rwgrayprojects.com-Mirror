@@ -10,7 +10,7 @@
 
 - - -
 
-[Home](../../../index.md "Home") | [README](../../../README.md "README.md") | [Table of Contents](../../../table_of_contents.md "Table of Contents")
+[Home](../../README.md "Home") | [README](../../../README.md "README.md") | [Table of Contents](../README.md "Table of Contents")
 
 - - -
 
@@ -66,7 +66,7 @@ Note that no mention has been made as to where the North pole nor the South pole
 
 - - -
 
-[Home](../../../index.md "Home") | [README](../../../README.md "README.md") | [Table of Contents](../../../table_of_contents.md "Table of Contents")
+[Home](../../README.md "Home") | [README](../../../README.md "README.md") | [Table of Contents](../README.md "Table of Contents")
 
 - - -
 
