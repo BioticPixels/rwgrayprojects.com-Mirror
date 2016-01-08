@@ -39,7 +39,7 @@ A color poster of the map constructed from satellite images is available from th
 > *Mirrorer Note:*  
 > *Here is a Dymaxion map poster from the [Buckminster Fuller Institute online store](http://bfi.goodsie.com/dymaxion-map "Buckminster Fuller Institute Store bfi.org"), not the one Gray was referring to though.*
 >
-> *And here is a Dymaxion map constructed from satellite images. Again, not the one Gray was referring to, but still good for illustrative purposes. The source of this images is [http://mappinghacks.com/maps/dymaxion.png](http://mappinghacks.com/maps/dymaxion.png).*
+> *And here is a Dymaxion map constructed from satellite images. Again, not the one Gray was referring to, but still good for illustrative purposes. The source of this images is [http://mappinghacks.com/maps/dymaxion.png](http://mappinghacks.com/maps/dymaxion.png), downloaded from [Genes Keyes](http://www.genekeyes.com/FULLER/BF-7-Internet.html "Evolution of the Dymaxion Map").*
 >
 > ![Satellite Dymaxion map](./images/dymaxion.jpg "Satellite Dymaxion Map")
 
