@@ -44,7 +44,9 @@ That was a horizontal rule.
 
 > Mirrorer Note:
 >
-> A mirrorer note on more than one line.
+> A mirrorer note on more than one line. Below is an image that did not appear in the original.
+>
+> ![Image title](./images/ "Image Title)
 
 A paragraph `with some code in it`.
 
