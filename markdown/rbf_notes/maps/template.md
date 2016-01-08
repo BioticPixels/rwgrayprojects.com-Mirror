@@ -1,5 +1,4 @@
 <!-- Date: 8 January 2016 02:33:49 -->
-<!-- Mirrored from  -->
 
 > *Mirrorer Note:*  
 > *Mirror of [http://www.rwgrayprojects.com/some/page.html](http://www.rwgrayprojects.com/some/page.html) ([mirror of original](../../orginal/www.rwgrayprojects.com/some/page.html "Notes to Fuller's World Maps")), from [the website of Robert W. Gray](http://www.rwgrayprojects.com/ "rwgrayprojects.com").*
