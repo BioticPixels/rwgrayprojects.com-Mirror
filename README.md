@@ -34,7 +34,7 @@ At some point the original website, and the markdown mirror may be converted to 
 
 If any pages are of particular interest, please consider converting them and making a pull request.
 
-A [template with general rules can be found here](./markdown/rbf_notes/maps/template.md "Template").
+A [template with general rules can be found here](./markdown/rbf_notes/maps/markdown_template.md "Markdown_Template").
 
 The file structure and file names of the original website can be improved in some places.
 
