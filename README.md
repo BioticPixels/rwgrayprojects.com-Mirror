@@ -34,7 +34,15 @@ At some point the original website, and the markdown mirror may be converted to 
 
 If any pages are of particular interest, please consider converting them and making a pull request.
 
-A template, which general rules will be made at some point, when the general layout of the website is solidified.
+A [template with general rules can be found here](./markdown/rbf_notes/maps/template.md "Template").
+
+The file structure and file names of the original website can be improved in some places.
+
+- Any articles should be in their own folder.
+  - Within that folder the main article page should be called `README.md`, and will usually be a table of contents.
+  - Pages of the article should be in the same folder as the main `README.md` file of the article.
+  - There should also be an `images` folder which should have its own `README.md` file.
+- Folders and files, including images. should be `named_with_underscores_1`.
 
 Eventually the process of conversion from HTML to markdown may be automated, and then the articles can just be proof-read with additional comments.
 
