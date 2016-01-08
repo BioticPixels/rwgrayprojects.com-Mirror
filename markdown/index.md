@@ -7,11 +7,11 @@
 > *Any text with in `[]` has been added by the mirrorer, and was not written by Robert W. Gray.*  
 > *Notes by the mirrorer are presented as 'Mirrorer note:' in a block quote, like what you are reading. These provide comments and  additional information.*  
 > *It should be also be noted that the only layout that has been altered is the navigation, everything else will remain the same.*
-> *Read the [README](../../../README.md "README.md") for more information.*
+> *Read the [README](../../README.md "README.md") for more information.*
 
 <hr>
 
-Home | [README](../README.md "README.md") | Table of Contents
+Home | [README](../../README.md "README.md") | Table of Contents
 
 <hr>
 
@@ -83,7 +83,7 @@ I would add: And encourages others to do the same, both for his, as well as for 
 
 <hr>
 
-Home | [README](../README.md "README.md") | Table of Contents
+Home | [README](../../README.md "README.md") | Table of Contents
 
 <hr>
 
