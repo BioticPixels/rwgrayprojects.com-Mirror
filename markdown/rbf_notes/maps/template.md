@@ -21,14 +21,16 @@ Above this heading is the header and should appear on every page. Between the he
 
 Below is how the markdown should be formatted. Better to read in its raw form.
 
-![Image title](./images/ "Image Title")
-
 A paragraph of text. [[A link to somewhere that wasn't in the original](link "Link Title")]
 
-> Mirrorer Note: A single line mirrorer note, Gray did not say this. [A link to somewhere that wasn't in the original](link "Link Title")
+> *Mirrorer Note: A single line mirrorer note, Gray did not say this. [A link to somewhere that wasn't in the original](link "Link Title").*
 
 Another paragraph of text.  
 Some text that is in the same paragraph. And some [Gray did not say this] more text.
+
+> *Mirrorer Note: The [original image](gif "Link Title") was a gif.*
+
+![Image title](./images/ "Image Title")
 
 ## Heading 2
 
@@ -42,9 +44,9 @@ Another paragraph.
 
 That was a horizontal rule.
 
-> Mirrorer Note:
+> *Mirrorer Note:*
 >
-> A mirrorer note on more than one line. Below is an image that did not appear in the original.
+> *A mirrorer note on more than one line. Below is an image that did not appear in the original.*
 >
 > ![Image title](./images/ "Image Title")
 
