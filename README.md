@@ -43,6 +43,7 @@ The file structure and file names of the original website can be improved in som
   - Pages of the article should be in the same folder as the main `README.md` file of the article.
   - There should also be an `images` folder which should have its own `README.md` file where all the images should be listed with a description. This is especially useful for images that are only referenced by articles.
     - If an images is bigger than 50MB GitHub will not allow it, so they should be uploaded somewhere else such as Google Drive and linked in the images README.
+    - Static gifs should be converted to PNGs.
 - Folders and files, including images. should be `named_with_underscores_1`.
 
 Eventually the process of conversion from HTML to markdown may be automated, and then the articles can just be proof-read with additional comments.
