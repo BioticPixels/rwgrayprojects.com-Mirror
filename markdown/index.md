@@ -25,7 +25,9 @@ I have been and continue to be involved in a diverse collection of projects. I h
 
 - - -
 
-> "According to Karl Popper, the true scientist is someone who tries to contradict his own assumptions." - Quoted from <i>The Memory of Water: Homoeopathy and the Battle of Ideas in the New Science</i> by Michel Schiff, Thorsons, 1994, p. 110.
+> "According to Karl Popper, the true scientist is someone who tries to contradict his own assumptions."
+
+- Quoted from <i>The Memory of Water: Homoeopathy and the Battle of Ideas in the New Science</i> by Michel Schiff, Thorsons, 1994, p. 110.
 
 I would add: And encourages others to do the same, both for his, as well as for their own, assumptions.
 
