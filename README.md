@@ -1,10 +1,10 @@
 <!-- Date: 6 January 2016 16:17:04 -->
 
-<hr>
+- - -
 
 [Home](./markdown/README.md "Home") | README | Table of Contents
 
-<hr>
+- - -
 
 # rwgrayprojects.com-Mirror
 
@@ -37,3 +37,9 @@ If any pages are of particular interest, please consider converting them and mak
 A template, which general rules will be made at some point, when the general layout of the website is solidified.
 
 Eventually the process of conversion from HTML to markdown may be automated, and then the articles can just be proof-read with additional comments.
+
+- - -
+
+[Home](./markdown/README.md "Home") | README | Table of Contents
+
+- - -
