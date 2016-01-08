@@ -17,7 +17,7 @@
 
 # Notes to R. Buckminster Fuller's Work
 
-![](./images/buck_1.jpg)
+![](./images/buckminster_1.jpg)
 
 ## Notes to R. Buckminster Fuller's Work
 
