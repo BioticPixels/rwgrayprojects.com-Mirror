@@ -17,7 +17,7 @@
 
 # Heading 1
 
-Above this heading is what should appear on every page. Between this and the footer is the content which changes on every page. The relative links in the footer and the header should be updated to work.
+Above this heading is the header and should appear on every page. Between the header and the footer is the content which changes on every page. The relative links in the footer and the header should be updated to work.
 
 Below is how the markdown should be formatted.
 
